@@ -1,0 +1,194 @@
+{
+  "baseline_id": "B2026-10-18",
+  "active_semantic_experiments": 0,
+  "not_a_rotation_schedule": true,
+  "automatic_iteration38_created": false,
+  "recurring_search_created": false,
+  "selection_policy": "One admitted candidate and independent challenger until its admission/decision is clear; new genuine evidence may justify changing conditional priority.",
+  "records": [
+    {
+      "id": "B-Q01",
+      "priority_if_reopened": 1,
+      "topic": "Flouda2024 complete argument",
+      "status": "parked_access_limited",
+      "active": false,
+      "blocker": "Complete article uninspected; no new complete-copy route identified in the last bounded pass.",
+      "reopening_condition": "A legitimate full copy supplied or one genuinely new identified route.",
+      "bounded_first_step": "Inspect that copy/route only; then extract exact writing/carrier/operation argument and compare responsibility against strongest counterparty/category rival.",
+      "stop_condition": "Access remains unresolved, or full argument adds no independent differentiating writing-to-relation link.",
+      "related_dispositions": [
+        "B-D24",
+        "B-D26"
+      ]
+    },
+    {
+      "id": "B-Q02",
+      "priority_if_reopened": 2,
+      "topic": "A genuinely new evidence opportunity",
+      "status": "admission_gate_only",
+      "active": false,
+      "blocker": "No candidate with a known discriminator is selected by this baseline.",
+      "reopening_condition": "An exact packet, serious rivals, different predictions, independent observable relation, concrete evidence path and finite scope.",
+      "bounded_first_step": "One candidate intake plus independent challenge; permit explicitly bounded discovery if the differentiating evidence is still being sought.",
+      "stop_condition": "No stable target or no serious decision-changing observation/path; record exploration/access outcome without promoting it to a semantic test.",
+      "related_dispositions": []
+    },
+    {
+      "id": "B-Q03",
+      "priority_if_reopened": null,
+      "topic": "A588 / THEZb13 / KNZb34",
+      "status": "dormant",
+      "active": false,
+      "blocker": "No independent component-bound semantic discriminator.",
+      "reopening_condition": "Independent product/capacity/production/commission/allocation relation at the component and marking event, or controlled differentiating contrast.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D21",
+        "B-D22"
+      ]
+    },
+    {
+      "id": "B-Q04",
+      "priority_if_reopened": null,
+      "topic": "HT86/95 and repeated labels",
+      "status": "dormant",
+      "active": false,
+      "blocker": "No independent referent/event/direction anchor.",
+      "reopening_condition": "Exact source-backed account, event or participant evidence changing a specified comparison.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D14",
+        "B-D15",
+        "B-D16"
+      ]
+    },
+    {
+      "id": "B-Q05",
+      "priority_if_reopened": null,
+      "topic": "HT34 / HT100 / HT103",
+      "status": "dormant",
+      "active": false,
+      "blocker": "Reading/scope alternatives followed by semantic symmetry.",
+      "reopening_condition": "Reading adequate for the specific comparison, or a result robust across retained reading branches, plus an independently constrained account relationship. A new numeral alone need not select meaning.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D05",
+        "B-D08",
+        "B-D09"
+      ]
+    },
+    {
+      "id": "B-Q06",
+      "priority_if_reopened": null,
+      "topic": "HT118",
+      "status": "dormant",
+      "active": false,
+      "blocker": "Damaged summary and competing row/summary/error models.",
+      "reopening_condition": "Independently linked comparable account with known scope or a discriminating new source constraint.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D06"
+      ]
+    },
+    {
+      "id": "B-Q07",
+      "priority_if_reopened": null,
+      "topic": "HT24 textile arithmetic",
+      "status": "dormant",
+      "active": false,
+      "blocker": "Unknown conversion, missing input and processing yield.",
+      "reopening_condition": "Independent metrological/process bounds.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D10"
+      ]
+    },
+    {
+      "id": "B-Q08",
+      "priority_if_reopened": null,
+      "topic": "TA-NA / TI / QE / SE / KU-MI-NA",
+      "status": "dormant",
+      "active": false,
+      "blocker": "No independently linked referent/function contrast.",
+      "reopening_condition": "Complete source-controlled forms plus an independent designation/context bridge with different functional predictions.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D11",
+        "B-D17",
+        "B-D18"
+      ]
+    },
+    {
+      "id": "B-Q09",
+      "priority_if_reopened": null,
+      "topic": "Seal device roles",
+      "status": "dormant",
+      "active": false,
+      "blocker": "Membership/provenance/marking event ambiguity.",
+      "reopening_condition": "Exact object/device/provenance evidence that changes a particular role comparison.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D23"
+      ]
+    },
+    {
+      "id": "B-Q10",
+      "priority_if_reopened": null,
+      "topic": "Phaistos attachment/object packets",
+      "status": "dormant",
+      "active": false,
+      "blocker": "Missing individual inventory/reverse/link, or unresolved target reading.",
+      "reopening_condition": "Original images/inventories and diagnostic use evidence connecting stable writing to a differentiating relation.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D24"
+      ]
+    },
+    {
+      "id": "B-Q11",
+      "priority_if_reopened": null,
+      "topic": "Akrotiri analytical nodules",
+      "status": "dormant",
+      "active": false,
+      "blocker": "No exact sample/readable-inscription/marking-event join.",
+      "reopening_condition": "An exact analytical sample on a legible marked object tied to relevant use/production event.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D25"
+      ]
+    },
+    {
+      "id": "B-Q12",
+      "priority_if_reopened": null,
+      "topic": "Ritual lexical substitution and construction",
+      "status": "dormant",
+      "active": false,
+      "blocker": "No independent controlled equivalent span or role/action anchor.",
+      "reopening_condition": "Stable comparison with discriminating flanks or other independent function/role context, retaining real layout.",
+      "bounded_first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the strongest serious rival remains equally compatible.",
+      "related_dispositions": [
+        "B-D01",
+        "B-D19",
+        "B-D20"
+      ]
+    }
+  ],
+  "support_work": [
+    {
+      "topic": "Public portal claim/mission reconciliation",
+      "status": "prepared_scope_only",
+      "source": "baseline/PUBLIC_SYNC.md",
+      "counts_as_semantic_progress": false
+    }
+  ]
+}

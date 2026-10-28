@@ -1,0 +1,14 @@
+{
+  "input_path": "baseline B2026-10-18 corpus/discovery_snapshot.json",
+  "input_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "object_key": "KHWc2123",
+  "record": {
+    "support": "Roundel",
+    "transliteratedWords": [
+      "*810-PI-KA"
+    ],
+    "words": [
+      "𐝭𐘢𐘾"
+    ]
+  }
+}

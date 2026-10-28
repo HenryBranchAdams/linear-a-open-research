@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "checks": [
+    "Original archive hashes match",
+    "802 unique indexed faces and 1401 chunks retained",
+    "92 historical archive evidence references resolve",
+    "44 unique claims and 7 source-linked candidate dossiers",
+    "Corpus, packet, HT24 and atlas outputs reproduce byte-for-byte",
+    "Atlas local links resolve in the extracted workspace"
+  ],
+  "output_hashes": {
+    "iterations/010/results/corpus_pairs.json": "529c635baa4b027192e4bf4836df9ebfcbf1b908c20c648d4da456e04355bb8d",
+    "iterations/010/results/packet_models.json": "3c01c0777e99c90190cbb1c88654f32b6cffab411d7d03b03698a461e02269bc",
+    "iterations/010/notes/ht24_fallback/identifiability_results.json": "c65214b93f2724b2bc638a9ab2d6ac64e722eed6ccbdcae7de0c625146c0369d",
+    "iterations/010/ATLAS.html": "fc90b0cfc9729e62833abf3b912ccf512748c4b4d3eb3c31a327ec3093cf09ce"
+  },
+  "limits": "No network required. Does not rerun historical iterations, certify readings, or establish translation."
+}

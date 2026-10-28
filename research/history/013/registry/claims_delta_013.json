@@ -1,0 +1,49 @@
+[
+  {
+    "id": "LA-013-001",
+    "claim": "HT88 instantiates KI-RO + six one-count entries + KU-RO 6.",
+    "disposition": "supported_structural_fact",
+    "evidence": [
+      "R13-S01",
+      "R13-S03"
+    ]
+  },
+  {
+    "id": "LA-013-002",
+    "claim": "HT94b independently instantiates KI-RO + five one-count entries + KU-RO 5.",
+    "disposition": "supported_structural_fact",
+    "evidence": [
+      "R13-S02"
+    ]
+  },
+  {
+    "id": "LA-013-003",
+    "claim": "KI-RO marks a differential/exception-balance section rather than a fixed negative deficit.",
+    "disposition": "supported_functional_core",
+    "evidence": [
+      "R13-S02",
+      "R13-S05",
+      "R13-S06",
+      "R13-S07"
+    ],
+    "qualification": "Functional interpretation; exact lexical meaning and sign/polarity remain unresolved."
+  },
+  {
+    "id": "LA-013-004",
+    "claim": "KI-RO means 'missing/absent' in personnel lists.",
+    "disposition": "not_established",
+    "reason": "Compatible with HT88/94/117 but not discriminated from other exceptional/outstanding statuses."
+  },
+  {
+    "id": "LA-013-005",
+    "claim": "The construction KI-RO \u2022 ENTRY 1 ... KU-RO N identifies entries as members of an administratively distinguished differential subset.",
+    "disposition": "supported_structural_functional_construction",
+    "qualification": "The construction may be non-verbal; no supplier/recipient role or overt action is identified."
+  },
+  {
+    "id": "LA-013-006",
+    "claim": "Iteration 13 fulfills the full sentence mission.",
+    "disposition": "not_achieved",
+    "reason": "No independently supported polarity/cause of KI-RO and no overt predicate."
+  }
+]

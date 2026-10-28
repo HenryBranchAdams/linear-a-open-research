@@ -1,0 +1,2162 @@
+{
+  "authority": "Cumulative claims through044. B2026-10-18 plus C038–C044 control scope. D2026-10-26 retains C044 graded local vessel-category preference with exclusive material extension unconfirmed; no independently supported action-and-participant construction.",
+  "claims": [
+    {
+      "basis_and_limits": "Recheck withdrew the earlier conversation equation. SA-RA2 recurs on both HT 28 faces. Completed/future interpretation of those faces is itself not independently established.",
+      "claim": "A-DU = SA-RA2 + KI-RO, interpreted as assessed = fulfilled + outstanding.",
+      "disposition": "withdrawn_as_established_equation",
+      "evidence_kind": "historical_hypothesis_and_counterevidence",
+      "evidence_needed_to_reopen_or_advance": "An independently identified account relationship, matched commodity/unit/scope, and role-sensitive repetitions; arithmetic resemblance alone is insufficient.",
+      "id": "LA-H001",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "rounds": [
+        "recheck"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Archived matches: HT 85a: 66, HT 88 KI-RO section: 6, HT 94b: 5? and HT 117a: 10. HT 94a: 111 vs 110 and damaged HT 13 131 vs 130.5 remain mismatches. KU-RO total is earlier scholarship.",
+      "claim": "KU-RO functions as an accounting total; selected checks are compatible but some totals do not reconcile literally.",
+      "disposition": "retain_published_function_with_local_exceptions",
+      "evidence_kind": "source_claim_plus_historical_computation",
+      "evidence_needed_to_reopen_or_advance": "Fresh critical readings and accounting scope can update individual residuals; do not correct a number to force agreement then count agreement as confirmation.",
+      "id": "LA-H002",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "rounds": [
+        "recheck"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "31+1+65=97, while 31+65=96. Final 7 doubtful and reverse itemization incomplete. This is a known project scope correction, not new in iteration 10.",
+      "claim": "HT 122 higher total requires the KU-DA 1 entry after a subtotal.",
+      "disposition": "retain_conditional_scope_check",
+      "evidence_kind": "historical_computation",
+      "evidence_needed_to_reopen_or_advance": "A newly verified reading or scope division differing from the archived transcription.",
+      "id": "LA-H003",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "rounds": [
+        "recheck"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Six labels recur; b has 10 each; a has four 10s, SA-RU 20 and QE-RA2-U 7. Mixed signed differences leave assessments, revisions, advances and other relations possible.",
+      "claim": "HT 95 faces form a simple paid/owed comparison.",
+      "disposition": "not_established",
+      "evidence_kind": "source_claim_plus_historical_countermodel",
+      "evidence_needed_to_reopen_or_advance": "Independent interval, commodity/unit and transaction-direction evidence. Repeating the six-label overlap or arithmetic is not new.",
+      "id": "LA-H004",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/evidence.json"
+      ],
+      "rounds": [
+        "recheck"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "IO Za 6 and IO Za 2 have matching outer sequences; sole match under selected 9-sequence/36-pair screen. Semantic values and morpheme boundaries unresolved; verbal-root proposals are prior scholarship.",
+      "claim": "TA-NA…U-TI-NU forms a shared frame around I-*301 and RA-TE.",
+      "disposition": "active_structural_hypothesis",
+      "evidence_kind": "source_comparison_plus_historical_screen",
+      "evidence_needed_to_reopen_or_advance": "Independent complete recombinations plus contexts distinguishing lexical, compound and inflectional analyses.",
+      "id": "LA-H005",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "rounds": [
+        "recheck"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "PK Za 12 contradicts RU→TI and RU→WA-E; IO Za 16 contradicts RU→A rather than JA. Rejection does not rule out complex grammar or number associated with other elements.",
+      "claim": "RU in the UNA family obligatorily predicts TI, WA-E or A-SASARA.",
+      "disposition": "strict_rules_rejected",
+      "evidence_kind": "historical_counterexample_tests",
+      "evidence_needed_to_reopen_or_advance": "A specified revised rule with genuinely independent evidence and new predictions; restored signs cannot supply confirmations.",
+      "id": "LA-H006",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "rounds": [
+        "recheck"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Only *123 and a right divider survive in the relevant group. TA-I-*123 was sole longer match in 14 selected strings; TE-*123 on ZA 20 defeats that uniqueness in the expanded 17-string inventory. AROM is a display alias, not an automatic meaning.",
+      "claim": "IO Za 16 preserves TA-I-*123 uniquely, or securely supplies a standalone aromatics word.",
+      "disposition": "uniqueness_rejected_both_restorations_unresolved",
+      "evidence_kind": "source_comparison_plus_historical_boundary_match",
+      "evidence_needed_to_reopen_or_advance": "Diagnostic original boundary, joining fragment or physical capacity excluding a candidate; a final-sign match alone cannot select a lost prefix.",
+      "id": "LA-H007",
+      "original_claim_ids": [
+        "nextstep:C1",
+        "nextstep:C2",
+        "R3-01",
+        "R3-02"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/claim_ledger.csv",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/results.json"
+      ],
+      "rounds": [
+        "nextstep",
+        "r3"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Four-sign core matches administrative records; Linear B KA-PA3-NA-TO is a published possible name comparison. Extended word has broken right boundary. Exact identity, suffix boundary and donor role are not established.",
+      "claim": "AP Za 2 KU-PA3-NA-TU(-NA-TE…) identifies a donor with a deciphered case ending.",
+      "disposition": "core_comparison_retained_roles_and_suffix_unestablished",
+      "evidence_kind": "source_claim_plus_countermodel",
+      "evidence_needed_to_reopen_or_advance": "Complete extended form and independent referent/role linkage, not merely a name-like slot.",
+      "id": "LA-H008",
+      "original_claim_ids": [
+        "nextstep:C3",
+        "nextstep:C4",
+        "nextstep:C5"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/claim_ledger.csv"
+      ],
+      "rounds": [
+        "nextstep"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "All 6 orders of 3 distinct labels are compatible. For k≥3 the accepted fraction is 2/(k−1)! under this model; these are combinatorial fractions, not empirical p-values. Only 3 of 8 additional reduced lists discriminate; HT 9b depends on doubtful signs.",
+      "claim": "Three distinct labels confirm a freely started reversible circular order.",
+      "disposition": "rejected_as_discriminating_order_evidence",
+      "evidence_kind": "historical_exact_computation",
+      "evidence_needed_to_reopen_or_advance": "Longer independent sequences or restricted starting/direction assumptions justified externally.",
+      "id": "LA-H009",
+      "original_claim_ids": [
+        "R3-03",
+        "R3-04"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/results.json"
+      ],
+      "rounds": [
+        "r3"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "QE-SI-ZU-E4→57 blocks ZA 4→ZA 15 closed settlement; Ib-NU-MA-RE13→6 blocks reverse. SI-PI-KI uncertain on ZA 15. KA-DI 3 equality survives but proves no action. ZA 15 preserves a half-unit residual.",
+      "claim": "ZA 4 and ZA 15 are one closed assessment/settlement pair; repeated KA-DI 3 proves payment.",
+      "disposition": "simple_blanket_model_rejected_direction_unresolved",
+      "evidence_kind": "source_claim_plus_historical_computation",
+      "evidence_needed_to_reopen_or_advance": "Independent time span, subtype, unit and direction evidence. A specific entry may be connected despite failure of the blanket model.",
+      "id": "LA-H010",
+      "original_claim_ids": [
+        "R3-05",
+        "R3-06"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/results.json"
+      ],
+      "rounds": [
+        "r3"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "HT Wc 3015 and 3016 repeat KA-KU-PA with CMS II.6 11/AT 125 and CMS II.6 21/AT 112. Different seals can belong to one person or agents; institution/action does not follow.",
+      "claim": "KA-KU-PA identifies exactly one seal design, therefore must denote an institution or action.",
+      "disposition": "strict_seal_identity_rejected_semantic_inference_unestablished",
+      "evidence_kind": "source_comparison",
+      "evidence_needed_to_reopen_or_advance": "Independent seal ownership or account/participant assignments across multiple contexts.",
+      "id": "LA-H011",
+      "original_claim_ids": [
+        "R3-07",
+        "R3-08"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/evidence.json"
+      ],
+      "rounds": [
+        "r3"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Same CMS II.6 142/AT 31 and 4 impressions; tentative hand 109? on both. Reverse listed *188 vs blank, which is not certified absence. Only one one-sign-insertion pair among 28 distinct-label pairs. No extra-NA quantity-only rule; no meaning or common referent established.",
+      "claim": "HT Wc 3009/3010 supply a controlled *333-DI-(NA)-SU-KA contrast.",
+      "disposition": "retain_matched_string_contrast",
+      "evidence_kind": "source_comparison_plus_historical_screen",
+      "evidence_needed_to_reopen_or_advance": "Primary collation of reverse and hand, independent identity linkage, and a replicated NA contrast tracking a recognizable role.",
+      "id": "LA-H012",
+      "original_claim_ids": [
+        "R4-01"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/na_candidate_ledger.csv"
+      ],
+      "rounds": [
+        "r4",
+        "r5"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "CMS II.6 142 accompanies 12 records and 8 labels. Strict 7 records cluster one label per each of 4 assigned hands; admitting 109? on 3009/3010 gives hand 109 three labels. Hand assignments may partly depend on recurrent text, preventing independent confirmation.",
+      "claim": "A fixed seal or writer uniquely names one person through the written roundel label.",
+      "disposition": "strict_seal_rule_rejected_writer_rule_sensitive",
+      "evidence_kind": "source_comparison_plus_historical_sensitivity",
+      "evidence_needed_to_reopen_or_advance": "Blind palaeography, independently owned seals and contextual evidence separating writers, seal users, counterparts and accounts.",
+      "id": "LA-H013",
+      "original_claim_ids": [
+        "R4-02",
+        "R4-03"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/record_index.csv",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json"
+      ],
+      "rounds": [
+        "r4"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Selected cross-medium paths to*164 each depend on CMS V Supp.1A 169. Removing that seal removes each connection. Seal 170 co-occurs with distinct categories*411 and*568, a control against synonymy. Motif labels such as butterfly do not identify seals.",
+      "claim": "*301 and *74 mean cloth because they are connected to cloth roundels through seals.",
+      "disposition": "domain_association_retained_lexical_translation_unestablished",
+      "evidence_kind": "published_hypothesis_plus_historical_graph_audit",
+      "evidence_needed_to_reopen_or_advance": "Second independently identified seal with required cross-medium connections, followed by evidence separating workshop association from exact word meaning.",
+      "id": "LA-H014",
+      "original_claim_ids": [
+        "R4-04"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json"
+      ],
+      "rounds": [
+        "r4"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Published 5 impressions split 2+3 with numeral 1 reportedly marked on each. Arithmetic survives swapping catalogue assignments and reversing transfers. Neither a written action nor seal-owner identity is secured.",
+      "claim": "PYR Wc 4 gives two seal-defined allocations totaling 5 and establishes transfer direction.",
+      "disposition": "allocation_conditional_direction_unresolved",
+      "evidence_kind": "source_claim_plus_historical_countermodel",
+      "evidence_needed_to_reopen_or_advance": "Original plate verification and separately directed transaction/participant evidence.",
+      "id": "LA-H015",
+      "original_claim_ids": [
+        "R4-05"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json"
+      ],
+      "rounds": [
+        "r4"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "1019 derived rows→946 eligible strings, 289 distinct one-sign pairs/297 alignments, 12 NA pairs. Only*333 pair is internal NA with shorter length≥3. Nine NA pairs remain index-only. TA-TI/TA-NA-TI is complete as edited but distinct lexemes remain possible.",
+      "claim": "The internal NA operation replicates broadly as a grammatical mechanism.",
+      "disposition": "not_established_by_bounded_screen",
+      "evidence_kind": "historical_computation_plus_selected_source_audit",
+      "evidence_needed_to_reopen_or_advance": "Critically audit index-only endpoints and locate independent identity/role contrasts; same old index screen is not new coverage.",
+      "id": "LA-H016",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/README.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/screen_summary.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/na_candidate_ledger.csv"
+      ],
+      "rounds": [
+        "r5"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "PK Za 20 is ]U-NA-KA-[; TL Za 1 is U-NA-KA-NA?-[SI. Missing boundary and doubtful/restored content prevent a presence/absence contrast.",
+      "claim": "U-NA-KA/U-NA-KA-NA is a complete-form NA suffix contrast.",
+      "disposition": "rejected_as_complete_form_evidence",
+      "evidence_kind": "source_audit",
+      "evidence_needed_to_reopen_or_advance": "Independently preserved complete endpoints. Do not reopen using the same flattened index labels.",
+      "id": "LA-H017",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/data/critical_records.json"
+      ],
+      "rounds": [
+        "r5"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "ZA 10 forms both carry 1; modern HT Wc 3014 joins across faces with CAP and 3 impressions. HT 54 is broken at both ends. Older roundel segmentation permits KU-MI-NA plus QE countermark; historical concordance not resolved in r6. Exact triple predates project: Davis, AURA 15, p47, volume imprint 2025.",
+      "claim": "KU-MI-NA is a candidate common sequence in A-KU-MI-NA, A-DU-KU-MI-NA and KU-MI-NA-QE.",
+      "disposition": "retain_candidate_structure_no_identity_or_meaning",
+      "evidence_kind": "source_comparison",
+      "evidence_needed_to_reopen_or_advance": "Secure boundaries/concordance and independent referent/role linkage; do not claim discovery of triple.",
+      "id": "LA-H018",
+      "original_claim_ids": [
+        "r6:C01",
+        "r6:C08",
+        "R9-C6"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/kumina_family_audit.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/ritual_check.md"
+      ],
+      "rounds": [
+        "r5",
+        "r6",
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Under the 3 × 2 table, no single added cell completes a 2 × 2 rectangle. Need two: bare+one A/A-DU QE form, or both A/A-DU QE forms. This strict diagnostic is not necessary for all genuine morphology.",
+      "claim": "The three KU-MI-NA forms prove independently recombining prefixes and QE suffix.",
+      "disposition": "downgraded_no_complete_crossed_pattern",
+      "evidence_kind": "historical_exact_enumeration",
+      "evidence_needed_to_reopen_or_advance": "Two independently complete additional cells in one enumerated set; alternate analyses of one object cannot count twice.",
+      "id": "LA-H019",
+      "original_claim_ids": [
+        "r6:C02"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/kumina_completion_test.json"
+      ],
+      "rounds": [
+        "r5",
+        "r6"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Nagy and Raison precede this project; complete expression, countermark interpretation and old/new identifiers need resolution. Lexical resemblance and goat association do not settle meaning.",
+      "claim": "KU-MI-NA equals cumin.",
+      "disposition": "published_proposal_not_adopted",
+      "evidence_kind": "historical_source_claim",
+      "evidence_needed_to_reopen_or_advance": "Corroborating orthographic and contextual evidence for the whole expression; identity of older cited objects must be checked.",
+      "id": "LA-H020",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md"
+      ],
+      "rounds": [
+        "r5",
+        "r6"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Both tokenizations preserve identical sign stream and 45J+20J?+29=95 conditional onJ=1/2 and doubtful readings. HT 103 has bare DA-KU-SE-NE; HT 119 has separate TI. Arithmetic selects neither parse.",
+      "claim": "HT 104 total 95 resolves whether TI is a suffix or an independent sign.",
+      "disposition": "rejected_for_compared_parses",
+      "evidence_kind": "historical_countermodel_computation",
+      "evidence_needed_to_reopen_or_advance": "Independent spatial, palaeographic or contextual evidence separating word end from countermark/logogram.",
+      "id": "LA-H021",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/ht104_segmentation_models.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html"
+      ],
+      "rounds": [
+        "r5"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Five decompositions represent 3 four-string sets; each relies on a broken or face-segment cell. PK Za 4 A-SA-SA-RA[ is not an ME-less word; IO Za 16 continues -ME on next face; IO Za 12 SA-RA-ME continues JA-SA-. Masking 3 unsupported labels removes all 5.",
+      "claim": "SASARA optional-ME rectangles establish a prefix/suffix paradigm.",
+      "disposition": "rejected_for_audited_cells",
+      "evidence_kind": "source_audit_plus_historical_screen",
+      "evidence_needed_to_reopen_or_advance": "An independent complete shorter witness; absence in this screen is not corpus-wide impossibility.",
+      "id": "LA-H022",
+      "original_claim_ids": [
+        "r6:C03",
+        "r6:C04"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/rectangle_audit.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/boundary_countermodel.json"
+      ],
+      "rounds": [
+        "r6"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "KA-PA and KA-PA-QE occupy heading/entry positions onHT 6. RU-MA-TA isHT 29, extended formZA 20. Same referent and role difference unknown; r7 broader document/face shortcuts do not select meanings. SA-RO-QE[ and uncertain KH 20 DU-RE-ZA are weaker comparanda.",
+      "claim": "KA-PA/KA-PA-QE and RU-MA-TA/RU-MA-TA-SE are useful complete written contrasts.",
+      "disposition": "retain_comparisons_semantics_unresolved",
+      "evidence_kind": "selected_source_audit",
+      "evidence_needed_to_reopen_or_advance": "Independent same-referent linkage and repeated role-conditioned complete contrasts.",
+      "id": "LA-H023",
+      "original_claim_ids": [
+        "r6:C05",
+        "r6:C07"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/suffix_audit.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round7_bundle.zip!/linear_a_round7/results/ending_context_tests.json"
+      ],
+      "rounds": [
+        "r6",
+        "r7"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "SASARA short forms and I-JA-PA[ fail boundaries; A-RA-TU-ME? remains doubtful. Zero of 4 meets strict complete/unqualified criterion; this is bounded, not global absence.",
+      "claim": "ME has replicated unqualified complete base/extension contrasts.",
+      "disposition": "not_supported_in_four_audited_pairs",
+      "evidence_kind": "selected_source_audit",
+      "evidence_needed_to_reopen_or_advance": "Confirm doubtful ME or find independently complete shorter occurrences.",
+      "id": "LA-H024",
+      "original_claim_ids": [
+        "r6:C06"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/suffix_audit.json"
+      ],
+      "rounds": [
+        "r6"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Complete TE forms occurZA 10; TI formsHT 7a, HT 10b, HT 98a. Site and ending coincide in selected strict sample. Round 9 found no qualifying co-associate across target faces; whole-tablet SA-MA is opposite-face overlap. Sparse absence does not refute identity.",
+      "claim": "TA-NA-TE/TA-NA-TI/A-TA-NA-TE form a three-corner string pattern with one shared referent.",
+      "disposition": "string_pattern_retained_identity_unestablished",
+      "evidence_kind": "historical_screen_plus_source_comparison",
+      "evidence_needed_to_reopen_or_advance": "Distinctive independent account/person identity bridging complete forms and recognizable roles.",
+      "id": "LA-H025",
+      "original_claim_ids": [
+        "r8:C6",
+        "R9-C1",
+        "R9-C3"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round7_bundle.zip!/linear_a_round7/results/tana_family.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/inputs/linear_a_round8/results/site_confound.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/identity_results.json"
+      ],
+      "rounds": [
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "GORILA III pp. 166–167 scan inspected in round 9; main final sign unresolved, apparatus possible TE. SigLA unresolved. TI andTE exist as same-tablet controls; no diagnostic target trace selects either. Do not turn prediction into restoration.",
+      "claim": "ZA 9 confirms predicted A-TA-NA-TI.",
+      "disposition": "not_established",
+      "evidence_kind": "source_and_image_audit",
+      "evidence_needed_to_reopen_or_advance": "Diagnostic higher-quality surface evidence; secure TI would address site confounding, still not referent/role identity.",
+      "id": "LA-H026",
+      "original_claim_ids": [
+        "r8:C4",
+        "R9-C2",
+        "za9:ZA9_C2"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/za9.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/za9.json"
+      ],
+      "rounds": [
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Round 9 snapshot enumerated 802 indexed document-face pages and 1401 sequence occurrences with zero recorded errors and count checks. No literal predicted form; many ritual texts andTHEZb 6 outside coverage. Chunks are not necessarily complete words or objects.",
+      "claim": "The SigLA search proves A-TA-NA-TI is absent from all Linear A.",
+      "disposition": "corpus_wide_absence_rejected",
+      "evidence_kind": "historical_acquisition_scope",
+      "evidence_needed_to_reopen_or_advance": "A broader critically audited corpus; preserve query-specific absence and source coverage.",
+      "id": "LA-H027",
+      "original_claim_ids": [],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/REPORT.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/data/sigla_sequence_inventory.json"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "KN Dc 1618+7171+7174 is an alias of KN De 1618+7171+7174+fr., not two objects. ma-di/e-ko-so controls distinguish person, place and collector positions. Exact occupation, ownership, non-Greek etymology and identity with Linear A remain unresolved.",
+      "claim": "Linear B ta-na-to gives an independently checked person/flock-responsibility category.",
+      "disposition": "retain_within_linear_b_only",
+      "evidence_kind": "critical_corpus_source_audit",
+      "evidence_needed_to_reopen_or_advance": "Independent linkage across scripts for the particular LA designation; external category cannot transfer a transaction role automatically.",
+      "id": "LA-H028",
+      "original_claim_ids": [
+        "R9-C4",
+        "linear_b:LBC01",
+        "linear_b:LBC06"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.json"
+      ],
+      "rounds": [
+        "r8",
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "KN Uf 311 has ]ta-na-ti with lost left boundary on missing object. For ordinary Greek o-stem, nominative and dative both expected written -to because i-diphthong second element is omitted. Finali→o is not uniquely privileged overe/u comparisons.",
+      "claim": "Linear B ta-na-to/ta-na-ti proves a nominative/dative contrast supporting the LA forms.",
+      "disposition": "rejected_under_ordinary_o_stem_model",
+      "evidence_kind": "source_and_conditional_orthographic_audit",
+      "evidence_needed_to_reopen_or_advance": "Complete new witness and independently justified stem/adaptation model; final-vowel tolerance is not a calibrated sound law.",
+      "id": "LA-H029",
+      "original_claim_ids": [
+        "linear_b:LBC03",
+        "linear_b:LBC04",
+        "linear_b:LBC05"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.json"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Complete four-sign label and pre-firing incision supported by publications. Cretan manufacture remains attributed; scientific source locality not retrieved. Fragment deposit does not identify named recipient. Maker, owner, source, destination anddedication remain possible. ModernTHEZb 6 has an older numbering collision.",
+      "claim": "THE Zb 6 A-TA-NA-*46 means FROM, while TE means TO.",
+      "disposition": "not_established",
+      "evidence_kind": "original_publication_and_excavation_audit",
+      "evidence_needed_to_reopen_or_advance": "Independent named production/destination linkage plus replicated contrasts. Clay provenance alone would not translate the word.",
+      "id": "LA-H030",
+      "original_claim_ids": [
+        "r8:C5",
+        "R9-C5",
+        "jar:JAR_C03",
+        "jar:JAR_C04"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.json"
+      ],
+      "rounds": [
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Boulotis 2008 p.71 n.11 explicitly predates the project comparison; exact KU-MI-NA triple also occurs in Davis, AURA 15 p.47, imprint 2025. No computational publication-priority claim established.",
+      "claim": "The TA-NA-TE/A-TA-NA-TE prefix comparison is a new discovery of this project.",
+      "disposition": "novelty_claim_rejected",
+      "evidence_kind": "prior_equivalent_identification",
+      "evidence_needed_to_reopen_or_advance": "No reopening of priority for the already-published comparison; any narrower novel analysis requires its own literature audit.",
+      "id": "LA-H031",
+      "original_claim_ids": [
+        "jar:JAR_C05",
+        "R9-C6"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.md"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Newer autopsy discussion strengthens final 2 vsMI; segmentation remains unmarked and DU uncertain. One long designation, two designations and name+administrative expression+commodity survive. Same seal does not identify actor or direction. Reported 2 vs4 impressions conflict.",
+      "claim": "ZA Wc 2 A-TI-KA(-)A-DU(-)KO 2 identifies a person giving a commodity.",
+      "disposition": "not_established",
+      "evidence_kind": "source_autopsy_report_and_segmentation_audit",
+      "evidence_needed_to_reopen_or_advance": "Independent boundaries, A-DU meaning, KO category and directed participant link; these cannot serve as independent anchors if all depend on same parse.",
+      "id": "LA-H032",
+      "original_claim_ids": [
+        "R9-C7",
+        "roundels:RC1",
+        "roundels:RC3",
+        "roundels:RC4",
+        "roundels:RC7"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/roundels.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/roundels.json"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "GO Wc 1(5/5), HT Wc 3024(6/6) force scale 1; MA Wc 5 4+A704 with 1 or2 impressions cannot fit if fraction positive/additive. Count preservation and units remain alternatives; local animal-count equality is not refuted.",
+      "claim": "Every roundel impression universally equals one written commodity unit.",
+      "disposition": "universal_scale_rejected_conditionally",
+      "evidence_kind": "historical_exact_constraint_test",
+      "evidence_needed_to_reopen_or_advance": "Resolve Malia counts, fraction function or heterogeneous unit model; do not infer global scaling from selected equalities.",
+      "id": "LA-H033",
+      "original_claim_ids": [
+        "roundels:RC5"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/results/roundel_count_test.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/roundels.md"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "Under total 45, nonnegative missing entries and fixed conversion: secure ME at 10→minimum 41.5; alsoME? at 6→47.5; restored ME everywhere→63. Multiplier bounds 47/20, 59/32, 10/7. Lossless assumption anddoubtful reading determine rejection. Yield≤18/19 can reconcile 47.5 input to45 output; no ancient yield measured.",
+      "claim": "HT 24 arithmetic excludes ME as a doubled unit.",
+      "disposition": "conditional_only",
+      "evidence_kind": "historical_exact_sensitivity_and_yield_bounds",
+      "evidence_needed_to_reopen_or_advance": "Resolve damagedME? and independently constrain total, 10: 1 conversion, same-batch scope andprocessing yield. Rerunning arithmetic unchanged is not new evidence.",
+      "id": "LA-H034",
+      "original_claim_ids": [
+        "R9-C8",
+        "anetaki:AN-C4",
+        "anetaki:AN-C7"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/results/anetaki_textile_test.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/anetaki.md"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "AB54+77 onKNZg 57C is a published cloth-associatedKA adjunct. Type, quality, processing or another modifier survives. Ring/handle differ in carrier and probably hand; overview does not supply a full parallel inscription.",
+      "claim": "Anetaki cloth+KA establishes KA=purple or an action/participant.",
+      "disposition": "association_retained_translation_unestablished",
+      "evidence_kind": "published_source_audit",
+      "evidence_needed_to_reopen_or_advance": "Complete critical text and independent material/color/action context; associated carriers are not automatically parallel translations.",
+      "id": "LA-H035",
+      "original_claim_ids": [
+        "R9-C9",
+        "anetaki:AN-C1",
+        "anetaki:AN-C2",
+        "anetaki:AN-C3"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/anetaki.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/anetaki.json"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "basis_and_limits": "All recovered rounds explicitly stop short of this result. Category, arithmetic, word-form and object-context constraints are not independent verb/role translations. Historical software test success is implementation validation, not decipherment validation.",
+      "claim": "One Linear A construction now has independently identified action and relevant participant roles.",
+      "disposition": "goal_unmet_through_round_009",
+      "evidence_kind": "cumulative_research_verdict",
+      "evidence_needed_to_reopen_or_advance": "A construction distinguishing rival actions androle assignments using independent evidence, then successful application outside its discovery examples.",
+      "id": "LA-H036",
+      "original_claim_ids": [
+        "r8:C8"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round7_bundle.zip!/linear_a_round7/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/inputs/linear_a_round8/research/REPORT.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/REPORT.md"
+      ],
+      "rounds": [
+        "recheck",
+        "nextstep",
+        "r3",
+        "r4",
+        "r5",
+        "r6",
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "claim": "No supported action-and-participant-role construction established in iteration10",
+      "disposition": "mission_open",
+      "evidence_kind": "All candidate dossiers; no role discriminator recovered",
+      "evidence_path": "iterations/010/ATLAS.md",
+      "id": "LA-010-001",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "A new interpretation must independently identify action and roles, then discriminate a rival",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "No qualifying long initial-A/terminal-sign variant with a non-target face associate in retained snapshot",
+      "disposition": "bounded_negative",
+      "evidence_kind": "802 indexed faces;220 strict eligible;250 broad eligible;>=3sign target criterion and separate objects",
+      "evidence_path": "iterations/010/results/corpus_pairs.json",
+      "id": "LA-010-002",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "A complete qualifying record or a new broader dataset/independent class of alternation",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "HT95b DA-ZA is not usable as an edition-supported variant of DA-ME",
+      "disposition": "source_discrepancy",
+      "evidence_kind": "GORILA I155 prints ME; preserve frozen SigLA and overlay",
+      "evidence_path": "iterations/010/notes/documentary_links.md",
+      "id": "LA-010-003",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "A documented revised reading or fresh object evidence supporting ZA",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "HT86/95 Q-form identity plus universal conversion of equivalent quantities is inconsistent",
+      "disposition": "conditional_rejection",
+      "evidence_kind": "Within section1 three exact20/10 ratios; proposed Q ratio10/10",
+      "evidence_path": "iterations/010/results/packet_models.json",
+      "id": "LA-010-004",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "Drop/independently test mapping, common-event or common-scale assumptions; no blanket linguistic rejection",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "TE-KE/TE-KI identity is not uniquely selected by the observed associate packet",
+      "disposition": "underdetermined",
+      "evidence_kind": "HT13 TE-TU shares the same non-target associates; both entries exist in original edition",
+      "evidence_path": "iterations/010/notes/documentary_links.md",
+      "id": "LA-010-005",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "An independent anchor selecting one target and excluding the other",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "Better HT24 ME imagery alone cannot identify positive m with free yield and missing input",
+      "disposition": "conditional_nonidentifiability",
+      "evidence_kind": "Exact constructive model plus new contextual source checks",
+      "evidence_path": "iterations/010/notes/ht24_fallback.md",
+      "id": "LA-010-006",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "Independent input total/denomination, or output total and applicable yield bound",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "Shared seal AT125 connects media without identifying a named participant or role",
+      "disposition": "published_context_only",
+      "evidence_kind": "Weingarten1987 text; no fresh seal autopsy",
+      "evidence_path": "iterations/010/notes/documentary_links.md",
+      "id": "LA-010-007",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "Full written designation linked to seal and externally established operation",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "claim": "Restored archives close documentary access gaps for rounds3–5",
+      "disposition": "archive_recovery",
+      "evidence_kind": "36 historical synthesis records;92 nested evidence references verified",
+      "evidence_path": "context/HISTORY.md",
+      "id": "LA-010-008",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed",
+      "reopen_if": "Reopen archived analyses for any future claim; recovery is not a full rerun",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09"
+    },
+    {
+      "basis_and_limits": "GORILA V allows alternative numeral; lost leading values and account scope remain unresolved.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "HT103 does not independently establish KI-RA as remainder.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "inherited_conditional_candidate",
+      "evidence_access_level": "inherited primary audit",
+      "evidence_needed_to_reopen_or_advance": "New reading/scope evidence independent of a desired equation.",
+      "evidence_path": "history/Linear_A_Iteration_21/REPORT.md",
+      "id": "LA-021-001",
+      "iteration": 21,
+      "novelty": "historical carry-forward",
+      "strongest_rival": "A=6.5 branch is exact but alternative readings remove it.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT103"
+      ]
+    },
+    {
+      "basis_and_limits": "Five surviving unit entries match the surviving digit; continuation damaged.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "HT94b closes with surviving 5[, not a certified complete 5.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "source_qualification",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Physical evidence resolves trailing edge.",
+      "evidence_path": "iterations/022/source_ledger.json",
+      "id": "LA-022-001",
+      "iteration": 22,
+      "novelty": "Source audit and new bounded scope/subset tests",
+      "strongest_rival": "Complete subtotal is one branch.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT94b"
+      ]
+    },
+    {
+      "basis_and_limits": "All15 subsets of70,52,109,105 tested.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "No nonempty subset of HT1 later amounts equals KI-RO197.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "model_excluded_under_printed_values",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent scope or different primary reading.",
+      "evidence_path": "results/account_scope_22.json",
+      "id": "LA-022-002",
+      "iteration": 22,
+      "novelty": "Source audit and new bounded scope/subset tests",
+      "strongest_rival": "Local label/category or different scope remains.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT1"
+      ]
+    },
+    {
+      "basis_and_limits": "VIN ratio1/17 conflicts with OLE+TA ratio1/2 without selecting D value.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "HT30 matched blocks do not share one common positive rate under additive D and stable units.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "conditional_model_exclusion",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent metrology or common-account anchor.",
+      "evidence_path": "results/account_scope_23.json",
+      "id": "LA-023-001",
+      "iteration": 23,
+      "novelty": "New constrained model comparison and boundary-aware follow-up",
+      "strongest_rival": "Commodity-specific quantities or different units remain.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT30"
+      ]
+    },
+    {
+      "basis_and_limits": "Frozen SA-VIN token concealed an exact-label candidate; source overlay recovers it.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "HT114b has an edition-segmented VIN9, but no demonstrated third-vector link toHT30.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "isolated_match_not_replication",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Second predicted commodity and independent entity/account link.",
+      "evidence_path": "iterations/023/source_overlay.json",
+      "id": "LA-023-002",
+      "iteration": 23,
+      "novelty": "New constrained model comparison and boundary-aware follow-up",
+      "strongest_rival": "Same numerical value can belong to another account.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT114b",
+        "HT30"
+      ]
+    },
+    {
+      "basis_and_limits": "Linear B personal-name and place-type evidence separated from Linear A identity.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "MA-DI and PA-I-TO offer external type comparisons, not unique participants or direction.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "limited_type_anchor",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent contextual role for a Linear A occurrence.",
+      "evidence_path": "iterations/024/REPORT.md",
+      "id": "LA-024-001",
+      "iteration": 24,
+      "novelty": "Primary-argument audit plus targeted corpus census",
+      "strongest_rival": "Reused name, designation, or a different historical referent.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT85b",
+        "HT97a",
+        "HT118",
+        "HT120"
+      ]
+    },
+    {
+      "basis_and_limits": "All120 assignments preserve factor2; object/Q-excluded overlap tested separately.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "HT86/95 is prior cohort evidence; the constant20:10 ratio adds no label-specific identity information.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "prior_lead_with_new_identifiability_control",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent unit/event/heading interpretation.",
+      "evidence_path": "iterations/025/REPORT.md",
+      "id": "LA-025-001",
+      "iteration": 25,
+      "novelty": "Prior lead reproduction plus object-collapsed null and permutation identifiability test",
+      "strongest_rival": "Shared administrative category rather than same historical persons.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT86a",
+        "HT95a",
+        "HT95b"
+      ]
+    },
+    {
+      "basis_and_limits": "Published facsimile/normalized apparatus inspected.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "PH(?)31b RI-RU-MA-TI has initial source damage omitted by the discovery index.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "source_qualification",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Better independent evidence of first sign and boundary.",
+      "evidence_path": "sources/ti/source_reading_overrides.json",
+      "id": "LA-026-001",
+      "iteration": 26,
+      "novelty": "New distribution audit and damaged-reading qualification",
+      "strongest_rival": "Conventional complete reading remains a qualified branch.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "PH(?)31b"
+      ]
+    },
+    {
+      "basis_and_limits": "2/20 eligible ending types have bare matches;1/17 withoutHT104; matched controls executed.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "Source-qualified TI comparisons do not establish a general productive role suffix.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "unresolved_not_rejected",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent base identity plus predictable contextual alternation.",
+      "evidence_path": "results/ti_controls.json",
+      "id": "LA-027-001",
+      "iteration": 27,
+      "novelty": "New matched structural comparison; inherited HT104 ambiguity retained",
+      "strongest_rival": "Suffix, independent sign, lexical ending and mixed uses remain.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT104",
+        "KN1a",
+        "MA2b"
+      ]
+    },
+    {
+      "basis_and_limits": "HT89 missing13 restores normalized87; full-event coverage retains uncertainty.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "Lowercase sign variants cause13 numeric events to be omitted by the inherited label parser.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "verified_computational_correction",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Use corrected event coverage and independently bounded scope.",
+      "evidence_path": "results/iteration28.json",
+      "id": "LA-028-001",
+      "iteration": 28,
+      "novelty": "Parser coverage repair and numerical scope diagnostics",
+      "strongest_rival": "Parser omission does not settle other account discrepancies.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT89",
+        "HT94a",
+        "HT100",
+        "HT127b"
+      ]
+    },
+    {
+      "basis_and_limits": "Published completeness and observed three-group inscription.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "A mandatory complete canonical formula after the long opener fails on complete SYZa4.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "model_exclusion",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Source-edited cross-object comparison with independent role anchor.",
+      "evidence_path": "iterations/029/REPORT.md",
+      "id": "LA-029-001",
+      "iteration": 29,
+      "novelty": "Source-based completeness control, restoration correction and corpus test",
+      "strongest_rival": "Short/alternative formula, unexpressed roles or different construction.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "SYZa4"
+      ]
+    },
+    {
+      "basis_and_limits": "Original publication preserves partial U/DE-NA-KA sequence; normalized ending restored.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "PKZa27 is not an unqualified complete U-NA-KA-NA-SI witness.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "source_qualification",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent complete witness rather than formula-based restoration.",
+      "evidence_path": "iterations/029/SOURCES.md",
+      "id": "LA-029-002",
+      "iteration": 29,
+      "novelty": "Source-based completeness control, restoration correction and corpus test",
+      "strongest_rival": "Expanded conventional formula remains conditional.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "PKZa27"
+      ]
+    },
+    {
+      "basis_and_limits": "Published numeral sensitivity and two20,000-run exploratory nulls; zero raw-damage-free discoveries.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "Repaired repeated-label difference search yields only the damaged HT103 candidate.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "conditional_candidate_no_replication",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "New independent evidence distinguishes transaction roles.",
+      "evidence_path": "results/iteration30.json",
+      "id": "LA-030-001",
+      "iteration": 30,
+      "novelty": "New exploratory nulls and reading/filter sensitivity",
+      "strongest_rival": "Additive/category alternatives, uncertain units and scope.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT103"
+      ]
+    },
+    {
+      "basis_and_limits": "GRA10→5 versusNI1→2; stable per-commodity conversions cancel.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "HT114a/HT121 cannot be one fixed basket times one shared scale factor.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "source_backed_model_exclusion",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent quantities/rates and out-of-fit predictions.",
+      "evidence_path": "results/sara_basket_models.json",
+      "id": "LA-031-001",
+      "iteration": 31,
+      "novelty": "Primary-backed fixed-composition/nesting exclusions, no priority claim",
+      "strongest_rival": "Variable composition, scopes, occasions or recipient groups.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT114a",
+        "HT121"
+      ]
+    },
+    {
+      "basis_and_limits": "GRA andNI move in opposite directions under comparable units/scopes.",
+      "campaign_archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+      "claim": "Neither HT114a norHT121 basket is a componentwise whole/part of the other.",
+      "dependencies": [
+        "frozen iteration21 corpus",
+        "named source/segmentation/unit conditions in report"
+      ],
+      "disposition": "conditional_model_exclusion",
+      "evidence_access_level": "see cycle source ledger for per-witness inspection",
+      "evidence_needed_to_reopen_or_advance": "Independent account relation before semantic assignment.",
+      "evidence_path": "results/sara_basket_models.json",
+      "id": "LA-031-002",
+      "iteration": 31,
+      "novelty": "Primary-backed fixed-composition/nesting exclusions, no priority claim",
+      "strongest_rival": "Substitutions, extra transfers or unrelated obligations.",
+      "updated_date": "2026-10-15",
+      "witnesses": [
+        "HT114a",
+        "HT121"
+      ]
+    },
+    {
+      "id": "LA-032-001",
+      "claim": "SYZa2 has a retained index numeral 1 conflicting with the accessed scholarly nonnumeric presentation; its numerical interpretation is quarantined in a named source-informed view.",
+      "disposition": "documented_source_conflict_not_original_plate_arbitration",
+      "witnesses": [
+        "SYZa2"
+      ],
+      "evidence_path": "data/source_overlays.json",
+      "basis_and_limits": "Raw index token at position3 remains unchanged. Steele2024 pp.62–63 discussion and drawing were inspected. GORILA V and full Syme original apparatus were not visually retrieved.",
+      "strongest_rival": "An original-edition or physical reading could resolve the conflict differently; no new divider or ancient numeral is claimed.",
+      "evidence_needed_to_reopen_or_advance": "Obtain original SYZa2 apparatus and a legible object photograph; identify the disputed mark without appealing to the expected syntax.",
+      "iteration": 32,
+      "updated_date": "2026-10-15",
+      "campaign_archive": "iterations/032/Linear_A_Iteration_32.zip",
+      "archive_path_resolution": "Evidence paths are relative to the iteration32 archive root; older records retain their historical checkpoint scope.",
+      "evidence_access_level": "Accessed scholarly PDF transcriptions/drawings and retained index; see sources/SOURCE_LEDGER.json for unaccessed originals.",
+      "dependencies": [
+        "immutable iteration21 discovery snapshot",
+        "named iteration32 source and spatial branches",
+        "inherited iteration29 PKZa27 correction"
+      ],
+      "novelty": "New-to-project qualification or explicit computational diagnostic; no bibliographic discovery priority claim."
+    },
+    {
+      "id": "LA-032-002",
+      "claim": "The specified SYZa2/KOZa1 oil comparison does not uniquely identify I-PI-NA-MA: no two-flank replacement is recovered and alignment preference depends on treatment of A-JA.",
+      "disposition": "new_bounded_identifiability_result_not_rejection_of_oil_meaning",
+      "witnesses": [
+        "SYZa2",
+        "KOZa1"
+      ],
+      "evidence_path": "results/model_comparison.json",
+      "additional_evidence_paths": [
+        "results/two_flank_diagnostic.json",
+        "results/alignment_sensitivity.json",
+        "results/corpus_census.json"
+      ],
+      "basis_and_limits": "U I S versus U OLE (with spatially separate A-JA); a no-other-change I replacement predicts U OLE S. All calculations conditional on supplied readings/linearizations; edit costs are not linguistic probabilities.",
+      "strongest_rival": "I=oil with S omitted remains possible, as do S substitution with I omitted, phrase-level equivalence, and no recoverable lexical equation.",
+      "evidence_needed_to_reopen_or_advance": "Source-checked independent matching flanks or another context that discriminates the candidate lexical spans; separate role evidence remains necessary.",
+      "iteration": 32,
+      "updated_date": "2026-10-15",
+      "campaign_archive": "iterations/032/Linear_A_Iteration_32.zip",
+      "archive_path_resolution": "Evidence paths are relative to the iteration32 archive root; older records retain their historical checkpoint scope.",
+      "evidence_access_level": "Accessed scholarly PDF transcriptions/drawings and retained index; see sources/SOURCE_LEDGER.json for unaccessed originals.",
+      "dependencies": [
+        "immutable iteration21 discovery snapshot",
+        "named iteration32 source and spatial branches",
+        "inherited iteration29 PKZa27 correction"
+      ],
+      "novelty": "New-to-project qualification or explicit computational diagnostic; no bibliographic discovery priority claim."
+    },
+    {
+      "id": "LA-032-003",
+      "claim": "Ritual source annotations must retain the OLIV/RE branch, source underdots in SYZa4 and KOZa1, and the distinction between complete object/text and certain sign reading.",
+      "disposition": "source_qualification_of_prior_ritual_description",
+      "witnesses": [
+        "SYZa2",
+        "SYZa4",
+        "KOZa1"
+      ],
+      "evidence_path": "data/critical_witnesses.json",
+      "basis_and_limits": "Thomas2020 pp.4,8 records RE and underdots SYZa4 ZA; Steele2024 p.62 argues against RE and p.63 underdots the KO group. Source-specific alternatives are not equally weighted. SYZa4 completeness remains inherited source-backed evidence.",
+      "strongest_rival": "Conventional OLIV and complete normalized syllabic readings remain viable; these qualifications do not license another restoration or identify a donor.",
+      "evidence_needed_to_reopen_or_advance": "Better physical evidence or original critical apparatus can adjudicate individual readings without assumed grammar.",
+      "iteration": 32,
+      "updated_date": "2026-10-15",
+      "campaign_archive": "iterations/032/Linear_A_Iteration_32.zip",
+      "archive_path_resolution": "Evidence paths are relative to the iteration32 archive root; older records retain their historical checkpoint scope.",
+      "evidence_access_level": "Accessed scholarly PDF transcriptions/drawings and retained index; see sources/SOURCE_LEDGER.json for unaccessed originals.",
+      "dependencies": [
+        "immutable iteration21 discovery snapshot",
+        "named iteration32 source and spatial branches",
+        "inherited iteration29 PKZa27 correction"
+      ],
+      "novelty": "New-to-project qualification or explicit computational diagnostic; no bibliographic discovery priority claim."
+    },
+    {
+      "iteration": 33,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/033/Linear_A_Iteration_33.zip",
+      "archive_path_resolution": "New evidence paths relative to iteration33 archive root; earlier records retain their stated historical checkpoint scope.",
+      "novelty": "New-to-project source control or bounded calculation; no claim of bibliographic priority or new ancient attestation.",
+      "id": "LA-033-001",
+      "claim": "Original/revised editions support a divider, not a numeral, at the frozen SYZa2 index1 position; a named critical overlay records this without altering the index.",
+      "disposition": "original_edition_arbitration_of_iteration32_source_conflict",
+      "witnesses": [
+        "SYZa2"
+      ],
+      "evidence_path": "data/critical_overlays_33.json",
+      "additional_evidence_paths": [
+        "data/source_observations.json",
+        "agents/source/SOURCE_AUDIT.md",
+        "sources/ritual_source_ledger.json"
+      ],
+      "basis_and_limits": "GORILA V64–65 and Muhly–Olivier204; the latter p221 sign table explicitly places both SYZa2a circular marks in punctuation. Edition-level determination, not object autopsy or explanation of the index conversion.",
+      "strongest_rival": "A numerical use would require physical/source evidence that addresses the explicit punctuation classification; mark shape alone is insufficient.",
+      "evidence_needed_to_reopen_or_advance": "A materially different original reading, object examination or documented editorial correction; no inferred numeral from a desired commodity interpretation.",
+      "evidence_access_level": "Original publisher images and original full-journal PDF inspected; source bytes digested, full newly downloaded sources not redistributed.",
+      "dependencies": [
+        "LA-032-001",
+        "R33-S1",
+        "R33-S2",
+        "immutable discovery snapshot"
+      ]
+    },
+    {
+      "iteration": 33,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/033/Linear_A_Iteration_33.zip",
+      "archive_path_resolution": "New evidence paths relative to iteration33 archive root; earlier records retain their stated historical checkpoint scope.",
+      "novelty": "New-to-project source control or bounded calculation; no claim of bibliographic priority or new ancient attestation.",
+      "id": "LA-033-002",
+      "claim": "Two conventional KOZa1 words cross external-face boundaries, rejecting an unqualified face-end-to-word/phrase-end rule; SYZa2b has a physical endpoint but no independently established sentence endpoint.",
+      "disposition": "new_source_based_physical_boundary_control",
+      "witnesses": [
+        "KOZa1",
+        "SYZa2"
+      ],
+      "evidence_path": "results/boundary_audit.json",
+      "additional_evidence_paths": [
+        "data/source_observations.json",
+        "code/boundary_audit.py",
+        "agents/review/FINAL_REVIEW.md"
+      ],
+      "basis_and_limits": "GORILA IV18–20: I-DA-A crosses b/c; I-PI-NA-MA crosses c/d within the inherited27-sign,7-word serialization. SY top-rim regions differ from KO external faces. Surviving SYd A-JA neither establishes nor excludes a clause link to b.",
+      "strongest_rival": "An inscription-specific SYb linguistic boundary remains possible; the general physical-boundary rule is what fails.",
+      "evidence_needed_to_reopen_or_advance": "Independent inscription-specific linguistic scope or comparable context; never use the desired lexical equation to define END.",
+      "evidence_access_level": "Original GORILA photos/facsimiles inspected; conventional sign labels and word spans inherited; independent derivation of crossings.",
+      "dependencies": [
+        "LA-032-002",
+        "R33-S1",
+        "R33-S2",
+        "R33-S3",
+        "retained conventional segmentation"
+      ]
+    },
+    {
+      "iteration": 33,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/033/Linear_A_Iteration_33.zip",
+      "archive_path_resolution": "New evidence paths relative to iteration33 archive root; earlier records retain their stated historical checkpoint scope.",
+      "novelty": "New-to-project source control or bounded calculation; no claim of bibliographic priority or new ancient attestation.",
+      "id": "LA-033-003",
+      "claim": "Original apparatus records SI–A302 overlap, explicitly suppressed in a straightened drawing, and qualified sign identifications; sign shape still does not establish sign function, material meaning or role.",
+      "disposition": "original_apparatus_refinement_and_semantic_limit",
+      "witnesses": [
+        "SYZa2",
+        "SYZa4",
+        "KOZa1"
+      ],
+      "evidence_path": "data/source_observations.json",
+      "additional_evidence_paths": [
+        "data/critical_overlays_33.json",
+        "agents/source/SOURCE_AUDIT.md",
+        "sources/ritual_source_ledger.json"
+      ],
+      "basis_and_limits": "GORILA V65 and Muhly–Olivier205 n19 document overlap; no divider or stroke order follows. SYZa4 AB17 preferred over harder AB02; SYZa2 AB80 preferred over AB39, with AB122/AB27 and possible unidentified syllabogram at finalb. KO AB27/AB122/rebus rival is abstract-only and not adopted as correction.",
+      "strongest_rival": "Syllabic/rebus expression, inline material sign and separate addition remain open; physical overlap alone does not select one.",
+      "evidence_needed_to_reopen_or_advance": "Full relevant paleographic argument, better physical evidence or independent functional/role anchor. Preserve unequal source support.",
+      "evidence_access_level": "Original Syme/GORILA apparatus inspected; Montecchi rebus paper abstract/author summary only.",
+      "dependencies": [
+        "LA-032-003",
+        "R33-S1",
+        "R33-S2",
+        "R33-S4"
+      ]
+    },
+    {
+      "iteration": 33,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/033/Linear_A_Iteration_33.zip",
+      "archive_path_resolution": "New evidence paths relative to iteration33 archive root; earlier records retain their stated historical checkpoint scope.",
+      "novelty": "New-to-project source control or bounded calculation; no claim of bibliographic priority or new ancient attestation.",
+      "id": "LA-033-004",
+      "claim": "HT86/95 share the source-defined certain Room7 recovery group; original GORILA assigns HT86 to Hand6 and leaves HT95 blank, so known same-hand or same-event linkage is unavailable.",
+      "disposition": "newly_recovered_archaeological_and_scribal_metadata_with_limits",
+      "witnesses": [
+        "HT86",
+        "HT95",
+        "HT122",
+        "HT154",
+        "HT154A"
+      ],
+      "evidence_path": "data/findspot_metadata.json",
+      "additional_evidence_paths": [
+        "data/scribe_metadata.json",
+        "agents/accounts/ACCOUNTS_AUDIT.md",
+        "sources/accounts_source_ledger.json"
+      ],
+      "basis_and_limits": "Montecchi2019 abstract417–418 supplies context categories; GORILA V83,85–86 supplies hand/museum concordance.2010 vs2019 HT122 Room7/9 conflict kept separate;2019 governs. HT154 and154A have different museum IDs, unresolved index crosswalk. Hole/palimpsest evidence supplies no directed event.",
+      "strongest_rival": "Shared recovery location may combine dates, functions and original storage groups; tentative different-hand scholarship is not identification of two people.",
+      "evidence_needed_to_reopen_or_advance": "Full contextual/hand arguments, original finds documentation, readable relative sequence or independent physical event link; unknown hand must not become a shared class.",
+      "evidence_access_level": "2019 author extract,2010 author full text and original GORILA scans; full2019 contextual chapter/diary appendix and fullMilitello2011 not accessed.",
+      "dependencies": [
+        "inherited HT86/95 cohort",
+        "R33-A1",
+        "R33-A2",
+        "R33-A3",
+        "R33-A4"
+      ]
+    },
+    {
+      "iteration": 33,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/033/Linear_A_Iteration_33.zip",
+      "archive_path_resolution": "New evidence paths relative to iteration33 archive root; earlier records retain their stated historical checkpoint scope.",
+      "novelty": "New-to-project source control or bounded calculation; no claim of bibliographic priority or new ancient attestation.",
+      "id": "LA-033-005",
+      "claim": "The inherited HT86/95 exact-label cohort remains distinctive in four source-defined room pools under fixed object/label incidence margins, without identifying people, a common event, an action or direction.",
+      "disposition": "new_context_conditioned_diagnostic_for_known_target",
+      "witnesses": [
+        "HT86",
+        "HT95",
+        "HT85",
+        "HT122"
+      ],
+      "evidence_path": "results/cohort_context.json",
+      "additional_evidence_paths": [
+        "results/cohort_summary.json",
+        "results/quantified_label_events.json",
+        "code/cohort_context.py",
+        "agents/review/REVIEW_CHECKS.json"
+      ],
+      "basis_and_limits": "Baseline exact shared labels5; target unique overlap maximum in all4pools. OmittingMI-NU-TE leaves4 and tiesHT85/122 in both pooled-room branches. Jaccard1vs1/7.12branches,2chains/branch,2000samples/chain, margins preserved. No quantity values scored; inherited eligibility limits retained. Retrospective, sampler mixing/uniformity not proved; no confirmatory p-values.",
+      "strongest_rival": "Recurring categories/institutions, commodity or layout conventions, archival subgroups and multiple-event reuse remain unmodeled alternatives to recurring historical people.",
+      "evidence_needed_to_reopen_or_advance": "New source-checked event/role or stock-scope anchor, materially discriminating contextual variable, or corrected reading/mapping. Repeating fixed-margin runs without new evidence is not another iteration.",
+      "evidence_access_level": "Frozen index plus human-coded source-defined room metadata; independently reconstructed extraction and all pair/result arithmetic; one production Markov-chain run.",
+      "dependencies": [
+        "LA-033-004",
+        "iteration25 bounded commodity-aware label extraction",
+        "global exclusion of both Q forms without merging",
+        "MI-NU-TE and local-flag sensitivities"
+      ]
+    },
+    {
+      "iteration": 34,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/034/Linear_A_Iteration_34.zip",
+      "archive_path_resolution": "New paths relative to iteration34 archive root; inherited records retain historical checkpoint scope.",
+      "novelty": "New project source control or bounded analysis of known material; no bibliographic priority, new ancient object or decipherment claim.",
+      "id": "LA-034-001",
+      "claim": "DA-ME does not select one invariant following exact grain-compound sign in the source-checked HT86a and HT120 entries.",
+      "disposition": "restricted_exact_graphic_association_model_rejected",
+      "witnesses": [
+        "HT86a DA-ME GRA+B20",
+        "HT120 DA-ME GRA+K+L74"
+      ],
+      "evidence_path": "results/commodity_context_results.json",
+      "additional_evidence_paths": [
+        "data/critical_commodity_contexts.json",
+        "results/commodity_context_rows.json",
+        "results/commodity_context_omissions.json",
+        "code/commodity_context_audit.py",
+        "agents/review/REVIEW_CHECKS.json"
+      ],
+      "basis_and_limits": "GORILA I pp135 and205 directly support the two indexed adjacent forms; HT120 wraps physical lines1–2. Published Hand6 attribution for both objects is retained. Census of205 HT tablet records yields57 literal occurrences,41 labels and4 conflicting labels; all six branches retained. No quantities compared; no calibrated probability or priority claim. Exact graphic categories do not decode materials.",
+      "strongest_rival": "Broad commodity terms, contextual qualifiers, accounts, offices, places, people and homonyms can coexist with differing following compounds. Same spelling and shared hand need not identify one referent or event.",
+      "evidence_needed_to_reopen_or_advance": "A source correction affecting the exact sequence or compound, or an independently linked referent/event/role that makes competing readings predict different observations.",
+      "evidence_access_level": "Original edition images checked by lead/source reviewer; source-coded hand attribution; independent computational reconstruction.",
+      "dependencies": [
+        "GORILA_I_135",
+        "ARC34-S03",
+        "ARC34-S01",
+        "LA-033-004"
+      ]
+    },
+    {
+      "iteration": 34,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/034/Linear_A_Iteration_34.zip",
+      "archive_path_resolution": "New paths relative to iteration34 archive root; inherited records retain historical checkpoint scope.",
+      "novelty": "New project source control or bounded analysis of known material; no bibliographic priority, new ancient object or decipherment claim.",
+      "id": "LA-034-002",
+      "claim": "The source-checked KI-RE-TA-NA sequence occurs before two disjoint graphic families on HT108 and HT120.",
+      "disposition": "restricted_invariant_graphic_family_association_rejected",
+      "witnesses": [
+        "HT108 A100/102-family entry",
+        "HT120 GRA+B entry"
+      ],
+      "evidence_path": "results/graphic_family_results.json",
+      "additional_evidence_paths": [
+        "data/critical_commodity_contexts.json",
+        "agents/archive_context/component_check.json",
+        "agents/archive_context/HT108_HT120_COMPONENT_AUDIT.md"
+      ],
+      "basis_and_limits": "GORILA I pp174–175 and205 support the same four-sign label before an anthropomorphic-family sign and an AB120-family compound. VIR+[?] and automatic flags remain in the raw index; the precise qualifier provenance and variant/sex/adjunct interpretation are unresolved. Follow-up selected after the new census; not held-out prediction. The flagged HT2 witness is not required.",
+      "strongest_rival": "A place, account, office, category or personal designation can head/count different resources. Adjacent human notation does not establish that the label names that counted person or their grammatical role.",
+      "evidence_needed_to_reopen_or_advance": "A materially different sign-family reading, explanation of the indexed alias, or an independent referent and direction/action link.",
+      "evidence_access_level": "Original images inspected independently; component-level observation with unresolved narrower interpretation.",
+      "dependencies": [
+        "ARC34-S06",
+        "ARC34-S03",
+        "LA-034-001"
+      ]
+    },
+    {
+      "iteration": 34,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/034/Linear_A_Iteration_34.zip",
+      "archive_path_resolution": "New paths relative to iteration34 archive root; inherited records retain historical checkpoint scope.",
+      "novelty": "New project source control or bounded analysis of known material; no bibliographic priority, new ancient object or decipherment claim.",
+      "id": "LA-034-003",
+      "claim": "The inherited five-label cohort is partitioned3+2 across HT86a blocks and occurs together in one visible HT95a list.",
+      "disposition": "invariant_single_block_model_rejected_with_scope_limits",
+      "witnesses": [
+        "HT86a upper and lower blocks",
+        "HT95a",
+        "HT95b source limit"
+      ],
+      "evidence_path": "results/source_scope_results.json",
+      "additional_evidence_paths": [
+        "data/critical_commodity_contexts.json",
+        "notes/ANALYSIS_PLAN.md"
+      ],
+      "basis_and_limits": "Original GORILA I pp135,155 support the horizontal division and list. Source-mapped indices validated before result calculation. Commodity carryover is an explicit assumption. HT95b later header scope and commodity remain null across uncertain traces. QA-RA2-WA and QE-RA2-U are not merged; no numerical ratio used.",
+      "strongest_rival": "Recurring persons, places, accounts or categories may be grouped differently; block change alone cannot identify headers as recipients or lists as contributors.",
+      "evidence_needed_to_reopen_or_advance": "A reading/layout correction or independently anchored meaning, scope or role relationship.",
+      "evidence_access_level": "Original edition layout checked; deterministic partition from explicit human-coded mapping.",
+      "dependencies": [
+        "GORILA_I_135",
+        "GORILA_I_155",
+        "LA-033-005"
+      ]
+    },
+    {
+      "iteration": 34,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/034/Linear_A_Iteration_34.zip",
+      "archive_path_resolution": "New paths relative to iteration34 archive root; inherited records retain historical checkpoint scope.",
+      "novelty": "New project source control or bounded analysis of known material; no bibliographic priority, new ancient object or decipherment claim.",
+      "id": "LA-034-004",
+      "claim": "The newly accessed full2019 contextual discussion does not supply a named HT86/95 subpacket, temporal sequence or independent direction anchor in the inspected material.",
+      "disposition": "source_access_gate_completed_bounded_role_result_unresolved",
+      "witnesses": [
+        "HT86",
+        "HT95",
+        "HT120",
+        "Casa del Lebete Rooms7/9"
+      ],
+      "evidence_path": "agents/archive_context/observations.json",
+      "additional_evidence_paths": [
+        "agents/archive_context/ARCHIVE_CONTEXT_AUDIT.md",
+        "agents/archive_context/source_ledger.json"
+      ],
+      "basis_and_limits": "Complete Montecchi2019 PDF recovered. Her museum assessment retains Hand6 for86/120/123;95 remains unattributed. Published diary transcription allows multiple deposits/dispersal. Room7 above-threshold and Room9 below-threshold statements remain separate; no individual-tablet assignment to those points. No A-DU/Bastione anchor or HT120 conversion equation recovered in selected sections. Full Militello2011 remains unread.",
+      "strongest_rival": "Common fall/storage, several original locations, recurring administrative cycles, allocations and collections remain compatible with these context observations.",
+      "evidence_needed_to_reopen_or_advance": "Tablet-specific original context, physical attachment, explicit chronological/stock relationship, or other evidence that constrains an action independently.",
+      "evidence_access_level": "Full monograph plus its published primary-diary transcriptions; selected original1977 OCR; no independent original-manuscript prose autopsy.",
+      "dependencies": [
+        "ARC34-S01",
+        "ARC34-S02",
+        "ARC34-S04",
+        "LA-033-004"
+      ]
+    },
+    {
+      "iteration": 34,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/034/Linear_A_Iteration_34.zip",
+      "archive_path_resolution": "New paths relative to iteration34 archive root; inherited records retain historical checkpoint scope.",
+      "novelty": "New project source control or bounded analysis of known material; no bibliographic priority, new ancient object or decipherment claim.",
+      "id": "LA-034-005",
+      "claim": "PHWa32 organic contact and PHWa52 same-seal links do not independently identify written-document attachment, direction or participant role in the inspected source packet.",
+      "disposition": "bounded_mechanism_test_retains_rivals_and_reading_branches",
+      "witnesses": [
+        "PHWa32/HM1491",
+        "PH12b",
+        "PHWa52/HM689",
+        "CMS II.5 no.300"
+      ],
+      "evidence_path": "agents/role_anchors/CANDIDATE_OBSERVATIONS.json",
+      "additional_evidence_paths": [
+        "agents/role_anchors/ROLE_ANCHOR_AUDIT.md",
+        "agents/role_anchors/SOURCE_LEDGER.json"
+      ],
+      "basis_and_limits": "Notti–Greco2023 p507 gives tentative papyrus-like contact and pending specialists; PH12b work-surface interpretation is a concrete competing mechanism, not a demonstration for Wa32. SigLA RA and published RI readings remain unadjudicated. GORILA II locator is printed90, selector150. Hallager1995 reports Wa52 seal on two box sealings while qualifying AB131a/WINE and room assignment. Linked boxes not individually identified; no scientific clay origin recovered.",
+      "strongest_rival": "Document/goods attachment, manufacture/resting contact, retained or transferred tags, FROM/TO and nondirectional place/category association remain live; same device need not mean one person.",
+      "evidence_needed_to_reopen_or_advance": "Object-specific attachment topology and completed material identification; accessible RI/RA apparatus; exact related objects and externally oriented transaction/participant link.",
+      "evidence_access_level": "Original2023 and1995 pages and2017 study inspected, direct database markup retained;1994 full arguments unaccessed.",
+      "dependencies": [
+        "RA34-S01",
+        "RA34-S02",
+        "RA34-S03",
+        "RA34-S04",
+        "RA34-S05",
+        "LA-H011",
+        "LA-H015"
+      ]
+    },
+    {
+      "iteration": 34,
+      "updated_date": "2026-10-16",
+      "campaign_archive": "iterations/034/Linear_A_Iteration_34.zip",
+      "archive_path_resolution": "New paths relative to iteration34 archive root; inherited records retain historical checkpoint scope.",
+      "novelty": "New project source control or bounded analysis of known material; no bibliographic priority, new ancient object or decipherment claim.",
+      "id": "LA-034-006",
+      "claim": "Sparse existing Anetaki index entries and differently defined corpus totals cannot support lexical-absence or numerical coverage claims.",
+      "disposition": "bounded_coverage_and_source_gate_recorded",
+      "witnesses": [
+        "KNZg57a",
+        "KNZg57b",
+        "KNZg58",
+        "RILA-S1 metadata"
+      ],
+      "evidence_path": "results/coverage_results.json",
+      "additional_evidence_paths": [
+        "sources/coverage_observations.json",
+        "sources/root_source_ledger.json",
+        "code/coverage_audit.py"
+      ],
+      "basis_and_limits": "KNZg57a has17 nonblank indexed slots;57b has0 against10 raw slots;58 has one empty slot. These are existing entries, not newly discovered objects. The known ring/handle overview supplies no full critical sequence for the proposed new comparison. CNR2025 counts107 added documents/427signs and1534 inscriptions;1721 index records are a different unit. Full RILA-S1 and a complete new Anetaki edition not recovered.",
+      "strongest_rival": "An absent normalized token can reflect missing transcription/coverage rather than absence on the ancient object. Publication availability beyond the inspected routes remains open.",
+      "evidence_needed_to_reopen_or_advance": "A complete source-checked edition plus explicit object/face/record crosswalk and an independently comparable lexical or role context.",
+      "evidence_access_level": "Frozen index inventory, full overview, institutional announcement/metadata only for supplement.",
+      "dependencies": [
+        "ROOT34-S01",
+        "ROOT34-S02",
+        "ROOT34-S03",
+        "LA-H035"
+      ]
+    },
+    {
+      "iteration": 35,
+      "updated_date": "2026-10-17",
+      "campaign_archive": "iterations/035/Linear_A_Iteration_35.zip",
+      "archive_path_resolution": "New paths relative to the iteration35 archive root; inherited paths keep historical checkpoint scope.",
+      "novelty": "New project source inspection or bounded consistency analysis of known material; not bibliographic priority, a new ancient witness or decipherment.",
+      "id": "LA-035-001",
+      "claim": "THEZb13 has a source-supported prefiring inscription phase, excluding whole-text first creation only after receipt of an already fired vessel.",
+      "disposition": "restricted_physical_order_promoted_semantics_unassigned",
+      "witnesses": [
+        "THEZb13",
+        "AkrotiriA8534",
+        "KarnavaI2"
+      ],
+      "evidence_path": "results/production_order_results.json",
+      "additional_evidence_paths": [
+        "data/production_order.json",
+        "agents/review/THE_Zb13_CRITICAL_OVERLAY.json",
+        "agents/phwa32_material/THE_Zb13_INDEPENDENT_TIMING_REVIEW.md"
+      ],
+      "basis_and_limits": "Original2005p219 reports incisions and impressions before paint, paint before wet-clay deformation, and firing after deformation. This is an investigator-reported ensemble chronology, not an independent date for every component. There is no required every-incision-before-every-stamp edge. Algorithm checks source-conditioned order, not translation.",
+      "strongest_rival": "A prefiring maker, workshop, intended-recipient, contents, category or account designation remains compatible; later additions and unmarked delivery/acceptance are not universally excluded.",
+      "evidence_needed_to_reopen_or_advance": "A stable written component linked to an independently established manufacturing, commission, allocation or handling relationship that differs under rival participant roles.",
+      "evidence_access_level": "Full2005 first edition and2018 monograph inspected; decisive original pages independently reviewed; no object autopsy.",
+      "dependencies": [
+        "REV35-S04",
+        "REV35-S01",
+        "R35-PRODUCTION-ORDER"
+      ],
+      "action_meaning": null,
+      "participant_role": null
+    },
+    {
+      "iteration": 35,
+      "updated_date": "2026-10-17",
+      "campaign_archive": "iterations/035/Linear_A_Iteration_35.zip",
+      "archive_path_resolution": "New paths relative to the iteration35 archive root; inherited paths keep historical checkpoint scope.",
+      "novelty": "New project source inspection or bounded consistency analysis of known material; not bibliographic priority, a new ancient witness or decipherment.",
+      "id": "LA-035-002",
+      "claim": "THEZb13 normalized KA-A-SI-TE and the trailing second120 cannot be treated as a secure complete designation and repeated account.",
+      "disposition": "critical_overlay_added_raw_unchanged",
+      "witnesses": [
+        "THEZb13"
+      ],
+      "evidence_path": "agents/review/THE_Zb13_CRITICAL_OVERLAY.json",
+      "additional_evidence_paths": [
+        "agents/review/AKROTIRI_AND_THE_Zb13_FINDINGS.md",
+        "agents/review/SOURCES.json"
+      ],
+      "basis_and_limits": "First-edition uncertain signs, erased components and number/word-boundary alternatives are retained. One tentative120 appears in its transcription; the extra final indexed120 has no corresponding second entry there. Notti's100 correction and the first edition's reported220 addition remain alternatives. A588 is the best-supported shared component, with modifier and role unassigned.",
+      "strongest_rival": "Damaged classification, tally, quantity correction/addition and a partly preserved designation remain possible; no stock change or ten-unit seal calibration is established.",
+      "evidence_needed_to_reopen_or_advance": "A target-specific critical reedition distinguishing incisions, erasures and numeral/sign boundaries, followed by independent event/unit identification before any accounting inference.",
+      "evidence_access_level": "Original2005pp219–221 and later firsthand reassessment inspected; frozen raw entry retained verbatim.",
+      "dependencies": [
+        "REV35-S04",
+        "REV35-S03",
+        "REV35-S01"
+      ],
+      "action_meaning": null,
+      "participant_role": null
+    },
+    {
+      "iteration": 35,
+      "updated_date": "2026-10-17",
+      "campaign_archive": "iterations/035/Linear_A_Iteration_35.zip",
+      "archive_path_resolution": "New paths relative to the iteration35 archive root; inherited paths keep historical checkpoint scope.",
+      "novelty": "New project source inspection or bounded consistency analysis of known material; not bibliographic priority, a new ancient witness or decipherment.",
+      "id": "LA-035-003",
+      "claim": "PHWa32 has direct GORILAAB53 support against the SigLAAB60 branch, and a source-reported secondary-fill context that prevents treating Room10 as an original event anchor.",
+      "disposition": "reading_branches_and_context_qualification_preserved",
+      "witnesses": [
+        "PHWa32/HM1491",
+        "source_alias_PHWb32"
+      ],
+      "evidence_path": "agents/phwa32_material/observations.json",
+      "additional_evidence_paths": [
+        "agents/phwa32_material/audit.md",
+        "agents/phwa32_material/source_ledger.json"
+      ],
+      "basis_and_limits": "GORILAVp220 and238 explicitly print58–67–53–59. Later PH54 paleographic discussion listsWa32 asAB53; repeated tradition is not independent voting. Girellap78n122 reports compromised stratigraphy in secondaryLMI fill. The2025 abstract and tiny project images expose no completed object-specific specialist report or attachment topology in the inspected material. No target-stroke comparison explains SigLAAB60.",
+      "strongest_rival": "Resting/manufacture contact, packaging attachment and written-support attachment remain live; place-like association need not mark origin or destination.",
+      "evidence_needed_to_reopen_or_advance": "Fiandra1994pp15–26/fig3, Militello1994pp27–30, Militello2002p67 or a completed diagnostic material/imaging report, with independent use/event orientation.",
+      "evidence_access_level": "Original corpus images and archaeological article, complete2025 abstract and98pixel public images inspected; named1994/2002 originals unread.",
+      "dependencies": [
+        "P35-S01",
+        "P35-S02",
+        "P35-S03",
+        "P35-S04",
+        "P35-S05",
+        "RA34-S03",
+        "LA-034-005"
+      ],
+      "action_meaning": null,
+      "participant_role": null
+    },
+    {
+      "iteration": 35,
+      "updated_date": "2026-10-17",
+      "campaign_archive": "iterations/035/Linear_A_Iteration_35.zip",
+      "archive_path_resolution": "New paths relative to the iteration35 archive root; inherited paths keep historical checkpoint scope.",
+      "novelty": "New project source inspection or bounded consistency analysis of known material; not bibliographic priority, a new ancient witness or decipherment.",
+      "id": "LA-035-004",
+      "claim": "PHWa52's individual box-sealing packet remains unidentified; original and later enumerations cannot be collapsed into a complete three-object census.",
+      "disposition": "bounded_packet_and_access_constraints_recorded",
+      "witnesses": [
+        "PHWa52/HMs689",
+        "CMSII.5.300",
+        "HMs789",
+        "HMs789theta",
+        "CMSII.5.205"
+      ],
+      "evidence_path": "agents/seal_relations/observations.json",
+      "additional_evidence_paths": [
+        "agents/seal_relations/audit.md",
+        "agents/seal_relations/source_ledger.json"
+      ],
+      "basis_and_limits": "Publisher-linked Levi text enumerates four undertype189/Inv689; Hallager describes one inscribed nodule and two boxes without claiming an exhaustive count. Arachne gives unsuffixed689/789 carrier links without exact box/theta IDs. Generic negative inscription metadata cannot erase the published inscription. Flouda2024 full15page article remains uninspected.",
+      "strongest_rival": "Different source enumeration scopes and multiple objects under an unsuffixed inventory remain possible; common device alone identifies neither an administrator nor a transaction direction.",
+      "evidence_needed_to_reopen_or_advance": "Individual inventory suffixes, original reverse/closure images, fullFlouda2024 and an independently located attachment/opening/use event.",
+      "evidence_access_level": "Original Hallager pages; publisher-linked Levi text extraction, not page images; public catalogue fields; Floudaabstract/access metadata only.",
+      "dependencies": [
+        "SR-S01",
+        "SR-S02",
+        "SR-S04",
+        "SR-S05",
+        "SR-S06",
+        "LA-034-005"
+      ],
+      "action_meaning": null,
+      "participant_role": null
+    },
+    {
+      "iteration": 35,
+      "updated_date": "2026-10-17",
+      "campaign_archive": "iterations/035/Linear_A_Iteration_35.zip",
+      "archive_path_resolution": "New paths relative to the iteration35 archive root; inherited paths keep historical checkpoint scope.",
+      "novelty": "New project source inspection or bounded consistency analysis of known material; not bibliographic priority, a new ancient witness or decipherment.",
+      "id": "LA-035-005",
+      "claim": "The ZA/HT seal-group crosswalk supports a qualified device/sign comparison but no independently directed transaction or identified participant.",
+      "disposition": "exact_crosswalk_with_provenance_and_membership_conditions",
+      "witnesses": [
+        "ZAWa36/HMs94",
+        "HTWa1117/HMs1660",
+        "HTWa1118/HMs1668",
+        "HTWa1031/HMs1715",
+        "CMSII.6.68",
+        "CMSII.7.45"
+      ],
+      "evidence_path": "sources/root/RELATION_AUDIT.md",
+      "additional_evidence_paths": [
+        "agents/seal_relations/observations.json",
+        "agents/seal_relations/audit.md",
+        "agents/phwa32_material/observations.json",
+        "sources/root/source_ledger.json",
+        "agents/seal_relations/HTWa1031_SIGN_CONTRAST_ADDENDUM.md",
+        "data/conditional_device_sign.json"
+      ],
+      "basis_and_limits": "Original GORILA old inventories and explicit Arachne modern inscriptions establish object crosswalks. Clay similarity is macroscopic; indexed originalCMS retains uncertain findspot/alternativeAj.Triada. Halbherr1903col36no13 confirms three examples but neither a complete later census nor an independent modern device crosswalk. HMs1715's poor impression weakens any within-device sign contrast involving it. Actor and direction fields stay null. Original corpus AB01 onHTWa1031 contrasts with AB02 on1117/1118. If the thirddevice assignment is retained, one fixed incised sign per device fails in this packet; excluding1715 removes that counterexample.",
+      "strongest_rival": "Shipment, local retention, movement of a seal/material, museum misallocation or third-impression grouping error remain live at their respective source gates.",
+      "evidence_needed_to_reopen_or_advance": "Full originalCMS captions/concordances, reliable third-device attribution, and object-specific provenance plus independently located marking/attachment events.",
+      "evidence_access_level": "OriginalGORILA images, explicit publicArachne fields, fullMontecchi andHalbherr1903; CMSII.7 original text only in indexed excerpts; no physical autopsy or laboratory analysis.",
+      "dependencies": [
+        "P35-S09",
+        "P35-S10",
+        "SR-S08",
+        "SR-S09",
+        "ROOT35-S01",
+        "ROOT35-S02",
+        "ROOT35-S03",
+        "ARC34-S01",
+        "SR-S10",
+        "SR-S11",
+        "SR-S12"
+      ],
+      "action_meaning": null,
+      "participant_role": null
+    },
+    {
+      "iteration": 35,
+      "updated_date": "2026-10-17",
+      "campaign_archive": "iterations/035/Linear_A_Iteration_35.zip",
+      "archive_path_resolution": "New paths relative to the iteration35 archive root; inherited paths keep historical checkpoint scope.",
+      "novelty": "New project source inspection or bounded consistency analysis of known material; not bibliographic priority, a new ancient witness or decipherment.",
+      "id": "LA-035-006",
+      "claim": "The inspected Akrotiri hanging-nodule sources do not join an exact analytical sample to a readable designation and a located writing/dispatch event.",
+      "disposition": "bounded_sample_inscription_join_unmet",
+      "witnesses": [
+        "N69/A8942/CMSVSuppl3.401",
+        "N70/A11695"
+      ],
+      "evidence_path": "agents/review/AKROTIRI_OBJECT_CROSSWALK.json",
+      "additional_evidence_paths": [
+        "agents/review/AKROTIRI_AND_THE_Zb13_FINDINGS.md",
+        "agents/review/SOURCES.json"
+      ],
+      "basis_and_limits": "N69 lower half missing: incision status unknown, not certainly uninscribed. No readable designation recovered onN70. Macroscopic pasteD/E and author import assessments are separate from exact sample attribution. The2018 account and2008 aggregate analytical report expose no target-specific sample table in inspected material. Müller2005p789 remains citation-only and is not equated with the later2005–06 programme.",
+      "strongest_rival": "The earlier chemical attribution could be valid; absence of a later sample table does not refute it. Material, unfinished-object and sealed-item movement are different mechanisms.",
+      "evidence_needed_to_reopen_or_advance": "OriginalMüller2005p789 and exact analytical sample records joined to a legible written object; independent production/marking location before sender/recipient assignment.",
+      "evidence_access_level": "Full2018 monograph and original2008authors institutional report; exact object catalogue pages inspected; earlier analytical source not independently recovered.",
+      "dependencies": [
+        "REV35-S01",
+        "REV35-S02",
+        "ARC34-S01"
+      ],
+      "action_meaning": null,
+      "participant_role": null
+    },
+    {
+      "id": "LA-036-001",
+      "iteration": 36,
+      "updated_date": "2026-10-17",
+      "claim": "The original KN Zb34/NM1160 compound-sign entry is source-checked, but its comparison with THE Zb13 supplies no new independent binding of the relevant component to contents, production or a participant role.",
+      "disposition": "source_control_improved_semantic_branch_parked",
+      "evidence_kind": "original_edition_and_bounded_context_feasibility_audit",
+      "witnesses": [
+        "KN Zb34",
+        "NM1160",
+        "THE Zb13/A8534 (inherited comparison)"
+      ],
+      "evidence_path": "iterations/036/observations.json",
+      "additional_evidence_paths": [
+        "iterations/036/REPORT.md",
+        "iterations/036/source_ledger.json",
+        "review/ROOT_SOURCE_REVIEW.md"
+      ],
+      "campaign_archive": "iterations/036-037/Linear_A_Iterations_36_37.zip",
+      "archive_path_resolution": "New paths relative to the combined36–37 archive root; inherited claim paths retain their original archive scope.",
+      "basis_and_limits": "GORILA IV p79 publishes one compound sign on the KN Zb34 entry and identifies NM1160; no whole-object autopsy is claimed. The no-numeral comparison was already reported by the inherited2005 source. GORILA's Third West Magazine field and Firth's explicit findplace qualification remain distinct. Conventional AB131/VIN is retained; no independent meaning of the added AB04/TE or participant relationship is established.",
+      "strongest_rival": "Contents/category, producer/workshop and intended-recipient interpretations all accommodate the acquired observations and can coexist within a compound. No serious semantic rival is falsified.",
+      "evidence_needed_to_reopen_or_advance": "An exact independently supported product, capacity, production, commission or allocation relation bound to a stable written component, or a comparison that separates these relations. Another occurrence or general prefiring parallel is insufficient.",
+      "evidence_access_level": "Original GORILA IV ppXIX,XXXII–XXXIII,79 images inspected; full Firth2016 PDF acquired with relevant pp235,246–247 read; no object autopsy.",
+      "dependencies": [
+        "V36-S01",
+        "V36-S02",
+        "LA-035-001",
+        "LA-035-002"
+      ],
+      "novelty": "Source inspection and a bounded decision new to this run; no new ancient witness, scholarly priority or linguistic discovery.",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false
+    },
+    {
+      "iteration": 38,
+      "updated_date": "2026-10-21",
+      "campaign_archive": "iterations/038/Linear_A_Campaign_038.zip",
+      "archive_path_resolution": "C038 paths are relative to the Campaign038 archive root; inherited paths retain their historical archive scope.",
+      "novelty": "New project source-control/inference record of published material; not new ancient evidence, scholarly priority or decipherment.",
+      "witnesses": [
+        "KH Wc2123 / Khania Museum KH2123"
+      ],
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "id": "LA-038-001",
+      "claim": "KH Wc2123 requires a source-controlled qualification of its flattened raw index entry: the original edition brackets the full three-element group as erased, retains residual PI-KA, and leaves a consequentially uncertain first mark whose identification remains disputed in the inspected later sources.",
+      "disposition": "source_qualification_overlay_required",
+      "evidence_kind": "original_edition_and_later_critical_source_comparison",
+      "evidence_path": "iterations/038/evidence/KHWc2123_critical_overlay.json",
+      "additional_evidence_paths": [
+        "iterations/038/evidence/raw_index_record.json",
+        "iterations/038/evidence/EVIDENCE_RECORD.json",
+        "iterations/038/agents/independent_challenger/OVERLAY_CHECK.json"
+      ],
+      "basis_and_limits": "Partial physical erasure is distinct from full-group editorial notation. Proposed A373, possible tripod variant and unresolved first mark remain branches. The comma is editorial; no ancient divider is established. Raw *810 has only a local positional relationship to that first mark; no global A373 alias recovered. No referent or participant role selected.",
+      "strongest_rival": "The residual designation may belong to an earlier counterparty/account entry before correction or reuse; continued responsibility reference is also compatible.",
+      "evidence_needed_to_reopen_or_advance": "Exact independent referent/role binding at the relevant written stage; better object imaging can resolve reading but alone does not assign role.",
+      "evidence_access_level": "Original2007 target textpp13–15 plus actual author-hosted fig5; fig7 partial auxiliary crop. Later target pages100/586 acquired, read and rendered. No museum autopsy; full original PDF not locally obtained.",
+      "dependencies": [
+        "C038-S03",
+        "C038-S04",
+        "C038-S05",
+        "C038-S08",
+        "I21_FROZEN",
+        "R32-S6"
+      ]
+    },
+    {
+      "iteration": 38,
+      "updated_date": "2026-10-21",
+      "campaign_archive": "iterations/038/Linear_A_Campaign_038.zip",
+      "archive_path_resolution": "C038 paths are relative to the Campaign038 archive root; inherited paths retain their historical archive scope.",
+      "novelty": "New project source-control/inference record of published material; not new ancient evidence, scholarly priority or decipherment.",
+      "witnesses": [
+        "KH Wc2123 / Khania Museum KH2123"
+      ],
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "id": "LA-038-002",
+      "claim": "Conditional on the original editors’ reported inscription–erasure–stamping sequence and a single relevant writing episode, first creation of the erased KH Wc2123 inscription wholly after the surviving stamping is inconsistent; the campaign did not independently verify a decisive microscopic crosscut.",
+      "disposition": "conditional_published_physical_order_exclusion",
+      "evidence_kind": "source_attributed_physical_sequence_and_logical_exclusion",
+      "evidence_path": "iterations/038/analysis/RIVAL_COMPARISON.md",
+      "additional_evidence_paths": [
+        "iterations/038/evidence/KHWc2123_critical_overlay.json",
+        "iterations/038/agents/source_epigraphy/P2_SOURCE_REPORT.md",
+        "iterations/038/REVIEW_ADJUDICATION.md"
+      ],
+      "basis_and_limits": "One carrier and several surviving impression placements do not identify a total event/operator count. Physical order does not establish text-reference continuity, cancellation, settlement or a linguistic action. The acquired plate does not independently settle the timing microsequence.",
+      "strongest_rival": "Earlier recipient/counterparty or account designation followed by correction/reuse, with no necessary continuity to the stamped operation; compatible with the same reported chronology.",
+      "evidence_needed_to_reopen_or_advance": "Specific documented surface intersections to verify or contradict chronology; independent role/referent evidence is separately needed for semantics.",
+      "evidence_access_level": "Original text and figure check; chronology retained as editors’ assessment. Independent challenge reproduced the conditional implication, not an object autopsy.",
+      "dependencies": [
+        "C038-S03",
+        "LA-038-001"
+      ]
+    },
+    {
+      "id": "LA-039-001",
+      "iteration": 39,
+      "updated_date": "2026-10-22",
+      "claim": "SI Zg1 requires a source-controlled qualification: DA-*118 is not a uniquely established phonetic word; newer specialist sources retain AB01/numeral11, report the adjacent Z-trace accidental, and differ on the directional condition.",
+      "disposition": "source_qualification_overlay_required",
+      "evidence_kind": "direct_primary_project_record_and_complete_target_argument_text",
+      "witnesses": [
+        "SI Zg1 / Heraklion L2615"
+      ],
+      "evidence_path": "iterations/039/evidence/SIZg1_critical_overlay.json",
+      "additional_evidence_paths": [
+        "iterations/039/agents/challenger/REVIEW.md",
+        "iterations/039/evidence/raw_index_record.json"
+      ],
+      "dependencies": [
+        "C039-S01",
+        "C039-S02",
+        "I21_FROZEN"
+      ],
+      "basis_and_limits": "Reported specialist autopsy not replicated. Figure pixels and original GORILA plate uninspected. No explicit fractionD occurs in raw row; no deletion from it. Whole-group syllabic and local logographic uses remain alternatives.",
+      "strongest_rival": "A genuine fish-associated weight bears a phonetic/entity/account designation; group-count interpretation also remains.",
+      "evidence_needed_to_reopen_or_advance": "Independently linked calibrated series/counterpart/use record binding a component to a function; actual surface evidence may separately resolve reading.",
+      "evidence_access_level": "Complete INSCRIBE page and MontecchiAB118 section pp182–186 text; no independent pixel/autopsy examination.",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "novelty": "New project source-control record and access evaluation of published argument; no new ancient witness.",
+      "campaign_archive": "iterations/039/Linear_A_Campaign_039.zip"
+    },
+    {
+      "id": "LA-040-001",
+      "iteration": 40,
+      "updated_date": "2026-10-23",
+      "claim": "Akrotiri9384/AB81 and9730/AB164a require a qualified production/measurement packet: the later exact-pair source reports technical differences, only9384 measured~7.95L, incision before coating, possible lost AB81 continuation, and withdrawal of necessary maker/scribe separation. This pair does not independently hold manufacture and capacity constant when testing contents versus production labels.",
+      "disposition": "source_object_and_conditional_production_constraints_retained_semantics_unresolved",
+      "evidence_kind": "exact_inventory_photo_concordance_and_later_primary_source_comparison",
+      "witnesses": [
+        "Akrotiri9384",
+        "Akrotiri9730"
+      ],
+      "evidence_path": "iterations/040/evidence/EVIDENCE_RECORD.json",
+      "additional_evidence_paths": [
+        "iterations/040/agents/SOURCE_DOSSIER.md",
+        "iterations/040/agents/challenger/REVIEW_ADDENDUM.md",
+        "iterations/040/analysis/RIVAL_COMPARISON.md"
+      ],
+      "dependencies": [
+        "C040-S01",
+        "C040-S02"
+      ],
+      "basis_and_limits": "Actual photos and Greek text checked; source-reported surface sequence, modern fill not repeated. Same broadG10 class does not supply measured equal volumes or common manufacturing group. Technical contrast grounds a production-related rival but identifies no workshop or role. A fixed coarse-type-to-one-preserved-mark rule fails only under that restricted deterministic model.",
+      "strongest_rival": "Production/workshop-related designation, positively grounded by manufacturing contrast. A commissioned recipient is permitted by the timing but no order is independently recovered; contents/use remains live and can covary with production.",
+      "evidence_needed_to_reopen_or_advance": "Manufacture-controlled content/use comparison or content-controlled production series linked independently of the marks; exact samples/contexts required.",
+      "evidence_access_level": "2021target284–286 and2024conference/2025posted targetGreek passages plus actual local photographs/inventory cards; no object autopsy/analytical sample notebooks/fill replication.",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "novelty": "New project source/object/physical control and comparative confound; published evidence, no new ancient witness.",
+      "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip"
+    },
+    {
+      "id": "LA-041-001",
+      "iteration": 41,
+      "updated_date": "2026-10-23",
+      "claim": "The original2019 Akrotiri catalogue securely maps1121 to9384 and1122 to9730, refines source-specific rim measurements and qualifies mark/use history. The inspected sample concordance does not furnish a direct exact-target analytical join; the pair still does not provide a crossed independent manufacture/content comparison.",
+      "disposition": "catalogue_source_qualification_retained_exact_analytical_binding_unrecovered",
+      "evidence_kind": "original_catalogue_entries_actual_plates_and_bounded_sample_concordance_check",
+      "witnesses": [
+        "Akrotiri9384/catalogue1121",
+        "Akrotiri9730/catalogue1122"
+      ],
+      "evidence_path": "iterations/041/evidence/CATALOGUE_OVERLAY.json",
+      "additional_evidence_paths": [
+        "iterations/041/agents/SOURCE_ROUTE.md",
+        "iterations/041/agents/challenger/REVIEW.md",
+        "iterations/041/analysis/JOIN_DECISION.md"
+      ],
+      "dependencies": [
+        "C041-S01",
+        "C041-S02",
+        "C041-S03",
+        "LA-040-001"
+      ],
+      "basis_and_limits": "2019 outer/inner rim values and later approximate rim accounts remain separate; older tentativeAB9/27 comparison does not refute laterAB81 attribution. No target use diagnosis from fabric label or neighboring soot. No exact join in inspected Table3.23; blank cells, numbering gaps and separate sample namespaces prohibit a never-sampled inference.",
+      "strongest_rival": "Contents/use and production-related marking remain unresolved; technical contrast grounds production rival but identifies no workshop. Recipient remains timing-compatible without independent order evidence.",
+      "evidence_needed_to_reopen_or_advance": "Exact inventory/catalogue-to-specimen register or documented refit/photo join, diagnostic use data at the relevant temporal/resolution scope, and comparison separating manufacture from content/use; consequential surface evidence can separately refine reading.",
+      "evidence_access_level": "Official full2019 PDFs acquired, selected target/plate/concordance actual pixels inspected independently;2013 author-hosted table transcription, no table pixels;2021 residue article zero pages.",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "novelty": "New project source access and controlled catalogue/sample-link evaluation; no new ancient carrier or semantic identification.",
+      "campaign_archive": "iterations/041/Linear_A_Campaign_041.zip"
+    },
+    {
+      "iteration": 42,
+      "updated_date": "2026-10-25",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "campaign_archive": "iterations/042/Linear_A_Campaign_042.zip",
+      "id": "LA-042-001",
+      "claim": "KN Zb27/HM5194 has preferred source numeral107 from Del Freo2017 p17 reporting the22June2012 autopsy with Zurbach. The inherited corpus17 and Olivier1992/Christakis2010 reading117 remain historical branches; the raw corpus is unchanged.",
+      "disposition": "scoped_source_reading_correction_retained",
+      "evidence_kind": "originalcorrectionpage_pixels_and_later_reported_autopsy",
+      "witnesses": [
+        "KN Zb27/HM5194"
+      ],
+      "evidence_path": "iterations/042/evidence/READING_AND_OBJECT_OVERLAY.json",
+      "additional_evidence_paths": [
+        "iterations/042/agents/source_archaeology/C042_SOURCE_REPORT.md",
+        "iterations/042/agents/challenger/C042_FINAL_REVIEW.md"
+      ],
+      "dependencies": [
+        "C042-S01",
+        "C042-S02",
+        "C042-S03"
+      ],
+      "basis_and_limits": "Exact HM5194 identity from Christakis profile/text. Del Freo source text inspected, not new object autopsy or revisedfacsimile. Original Brice reading uninspected; later accounts conflict. No word or role meaning follows.",
+      "strongest_rival": "Historical17/117 are numerical sensitivities; new imagery may refine strokes but current preference follows later reported examination.",
+      "evidence_needed_to_reopen_or_advance": "Current high-resolution numeral documentation and announced supplement; independent unit/scope counterpart required for meaning.",
+      "evidence_access_level": "Olivier1992p446 actualpixels; Christakis2010text and teamfigures; DelFreo2017p17authorfulltext.",
+      "novelty": "New project reading overlay and source chronology; no new ancient observation or discovery priority."
+    },
+    {
+      "iteration": 42,
+      "updated_date": "2026-10-25",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "campaign_archive": "iterations/042/Linear_A_Campaign_042.zip",
+      "id": "LA-042-002",
+      "claim": "Under a common positive volume unit and full individual-carrier capacity (or one common filling fraction), KN Zb27 and ZA Zb3 are incompatible at inspected published capacities. The constraint survives nine historically grounded numeral combinations; variable partial fill, different units and wider accounting scope remain viable.",
+      "disposition": "conditional_structural_physical_constraint_retained_no_semantic_scope_selected",
+      "evidence_kind": "sourcequalified_capacity_model_and_posthoc_conditional_geometry_sensitivity",
+      "witnesses": [
+        "KN Zb27/HM5194",
+        "ZA Zb3"
+      ],
+      "evidence_path": "iterations/042/analysis/capacity_results.json",
+      "additional_evidence_paths": [
+        "iterations/042/analysis/C042_ANALYSIS.md",
+        "iterations/042/evidence/ZA_SOURCE_CONTROL.md",
+        "iterations/042/ADJUDICATION.md",
+        "iterations/042/agents/challenger/C042_FINAL_REVIEW.md"
+      ],
+      "dependencies": [
+        "LA-042-001",
+        "C042-S01",
+        "C042-S02",
+        "C042-S04",
+        "C042-S05",
+        "C042-S06",
+        "C042-S08"
+      ],
+      "basis_and_limits": "KNabout34L lacks method/error in inspected article; ZA556L±11% is source geometricallowance, not statisticalinterval. Preferred107/32;21/22 and17/117 historical sensitivity. Source-led outer-cylinder bound116.93L assumes H53cm, axisymmetry, D≤H and faithfulprofile. Commonunit/fullscope are premises, not establishedfacts. No28.8L calibration used.",
+      "strongest_rival": "Published implicit small/local-unit interpretation; variable partialfilling. Collective or cumulative scope remains possible but unselected.",
+      "evidence_needed_to_reopen_or_advance": "Independent denomination equation, fill convention or exact container/account counterpart fixing unit/scope. Full Notti2025 or HM5194 geometry can improve physicalinputs without automatically selecting meaning.",
+      "evidence_access_level": "Original capacity/numeral source pages inspected as reported inledger; no performed ancientobject measurement or unusedvalidation.",
+      "novelty": "Formalized and quantified project constraint with corrected reading and explicit countermodels; Olivier1992 already noticed ordinal anomaly."
+    },
+    {
+      "updated_date": "2026-10-26",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "id": "LA-043-001",
+      "iteration": 43,
+      "claim": "The physically selected five-nodule packet yields one readable inscription, HMs557 = HT Wa1018 SI-KA, in the labeling class and no readable carrier in the reconstructed two-end-securing class. A writing-to-cord-function comparison is not admitted.",
+      "disposition": "source_object_join_retained_semantic_comparison_ineligible",
+      "evidence_kind": "exact_inventory_catalogue_text_join_with_physical_source_and_independent_review",
+      "witnesses": [
+        "HT HMs451/5",
+        "HT HMs546/1",
+        "HT HMs557 / HTWa1018",
+        "HT HMs1657",
+        "ZA HMs1143"
+      ],
+      "evidence_path": "iterations/043/evidence/JOIN_FINAL.json",
+      "additional_evidence_paths": [
+        "iterations/043/analysis/result.json",
+        "iterations/043/review/FINAL_REVIEW.md",
+        "iterations/043/ADJUDICATION.md"
+      ],
+      "dependencies": [
+        "RA34-S01",
+        "C043-S01",
+        "C043-S02"
+      ],
+      "basis_and_limits": "One readable labeling-class object cannot test a cross-function dependency. Catalogue negatives on fragments do not prove originally uninscribed carriers; an absent ZA field remains unknown. Cord securing is local topology, not an identified container or transaction. Original CMS/GORILA target pages remain uninspected.",
+      "strongest_rival": "Operation code, entity/category or wider administrative designation remain untested; SI-KA is not translated.",
+      "evidence_needed_to_reopen_or_advance": "An exact readable nodule with independently documented two-end securing topology, selected through physical evidence, or a source correction changing a target join.",
+      "campaign_archive": "iterations/043/Linear_A_Campaign_043.zip",
+      "semantic_experiment_admitted": false,
+      "graded_semantic_preference": false
+    },
+    {
+      "updated_date": "2026-10-26",
+      "action_meaning": null,
+      "participant_role": null,
+      "new_semantic_relationship": false,
+      "new_testable_linguistic_prediction": false,
+      "new_to_scholarship": false,
+      "id": "LA-044-001",
+      "iteration": 44,
+      "claim": "HT31.1/A410VAS is better supported as a bronze-cauldron vessel class than as the particular ceramic tripod cooking-pot class represented by kiln waster5.3/c.29a1. Combined basin, handle and support morphology provides independent archaeological support. Exclusive bronze extension remains unconfirmed; excluding an exclusively ceramic kiln list is conditional.",
+      "disposition": "graded_local_category_preference_material_extension_and_action_roles_unconfirmed",
+      "evidence_kind": "primary_sign_and_archaeological_object_morphology_compared_with_exact_local_ceramic_rival_and_independent_review",
+      "witnesses": [
+        "HT31.1 / A410VAS / LA545",
+        "Malia Quartier Mu inventory3068",
+        "Haghia Triada kiln catalogue5.3 / c.29a1"
+      ],
+      "evidence_path": "iterations/044/REPORT.md",
+      "additional_evidence_paths": [
+        "iterations/044/evidence/HT31_OVERLAY.json",
+        "iterations/044/evidence/SOURCE_PACKET.md",
+        "iterations/044/evidence/MATERIAL_RIVAL.md",
+        "iterations/044/analysis/INFERENCE.md",
+        "iterations/044/review/FINAL_REVIEW.md",
+        "iterations/044/ADJUDICATION.md"
+      ],
+      "dependencies": [
+        "C044-S01",
+        "C044-S02",
+        "C044-S03",
+        "C044-S04",
+        "C044-S05",
+        "C044-S06"
+      ],
+      "basis_and_limits": "The actual sign and Malia3068 photo share rounded basin, upright handles and long supports; handle counts differ. The ceramic waster has cylindrical wall and horizontal handle, without preserved legs. Incised width is not a physical mechanical test. Vandenabeele underlies Duhoux/Militello; no exact tablet-to-batch join. Puglisi target pixels and Duhoux2003 direct ceramic discussion remain uninspected.",
+      "strongest_rival": "Material-neutral conventional vessel category retaining a bronze-derived prototype; broader mixed-material inventory, acquisition, allocation or issue for the document.",
+      "evidence_needed_to_reopen_or_advance": "Exact ceramic comparator preserving the combined features, target-specific cross-material A410 use, or an exact vessel/account/event relationship. Highest-value outstanding source target: Duhoux2003 section4.1.2 through a changed legitimate route or supplied copy.",
+      "campaign_archive": "iterations/044/Linear_A_Campaign_044.zip",
+      "semantic_experiment_admitted": true,
+      "graded_semantic_preference": true,
+      "established_binding": false,
+      "level": "graded local semantic discrimination at vessel-category level; exclusive material unconfirmed",
+      "novelty": "Newly controlled and challenged in this investigation; existing scholarly argument, not a new ancient discovery or decipherment."
+    }
+  ],
+  "schema_version": "1.0",
+  "updated_date": "2026-10-26"
+}

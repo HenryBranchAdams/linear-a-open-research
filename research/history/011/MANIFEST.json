@@ -1,0 +1,65 @@
+{
+  "iteration": 11,
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 577,
+      "sha256": "a10a5012ab690637779cfbdfcb86b8f0e026357c6b7ca95dc70b2126ab7a4882"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 1129,
+      "sha256": "0cf5a832d5b1fbb56a42f3130d1ff682b08810aa96c0530db85c82ec5cece0a0"
+    },
+    {
+      "path": "context/UPSTREAM.md",
+      "bytes": 481,
+      "sha256": "8cb12422380d5916e299ff073971ef92198477be1203e9bb2b5aa3cdbcb93c08"
+    },
+    {
+      "path": "iterations/011/REPORT.md",
+      "bytes": 2573,
+      "sha256": "eb465bfab5a03ea633ff539932fa1e6e9eee89ed6f7c2ed9f67aedcf7ccb8e05"
+    },
+    {
+      "path": "iterations/011/code/verify.py",
+      "bytes": 858,
+      "sha256": "7279226df55f7e00084e556477f2b2b05c57d667502856f9bc4997eb76fd2119"
+    },
+    {
+      "path": "iterations/011/notes/HT117_HT87.md",
+      "bytes": 479,
+      "sha256": "64a04a7644a3792ce6e2e4b8a7fa48afc43e4101f49675b8845001aae090eaeb"
+    },
+    {
+      "path": "iterations/011/notes/SARU_DOSSIER.md",
+      "bytes": 809,
+      "sha256": "9910960bfdc70270be322cccba8bc3f692b568a3fb365310f0e9dbbe3c963453"
+    },
+    {
+      "path": "iterations/011/results/category_compatibility.json",
+      "bytes": 1820,
+      "sha256": "c04b124cce7be6b307aaff63ba153285c11bc7341a987bcf09a261299a4fa215"
+    },
+    {
+      "path": "iterations/011/results/verification.txt",
+      "bytes": 107,
+      "sha256": "82efc838acf063b2c91046706c06ecf12b203d7ae48fb8d247bdd9519733dd5a"
+    },
+    {
+      "path": "registry/claims_delta.json",
+      "bytes": 1121,
+      "sha256": "ff342127045c687ca2c1348a2168c4766765157f090b1728ad676120cca147fa"
+    },
+    {
+      "path": "registry/experiments_011.json",
+      "bytes": 548,
+      "sha256": "8181a8a0092a9a7a7c7258120743ccff589b5dc4fa1bb28c61786476b89f0e28"
+    },
+    {
+      "path": "registry/sources_011.json",
+      "bytes": 1162,
+      "sha256": "8c79b152ab30a067e03f0443c9f947251b4cd1f108732e43dc68f37eae66cb73"
+    }
+  ]
+}

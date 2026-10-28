@@ -1,0 +1,164 @@
+[
+  {
+    "path": "phase_work/comparative/sources/anetaki_2024.pdf",
+    "sha256": "87dad27b79ee3ef4539b844d7ed30a0069ac14acdd2ff75eed160f9baadf57d2",
+    "size_bytes": 3104974,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/anetaki_2024.txt",
+    "sha256": "49fcfeb4da7d9e813989a3adc9f7e2e5dc3bac8e75bd11025e35964d3e7dcda0",
+    "size_bytes": 32176,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/anetaki_fig6_p33.png",
+    "sha256": "d5bc7f6bf3b95f27d45352878bd7033430b9140594ffa84ccdfc20a5f1e92fcf",
+    "size_bytes": 593973,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/anetaki_fig7_p35.png",
+    "sha256": "547c8dfb522b4839e1b0c9d612bb57323c71117408b5c2905473e1ef2af14b8d",
+    "size_bytes": 578941,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/best1983_text.txt",
+    "sha256": "9e43591d85d480f056a1e21f8ddfa0de6ca3a31ca1f1bc0428a9e93b52b1f6eb",
+    "size_bytes": 7,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/olivier1992_excerpt.txt",
+    "sha256": "fe00ab6124a673d7c371b78199f534abc05030f43cd7ca186bdfaf006230bcf8",
+    "size_bytes": 32016,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_2001_persee.html",
+    "sha256": "c014d77646316864a3cb39916de8d42bdd14f5de460da29b67f3ec13f01c3b68",
+    "size_bytes": 80353,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_2001_persee.txt",
+    "sha256": "164cb88a616159b3e13b8cbca4fa9018ddb2eb8a91721dd2757bf339871ab80a",
+    "size_bytes": 45209,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p55.html",
+    "sha256": "eadd76bbfcd6f69a5110b5a305e2ef7bce89ad108e95aac8c3f967f38c2642f2",
+    "size_bytes": 2743,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p55.txt",
+    "sha256": "db83af66c8de5c41ecd16808b5f105e9e5e2b2d653b404539de5b43c698fabdc",
+    "size_bytes": 2431,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p56.html",
+    "sha256": "3515f86de783449c289a140a8c8e033634b238e54f3dfb17c19f68fd07723693",
+    "size_bytes": 4151,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p56.txt",
+    "sha256": "17e6c8ff695f28bd16552c8ea7800852c923f0b3ade65221cbaf187ef2f98824",
+    "size_bytes": 3812,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p57.html",
+    "sha256": "aab9718a010d5ed8dc7c37bbd01004e5da852e3ac1f776db72fcdd9c66163d4b",
+    "size_bytes": 4664,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p57.txt",
+    "sha256": "1632e746e1d69f387087e427400f579dac91ea858c6cd2244be96fbd6029a357",
+    "size_bytes": 2585,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p58.html",
+    "sha256": "ef406d2e16e2b7002eca2ec6dd69c5c71352d38b97aa183a2036cac6d13e52a1",
+    "size_bytes": 4575,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p58.txt",
+    "sha256": "313893d2351460090a718b4b3340cc55541964cb8bb858c8c28036b2d7a23002",
+    "size_bytes": 4252,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p59.html",
+    "sha256": "e432e6ae239dfbb4bc56ed62bbcd2a930cf666ea2f7e95d954d654c20adb6b48",
+    "size_bytes": 4463,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p59.txt",
+    "sha256": "334ae5f5fcc9d2bc1127a9ba993b96cc07b7fe6a73cea887aa78f61af45d2d74",
+    "size_bytes": 4132,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p60.html",
+    "sha256": "657b5f4cc69331da7456151647568760cd01cfa83d11420990b829395be7ee65",
+    "size_bytes": 4995,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p60.txt",
+    "sha256": "e7f1af6f9ddd74898877515621c349f0c72bd058ee138bdc5c2fcf908564a436",
+    "size_bytes": 2663,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p61.html",
+    "sha256": "00e36d87c403620a9adcaca6fc5f9369c48ab0c076b175cd7314df2f96883460",
+    "size_bytes": 4717,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p61.txt",
+    "sha256": "ef5b81c6a87060d726c3e3536ee200dc79ad04ccea1271851a032a41f8915a2f",
+    "size_bytes": 4403,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p62.html",
+    "sha256": "7ecef3f4236f348a297003f19da3ee7d3a7b0a27ec9b43f33f30eb0dd7e700e8",
+    "size_bytes": 1324,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/schoep_p62.txt",
+    "sha256": "c38858e17aad28df9b9d16d30f1bca8409e8f28119dfbb43080150b829d4f393",
+    "size_bytes": 1008,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/tomas_2013.pdf",
+    "sha256": "286d0677dea0af988942844194bc0d1957c65cbf3de8df281680acd8bdbe5f02",
+    "size_bytes": 2071671,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/tomas_2013.txt",
+    "sha256": "ff320acfd29fb99acf01d28e44103f989ddaf8a5b1671fec5e1458d945105631",
+    "size_bytes": 57042,
+    "redistribute": false
+  },
+  {
+    "path": "phase_work/comparative/sources/wola2026_text.txt",
+    "sha256": "7b930955e4a037bcc343dba4b487ccda8964daf45165ce878315a795293afe20",
+    "size_bytes": 697816,
+    "redistribute": false
+  }
+]

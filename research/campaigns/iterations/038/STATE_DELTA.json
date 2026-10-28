@@ -1,0 +1,108 @@
+{
+  "id": "C038-ADDENDUM-2026-10-21",
+  "starting_authority": "B2026-10-18",
+  "status": "completed_and_stopped",
+  "historical_baseline_superseded": false,
+  "authority_rule": "B2026-10-18 remains controlling for inherited claims. This addendum controls only campaign038 additions and exposure; no frozen baseline file changed.",
+  "newer_verified_baseline_found": false,
+  "baseline_search_scope": "Canonical recursive listing128items, no cursor; current governance datedOct18; no newer verified baseline in recovered records.",
+  "claim_changes": [
+    {
+      "id": "LA-038-001",
+      "before": "No target-specific current critical overlay recovered; frozen flattened row exists.",
+      "after": "source_qualification_overlay_required",
+      "level": "reading_and_object_control",
+      "semantic_claim": false
+    },
+    {
+      "id": "LA-038-002",
+      "before": "No qualified current project claim for this target physical ordering.",
+      "after": "conditional_published_physical_order_exclusion",
+      "level": "conditional_physical_constraint",
+      "semantic_claim": false
+    },
+    {
+      "id": "B-D26",
+      "before": "parked_access_limited",
+      "after": "parked_access_limited",
+      "reason": "New route screen did not obtain complete Flouda2024 argument; zero article pages inspected."
+    },
+    {
+      "id": "B-D24",
+      "before": "parked_packet_incomplete",
+      "after": "parked_packet_incomplete",
+      "reason": "No new object linkage; HMs789θ distinct from PHWa52/HMs689."
+    },
+    {
+      "id": "LA-036-001 / A588",
+      "before": "source_control_improved_semantic_branch_parked",
+      "after": "unchanged",
+      "reason": "No new qualifying evidence route pursued."
+    }
+  ],
+  "exposure_additions": [
+    {
+      "id": "C038-E01",
+      "packet": "P1",
+      "previous": "Abstract and prior access routes already exposed; full article unread.",
+      "this_campaign": "ResearchGate record/abstract and A3TEX page text; incidental PHWc37/PHWa32 mentions. Nestor bibliography search excerpt only.",
+      "uninspected": "All pages117–131 of full Flouda article; target object photos/dossiers.",
+      "unused_validation_claim": false
+    },
+    {
+      "id": "C038-E02",
+      "packet": "P2",
+      "previous": "Target in frozen discovery index; primary-page historical exposure unknown.",
+      "this_campaign": "2007 target textpp13–15; fig5 actual pixels; fig7 partial crop. Full-text web retrieval and search also exposed incidental KH97/98/99 and other examples; not investigated as extra packets.",
+      "conservative_future_rule": "No outcome in this retrieved article packet may be certified unused solely on the basis of target-page reading limits.",
+      "unused_validation_claim": false
+    },
+    {
+      "id": "C038-E03",
+      "packet": "P2 dependencies",
+      "previous": "Exact earlier project exposure not established.",
+      "this_campaign": "DelFreo p100 and committee p586 text/rendered pages; publication metadata, search excerpts and adjacent material. Full PDFs acquired, not fully read.",
+      "conservative_future_rule": "Do not later certify these acquired-source outcomes unused without a specific exposure audit.",
+      "unused_validation_claim": false
+    },
+    {
+      "id": "C038-E04",
+      "packet": "P3",
+      "previous": "SIZg1 row in frozen index; primary-page history unknown.",
+      "this_campaign": "Michailidou2001 targetpp60–64 and returned incidental text; OUP indexed snippets only.",
+      "uninspected": "Object photographs/autopsy; complete OUP chapter.",
+      "unused_validation_claim": false
+    },
+    {
+      "id": "C038-E05",
+      "packet": "modern index provenance",
+      "this_campaign": "Frozen row/codepoints/hash; current upstream README and ideograms.js; auxiliary code searches.",
+      "limit": "Modern source-code check, no frozen commit or authoritative sign crosswalk.",
+      "unused_validation_claim": false
+    }
+  ],
+  "queue_update": {
+    "P1": "access_limited_stop",
+    "P2": "evidence_limited_stop",
+    "P3": "screened_not_selected",
+    "active_semantic_candidates": 0,
+    "next_task": "CONTINUATION.md exact evidence reopeners only"
+  },
+  "review": "REVIEW_ADJUDICATION.md and agents/independent_challenger/REVIEW.md",
+  "new_semantic_relationships": 0,
+  "serious_semantic_rivals_falsified": 0,
+  "unused_linguistic_predictions_tested": 0,
+  "mission_complete": false,
+  "registry_before": {
+    "claims": 80,
+    "experiments": 28,
+    "sources": 92
+  },
+  "registry_after": {
+    "claims": 82,
+    "experiments": 30,
+    "sources": 100
+  },
+  "public_update": false,
+  "external_messages_sent": false
+}

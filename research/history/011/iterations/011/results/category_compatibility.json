@@ -1,0 +1,76 @@
+{
+  "experiment_id": "R11-SARU-CATEGORY",
+  "observations": [
+    {
+      "id": "O1",
+      "witness": "HT 94b",
+      "fact": "SA-RU is one of five syllabic labels each followed by 1 under KI-RO; KU-RO 5 follows.",
+      "independence": "List structure and arithmetic only."
+    },
+    {
+      "id": "O2",
+      "witness": "HT 123a",
+      "fact": "SA-RU is followed by OLIV 16, quantified *308, and KI-RO with a fractional amount.",
+      "independence": "Explicit commodity/logogram placement only."
+    },
+    {
+      "id": "O3",
+      "witness": "HT 86/95",
+      "fact": "SA-RU recurs in the repeated grain-account roster.",
+      "independence": "Repeated placement in explicit grain contexts."
+    }
+  ],
+  "classes": {
+    "person_participant": {
+      "O1": "fits",
+      "O2": "fits",
+      "O3": "fits"
+    },
+    "place": {
+      "O1": "possible",
+      "O2": "fits",
+      "O3": "fits"
+    },
+    "institution_group_account": {
+      "O1": "fits",
+      "O2": "fits",
+      "O3": "fits"
+    },
+    "grain_specific_commodity": {
+      "O1": "strained",
+      "O2": "fails",
+      "O3": "fits"
+    },
+    "generic_quality_specification": {
+      "O1": "strained",
+      "O2": "possible",
+      "O3": "fits"
+    },
+    "action_predicate": {
+      "O1": "strained",
+      "O2": "strained",
+      "O3": "strained"
+    }
+  },
+  "decision": {
+    "eliminated": [
+      "grain_specific_commodity"
+    ],
+    "weakened": [
+      "generic_quality_specification",
+      "action_predicate"
+    ],
+    "survives": [
+      "person_participant",
+      "place",
+      "institution_group_account"
+    ],
+    "project_label": "entity/account/designation"
+  },
+  "limits": [
+    "Qualitative compatibility, not probabilities.",
+    "No historical identity proved.",
+    "No transaction direction.",
+    "No overt verb."
+  ]
+}

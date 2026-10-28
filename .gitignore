@@ -1,0 +1,10 @@
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+node_modules/
+.sites-runtime/
+.wrangler/
+.taste-skill/inspect/
+.taste-skill/qa/

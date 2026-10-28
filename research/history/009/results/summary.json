@@ -1,0 +1,54 @@
+{
+  "iteration": 9,
+  "inherited_analysis_reproduced": true,
+  "original_sentence_goal_achieved": false,
+  "new_Linear_A_action_identified": false,
+  "same_referent_established_for_TA_NA_family": false,
+  "ZA9_final_sign_independently_resolved": false,
+  "ZA9_reading_status": "unresolved; no new TE or TI adopted",
+  "cross_site_face_overlap": [
+    {
+      "ti_face": "HT7a",
+      "te_face": "ZA10a",
+      "exact_shared_non_target_labels": []
+    },
+    {
+      "ti_face": "HT10b",
+      "te_face": "ZA10a",
+      "exact_shared_non_target_labels": []
+    },
+    {
+      "ti_face": "HT98a",
+      "te_face": "ZA10a",
+      "exact_shared_non_target_labels": []
+    }
+  ],
+  "whole_tablet_overlap": [
+    {
+      "ti_tablet": "HT7",
+      "te_tablet": "ZA10",
+      "exact_shared_non_target_labels": []
+    },
+    {
+      "ti_tablet": "HT10",
+      "te_tablet": "ZA10",
+      "exact_shared_non_target_labels": [
+        "SA-MA"
+      ]
+    },
+    {
+      "ti_tablet": "HT98",
+      "te_tablet": "ZA10",
+      "exact_shared_non_target_labels": []
+    }
+  ],
+  "sigla_document_faces": 802,
+  "sigla_fetch_errors": 0,
+  "sigla_sequence_occurrences": 1401,
+  "sigla_literal_A_TA_NA_TI_hits": [],
+  "textile_lower_bound": "63/2",
+  "textile_conditional_target": "45",
+  "textile_doubled_ME_sensitive_to_tentative_sign": true,
+  "evidence_rows_including_alternative_views": 115,
+  "source_registry_rows_not_independent_sources": 57
+}

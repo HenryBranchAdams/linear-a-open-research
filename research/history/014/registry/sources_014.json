@@ -1,0 +1,115 @@
+[
+  {
+    "id": "R14-S01",
+    "title": "Frozen SigLA sequence inventory acquired 2026-09-07",
+    "url": "https://sigla.phis.me/",
+    "local": "corpus/sigla_sequences_2026-09-07.json",
+    "use": "exhaustive exact-form recurrence graph and reading-discrepancy audit",
+    "level": "derivative structured corpus; not critical edition"
+  },
+  {
+    "id": "R14-S02",
+    "title": "Barbara Montecchi, Note d\u2019analisi testuale delle tavolette in lineare A di Haghia Triada (2010)",
+    "url": "https://cris.unibo.it/handle/11585/696876",
+    "use": "explicit negative control: one-count lists are not necessarily personal names, citing KU-*56-NU; HT100 proposed [6] restoration",
+    "level": "peer-reviewed/scholarly analysis"
+  },
+  {
+    "id": "R14-S03",
+    "title": "Helena Tomas, The Administration of Haghia Triada, Opuscula Archaeologica 25 (2001)",
+    "url": "https://hrcak.srce.hr/file/8676",
+    "use": "KU-*56-NU recurrence/provenance and older personal-name interpretation; HT122 repeated entries",
+    "level": "scholarly article"
+  },
+  {
+    "id": "R14-S04",
+    "title": "Davis & Val\u00e9rio, Names and designations of people in Linear A (2020)",
+    "url": "https://www.researchgate.net/publication/352343395_Names_and_designations_of_people_in_Linear_A_A_contextual_study_of_tablets_HT_85_and_117",
+    "use": "HT117 structure, Scribe9, Linear B name parallels, fixed-order network",
+    "level": "scholarly chapter"
+  },
+  {
+    "id": "R14-S05",
+    "title": "Barbara Montecchi, noduli / personnel administration paper (12th ICCS proceedings)",
+    "url": "https://flore.unifi.it/retrieve/e398c382-48d3-179a-e053-3705fe0a4cff/Montecchi_12ICCS.pdf",
+    "use": "PA-TA-NE on HT94b and HT We1019; noduli function ambiguity",
+    "level": "scholarly conference publication"
+  },
+  {
+    "id": "R14-S06",
+    "title": "Linear A structured corpus (Linear A Explorer/GORILA derivative)",
+    "url": "https://aigents.berta.one/decipherment/corpus",
+    "use": "current transcription/findspot/scribe cross-check incl. HT100 and HT Wa1019",
+    "level": "2026 derivative corpus; train/holdout system, not independent edition"
+  },
+  {
+    "id": "R14-S07",
+    "title": "GORILA / EFA and Salgarella index",
+    "url": "https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/Supplementary%20Material%20-%20Links%20-%20Salgarella.pdf",
+    "use": "critical-edition page locator: HT100 GORILA I 164-165 and scribal-hand references",
+    "level": "primary critical-edition locator"
+  },
+  {
+    "id": "R14-S08",
+    "title": "Recent study table of Linear A/Linear B corresponding sequences",
+    "url": "https://diposit.ub.edu/server/api/core/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/content",
+    "use": "independent note that KU-PA3-NU and PA-JA-RE have possible Linear B male-name parallels; control only",
+    "level": "scholarly thesis/study; not semantic proof"
+  },
+  {
+    "id": "R14-S09",
+    "title": "Linear B Administration: communicative aspects and Mycenaean bureaucracy",
+    "url": "https://www.researchgate.net/publication/298074958_Linear_B_Administration_The_Communicative_Aspects_of_Written_Media_and_the_Organisation_of_the_Mycenaean_Bureaucracy",
+    "use": "deciphered control: assessments, deliveries, exemptions, o-pe-ro shortfalls",
+    "level": "scholarly work"
+  },
+  {
+    "id": "R14-S10",
+    "title": "CREWS Project, Linear B abbreviation o for o-pe-ro",
+    "url": "https://crewsproject.wordpress.com/2016/05/02/ko-re-e-wi-su/",
+    "use": "deciphered control for overt deficit term/abbreviation",
+    "level": "academic project explainer"
+  },
+  {
+    "id": "R14-S11",
+    "title": "Uchitel, Ships and shipment in Minoan Linear A (2016)",
+    "url": "https://gredos.usal.es/bitstream/handle/10366/133945/Ships_and_shipment_in_Minoan_Linear_A.pdf?isAllowed=y&sequence=1",
+    "use": "PA-JA-RE fractional context; HT100 table with [4]; comparative administrative contexts",
+    "level": "scholarly article"
+  },
+  {
+    "id": "R14-S12",
+    "title": "Cash & Cash, The HT123 tablet: Accounting in Linear A",
+    "url": "https://www.researchgate.net/publication/291276250_The_HT_123_tablet_Accounting_in_Linear_A_Purpose_of_the_tablet_consequences_on_the_values_of_fractions_and_the_meaning_of_the_term_67-02",
+    "use": "HT123 difference model and direction symmetry",
+    "level": "scholarly article"
+  },
+  {
+    "id": "R14-S13",
+    "title": "LinA ancient-scripts occurrence database, PA sign page",
+    "url": "https://ancientscriptsstudy.wordpress.com/home/linear-a-inscriptions/linear-a-inscriptions-%F0%90%98%82-pa/",
+    "use": "modern PA-TA-NE occurrence list incl. HT94b, HT122a, HT We1019; contrasts frozen SigLA PA-RI-NE on HT122a",
+    "level": "modern derivative database"
+  },
+  {
+    "id": "R14-S14",
+    "title": "Ayios Vasileios Linear B administrative documents",
+    "url": "https://ejournals.lib.uoc.gr/Ariadne/article/download/1842/1752",
+    "use": "deciphered personnel control: a-pe-o-te interpreted absent in records with VIR",
+    "level": "scholarly publication"
+  },
+  {
+    "id": "R14-S15",
+    "title": "Bennett, A Strange Linear A Wine-Measure",
+    "url": "https://gredos.usal.es/bitstream/handle/10366/73460/A_Strange_Linear_A_Wine-Measure.pdf%3Bjsessionid%3D158FEACA3F48AEC313D2CC247C767829?sequence=1",
+    "use": "HT100 source-critical audit: Was [4] restoration, GORILA damaged/unresolved, CTLA 6; restoration not persuasive",
+    "level": "scholarly textual critique"
+  },
+  {
+    "id": "R14-S16",
+    "title": "Salgarella, Exploring Writing Systems / HT15 example",
+    "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/14838f02-195b-442c-a988-d8db87773c45/content",
+    "use": "HT15 layout and current conventional deficit interpretation as a hypothesis to test",
+    "level": "scholarly book material"
+  }
+]

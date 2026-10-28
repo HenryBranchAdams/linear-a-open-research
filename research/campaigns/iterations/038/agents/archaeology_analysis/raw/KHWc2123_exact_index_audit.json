@@ -1,0 +1,38 @@
+{
+  "scope": "exact KHWc2123 row only; no corpus-wide rescreen",
+  "input_path": "baseline_packet/Linear_A_Baseline_2026-10-18/corpus/discovery_snapshot.json",
+  "input_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "object_key": "KHWc2123",
+  "raw_record": {
+    "support": "Roundel",
+    "transliteratedWords": [
+      "*810-PI-KA"
+    ],
+    "words": [
+      "𐝭𐘢𐘾"
+    ]
+  },
+  "unicode_database_version": "15.0.0",
+  "codepoints": [
+    {
+      "position": 1,
+      "character": "𐝭",
+      "codepoint": "U+1076D",
+      "name_in_installed_database": "UNASSIGNED"
+    },
+    {
+      "position": 2,
+      "character": "𐘢",
+      "codepoint": "U+10622",
+      "name_in_installed_database": "LINEAR A SIGN AB039"
+    },
+    {
+      "position": 3,
+      "character": "𐘾",
+      "codepoint": "U+1063E",
+      "name_in_installed_database": "LINEAR A SIGN AB077"
+    }
+  ],
+  "normalized_alias_810_to_373": "not established by retained baseline records; current upstream map verifies character to *810 only",
+  "raw_mutated": false
+}

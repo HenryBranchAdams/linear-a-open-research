@@ -1,0 +1,123 @@
+{
+  "schema": "linear_a_038.source_epigraphy_observations.v1",
+  "packet": "P2",
+  "counting_unit": "one physical roundel, KH Wc2123",
+  "observations": [
+    {
+      "id": "SE-P2-O01",
+      "feature": "object identity",
+      "value": "KH Wc2123 = Khania Museum KH2123",
+      "source": "SE-P2-S01",
+      "locator": "p13",
+      "status": "explicit primary publication"
+    },
+    {
+      "id": "SE-P2-O02",
+      "feature": "erasure scope",
+      "value": "All three elements enclosed by editorial erasure brackets; attempted smoothing, not complete obliteration",
+      "reading": "[[X , AB39-77 (PI-KA)]]; X proposed A373",
+      "sources": [
+        "SE-P2-S01",
+        "SE-P2-S02"
+      ],
+      "locator": "p13 transcription; p14 fig5",
+      "status": "Text checked, figure transcription visually checked",
+      "limit": "No replacement inscription reported; continued legibility does not establish continuing administrative validity"
+    },
+    {
+      "id": "SE-P2-O03",
+      "feature": "first element reading",
+      "branches": [
+        "new sign A373, described by original editors as bird-like and perhaps ideographic",
+        "possible tripod-logogram variant reported by Del Freo/Zurbach",
+        "unresolved graph"
+      ],
+      "sources": [
+        "SE-P2-S01",
+        "SE-P2-S02",
+        "SE-P2-S04",
+        "SE-P2-S05"
+      ],
+      "status": "unresolved",
+      "limit": "Photo/drawing disagreement; no fresh target autopsy documented in acquired later source"
+    },
+    {
+      "id": "SE-P2-O04",
+      "feature": "last two elements",
+      "reading": "AB39-77, conventionally PI-KA",
+      "source": "SE-P2-S01",
+      "source_components": [
+        "SE-P2-S02",
+        "SE-P2-S03"
+      ],
+      "status": "retained qualified published reading; photographed shapes consistent",
+      "limit": "Phonetic convention is not translation; no independent personal-name or role identification"
+    },
+    {
+      "id": "SE-P2-O05",
+      "feature": "divider",
+      "value": null,
+      "status": "no secure ancient divider identified",
+      "source": "SE-P2-S02",
+      "limit": "Comma occurs in prose transcription; omitted in figure transcription; do not promote editorial grouping to an observed incised divider"
+    },
+    {
+      "id": "SE-P2-O06",
+      "feature": "erasure-before-impressions",
+      "value": "Reported by original editors",
+      "source": "SE-P2-S01",
+      "locator": "p13 description",
+      "status": "source-reported chronological assessment",
+      "limit": "No explicit diagnostic crosscut described in target text or identified by this agent from plate"
+    },
+    {
+      "id": "SE-P2-O07",
+      "feature": "seal impressions",
+      "value": "Nine impressions attributed to same seal and orientation",
+      "source": "SE-P2-S01",
+      "locator": "p13 description; p14 fig5",
+      "status": "primary-source report; rim positions shown in drawing",
+      "limit": "Selected photographs and composite design do not independently document nine complete events, identities or operators"
+    },
+    {
+      "id": "SE-P2-O08",
+      "feature": "fingerprints and handling",
+      "value": "Primary report nine fingerprint pairs; grip-shift and drying-clay explanation at p15",
+      "source": "SE-P2-S01",
+      "status": "finger ridges visually supported; exact pair count and causal reconstruction source-reported",
+      "limit": "No fingerprint matching to individuals or independent operator-count determination"
+    },
+    {
+      "id": "SE-P2-O09",
+      "feature": "context",
+      "value": "Secondary Geometric levelling deposit discovered30June2003",
+      "source": "SE-P2-S01",
+      "locator": "p13",
+      "status": "primary-source report",
+      "limit": "No original transaction context"
+    },
+    {
+      "id": "SE-P2-O10",
+      "feature": "CMS parallels",
+      "value": [
+        "CMSII.6no13",
+        "CMSXII no168"
+      ],
+      "source": "SE-P2-S01",
+      "locator": "p13 n30",
+      "status": "iconographic parallels only",
+      "limit": "Not exact same-device membership"
+    }
+  ],
+  "exposure": {
+    "prior_briefing": "Lead supplied target, corrected full-erasure scope and sign-disagreement concern before source check; not blind.",
+    "outcomes_inspected": [
+      "2007 target pp13–15",
+      "fig5 and partial fig7",
+      "DelFreo p100 and publication metadata",
+      "CIPEM p586"
+    ],
+    "eligible_as_unseen_test": false
+  },
+  "assessment": "Source/object and physical constraints only; no referent/role/action identification."
+}

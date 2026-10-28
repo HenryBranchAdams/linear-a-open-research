@@ -1,0 +1,56 @@
+[
+  {
+    "id": "LA-014-001",
+    "claim": "Exact-form corpus recurrence falsifies the assumption that KI-RO one-count labels can be classified as persons from list structure alone.",
+    "disposition": "supported_methodological_correction",
+    "evidence": [
+      "KU-*56-NU",
+      "PA-JA-RE",
+      "SA-RU",
+      "Montecchi negative control"
+    ],
+    "amends": "Iteration13 personnel-entry wording"
+  },
+  {
+    "id": "LA-014-002",
+    "claim": "The secure construction is KI-RO marking a secondary/differential administrative section; individual syllabic entries have unresolved ontology.",
+    "disposition": "supported_structural_functional_core",
+    "qualification": "Some containing tablets independently involve personnel, but individual labels are not thereby proven people."
+  },
+  {
+    "id": "LA-014-003",
+    "claim": "PA-TA-NE links a KI-RO tablet entry to a nodule inscription across media.",
+    "disposition": "supported_cross_media_recurrence",
+    "qualification": "Nodule direction/function and referent class remain unresolved; does not identify missing/owed status."
+  },
+  {
+    "id": "LA-014-004",
+    "claim": "HT100 independently proves negative KI/KI-RO polarity.",
+    "disposition": "not_supported",
+    "reason": "Damaged numeral restoration flips arithmetic: [4] inclusion=97; [6] exclusion=97. Bennett reports source disagreement/damage."
+  },
+  {
+    "id": "LA-014-005",
+    "claim": "Unsigned difference/reconciliation is the most economical cross-domain functional model for KI-RO.",
+    "disposition": "favored_model_not_translation",
+    "qualification": "Fits HT30, HT123, list sections and HT100 ambiguity without fixed sign; no held-out validation."
+  },
+  {
+    "id": "LA-014-006",
+    "claim": "KI-RO = absent/missing personnel.",
+    "disposition": "not_established",
+    "reason": "No expected roster/present roster contrast; one-count list diagnostic fails; deciphered Linear B absence uses explicit modifier."
+  },
+  {
+    "id": "LA-014-007",
+    "claim": "Iteration14 reaches Level4 polarity/action evidence.",
+    "disposition": "not_achieved",
+    "reason": "Best Level3 relation remains reconciliation/secondary-section function. Critical Level4 routes are HT100 numeral autopsy or independently linked expected/actual roster."
+  },
+  {
+    "id": "LA-014-008",
+    "claim": "HT122a PA-TA-NE recurrence is secure in all sources.",
+    "disposition": "source_discrepancy",
+    "reason": "Frozen SigLA snapshot reads PA-RI-NE; modern occurrence databases/other transcriptions read PA-TA-NE. Do not use without primary-edition adjudication."
+  }
+]

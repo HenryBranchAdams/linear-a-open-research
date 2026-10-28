@@ -1,0 +1,38 @@
+[
+  {
+    "model": "fixed_negative_deficit",
+    "HT30": "possible",
+    "HT123": "contested",
+    "HT88_HT94": "possible",
+    "HT100": "depends_on_damaged_numeral",
+    "special_assumptions": 2,
+    "status": "not_identified"
+  },
+  {
+    "model": "fixed_positive_surplus",
+    "HT30": "possible",
+    "HT123": "possible_under_published_critique",
+    "HT88_HT94": "possible",
+    "HT100": "depends_on_damaged_numeral",
+    "special_assumptions": 2,
+    "status": "not_identified"
+  },
+  {
+    "model": "unsigned_difference_or_reconciliation_section",
+    "HT30": "fits_second_parallel_commodity_section",
+    "HT123": "fits_actual_reference_difference",
+    "HT88_HT94": "fits_distinguished_sublist",
+    "HT100": "compatible_under_either_reading",
+    "special_assumptions": 0,
+    "status": "best_cross_domain_functional_model"
+  },
+  {
+    "model": "personnel_absence_marker",
+    "HT30": "fails_without_polysemy",
+    "HT123": "fails_without_polysemy",
+    "HT88_HT94": "fits_if_entries_people",
+    "HT100": "not_applicable",
+    "special_assumptions": 3,
+    "status": "not_cross_domain_core"
+  }
+]

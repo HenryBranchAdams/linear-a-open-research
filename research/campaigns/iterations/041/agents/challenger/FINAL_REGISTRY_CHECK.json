@@ -1,0 +1,40 @@
+{
+  "reviewer": "/root/challenger",
+  "checks": [
+    {
+      "file": "claims.json",
+      "old_count": 84,
+      "current_count": 85,
+      "inherited_prefix_equal": true,
+      "counts_expected": true,
+      "appended_ids": [
+        "LA-041-001"
+      ]
+    },
+    {
+      "file": "experiments.json",
+      "old_count": 34,
+      "current_count": 36,
+      "inherited_prefix_equal": true,
+      "counts_expected": true,
+      "appended_ids": [
+        "C041-CATALOGUE-SAMPLE-LINK",
+        "C041-RESIDUE-ACCESS-AND-CROSSWALK"
+      ]
+    },
+    {
+      "file": "sources.json",
+      "old_count": 109,
+      "current_count": 113,
+      "inherited_prefix_equal": true,
+      "counts_expected": true,
+      "appended_ids": [
+        "C041-S01",
+        "C041-S02",
+        "C041-S03",
+        "C041-S04"
+      ]
+    }
+  ],
+  "all_pass": true
+}

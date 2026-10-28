@@ -1,0 +1,26 @@
+[
+  {
+    "id": "LA-011-001",
+    "claim": "SA-RU is not plausibly a grain-specific commodity label.",
+    "disposition": "supported_category_exclusion",
+    "basis": "HT 123a writes OLIV and *308 after SA-RU; HT 94b counts SA-RU as one list member."
+  },
+  {
+    "id": "LA-011-002",
+    "claim": "SA-RU should currently be treated as an entity/account/designation label.",
+    "disposition": "supported_broad_category",
+    "basis": "It anchors quantified commodity rows and occurs as a counted member; person/place/institution remain unresolved."
+  },
+  {
+    "id": "LA-011-003",
+    "claim": "HT 117/87 support a heading-vs-entry distinction involving QI-TU-NE / MA-KA-RI-TE and DI-KI-SE.",
+    "disposition": "supported_structural_role_only",
+    "basis": "Heading terms recur as headings while DI-KI-SE recurs as a 1-entry."
+  },
+  {
+    "id": "LA-011-004",
+    "claim": "Iteration 11 establishes an action and independently assigned participant roles.",
+    "disposition": "not_achieved",
+    "basis": "Direction reversal remains observationally compatible and no overt predicate is independently identified."
+  }
+]

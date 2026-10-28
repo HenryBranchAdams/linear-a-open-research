@@ -1,0 +1,108 @@
+{
+  "schema": "linear_a_038.P2_access_log.v1",
+  "packet": "P2",
+  "assigned_after_P1": true,
+  "scope": "Exact KH Wc2123 original edition and its later sign-review dependencies; no unrelated packet screened.",
+  "events": [
+    {
+      "action": "open supplied original2007 and CIPEM PDFs",
+      "result": "Original503; CIPEM PDF text obtained",
+      "capture": "raw/P2_initial_1.json"
+    },
+    {
+      "action": "read PDF skill",
+      "purpose": "Read-only rendering; no PDF artifact authored"
+    },
+    {
+      "action": "ordinary original2007 download in default sandbox",
+      "result": "Network operation denied",
+      "capture": "raw/P2_original_download.json"
+    },
+    {
+      "action": "approved public downloads original2007 and CIPEM",
+      "result": "Original HTTP503; CIPEM fullPDF success",
+      "capture": "raw/P2_original_download_approved.json"
+    },
+    {
+      "action": "open index and journal issue page",
+      "result": "Located DelFreo report87–124; issue2024-12-13 and article2025-03-04 metadata",
+      "captures": [
+        "raw/P2_index_lookup.json",
+        "raw/P2_issue.json",
+        "raw/P2_delFreo.json"
+      ]
+    },
+    {
+      "action": "open mirror2007 supplied by archaeology investigator and exact DelFreo PDF",
+      "result": "Both web text available",
+      "capture": "raw/P2_delFreo_pdf_and_original_mirror.json"
+    },
+    {
+      "action": "approved mirror and DelFreo downloads",
+      "result": "Mirror HTTP202 empty HTML; DelFreo fullPDF success",
+      "capture": "raw/P2_mirror_and_dependency_download.json"
+    },
+    {
+      "action": "target text find and screenshot request",
+      "result": "Target text inspected; screenshot returned literal placeholders without image payload and was NOT counted as visual review",
+      "captures": [
+        "raw/P2_target_find.json",
+        "raw/P2_screenshots.json"
+      ]
+    },
+    {
+      "action": "render downloaded CIPEM p586 and DelFreo p100 and view local image files",
+      "result": "Visual inspection completed",
+      "rendered": [
+        "rendered/CIPEM2021_minutes_published2025_pdfp8.png",
+        "rendered/DelFreo_Rapport2016_2021_published2025_pdfp14.png"
+      ]
+    },
+    {
+      "action": "finite ordinary official OJS retry set approved by lead",
+      "urls": [
+        "https://tidsskrift.dk/pdia/article/download/19622/17243",
+        "https://tidsskrift.dk/pdia/article/view/19622/17243",
+        "http://tidsskrift.dk/pdia/article/download/19622/17243/44600"
+      ],
+      "result": "All HTTP503; stop route family",
+      "capture": "raw/P2_official_retry_routes.json"
+    },
+    {
+      "action": "two targeted source-route queries",
+      "queries": [
+        "\"New and unpublished Linear A and Linear B inscriptions from Khania\" academia",
+        "\"KH Wc 2123\" \"Fig. 5\""
+      ],
+      "result": "Author profile located; no new semantic candidate",
+      "capture": "raw/P2_fig5_route_search.json"
+    },
+    {
+      "action": "author profile -> exact paper -> public figure links",
+      "result": "Direct fig5 and fig7 URLs obtained from article, no guessing; fullPDF download link yielded internal error",
+      "captures": [
+        "raw/P2_author_route.json",
+        "raw/P2_author_article.json",
+        "raw/P2_author_figures.json"
+      ]
+    },
+    {
+      "action": "approved download of public author-linked fig5/fig7",
+      "result": "HTTP200 JPEGs downloaded and visually inspected",
+      "capture": "raw/P2_author_figure_download.json",
+      "time_utc": "2026-10-21T17:02:46Z"
+    }
+  ],
+  "not_performed": [
+    "login",
+    "access-control bypass",
+    "correspondence",
+    "article purchase",
+    "new object autopsy",
+    "new original fingerprint analysis",
+    "semantic translation",
+    "shared registry edits"
+  ],
+  "stop": "Target primary text, figures and two decisive later-source discussions acquired at attainable scope; no new useful digital route identified for independent microstratigraphy.",
+  "next": "Root integrates source qualifications; new high-resolution/autopsy evidence would be required to independently verify disputed sign and relative microsequence."
+}

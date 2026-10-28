@@ -1,0 +1,21 @@
+{
+  "phase": "continuation_after_C042",
+  "unused_validation_claimed": false,
+  "baseline_exposure_ledger_changed": false,
+  "C043": {
+    "physical_source": "Montecchi2017, byte-identical RA34-S01",
+    "prior_exposure": "Full paper and several cast figures inspected in034; frozen corpus already exposed.",
+    "current_prospective_control": "Physical inventory selection and analysis rule saved before current exact-sign joins.",
+    "result": "One readable labeling-class carrier; comparison not admitted."
+  },
+  "C044": {
+    "discovery": "Ceramic waster identified before brief; original bronze feature argument recovered during source-led follow-through.",
+    "prior_exposure": "No exact current HT31/A410 claim found in targeted disposition/index search; this does not certify unused objects. HT31 is in frozen exposed corpus.",
+    "source_dependence": "Vandenabeele1974 photographs and comparison underlie Duhoux2000–2001 and Militello2011.",
+    "object_independence": "HT31, Malia3068 and c.29a1 are distinct archaeological objects, selected for a comparison rather than sampled independently.",
+    "review": "Generic and candidate-specific criteria preceded preferred synthesis. Reviewers then saw original sources and ceramic follow-up; later lead report exposure is disclosed separately.",
+    "result": "Graded vessel-class preference; no exclusive material binding or action/role construction.",
+    "later_synthesis_exposure": "After final independent review, challenger read lead report/adjudication/phase comparison and recorded SYNTHESIS_CHECK.md. Two wording corrections accepted; not blind validation."
+  },
+  "guardrail": "A frozen rule or new reviewer does not remove earlier source/object exposure. No retrospective split is described as replication."
+}

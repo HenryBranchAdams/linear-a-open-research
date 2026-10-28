@@ -1,0 +1,533 @@
+{
+  "schema": "source_archaeology_access_ledger_v1",
+  "date": "2026-10-24",
+  "note": "Investigator working ledger. Different mirrors are routes, not source counts. Raw/retrieved pixels distinguished from captions/text. No independent ancient replication claimed.",
+  "sources": [
+    {
+      "id": "SA-CHRISTAKIS2010",
+      "title": "A wine offering to the Central Palace Sanctuary at Knossos: the evidence from KN Zb 27",
+      "author": "K. S. Christakis",
+      "year": 2010,
+      "url": "https://www.academia.edu/3702318/Christakis_K_S_2010_Wine_offering_to_the_Central_Palace_Sanctuary_at_Knossos_the_evidence_from_KN_Zb_27_in_O_Krzyszkowska_ed_Cretan_Offerings_Essays_in_Honour_of_P_M_Warren_British_School_at_Athens_Studies_18_London_49_55_London",
+      "access": "author full-text web rendering",
+      "inspected": "text pp49–55; figure captions6.1–6.4",
+      "pixels_inspected": false,
+      "dependency": "HM5194 identity, reported about34L capacity, height53cm, prefiring sequence",
+      "unresolved": "Capacity calculation method, fill level/restoration uncertainty; source_archaeology has not independently inspected the figures acquired by challenger.",
+      "failed_routes": [
+        "Academia direct download403",
+        "JSTOR article landing returns short security/script HTML",
+        "Tavily basic extraction failed"
+      ],
+      "files": [
+        "sources/Christakis2010_JSTOR.html"
+      ],
+      "web_refs": [
+        "turn59view1",
+        "turn71search2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Christakis2010_JSTOR.html": {
+          "bytes": 3038,
+          "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+        }
+      },
+      "team_addendum": "Independent challenger subsequently inspected original figure pixels in phase_work/challenge/C042_christakis_fig2.jpg and C042_christakis_fig3.jpg. This agent-specific pixels_inspected:false field remains accurate; team acquisition is resolved."
+    },
+    {
+      "id": "SA-OLIVIER1992",
+      "title": "Rapport sur les textes en hiéroglyphique crétois, en linéaire A et en linéaire B",
+      "author": "J.-P. Olivier",
+      "year": 1992,
+      "url": "https://helios.eie.gr/helios/bitstream/10442/147/1/A03.003.0.pdf",
+      "access": "complete institutional volume PDF",
+      "inspected": "printed446=PDF468 text and pixels; adjacent PDF465–470 selectively text",
+      "pixels_inspected": true,
+      "dependency": "17→117 original correction; anomaly already explicit",
+      "unresolved": "later107 supersedes117",
+      "failed_routes": [
+        "web open exceeded file-size limit; ordinary institutional download succeeded"
+      ],
+      "files": [
+        "sources/Mykenaika1992.pdf",
+        "sources/Mykenaika1992_pdf468.png"
+      ],
+      "web_refs": [
+        "turn44search3"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Mykenaika1992.pdf": {
+          "bytes": 48848355,
+          "sha256": "e94b2812c5568aafd34863a03fdadd9ae8a7e1499dccc7268910fcbfd2395db0"
+        },
+        "sources/Mykenaika1992_pdf468.png": {
+          "bytes": 276805,
+          "sha256": "a6659fa01c588d00d97798e0bd945f3c63b9d5d754b8101b45117fa225dacde2"
+        }
+      }
+    },
+    {
+      "id": "SA-DELFREO2017",
+      "title": "Rapport2011–2015 sur les textes en écriture hiéroglyphique crétoise, en linéaire A et en linéaire B",
+      "author": "M. Del Freo",
+      "year": 2017,
+      "url": "https://www.academia.edu/17580940/Rapport_2011_2015_sur_les_textes_en_%C3%A9criture_hi%C3%A9roglyphique_cr%C3%A9toise_en_lin%C3%A9aire_A_et_en_lin%C3%A9aire_B",
+      "access": "author full-text web rendering; institutional metadata separately acquired",
+      "inspected": "p17 target paragraph and notes76–77; title/frontmatter",
+      "pixels_inspected": false,
+      "dependency": "107 from reported22June2012 autopsy byDelFreo and Zurbach",
+      "unresolved": "new facsimile announced for GORILA supplement, not acquired",
+      "failed_routes": [
+        "CNR institutional record no files attached",
+        "Tavily basic extraction failed"
+      ],
+      "files": [
+        "sources/DelFreo2017_CNR.html",
+        "sources/CNR_AegeanScripts_browse.html"
+      ],
+      "web_refs": [
+        "turn66view0",
+        "turn67view1",
+        "turn67view2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/DelFreo2017_CNR.html": {
+          "bytes": 44081,
+          "sha256": "b50496e533e340a0ab70736dccf3f0523e7c4c99fea7bc8ccf1d7c19667d0a84"
+        },
+        "sources/CNR_AegeanScripts_browse.html": {
+          "bytes": 35461,
+          "sha256": "4bcb6ae98b3c5ec7bba3a1a9c3dc001c3df4d0d7111ced9df71938370353fecb"
+        }
+      }
+    },
+    {
+      "id": "SA-DEFIDIO2024",
+      "title": "The absolute values of the symbols for volume",
+      "author": "Pia de Fidio",
+      "year": 2024,
+      "url": "https://www.scribd.com/document/750994689/Killen-The-New-Documents-in-Mycenaean-Greek-Vol-1-2024",
+      "access": "public third-party rendering of original chapter, source-locating use",
+      "inspected": "target pp179–180 text; no pixels",
+      "pixels_inspected": false,
+      "dependency": "grounded implicit-subunit/local-unit rival, leads to107 originalautopsy",
+      "unresolved": "Publisher/author PDF target pp179–180 remains unacquired. Official Cambridge route offers Get Access and only first-page preview, not target pages. Finite route closed without bypass.",
+      "files": [
+        "sources/DeFidio2024_Cambridge_book.html"
+      ],
+      "web_refs": [
+        "turn64view0",
+        "turn64view1",
+        "turn64view2",
+        "turn91view0",
+        "turn93view0",
+        "turn93view1"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/DeFidio2024_Cambridge_book.html": {
+          "bytes": 991721,
+          "sha256": "b4c3b1ef532eede90a1dc6970d8e2d346e84cb37a7af8aadfbbeef7337a2c40d"
+        }
+      },
+      "doi": "10.1017/9781139029049.007",
+      "publisher_url": "https://www.cambridge.org/core/books/abs/new-documents-in-mycenaean-greek/absolute-values-of-the-symbols-for-volume/ACE8A291774C4E64D6DC53CD91782EFF",
+      "publication": "In John Killen (ed.), The New Documents in Mycenaean Greek I (2024), 169–204"
+    },
+    {
+      "id": "SA-KARNAVA2019",
+      "title": "The inscribed loomweight",
+      "author": "A. Karnava",
+      "year": 2019,
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_318.pdf",
+      "access": "complete official volume PDF; already acquired for other pages in041",
+      "inspected": "pp501–504 text; p501 and p502 Fig4.8 pixels",
+      "pixels_inspected": true,
+      "dependency": "L46 AIN11057 uncertain sign sequence/segmentation, marking stage",
+      "unresolved": "First-mark identification and segmentation remain uncertain after bounded actual-figure/comparative-glyph inspection; exact local referent/production-set binding absent. See L46_SCREEN_ADJUDICATION.md.",
+      "files": [
+        "sources/BAE_318.pdf",
+        "sources/BAE318_pdf502.png",
+        "sources/BAE318_pdf503.png",
+        "Karnava_2019_inspected_text.txt",
+        "sources/BAE318_front1.png",
+        "sources/BAE318_front3.png"
+      ],
+      "web_refs": [
+        "turn7view0"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/BAE_318.pdf": {
+          "bytes": 73120857,
+          "sha256": "0ccd138b1b2fd2885f22516573e08ab373cf338c5bdc28d7256ffe64ccc50b52"
+        },
+        "sources/BAE318_pdf502.png": {
+          "bytes": 241915,
+          "sha256": "15e2ada23649ceec9cd9f56de1859fbe3f05ffee5150b2fd768e7ab21ceb4c6f"
+        },
+        "sources/BAE318_pdf503.png": {
+          "bytes": 327911,
+          "sha256": "8dfdd2d4c34eba9f41fd5533bb1e0fdb163e7ef1a55f1958b4fac2677f66bca3"
+        },
+        "Karnava_2019_inspected_text.txt": {
+          "bytes": 12416,
+          "sha256": "110129e33a4bc9c3a11c41445145458e58b0550d7d1aa3081508c201daa92907"
+        },
+        "sources/BAE318_front1.png": {
+          "bytes": 111834,
+          "sha256": "58d16e0a6c6ddc84c6fb24e5795978d759f17d96edbaa4c9f8581849ca7b711f"
+        },
+        "sources/BAE318_front3.png": {
+          "bytes": 19502,
+          "sha256": "db252d9b47200073e213f36eaef0126d12b70099069ee452ec5e17c02929a956"
+        }
+      },
+      "volume": "I. Nikolakopoulou, Akrotiri, Thera: Middle Bronze Age Pottery and Stratigraphy, Volume I: Stratigraphy, Ceramic Typology and Technology, Weaving Equipment (BAE318, 2019)"
+    },
+    {
+      "id": "SA-VAKIRTZI2019",
+      "title": "The loomweights",
+      "author": "S. Vakirtzi",
+      "year": 2019,
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_318.pdf",
+      "access": "complete official volume PDF",
+      "inspected": "catalogue p491 and grouping p495 text; selected adjacent discussion",
+      "pixels_inspected": false,
+      "dependency": "exact L46/L47/L48 identities, dimensions, masses, preservation, deposit, fabric classes",
+      "unresolved": "common production/use event not demonstrated",
+      "files": [
+        "sources/BAE_318.pdf"
+      ],
+      "web_refs": [],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/BAE_318.pdf": {
+          "bytes": 73120857,
+          "sha256": "0ccd138b1b2fd2885f22516573e08ab373cf338c5bdc28d7256ffe64ccc50b52"
+        }
+      },
+      "volume": "I. Nikolakopoulou, Akrotiri, Thera: Middle Bronze Age Pottery and Stratigraphy, Volume I: Stratigraphy, Ceramic Typology and Technology, Weaving Equipment (BAE318, 2019)"
+    },
+    {
+      "id": "SA-POURSAT2001",
+      "title": "«Marques de potier» et contrôle économique à Malia à l’époque des premiers palais crétois",
+      "author": "J.-C. Poursat",
+      "year": 2001,
+      "doi": "10.3406/ktema.2001.2274",
+      "url": "https://www.persee.fr/doc/ktema_0221-5896_2001_num_26_1_2274",
+      "access": "public article page-specific HTML",
+      "inspected": "pp25,28–29 text",
+      "pixels_inspected": false,
+      "dependency": "marked loomweight groups and distinct clay; original production/distribution alternatives",
+      "unresolved": "scriptclassification, original catalogue object/control exact joins",
+      "failed_routes": [
+        "web page opens limited text; page-specific direct HTML succeeded",
+        "PDF download form CAPTCHA; not bypassed"
+      ],
+      "files": [
+        "sources/Poursat2001.html",
+        "sources/Poursat2001_28.html",
+        "sources/Poursat2001_29.html"
+      ],
+      "web_refs": [
+        "turn22view0"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Poursat2001.html": {
+          "bytes": 77904,
+          "sha256": "8ce0d6cdbb388901a7dbd92c2e25cc434e81a0e27189672d5de0c7db219eea93"
+        },
+        "sources/Poursat2001_28.html": {
+          "bytes": 81296,
+          "sha256": "a528c6d8b03bf7875baf909f3776283a943273322f1eecd84a486b3660cc19b7"
+        },
+        "sources/Poursat2001_29.html": {
+          "bytes": 82039,
+          "sha256": "066c5686e99db18ad5fb8b740617d8e487418ae129488223c639e997d6755afa"
+        }
+      }
+    },
+    {
+      "id": "SA-PELON1995",
+      "title": "Empreintes de sceaux et signe incisé sur deux tessons de Malia",
+      "author": "O. Pelon",
+      "year": 1995,
+      "doi": "10.3406/bch.1995.4639",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1995_num_119_2_4639",
+      "access": "public article page-specific HTML",
+      "inspected": "pp575,587,589 text; Figs6–7 captions only",
+      "pixels_inspected": false,
+      "dependency": "89P33 exact identity/carrier, proposed fraction mark; MA10b.1a comparison",
+      "unresolved": "whole capacity unavailable; sign not independently calibrated",
+      "files": [
+        "sources/Pelon1995.html",
+        "sources/Pelon1995_587.html",
+        "sources/Pelon1995_589.html"
+      ],
+      "web_refs": [
+        "turn22view2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Pelon1995.html": {
+          "bytes": 96038,
+          "sha256": "f5f728b9529ab2912266263420f34da8b05fd4e35f03a5551c1266f9e34f4f8c"
+        },
+        "sources/Pelon1995_587.html": {
+          "bytes": 96525,
+          "sha256": "d8e3829f0fb4b4a3beb23b5d737b98de57963dd21d1e72ac8a6cee3aeccbeb6b"
+        },
+        "sources/Pelon1995_589.html": {
+          "bytes": 97742,
+          "sha256": "142b2c780d8f9505a6819a6abe941ecd2cb854f87ff772e443ae425d7afdc9e1"
+        }
+      }
+    },
+    {
+      "id": "SA-ULANOWSKA2020",
+      "title": "The Chaîne Opératoire as a Cognitive Framework for Investigating Prehistoric Textile Production: Production of Clay Textile Tools in Middle Bronze Age Crete as a “Troublesome” Case Study",
+      "author": "A. Ulanowska",
+      "year": 2020,
+      "url": "https://www.repository.cam.ac.uk/bitstreams/ce8f9ddf-30a4-4b07-84a0-b377246df9ba/download",
+      "access": "complete institutional article PDF",
+      "inspected": "first-page exact title and author text; PDF pp9–11 Malia discussion selectively text",
+      "pixels_inspected": false,
+      "dependency": "comparison/source locator, not new ancient witness",
+      "unresolved": "Original Malia catalogue object/group join remains unacquired; paper is a discussion rather than independent ancient witness",
+      "files": [
+        "sources/Ulanowska_2020.pdf"
+      ],
+      "web_refs": [],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Ulanowska_2020.pdf": {
+          "bytes": 846008,
+          "sha256": "8c86ebfc901728bf73154d39b135de00c78c5ce5d745aac360ce34610c70d8a4"
+        }
+      }
+    },
+    {
+      "id": "SA-ULANOWSKA2025",
+      "title": "Stamped, incised, inscribed — some remarks on notation practices on textile tools from Bronze Age Greece",
+      "author": "A. Ulanowska",
+      "year": 2025,
+      "url": "https://www.researchgate.net/publication/404525570_A_Ulanowska_2025_Stamped_incised_inscribed_-_some_remarks_on_notation_practices_on_textile_tools_from_Bronze_Age_Greece_in_ME_Alberti_G_Dionisio_AM_Jasink_eds_MEANINGFUL_PRACTICES_291-209",
+      "access": "author full-text rendering",
+      "inspected": "Malia sealed tool discussion, selected comparisons",
+      "pixels_inspected": false,
+      "dependency": "secondary analysis of primaryobjects; no new witness",
+      "unresolved": "full official PDF route failed; chapterpagination289–309 versus metadata291–209must be checked",
+      "failed_routes": [
+        "officiallargePDF web limit",
+        "officiallargePDF urllib403"
+      ],
+      "files": [],
+      "web_refs": [
+        "turn12view1",
+        "turn18view2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {}
+    },
+    {
+      "id": "SA-NOTTI2025",
+      "title": "Naming, Writing and Measuring “at the Time of Minos”. Some Reflections on Bronze Age Aegean Notations on Clay Vessels and their Representations",
+      "author": "E. Notti",
+      "year": 2025,
+      "url": "https://apeiron.iulm.it/handle/10808/68127",
+      "access": "institutional metadata and abstract only",
+      "inspected": "record/abstract only",
+      "pixels_inspected": false,
+      "dependency": "ZA Zb3 newmeasurement lead; root owns continuedacquisition",
+      "unresolved": "full PDF marked unavailable",
+      "failed_routes": [
+        "one exact-title authorfulltext search found no copy"
+      ],
+      "files": [],
+      "web_refs": [
+        "turn7view2",
+        "turn10search6"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {}
+    },
+    {
+      "id": "SA-CHRISTAKIS2005",
+      "title": "Cretan Bronze Age Pithoi: Traditions and Trends in the Production and Consumption of Storage Containers in Bronze Age Crete",
+      "author": "K. S. Christakis",
+      "year": 2005,
+      "url": "https://instappress.com/wp-content/uploads/2005/01/Cretan-Bronze-Age-Pithoi.pdf",
+      "access": "official14-pagefrontmatter only",
+      "inspected": "title/contents toidentifyboundary",
+      "pixels_inspected": false,
+      "dependency": "p60–61 capacitymethod lead",
+      "unresolved": "targetpages absent inofficialpreview",
+      "files": [],
+      "web_refs": [
+        "turn75view0"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {}
+    },
+    {
+      "id": "SA-NOSCHWEILHARTNER2025",
+      "title": "The Common Thread: Textiles and Wool Logograms in Linear A",
+      "author": "Marie-Louise Nosch and Jörg Weilhartner",
+      "year": 2025,
+      "online_publication_date": "2026-01-09",
+      "publication": "In E. Salgarella and V. Petrakis (eds), The Wor(l)ds of Linear A, AURA Supplement15 / ASASA(RAME)1, 115–135",
+      "url": "https://nepub.lib.uoa.gr/index.php/aura/article/view/2642/",
+      "pdf_url": "https://nepub.lib.uoa.gr/index.php/aura/article/download/2642/pdf_73/5535",
+      "access": "complete official open PDF (CC BY-NC-ND4.0), 202 pages; not completely read",
+      "inspected": "pp115–117,121–122,131,133–135 targeted text; p121 Fig6.7 actual pixels; frontmatter title/imprint/TOC text",
+      "pixels_inspected": true,
+      "dependency": "AB164 family comparison and whether a newly accessible chapter supplies L46-specific observation",
+      "unresolved": "No L46-specific observation or direct written-mark/tool/use join supplied; its broader HT24 claim is correction-sensitive and not readmitted here",
+      "files": [
+        "sources/WOLA2026.pdf",
+        "sources/WOLA2026_pdf121.png"
+      ],
+      "web_refs": [
+        "turn88search2",
+        "turn89view0",
+        "turn91view2",
+        "turn93view2",
+        "turn94view0",
+        "turn94view1",
+        "turn94view2",
+        "turn94view3"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/WOLA2026.pdf": {
+          "bytes": 4954454,
+          "sha256": "339a38a0d8d2b8939110b950aa773c2ce8f7ac17207afbed5417c95149efbf2b"
+        },
+        "sources/WOLA2026_pdf121.png": {
+          "bytes": 182897,
+          "sha256": "15a5b529b0ff5e76cf9843af279dcdf59baf1534328707be912eb35d00be0001"
+        }
+      }
+    },
+    {
+      "id": "SA-DONNELLY2025",
+      "title": "Cycladic Linear A and connections between scripts",
+      "author": "Cassandra Donnelly",
+      "year": 2025,
+      "online_publication_date": "2026-01-09",
+      "publication": "In E. Salgarella and V. Petrakis (eds), The Wor(l)ds of Linear A, AURA Supplement15 / ASASA(RAME)1, 61–76",
+      "url": "https://nepub.lib.uoa.gr/index.php/aura/article/view/2642/",
+      "access": "same complete official open volume PDF",
+      "inspected": "chapter title p61 and targeted p68 text; rendered p68 but source_archaeology has not visually inspected it",
+      "pixels_inspected": false,
+      "dependency": "Material/document-form comparison citing Karnava2019; no independent L46 autopsy",
+      "unresolved": "Calls Thera object L36 while citing Karnava2019p501, likely citation typo preserved as such. Inscription-depth generalization differs from source-specific first-mark distinction.",
+      "files": [
+        "sources/WOLA2026.pdf",
+        "sources/WOLA2026_pdf68.png"
+      ],
+      "web_refs": [
+        "turn93view2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/WOLA2026.pdf": {
+          "bytes": 4954454,
+          "sha256": "339a38a0d8d2b8939110b950aa773c2ce8f7ac17207afbed5417c95149efbf2b"
+        },
+        "sources/WOLA2026_pdf68.png": {
+          "bytes": 315272,
+          "sha256": "8d88787ee6a5d6c3eaeded104005d97a195a6f1aa733d047ae2a9025499a5669"
+        }
+      }
+    },
+    {
+      "id": "SA-SIGLA-AB164",
+      "title": "SigLA sign chart: AB164a–d exemplar drawings",
+      "author": "Ester Salgarella and Simon Castellan",
+      "year": null,
+      "url": "https://sigla.phis.me/sign-list.html",
+      "access": "public sign-chart HTML and four linked exemplar PNGs; successful image acquisition from project host inscribercproject.com after first-host timeout",
+      "inspected": "HTML exact sign/image mapping and four glyph drawings; originals displayed with white alpha-composite background for legibility",
+      "pixels_inspected": true,
+      "dependency": "Visual comparison of uncertain L46 first graph against labelled variants selected before comparison",
+      "unresolved": "Family resemblance does not identify the L46 shallow mark, establish segmentation or determine logographic rather than syllabic use",
+      "failed_routes": [
+        "sigla.phis.me first glyph request timed out; bounded alternate host succeeded"
+      ],
+      "files": [
+        "sources/SigLA_sign-list.html",
+        "sources/SigLA_AB164a_HT19.png",
+        "sources/SigLA_AB164b_KHWc2040.png",
+        "sources/SigLA_AB164c_KHWc2041.png",
+        "sources/SigLA_AB164d_KHWc2039.png",
+        "sources/SigLA_AB164_display_white.png"
+      ],
+      "image_urls": [
+        "https://www.inscribercproject.com/SigLA/document/HT%2019/HT%2019_2.png",
+        "https://www.inscribercproject.com/SigLA/document/KH%20Wc%202040/KH%20Wc%202040_1.png",
+        "https://www.inscribercproject.com/SigLA/document/KH%20Wc%202041/KH%20Wc%202041_1.png",
+        "https://www.inscribercproject.com/SigLA/document/KH%20Wc%202039/KH%20Wc%202039_1.png"
+      ],
+      "web_refs": [
+        "turn89view1",
+        "turn90view1"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/SigLA_sign-list.html": {
+          "bytes": 237745,
+          "sha256": "23935d77cec5f786e1a927cfa5a650f288657c8443e8ea871721d419b8629c11"
+        },
+        "sources/SigLA_AB164a_HT19.png": {
+          "bytes": 13947,
+          "sha256": "003ad765e4d4ff7d220c81f386940ccc71545cfd0a1b9180812ea8368a4f0682"
+        },
+        "sources/SigLA_AB164b_KHWc2040.png": {
+          "bytes": 57230,
+          "sha256": "122080097e18e9cf1f416cec01ab845992acbc5f6fb218c63c93141a1401cb2c"
+        },
+        "sources/SigLA_AB164c_KHWc2041.png": {
+          "bytes": 67449,
+          "sha256": "abe9885002cbd11a329c562174e7106a6e94d9a4fa1f3033a4c66bdcc8850504"
+        },
+        "sources/SigLA_AB164d_KHWc2039.png": {
+          "bytes": 33879,
+          "sha256": "1fa7ca1e79b4ac2fc4d48666b69791d9e96bec4cbab70b03846e1ef13e942d9e"
+        },
+        "sources/SigLA_AB164_display_white.png": {
+          "bytes": 80804,
+          "sha256": "55238a61d08c835d216afd9cae1d651d294b93219e94b9e05819fa9d3c9930f6"
+        }
+      }
+    },
+    {
+      "id": "SA-DELFREONOSCHROUGEMONT2010",
+      "title": "The Terminology of Textiles in the Linear B Tablets, including Some Considerations on Linear A Logograms and Abbreviations",
+      "author": "Maurizio Del Freo, Marie-Louise Nosch and Françoise Rougemont",
+      "year": 2010,
+      "publication": "In C. Michel and M.-L. Nosch (eds), Textile Terminologies in the Ancient Near East and Mediterranean from the Third to the First Millennia BC, Ancient Textiles Series8, 338–373",
+      "url": "https://www.academia.edu/4955873/The_Terminology_of_Textiles_in_the_Linear_B_Tablets_including_Some_Considerations_on_Linear_A_Logograms_and_Abbreviations",
+      "access": "author full-text web rendering",
+      "inspected": "p353 targeted paragraph explicitly stating AB164 syllabic use HT17.1 andHT19.1 and four variants on KH roundels",
+      "pixels_inspected": false,
+      "dependency": "Positive source-grounded syllabic alternative to locally isolated textile logogram on L46",
+      "unresolved": "No autopsy or new edition of HT17/19 undertaken; graph functional history is a source-supported control, not local L46 proof",
+      "files": [],
+      "web_refs": [
+        "turn97search1",
+        "turn98view0",
+        "turn99view0",
+        "turn99view1",
+        "turn99view2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {}
+    }
+  ]
+}

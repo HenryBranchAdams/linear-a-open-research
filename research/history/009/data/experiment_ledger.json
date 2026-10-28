@@ -1,0 +1,202 @@
+{
+  "cycles": [
+    {
+      "cycle": 1,
+      "hypothesis": "Original editions may resolve the TA-NA formation or provide an independent identity anchor",
+      "tests": [
+        "reproduce round8",
+        "inspect original ZA9 photo/apparatus and same-tablet signs",
+        "retrieve joined Linear B tablet and series controls",
+        "retrieve Boulotis and excavation notices"
+      ],
+      "outcome": "Better source-grounded constraints; no identity or role assignment licensed",
+      "next_decision": "Test contextual identity and expand corpus"
+    },
+    {
+      "cycle": 2,
+      "hypothesis": "Related TA-NA spellings have matching non-target account associates or additional secure attestations",
+      "tests": [
+        "exact face-level co-associates",
+        "whole-tablet aggregation sensitivity",
+        "damaged HT49 check",
+        "SigLA full browse snapshot discovery scan"
+      ],
+      "outcome_file": "notes/identity_results.json",
+      "next_decision": "Retain linguistic alternatives; pivot to records with external quantitative/physical anchors"
+    },
+    {
+      "cycle": 3,
+      "hypothesis": "Ritual/administrative crossover identifies the I-*301 action",
+      "tests": [
+        "Davis new chapter and prior-equivalent search",
+        "ZA Zb3 source context and opposing ritual interpretation",
+        "SY Za2 OLIV/RE dependency audit"
+      ],
+      "outcome_file": "notes/ritual_check.md",
+      "next_decision": "No independently selected action; pursue incised-numeral roundels"
+    },
+    {
+      "cycle": 4,
+      "hypothesis": "ZA Wc2 supplies independent person + action + commodity evidence",
+      "tests": [
+        "Perna and newer autopsy reading versus erased MI",
+        "seal count source contradiction",
+        "exact Linear B A-TI-KA comparison",
+        "competing boundary analyses"
+      ],
+      "outcome_file": "notes/roundels.json",
+      "next_decision": "Keep numeral/sign distinction but do not translate the unseparated syllabograms"
+    },
+    {
+      "cycle": 5,
+      "hypothesis": "Anetaki textile linkage and HT24 balance discriminate a processing term from a metrological term",
+      "tests": [
+        "new Anetaki overview and textile paper",
+        "HT24 original plates and component uncertainty",
+        "rational multiplier sensitivity",
+        "yield-loss alternative",
+        "independent adversarial rerun"
+      ],
+      "outcome_file": "results/anetaki_textile_test.json",
+      "next_decision": "Report exact conditional bounds and remaining alternatives; no sentence claim"
+    }
+  ],
+  "branch_experiments": [
+    {
+      "ledger_id": "za9:ZA9_E1",
+      "provenance_file": "notes/za9.json",
+      "id": "ZA9_E1",
+      "hypothesis": "Trace can discriminate TE from TI without predicted spelling",
+      "competitors": [
+        "TE",
+        "TI",
+        "other sign"
+      ],
+      "test": "inspect full original publisher plate plus same-tablet TI #3 and TE #27 and SigLA target #17",
+      "outcome": "target diagnostic features not securely preserved/readable; no selection",
+      "blinding": "not blind; predicted spelling known",
+      "next_decision": "retain unresolved; seek original-object autopsy/RTI only if available, do not fill morphological grid"
+    },
+    {
+      "ledger_id": "jar:JAR_E01",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_E01",
+      "hypothesis": "The fourth sign or word boundary is a restoration created by desired morphology.",
+      "competitors": [
+        "Four preserved signs.",
+        "Damaged or incomplete reading."
+      ],
+      "discriminating_observation": "Original edition and photograph.",
+      "test": "Retrieved publisher Boulotis2008pp69–71, inspected figure8 and transcriptionn8.",
+      "outcome": "Four complete signs; publication confirms *46 identity and NA variant; no new reading proposed.",
+      "next_decision": "Retain complete witness; test physical context."
+    },
+    {
+      "ledger_id": "jar:JAR_E02",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_E02",
+      "hypothesis": "Physical manufacture/recovery anchors source and recipient independently.",
+      "competitors": [
+        "Maker label.",
+        "Destination assigned at production.",
+        "Non-directional designation."
+      ],
+      "discriminating_observation": "Material source locality and functional receiving context, separately identified with text.",
+      "test": "Followed references into PAE1992p178,PAE1993p185,Ergon1993p90,Michailidoup9n22,Nottip185n13.",
+      "outcome": "Pre-firing confirmed; apparent Cretan origin unproven by retrieved material analysis; fragmentary lightwell deposition does not establish recipient.",
+      "next_decision": "No directional suffix inference; preserve manufacture-stage constraint."
+    },
+    {
+      "ledger_id": "jar:JAR_E03",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_E03",
+      "hypothesis": "TA-NA-TE/A-TA-NA-TE relationship is newly recognized.",
+      "competitors": [
+        "Published predecessor."
+      ],
+      "discriminating_observation": "Original edition morphological notes.",
+      "test": "Read Boulotis2008p71n11.",
+      "outcome": "Possible A-prefix comparison already published.",
+      "next_decision": "Report original evidence newly retrieved, not decipherment novelty."
+    },
+    {
+      "ledger_id": "anetaki:numeric",
+      "provenance_file": "notes/anetaki.json",
+      "id": "ANETAKI-TEXTILE-1",
+      "hypothesis": "ME cannot be a metrological multiplier because HT24 represents45 standard wool units",
+      "competitors": [
+        "ME denotes a processing stage",
+        "ME denotes quality/type",
+        "ME changes accounting unit"
+      ],
+      "design": "Conditional necessary lower bounds under explicitly lossless balance, followed by yield sensitivity; no corpus significance or linguistic probability. Negative residual disproves only the lossless numeric model.",
+      "preserved_numeric_lower_bounds": [
+        "6",
+        "10",
+        "19/2",
+        "6"
+      ],
+      "J": "1/2",
+      "E": "1/4",
+      "wool_per_AB118": "10",
+      "verso_entries": [
+        {
+          "integer": "1",
+          "J_count": 1,
+          "E_count": 1
+        },
+        {
+          "integer": "1",
+          "J_count": 1,
+          "E_count": 1
+        },
+        {
+          "integer": "1",
+          "J_count": 0,
+          "E_count": 0
+        }
+      ],
+      "fractional_recto_entry": "19/2",
+      "ME_scenarios": [
+        {
+          "id": "secure_ME_only",
+          "secure_or_accepted_ME_subtotal": "10",
+          "qualification": "Countermodel takes doubtful a3/a4 glyphs as not ME and allows damaged first and third entries not to carry ME; does not assert those absences."
+        },
+        {
+          "id": "accept_tentative_ME_at_six",
+          "secure_or_accepted_ME_subtotal": "16",
+          "qualification": "Includes ME? next to6; missing quantity after ME? in a4 kept nonnegative."
+        },
+        {
+          "id": "restore_ME_to_all_entries",
+          "secure_or_accepted_ME_subtotal": "63/2",
+          "qualification": "Explicit stronger restoration, not observed text."
+        }
+      ],
+      "assumptions": [
+        "Fixed45-input balance requires lossless common-batch equivalence, no additions, no processing loss, no different unit conversion; same batch alone is insufficient.",
+        "AB118 second occurrence accepted despite published uncertainty",
+        "J=1/2,E=1/4",
+        "Unpreserved numeric parts contribute nonnegative quantities",
+        "Reading group ]9J as commodity continuation",
+        "Multiplier uniform within scenario",
+        "Mapping45nearby noduli to45standard input units is itself an assumption; loss-based alternative may require a different token role."
+      ],
+      "independent_evidence": "Numeric marks and nearby nodulus count differ from proposed lexical ME meaning, but their allocation to one batch and units remains interpretive.",
+      "novelty": "Exact multiplier-sensitivity computation is this run's analysis; underlying45-unit and fractional-nodulus arguments already published. Priority not established.",
+      "source_claim_actually_tested": "Del Freo p58 says a distinct measure is difficult and quality/processing more likely, not categorically impossible. The code tests stronger arithmetic-exclusion inference.",
+      "yield_sensitivity": {
+        "input_lower_bound": "95/2",
+        "output_assumed": "45",
+        "model": "output=yield*(input_lower_bound+missing_input)",
+        "maximum_yield": "18/19",
+        "minimum_loss_fraction": "1/19",
+        "not_observed": true,
+        "qualification": "Positive missing quantities need more loss. Mere shared batch does not imply conservation across production.",
+        "source": "DEL-FREO-2020-WOOL",
+        "locator": "p61 discusses raw-wool preparation losses in Mycenaean comparison; p62n49 distinguishes small spun-to-woven scraps and possible return of scraps."
+      }
+    }
+  ]
+}

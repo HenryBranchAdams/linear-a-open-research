@@ -1,0 +1,38 @@
+[
+  {
+    "id": "R15-S01",
+    "title": "Godart & Olivier, GORILA I (HT 100, pp. 164\u2013165; digital EFA/Cefael)",
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&page_number=5&page_type=0",
+    "role": "Primary critical edition; Bennett reports no secure numeral in damaged slot."
+  },
+  {
+    "id": "R15-S02",
+    "title": "Emmett L. Bennett Jr., A Strange 'Linear A' Wine-Measure, Minos 18",
+    "url": "https://gredos.usal.es/bitstream/handle/10366/73460/A_Strange_Linear_A_Wine-Measure.pdf?sequence=1",
+    "role": "Critical comparison of Was, GORILA, and CTLA readings; explicitly flags HT100 readings/restorations as damaged and unpersuasive."
+  },
+  {
+    "id": "R15-S03",
+    "title": "Alexander Uchitel, HT 94",
+    "url": "https://gredos.usal.es/bitstream/handle/10366/133929/HT_94.pdf?sequence=1",
+    "role": "Secondary comparative table prints HT100 *304+PA [4], explicitly bracketed/restored."
+  },
+  {
+    "id": "R15-S04",
+    "title": "lineara.xyz HT100 / current Younger-derived transcription",
+    "url": "https://lineara.xyz/items/HT100.html",
+    "role": "Modern transcription linked to GORILA facsimile/photo; leaves *304+PA without a following numeral."
+  },
+  {
+    "id": "R15-S05",
+    "title": "AIgent Linear A structured corpus",
+    "url": "https://aigents.berta.one/decipherment/corpus?q=%2A304&split=train",
+    "role": "Modern GORILA/Linear A Explorer-derived corpus; renders the damaged item after *304+PA as unknown."
+  },
+  {
+    "id": "R15-S06",
+    "title": "SigLA HT 100",
+    "url": "https://sigla.phis.me/document/HT%20100/index-word.html",
+    "role": "Current palaeographic database route to tablet drawing and GORILA corpus; used for object/provenance cross-check."
+  }
+]

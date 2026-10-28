@@ -1,0 +1,39 @@
+# Sealing and roundel reconnaissance
+
+Date: 2026-10-24. This is reconnaissance and candidate admission advice, not a completed semantic campaign.
+
+## Exposure and authority
+
+Initial criteria were written before any favored synthesis in `INITIAL_CRITERIA.md` (SHA256 `4de0388929d5fc4d6fc851dd9bc1b1ae1be0ad70e6796d37344405680a6d2208`). I subsequently inspected current `context/DO_NOT_REUSE.md`, the relevant `registry/claims.json` entries, baseline dispositions and exposure metadata, and the history crosswalk. The earlier roundel work is already exposed, specifically LA-H013–015 and LA-H032–033. These prevent rediscovery claims for the known seal-label mapping and numeral/impression comparisons. No supplied conclusion from the lead has yet been reviewed.
+
+## Candidate comparison
+
+| Packet | Exact proposed question | Accessible evidence and missing relationship | Strongest grounded alternative | Access category and recommendation |
+|---|---|---|---|---|
+| R-C1: HT Wc3024, with GO Wc1 and MA Wc<5> controls | Does a written number count seal impressions or a commodity quantity in a common scale? | Original 1989 HT edition is publicly readable; current LA-H033 already preserves the conditional universal-scale failure. No new unit or count observation obtained. | Heterogeneous units, multiple commodity units per impression, incomplete/imprecise impression preservation. | Recovered prior work; close unchanged. Not a fresh candidate investigation. |
+| R-C2: MA Wc7/HM1401, AB180, and MA4 (MA6 as contextual extension only) | Can a roundel-to-tablet link identify the sign's administrative category or a summarization event? | Original 1993 Malia edition pp.1–2,4,8–9 inspected as page text; page 1 image inspected. Same-deposit recurrence and author's proposed summary relationship available. No exact event, counterpart, or independent content identification. | A shared category can occur in separate accounts without one being a summary of the other; the category can concern products, grades, or account classes. | Category 2 (accessible packet that could reveal a discriminator), now screened closed at source text level: the paper itself limits the bridge to a working hypothesis. Reopen with an exact transaction/counterpart or contents link. |
+| R-C3: PH Wg45/HM1535 (formerly PH Wc45), with PH Wg36/HM1534 (formerly PH Wb36) kept separate | Can directly sealed substrate, incision timing, and local text separate closure-related reference from production or account designation? | PA-I-TO's Phaistos catalogue identifies both as direct sealings from Vano25 (1955, MM IIB). Frozen index gives E-TA₂-QE for PHWg45 and TE for PHWb36. The specialist Younger transcription describes Wg45's reading as very doubtful. Original GORILA II printed96 and Hallager1996 II p.7 are identified, not inspected here. No exact reverse/substrate link acquired. | Incisions may designate a contents/account/party associated with closure without naming maker, closer, owner, or recipient. A doubtful multigraph reading compounds this. | Category 2 only if original plates/reverse descriptions can be acquired; a finite inspection is defensible, but current packet does not justify a semantic experiment. Low priority compared with a packet having exact use or contents evidence. |
+
+The three screens concern distinct relationships: quantified impression equivalence; cross-document account linkage; and direct physical attachment. The first is inherited and cannot be counted as new scientific work. The second adds a specific source-level closure. The third remains a bounded source-inspection opportunity, not a strong lead.
+
+## Decisive source observations
+
+The 1993 Malia edition reports MA Wc7 as a complete roundel bearing AB180, with six impressions of one seal and a sign incised last; its page 9 comparison is to MA4 in the same deposit. The authors explicitly stop short of establishing that the tablet summarizes the roundel. Their treatment of MA Wc13/14 asks whether two seal devices represent one or two people; it therefore cannot anchor two actors. These are author-reported examinations, not new autopsy. [S-R2]
+
+The modern PA-I-TO catalogue distinguishes PH Wg36 and Wg45 from hanging nodules PH Wa32/Wa52. Its legacy thumbnails still use earlier Wb/Wc classes, while its table uses Wg. The W-class page says "Coming soon" and provides thumbnails but no substantive object dossiers. No published exact substrate or inscription-stage binding was recovered from it. [S-R3]
+
+## Source/access ledger
+
+| ID | Exact source and locator | Acquisition and actual inspection | Limits / failed routes |
+|---|---|---|---|
+| S-R1 | E. Hallager, L. Godart, J.-P. Olivier, *La rondelle en linéaire A d'Haghia Triada Wc3024 (HM1110)*, BCH113.2 (1989),431–437; DOI 10.3406/bch.1989.4733; https://www.persee.fr/doc/bch_0007-4217_1989_num_113_2_4733 | Metadata and page431 text only; source route identified. Prior project's LA-H033 controls substantive count inference. | No new figure inspection; no count adjudication; not another ancient witness. |
+| S-R2 | E. Hallager and J. Weingarten, *The Five Roundels from Malia, with a Note on Two New Minoan Genii*, BCH117.1 (1993),1–18; DOI10.3406/bch.1993.1671; https://www.persee.fr/doc/bch_0007-4217_1993_num_117_1_1671 | Web-readable text pp.1–2,4,8–9; page1 pixels. Saved page1 HTML and pages4,8,9,10 HTML/text in this directory. Page10 extract carries no useful text. | PDF route returned403; HTML page access succeeded. No figure2 or physical surface inspection claimed. Multiple page URLs remain one source. |
+| S-R3 | PA-I-TO Epigraphic Project, *Festos*, https://www.paitoproject.it/festos/; *Class W- Festos*, https://www.paitoproject.it/class-w-7/ | Catalogue/table and W-class page read; catalogue HTML saved as `phaistos_paito.html`. | Catalogue routes to original sources but does not provide target use-stage dossier. Table states two direct sealings; earlier generic web snippet's "one" is not adopted. |
+| S-R4 | John Younger, *Linear A Texts in Phonetic Transcription: Other Texts*, author-hosted Academia version https://www.academia.edu/120182370/Linear_A_Texts_in_phonetic_transcription_Other_Texts_not_Haghia_Triada | Search-index excerpt only, sufficient to locate GORILAII96 and Hallager1996II7 and flag doubtful reading. | Do not treat excerpt as complete edition or original plate. Frozen normalized E-TA₂-QE is not thereby promoted. |
+| S-R5 | E. Hallager, *Roundels among Sealings in Minoan Administration: A Comprehensive Analysis of Function*, Aegaeum5 (1990),121ff.; https://electronicsandbooks.com/edt/manual/Magazine/A/Aegaeum%20US/Aegaeum%205%20%281990%29.%20Aegean%20Seals%2C%20Sealings%20and%20Administration/Hallager.pdf | Search-index route only. | Open timed out. Not acquired; not counted as inspected. No repeated mirror search authorized by this reconnaissance. |
+
+## Next decision and exact action
+
+Prefer another evidence strategy if it supplies a stable marking plus an independent contents/use relation. If the lead selects R-C3, inspect GORILAII90/92/96 only as needed to maintain the Wb/Wg crosswalk, Hallager1996 II p.7 plus the direct-sealing discussion, and the object's published reverse/substrate images. Decide first whether the original edition can establish inscription stage and what was actually sealed. If it cannot, stop without a semantic experiment. Do not substitute the large Vano25 sealing population or PHWa52 box packet for the exact target.
+
+The Malia summary proposal is the strongest rejected alternative within this reconnaissance because source access is good and the written sign recurs across media. It loses priority because its proposed discriminator is exactly the unestablished relation between the two records. Neither shared deposit nor one common sign provides that relation.

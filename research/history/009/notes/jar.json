@@ -1,0 +1,508 @@
+{
+  "branch": "jar",
+  "sources": [
+    {
+      "id": "JAR_BOULOTIS2008",
+      "author": "Christos Boulotis",
+      "title": "Οι πινακίδες Γραμμικής Α από το Ακρωτήρι (THE 7-12): όψεις της οικονομικής ζωής του οικισμού",
+      "locator": "2008; BAE257 pp67–94; relevant69–71 fig8 nn7–11",
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_257.pdf",
+      "access": "Original publisher PDF read and pp69–71 visually inspected.",
+      "kind": "original_edition",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "a3d9ba74be19fc4d8f98d48f0e0d49b506354ca61abebc3967c26eeb2ebd1e60",
+      "cache_filename": "bae257.pdf",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_PAE1992",
+      "author": "Christos Doumas",
+      "title": "Ανασκαφή Ακρωτηρίου Θήρας",
+      "locator": "PAE1992 p178",
+      "url": "https://www.archetai.gr/images/pdfs/praktika/Publ_PRAKTIKA_1992.pdf",
+      "access": "Original excavation report p178 text and page image inspected.",
+      "kind": "excavation_report",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "644073270857b1035f2a62aa93ad17d152015acf89f3b73d2db1664ac2776215",
+      "cache_filename": "pae1992.pdf",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_PAE1993",
+      "author": "Christos Doumas",
+      "title": "Ανασκαφή Ακρωτηρίου Θήρας",
+      "locator": "PAE1993 p185 n32",
+      "url": "https://www.archetai.gr/images/pdfs/praktika/Publ_PRAKTIKA_1993.pdf",
+      "access": "Original excavation report p185 text and page image inspected.",
+      "kind": "excavation_report",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "b0f380b233b158bc1636b0a2d9c664e193cc3e5af508f3ba0d6e05f6c1c501a0",
+      "cache_filename": "pae1993.pdf",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_ERGON1993",
+      "author": "Archaeological Society at Athens",
+      "title": "Το Έργον της Αρχαιολογικής Εταιρείας κατά το 1993",
+      "locator": "p90; fig89 on p91 not separately inspected",
+      "url": "https://www.archetai.gr/images/pdfs/ergon/Publ_ERGON_1993.pdf",
+      "access": "Original report p90 text and page image inspected.",
+      "kind": "excavation_report",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "88371ebfe7edbc55024b2d72038b840262e4b18a4928d74b8ca100876d9cdb7b",
+      "cache_filename": "ergon1993.pdf",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_MICHA2001",
+      "author": "Anna Michailidou",
+      "title": "Indications of Literacy in Bronze Age Thera",
+      "locator": "Minos35–36 (2000–2001), p9 n22 continuedp10",
+      "url": "https://gredos.usal.es/bitstream/10366/133892/1/Indice.pdf",
+      "access": "Institutional PDF text read; relevant pages not newly visually inspected.",
+      "kind": "primary_archaeological_discussion",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": null,
+      "cache_filename": null,
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_NOTTI_RECENT",
+      "author": "Erika Notti",
+      "title": "La scrittura “fuori” da Creta. Nuove evidenze epigrafiche ad Akrotiri (Thera)",
+      "locator": "In Lingue e scritture nell’Egeo pregreco pp183–208; p185n13,p189. Standalone PDF cites through2022; volume year unverified.",
+      "url": "https://www.openstarts.units.it/bitstreams/25cf919c-0a22-4a27-b609-5b7a85c8ceb8/download",
+      "access": "Institutional PDF text read. Local filename2022 is not asserted bibliographic year.",
+      "kind": "primary_corpus_review",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "ff595b9011e3ff0f99b5b748e7421dc5cb47f7aaa63bb9694b64a7d3ba6a124d",
+      "cache_filename": "notti2022.pdf",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_BOULOTIS1998",
+      "author": "Christos Boulotis",
+      "title": "Les nouveaux documents en linéaire A d’Akrotiri (Théra): remarques préliminaires",
+      "locator": "BCH122(1998)407–411; p407",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1998_num_122_2_7184",
+      "access": "Public page content fetched and read; original journal page text.",
+      "kind": "preliminary_original_notice",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "f7589f49c62907e479411765bdc3f0f00baa9205bae0f518888b1384948418c0",
+      "cache_filename": "boulotis1998_p407.html",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_DELFREO2011",
+      "author": "Maurizio Del Freo; Julien Zurbach",
+      "title": "La préparation d’un supplément au Recueil des inscriptions en linéaire A. Observations à partir d’un travail en cours",
+      "locator": "BCH135(2011)73–97; cataloguep93",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_2011_num_135_1_7827",
+      "access": "Public page93 catalogue image visually inspected.",
+      "kind": "critical_corpus_catalogue",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "7ab20ecd72b7c67d59f213282d4b7702a77ec100e504dd11b0f7b4a2284f45f7",
+      "cache_filename": "delfreo2011_p93.jpg",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_MONTECCHI2024",
+      "author": "Barbara Montecchi",
+      "title": "Design and Origins of Linear A Picture-Based Signs",
+      "locator": "Writing from Invention to Decipherment pp171–188; pp180–182 fig9.6",
+      "url": "https://doi.org/10.1093/oso/9780198908746.003.0010",
+      "access": "Chapter HTML text read; fig9.6 image viewed. Image of THE Zb6 explicitly after Boulotis2008fig8b. PDF download403; PDF screenshot failed.",
+      "kind": "primary_palaeographic_study",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "0e316b94658991f288e7f8447ae2086aa3b2b9621881b0bfeb9e6fc6b97890d4",
+      "cache_filename": "montecchi_fig96.jpeg",
+      "redistributable_in_bundle": false
+    },
+    {
+      "id": "JAR_KARNAVA2016",
+      "author": "Artemis Karnava",
+      "title": "On sacred vocabulary and religious dedications: the Minoan libation formula",
+      "locator": "Aegaeum39 pp345–355; p351nn61–63",
+      "url": "https://www.researchgate.net/publication/316285128_On_sacred_vocabulary_and_religious_dedications_the_Minoan_%27libation_formula%27",
+      "access": "Author manuscript text reread.",
+      "kind": "primary_interpretative_paper",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": null,
+      "cache_filename": null,
+      "redistributable_in_bundle": false
+    }
+  ],
+  "observations": [
+    {
+      "id": "JAR_O01",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "edited_reading",
+      "observation": "Four complete preserved signs, printed as AB08-59-06-46.",
+      "source_ids": [
+        "JAR_BOULOTIS2008"
+      ],
+      "bibliographic_locator": "p69n8, p70fig8b",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "face_line": "shoulder, between handles, single sign group",
+      "diplomatic_transcription": "AB 08-59-06-46",
+      "normalized_search_form": "A-TA-NA-*46",
+      "sign_level_uncertainty": [
+        {
+          "position": 3,
+          "sign": "AB06",
+          "qualification": "Published allographic variant; compared KN Zb40.2. No doubtful sign in the numeric transcription."
+        },
+        {
+          "position": 4,
+          "sign": "AB46",
+          "qualification": "Identification retained; pronunciation JE transferred from Linear B not established here."
+        }
+      ],
+      "left_boundary": "complete in edition; photograph inspected",
+      "right_boundary": "complete in edition; photograph inspected",
+      "restorations": [],
+      "cross_face_continuation": false
+    },
+    {
+      "id": "JAR_O02",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "physical_publication",
+      "observation": "Rope-decorated pithoid jar shown reconstructed; original inscription photograph has four signs on preserved ceramic.",
+      "source_ids": [
+        "JAR_BOULOTIS2008"
+      ],
+      "bibliographic_locator": "p70fig8a-b",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "observed_by_agent": "Original published page photograph visually inspected; not autopsy."
+    },
+    {
+      "id": "JAR_O03",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "archaeological_attribution",
+      "observation": "Manufacture described as apparently Cretan, not accompanied by material analysis in these pages.",
+      "source_ids": [
+        "JAR_BOULOTIS2008",
+        "JAR_BOULOTIS1998"
+      ],
+      "bibliographic_locator": "2008p69;1998p407",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Do not encode as proven geochemical origin."
+    },
+    {
+      "id": "JAR_O04",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "manufacturing_stage",
+      "observation": "Four signs carefully incised before firing.",
+      "source_ids": [
+        "JAR_ERGON1993"
+      ],
+      "bibliographic_locator": "p90",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Original excavation statement; no new ceramic autopsy."
+    },
+    {
+      "id": "JAR_O05",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "find_context",
+      "observation": "Reconstructed medium-sized three-handled jar; sherds reportedly found1992 in rubbish/debris constituting lightwell fill of House of Ladies.",
+      "source_ids": [
+        "JAR_PAE1993"
+      ],
+      "bibliographic_locator": "p185n32",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Read together with PAE1992 sand-deposit account; not proof of intentional disposal."
+    },
+    {
+      "id": "JAR_O06",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "find_context",
+      "observation": "Large rope-decorated pithos sherds retrieved from sand above compact-earth lightwell floor; sand attributed to surface-water infiltration into spaces under debris.",
+      "source_ids": [
+        "JAR_PAE1992"
+      ],
+      "bibliographic_locator": "p178",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Source linked to same jar by PAE1993n32. No intact receiving/storage position established."
+    },
+    {
+      "id": "JAR_O07",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "reported_discovery_date",
+      "observation": "1990 reported by Ergon1993 and Boulotis2008;1992 by PAE1993 and Boulotis1998.",
+      "source_ids": [
+        "JAR_ERGON1993",
+        "JAR_BOULOTIS2008",
+        "JAR_PAE1993",
+        "JAR_BOULOTIS1998"
+      ],
+      "bibliographic_locator": "Ergonp90;Boulotis2008p69;PAE1993p185;Boulotis1998p407",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Unresolved publication discrepancy; kept as alternate reports."
+    },
+    {
+      "id": "JAR_O08",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "material_provenance_status",
+      "observation": "Clay analysis explicitly awaited to ascertain origin; recent review still explains Theran local/non-local assignments by macroscopic features, especially clay colour.",
+      "source_ids": [
+        "JAR_MICHA2001",
+        "JAR_NOTTI_RECENT"
+      ],
+      "bibliographic_locator": "Michailidoup9n22;Nottip185n13",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "No later chemical/petrographic analysis retrieved; not a claim none exists."
+    },
+    {
+      "id": "JAR_O09",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "catalogue_identity",
+      "observation": "Accepted THE Zb6 cites Boulotis2008pp69–70fig8a-b; THE Zb13 is a different pithos published Karnava/Nikolakopoulou2005.",
+      "source_ids": [
+        "JAR_DELFREO2011"
+      ],
+      "bibliographic_locator": "p93",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Do not merge with old online THE Zb6 jugNMA1110 or THE Zb13."
+    },
+    {
+      "id": "JAR_O10",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "prior_morphological_proposal",
+      "observation": "Boulotis already compares TA-NA-TE and A-TA-NA-TE and suggests an initial A as possible prefix.",
+      "source_ids": [
+        "JAR_BOULOTIS2008"
+      ],
+      "bibliographic_locator": "p71n11",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Published hypothesis, not established morphology; relevant to novelty assessment."
+    },
+    {
+      "id": "JAR_O11",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "prior_reading_qualification",
+      "observation": "ZA9 final sign explicitly described as damaged and unclear, notwithstanding tentative comparison to ZA10 endingTE.",
+      "source_ids": [
+        "JAR_BOULOTIS2008"
+      ],
+      "bibliographic_locator": "p69n10",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "related_object": "ZA 9",
+      "qualification": "Do not convert comparison into secure TE reading."
+    },
+    {
+      "id": "JAR_O12",
+      "canonical_object_id": "THE Zb 6",
+      "aliases": [
+        "Akrotiri House of Ladies four-sign pithos",
+        "Karnava2016 p351 imported pithos"
+      ],
+      "kind": "source_dependency",
+      "observation": "Montecchi2024fig9.6 includes AB46 from THE Zb6 after Boulotis2008fig8b.",
+      "source_ids": [
+        "JAR_MONTECCHI2024"
+      ],
+      "bibliographic_locator": "p181fig9.6",
+      "ancient_witness_cluster": "THE_Zb6_FOUR_SIGN_PITHOS",
+      "qualification": "Derivative drawing; not independent epigraphic confirmation."
+    }
+  ],
+  "claims": [
+    {
+      "id": "JAR_C01",
+      "claim": "THE Zb6 is a complete four-sign witness A-TA-NA-*46",
+      "status": "supported_as_published_reading",
+      "evidence": [
+        "JAR_O01",
+        "JAR_O02",
+        "JAR_O09"
+      ],
+      "assumptions": [
+        "Modern sign identifications accepted after original photograph inspection."
+      ],
+      "counterargument": "No autopsy; third sign is a published allographic variant."
+    },
+    {
+      "id": "JAR_C02",
+      "claim": "The inscription was incised before firing",
+      "status": "supported_by_original_excavation_report",
+      "evidence": [
+        "JAR_O04"
+      ],
+      "assumptions": [
+        "Excavator’s manufacturing-stage observation accepted."
+      ],
+      "counterargument": "Not newly tested on ceramic surface."
+    },
+    {
+      "id": "JAR_C03",
+      "claim": "*46 marks provenance/from and TE destination/to",
+      "status": "unestablished",
+      "evidence": [
+        "JAR_O03",
+        "JAR_O05",
+        "JAR_O06",
+        "JAR_O08"
+      ],
+      "assumptions_missing": [
+        "A-TA-NA is same lexical item/referent across objects.",
+        "A-TA-NA is independently identified with source locality.",
+        "*46/TE genuinely express direction."
+      ],
+      "strongest_alternatives": [
+        "Maker/workshop designation written during manufacture.",
+        "Intended owner/destination specified before firing.",
+        "Related but distinct name or compound.",
+        "Dedication or contents/category label."
+      ]
+    },
+    {
+      "id": "JAR_C04",
+      "claim": "House of Ladies findspot independently identifies the label’s recipient or owner",
+      "status": "inference_rejected",
+      "evidence": [
+        "JAR_O05",
+        "JAR_O06"
+      ],
+      "reason": "Recovered as fragments in deposits; no functional receipt/storage placement or named actor identified.",
+      "limitation": "Does not show the jar never belonged to the household."
+    },
+    {
+      "id": "JAR_C05",
+      "claim": "TA-NA-TE/A-TA-NA-TE prefix suggestion is a novel discovery of this project",
+      "status": "rejected",
+      "evidence": [
+        "JAR_O10"
+      ],
+      "reason": "Explicit predecessor Boulotis2008p71n11.",
+      "limitation": "Does not adjudicate priority of the full TE/TI computational grid."
+    },
+    {
+      "id": "JAR_C06",
+      "claim": "A sentence with independently identified action and participant roles is established from this jar",
+      "status": "not_established",
+      "evidence": [
+        "JAR_O01",
+        "JAR_O03",
+        "JAR_O05",
+        "JAR_O08"
+      ],
+      "reason": "No independently identifiable predicate and no independent naming link to a source/recipient."
+    }
+  ],
+  "experiments": [
+    {
+      "id": "JAR_E01",
+      "hypothesis": "The fourth sign or word boundary is a restoration created by desired morphology.",
+      "competitors": [
+        "Four preserved signs.",
+        "Damaged or incomplete reading."
+      ],
+      "discriminating_observation": "Original edition and photograph.",
+      "test": "Retrieved publisher Boulotis2008pp69–71, inspected figure8 and transcriptionn8.",
+      "outcome": "Four complete signs; publication confirms *46 identity and NA variant; no new reading proposed.",
+      "next_decision": "Retain complete witness; test physical context."
+    },
+    {
+      "id": "JAR_E02",
+      "hypothesis": "Physical manufacture/recovery anchors source and recipient independently.",
+      "competitors": [
+        "Maker label.",
+        "Destination assigned at production.",
+        "Non-directional designation."
+      ],
+      "discriminating_observation": "Material source locality and functional receiving context, separately identified with text.",
+      "test": "Followed references into PAE1992p178,PAE1993p185,Ergon1993p90,Michailidoup9n22,Nottip185n13.",
+      "outcome": "Pre-firing confirmed; apparent Cretan origin unproven by retrieved material analysis; fragmentary lightwell deposition does not establish recipient.",
+      "next_decision": "No directional suffix inference; preserve manufacture-stage constraint."
+    },
+    {
+      "id": "JAR_E03",
+      "hypothesis": "TA-NA-TE/A-TA-NA-TE relationship is newly recognized.",
+      "competitors": [
+        "Published predecessor."
+      ],
+      "discriminating_observation": "Original edition morphological notes.",
+      "test": "Read Boulotis2008p71n11.",
+      "outcome": "Possible A-prefix comparison already published.",
+      "next_decision": "Report original evidence newly retrieved, not decipherment novelty."
+    }
+  ],
+  "predictions": [
+    {
+      "id": "JAR_P01",
+      "target": "Scientific material provenance of THE Zb6 identified beyond macroscopic colour/style",
+      "if_local_theran": "Undermines imported-Cretan premise of this specific argument.",
+      "if_cretan_only": "Still cannot identify A-TA-NA or distinguish maker/source/destination.",
+      "if_identified_source_plus_independent_name_anchor": "Would support provenance account; a second direction-controlled alternation remains valuable.",
+      "status": "not_retrieved",
+      "prospective": true
+    }
+  ],
+  "evidence_dependencies": [
+    {
+      "dependent": "JAR_MONTECCHI2024 image",
+      "parent": "JAR_BOULOTIS2008fig8b",
+      "type": "reproduction"
+    },
+    {
+      "dependent": "JAR_KARNAVA2016 reading and archaeological description",
+      "parent": "JAR_BOULOTIS2008",
+      "type": "citation"
+    },
+    {
+      "dependent": "JAR_BOULOTIS2008 archaeological context",
+      "parent": "JAR_PAE1993;JAR_ERGON1993",
+      "type": "explicit citations"
+    },
+    {
+      "dependent": "JAR_PAE1993 object association",
+      "parent": "JAR_PAE1992p178",
+      "type": "explicit n32"
+    }
+  ],
+  "sentence_goal_met": false
+}

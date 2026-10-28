@@ -1,0 +1,871 @@
+{
+  "input_sha256": "6ab72f16485768a2ad66dc4558d6d72153f6295ae6a8304824083e340386af2e",
+  "analysis_rule_sha256": "72ecdf4a19014190562b327dfecb88b93a5449c198fbfa60f37e3db568c167f0",
+  "model_status": {
+    "M1_same_unit_full_capacity": "Every nominal reading branch mismatches; no formal two-object tolerance test since KN has no error bounds. Required capacity adjustments quantified.",
+    "M2_same_unit_partial_fill": "Feasible for every branch; unconstrained sufficiently small positive common units exist.",
+    "M3_scope_beyond_carrier": "Not identified; many beyond-carrier scopes survive but are not established.",
+    "M4_different_units_full_capacity": "Feasible by assigning each source-derived V/q its own unit; independent unit equivalence needed.",
+    "M5_same_unit_same_fill_fraction": "Same ratio incompatibility as M1. Variable fill fractions survive."
+  },
+  "interpretation_limits": [
+    "Output precision is computational only; input capacities remain approximations.",
+    "Source tolerance is not a statistical confidence interval.",
+    "Historical readings are sensitivity branches, not equal-weight alternatives to autopsy107.",
+    "Common AB131/VIN notation does not by itself prove common unit size.",
+    "No quantity, capacity or fit identifies inscription action, owner, maker, supplier or recipient.",
+    "No p-value or replication claim is warranted."
+  ],
+  "comparisons": [
+    {
+      "KN_q": 107,
+      "ZA_q": 32,
+      "KN_reading_status": "preferred source reading",
+      "ZA_reading_status": "preferred current reading supported by original scholarly comparison; direct GORILA plate not inspected",
+      "KN_full_unit_L_nominal": {
+        "fraction": "34/107",
+        "decimal": 0.3177570093457944
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "139/8",
+        "decimal": 17.375
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/800",
+        "decimal": 15.46375
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "15429/800",
+        "decimal": 19.28625
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "1323697/800",
+        "decimal": 1654.62125
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "14873/8",
+        "decimal": 1859.125
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "1650903/800",
+        "decimal": 2063.62875
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "1323697/27200",
+        "decimal": 48.66533088235294
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "14873/272",
+        "decimal": 54.68014705882353
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "1088/107",
+        "decimal": 10.16822429906542
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "272/14873",
+        "decimal": 0.01828817319975795
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "27200/1650903",
+        "decimal": 0.01647583171149365
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "27200/1323697",
+        "decimal": 0.02054850921321118
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "34/107",
+        "decimal": 0.3177570093457944
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "17/107",
+        "decimal": 0.1588785046728972
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "136/14873",
+        "decimal": 0.009144086599878976
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "14873/272",
+        "decimal": 54.68014705882353
+      },
+      "ordinal_inversion": true
+    },
+    {
+      "KN_q": 107,
+      "ZA_q": 22,
+      "KN_reading_status": "preferred source reading",
+      "ZA_reading_status": "historical source reading, retained sensitivity branch",
+      "KN_full_unit_L_nominal": {
+        "fraction": "34/107",
+        "decimal": 0.3177570093457944
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "278/11",
+        "decimal": 25.272727272727273
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/550",
+        "decimal": 22.492727272727272
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "15429/550",
+        "decimal": 28.05272727272727
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "1323697/550",
+        "decimal": 2406.721818181818
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "29746/11",
+        "decimal": 2704.181818181818
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "1650903/550",
+        "decimal": 3001.641818181818
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "1323697/18700",
+        "decimal": 70.785935828877
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "14873/187",
+        "decimal": 79.53475935828877
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "748/107",
+        "decimal": 6.990654205607477
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "187/14873",
+        "decimal": 0.012573119074833591
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "18700/1650903",
+        "decimal": 0.011327134301651883
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "18700/1323697",
+        "decimal": 0.014127100084082687
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "34/107",
+        "decimal": 0.3177570093457944
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "17/107",
+        "decimal": 0.1588785046728972
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "187/29746",
+        "decimal": 0.006286559537416796
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "14873/187",
+        "decimal": 79.53475935828877
+      },
+      "ordinal_inversion": true
+    },
+    {
+      "KN_q": 107,
+      "ZA_q": 21,
+      "KN_reading_status": "preferred source reading",
+      "ZA_reading_status": "grounded historical reading dispute, retained sensitivity branch",
+      "KN_full_unit_L_nominal": {
+        "fraction": "34/107",
+        "decimal": 0.3177570093457944
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "556/21",
+        "decimal": 26.476190476190474
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/525",
+        "decimal": 23.563809523809525
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "5143/175",
+        "decimal": 29.388571428571428
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "1323697/525",
+        "decimal": 2521.327619047619
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "59492/21",
+        "decimal": 2832.9523809523807
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "550301/175",
+        "decimal": 3144.577142857143
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "1323697/17850",
+        "decimal": 74.15669467787114
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "29746/357",
+        "decimal": 83.32212885154061
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "714/107",
+        "decimal": 6.672897196261682
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "357/29746",
+        "decimal": 0.012001613662341155
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "5950/550301",
+        "decimal": 0.010812264560667707
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "17850/1323697",
+        "decimal": 0.013484959171169836
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "34/107",
+        "decimal": 0.3177570093457944
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "17/107",
+        "decimal": 0.1588785046728972
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "357/59492",
+        "decimal": 0.006000806831170578
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "29746/357",
+        "decimal": 83.32212885154061
+      },
+      "ordinal_inversion": true
+    },
+    {
+      "KN_q": 117,
+      "ZA_q": 32,
+      "KN_reading_status": "superseded source reading, retained sensitivity branch",
+      "ZA_reading_status": "preferred current reading supported by original scholarly comparison; direct GORILA plate not inspected",
+      "KN_full_unit_L_nominal": {
+        "fraction": "34/117",
+        "decimal": 0.2905982905982906
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "139/8",
+        "decimal": 17.375
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/800",
+        "decimal": 15.46375
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "15429/800",
+        "decimal": 19.28625
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "1447407/800",
+        "decimal": 1809.25875
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "16263/8",
+        "decimal": 2032.875
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "1805193/800",
+        "decimal": 2256.49125
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "1447407/27200",
+        "decimal": 53.21349264705882
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "16263/272",
+        "decimal": 59.79044117647059
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "1088/117",
+        "decimal": 9.2991452991453
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "272/16263",
+        "decimal": 0.016725081473282912
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "27200/1805193",
+        "decimal": 0.015067640966921543
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "27200/1447407",
+        "decimal": 0.018792226374475182
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "34/117",
+        "decimal": 0.2905982905982906
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "17/117",
+        "decimal": 0.1452991452991453
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "136/16263",
+        "decimal": 0.008362540736641456
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "16263/272",
+        "decimal": 59.79044117647059
+      },
+      "ordinal_inversion": true
+    },
+    {
+      "KN_q": 117,
+      "ZA_q": 22,
+      "KN_reading_status": "superseded source reading, retained sensitivity branch",
+      "ZA_reading_status": "historical source reading, retained sensitivity branch",
+      "KN_full_unit_L_nominal": {
+        "fraction": "34/117",
+        "decimal": 0.2905982905982906
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "278/11",
+        "decimal": 25.272727272727273
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/550",
+        "decimal": 22.492727272727272
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "15429/550",
+        "decimal": 28.05272727272727
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "1447407/550",
+        "decimal": 2631.649090909091
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "32526/11",
+        "decimal": 2956.909090909091
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "1805193/550",
+        "decimal": 3282.1690909090908
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "1447407/18700",
+        "decimal": 77.40144385026738
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "16263/187",
+        "decimal": 86.96791443850267
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "748/117",
+        "decimal": 6.3931623931623935
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "187/16263",
+        "decimal": 0.011498493512882003
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "18700/1805193",
+        "decimal": 0.010359003164758561
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "18700/1447407",
+        "decimal": 0.012919655632451687
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "34/117",
+        "decimal": 0.2905982905982906
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "17/117",
+        "decimal": 0.1452991452991453
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "187/32526",
+        "decimal": 0.005749246756441001
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "16263/187",
+        "decimal": 86.96791443850267
+      },
+      "ordinal_inversion": true
+    },
+    {
+      "KN_q": 117,
+      "ZA_q": 21,
+      "KN_reading_status": "superseded source reading, retained sensitivity branch",
+      "ZA_reading_status": "grounded historical reading dispute, retained sensitivity branch",
+      "KN_full_unit_L_nominal": {
+        "fraction": "34/117",
+        "decimal": 0.2905982905982906
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "556/21",
+        "decimal": 26.476190476190474
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/525",
+        "decimal": 23.563809523809525
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "5143/175",
+        "decimal": 29.388571428571428
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "482469/175",
+        "decimal": 2756.9657142857145
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "21684/7",
+        "decimal": 3097.714285714286
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "601731/175",
+        "decimal": 3438.462857142857
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "482469/5950",
+        "decimal": 81.0872268907563
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "10842/119",
+        "decimal": 91.10924369747899
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "238/39",
+        "decimal": 6.102564102564102
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "119/10842",
+        "decimal": 0.01097583471684191
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "5950/601731",
+        "decimal": 0.009888139384542262
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "5950/482469",
+        "decimal": 0.012332398558249339
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "34/117",
+        "decimal": 0.2905982905982906
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "17/117",
+        "decimal": 0.1452991452991453
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "119/21684",
+        "decimal": 0.005487917358420955
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "10842/119",
+        "decimal": 91.10924369747899
+      },
+      "ordinal_inversion": true
+    },
+    {
+      "KN_q": 17,
+      "ZA_q": 32,
+      "KN_reading_status": "inherited frozen corpus derivative, not an equal-weight current reading",
+      "ZA_reading_status": "preferred current reading supported by original scholarly comparison; direct GORILA plate not inspected",
+      "KN_full_unit_L_nominal": {
+        "fraction": "2",
+        "decimal": 2.0
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "139/8",
+        "decimal": 17.375
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/800",
+        "decimal": 15.46375
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "15429/800",
+        "decimal": 19.28625
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "210307/800",
+        "decimal": 262.88375
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "2363/8",
+        "decimal": 295.375
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "262293/800",
+        "decimal": 327.86625
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "12371/1600",
+        "decimal": 7.731875
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "139/16",
+        "decimal": 8.6875
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "64",
+        "decimal": 64.0
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "16/139",
+        "decimal": 0.11510791366906475
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "1600/15429",
+        "decimal": 0.10370082312528356
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "1600/12371",
+        "decimal": 0.12933473445962332
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "2",
+        "decimal": 2.0
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "1",
+        "decimal": 1.0
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "8/139",
+        "decimal": 0.05755395683453238
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "139/16",
+        "decimal": 8.6875
+      },
+      "ordinal_inversion": false
+    },
+    {
+      "KN_q": 17,
+      "ZA_q": 22,
+      "KN_reading_status": "inherited frozen corpus derivative, not an equal-weight current reading",
+      "ZA_reading_status": "historical source reading, retained sensitivity branch",
+      "KN_full_unit_L_nominal": {
+        "fraction": "2",
+        "decimal": 2.0
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "278/11",
+        "decimal": 25.272727272727273
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/550",
+        "decimal": 22.492727272727272
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "15429/550",
+        "decimal": 28.05272727272727
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "210307/550",
+        "decimal": 382.37636363636364
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "4726/11",
+        "decimal": 429.6363636363636
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "262293/550",
+        "decimal": 476.8963636363636
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "12371/1100",
+        "decimal": 11.246363636363636
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "139/11",
+        "decimal": 12.636363636363637
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "44",
+        "decimal": 44.0
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "11/139",
+        "decimal": 0.07913669064748201
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "1100/15429",
+        "decimal": 0.07129431589863244
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "1100/12371",
+        "decimal": 0.08891762994099103
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "2",
+        "decimal": 2.0
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "1",
+        "decimal": 1.0
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "11/278",
+        "decimal": 0.039568345323741004
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "139/11",
+        "decimal": 12.636363636363637
+      },
+      "ordinal_inversion": false
+    },
+    {
+      "KN_q": 17,
+      "ZA_q": 21,
+      "KN_reading_status": "inherited frozen corpus derivative, not an equal-weight current reading",
+      "ZA_reading_status": "grounded historical reading dispute, retained sensitivity branch",
+      "KN_full_unit_L_nominal": {
+        "fraction": "2",
+        "decimal": 2.0
+      },
+      "ZA_full_unit_L_nominal": {
+        "fraction": "556/21",
+        "decimal": 26.476190476190474
+      },
+      "ZA_full_unit_L_source_low": {
+        "fraction": "12371/525",
+        "decimal": 23.563809523809525
+      },
+      "ZA_full_unit_L_source_high": {
+        "fraction": "5143/175",
+        "decimal": 29.388571428571428
+      },
+      "nominal_full_units_equal": false,
+      "KN_nominal_unit_inside_ZA_source_interval": false,
+      "formal_two_object_interval_decision_available": false,
+      "reason_formal_interval_unavailable": "KN reports about34L without an uncertainty interval.",
+      "KN_capacity_required_L_if_ZA_full_low": {
+        "fraction": "210307/525",
+        "decimal": 400.5847619047619
+      },
+      "KN_capacity_required_L_if_ZA_full_nominal": {
+        "fraction": "9452/21",
+        "decimal": 450.0952380952381
+      },
+      "KN_capacity_required_L_if_ZA_full_high": {
+        "fraction": "87431/175",
+        "decimal": 499.60571428571427
+      },
+      "KN_required_capacity_factor_minimum_vs_34L": {
+        "fraction": "12371/1050",
+        "decimal": 11.781904761904762
+      },
+      "full_unit_ratio_ZA_to_KN_nominal": {
+        "fraction": "278/21",
+        "decimal": 13.238095238095237
+      },
+      "ZA_amount_L_if_KN_full_same_unit": {
+        "fraction": "42",
+        "decimal": 42.0
+      },
+      "ZA_fill_fraction_if_KN_full_nominal": {
+        "fraction": "21/278",
+        "decimal": 0.07553956834532374
+      },
+      "ZA_fill_fraction_if_KN_full_low": {
+        "fraction": "350/5143",
+        "decimal": 0.06805366517596734
+      },
+      "ZA_fill_fraction_if_KN_full_high": {
+        "fraction": "1050/12371",
+        "decimal": 0.0848759194891278
+      },
+      "partial_fill_feasible_nominal": true,
+      "partial_fill_feasible_source_ZA_interval_and_nominal_KN": true,
+      "positive_unit_upper_bound_partial_fill_L_nominal": {
+        "fraction": "2",
+        "decimal": 2.0
+      },
+      "partial_fill_constructive_witness_u_L": {
+        "fraction": "1",
+        "decimal": 1.0
+      },
+      "partial_fill_constructive_witness_f_KN": {
+        "fraction": "1/2",
+        "decimal": 0.5
+      },
+      "partial_fill_constructive_witness_f_ZA": {
+        "fraction": "21/556",
+        "decimal": 0.03776978417266187
+      },
+      "fill_fraction_ratio_KN_to_ZA_common_unit_nominal": {
+        "fraction": "278/21",
+        "decimal": 13.238095238095237
+      },
+      "ordinal_inversion": false
+    }
+  ],
+  "posthoc_geometry_sensitivity": {
+    "status": "Post hoc source-led sensitivity approved after independent challenge; not part of frozen analytic rule and not a new capacity measurement.",
+    "height_m": 0.53,
+    "conditional_external_cylinder_bound_L": 116.92772237212192,
+    "assumptions": [
+      "Approximate axisymmetry of the outer vessel envelope.",
+      "Outer maximum diameter D is no greater than the reported height H=53cm, based qualitatively on an undistorted published profile; no diameter was measured by the project.",
+      "The reported height adequately represents the complete original carrier and the source profile has no materially misleading distortion."
+    ],
+    "limitation": "This conditional geometric bound is not a formal measurement uncertainty interval; wall thickness and taper only reduce internal capacity relative to the assumed envelope.",
+    "comparisons": [
+      {
+        "KN_q": 107,
+        "ZA_q": 32,
+        "required_KN_capacity_low_L": 1654.62125,
+        "required_capacity_to_conditional_envelope_ratio": 14.150803730993543,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 128.19455291694211
+      },
+      {
+        "KN_q": 107,
+        "ZA_q": 22,
+        "required_KN_capacity_low_L": 2406.721818181818,
+        "required_capacity_to_conditional_envelope_ratio": 20.582987245081515,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 145.24861655624932
+      },
+      {
+        "KN_q": 107,
+        "ZA_q": 21,
+        "required_KN_capacity_low_L": 2521.327619047619,
+        "required_capacity_to_conditional_envelope_ratio": 21.563129494847303,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 147.51849282344014
+      },
+      {
+        "KN_q": 117,
+        "ZA_q": 32,
+        "required_KN_capacity_low_L": 1809.25875,
+        "required_capacity_to_conditional_envelope_ratio": 15.473308752581724,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 132.0698243064339
+      },
+      {
+        "KN_q": 117,
+        "ZA_q": 22,
+        "required_KN_capacity_low_L": 2631.649090909091,
+        "required_capacity_to_conditional_envelope_ratio": 22.506630912846145,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 149.63942564521574
+      },
+      {
+        "KN_q": 117,
+        "ZA_q": 21,
+        "required_KN_capacity_low_L": 2756.9657142857145,
+        "required_capacity_to_conditional_envelope_ratio": 23.578375242029296,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 151.97791938760952
+      },
+      {
+        "KN_q": 17,
+        "ZA_q": 32,
+        "required_KN_capacity_low_L": 262.88375,
+        "required_capacity_to_conditional_envelope_ratio": 2.248258536699909,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 69.43172469058274
+      },
+      {
+        "KN_q": 17,
+        "ZA_q": 22,
+        "required_KN_capacity_low_L": 382.37636363636364,
+        "required_capacity_to_conditional_envelope_ratio": 3.270194235199867,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 78.66841240091966
+      },
+      {
+        "KN_q": 17,
+        "ZA_q": 21,
+        "required_KN_capacity_low_L": 400.5847619047619,
+        "required_capacity_to_conditional_envelope_ratio": 3.4259177702093844,
+        "exceeds_conditional_envelope": true,
+        "minimum_height_cm_for_D_equals_H_envelope_to_hold_required_capacity": 79.8978049178341
+      }
+    ]
+  }
+}

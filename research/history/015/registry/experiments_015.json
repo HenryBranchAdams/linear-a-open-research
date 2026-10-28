@@ -1,0 +1,14 @@
+[
+  {
+    "id": "R15-HT100-EPIGRAPHY",
+    "status": "completed",
+    "finding": "Neither 4 nor 6 is secure in accessible published critical evidence.",
+    "result": "iterations/015/data/ht100_adjudication.json"
+  },
+  {
+    "id": "R15-HT100-POLARITY",
+    "status": "completed_nonidentification",
+    "finding": "4+KI and 6-KI each produce KU-RO 97; polarity remains unidentifiable without an independent numeral reading.",
+    "result": "iterations/015/results/verification.json"
+  }
+]

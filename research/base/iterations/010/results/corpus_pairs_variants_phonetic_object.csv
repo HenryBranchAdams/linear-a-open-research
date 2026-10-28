@@ -1,0 +1,35 @@
+left,right,left_form,right_form,kind,min_target_signs,exclusive_substitution,left_also_contains_right_form,right_also_contains_left_form,forms_cooccur_in_any_context,cross_site,independent_associate_count,independent_associates,associate_rarity_bits
+HT 86,HT 95,DA-ME,DA-ZA,terminal_syllable,2,False,False,True,"[""HT 95""]",False,5,"[""A-DU"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",29.303477
+HT 85,HT 122,TE-KE,TE-KI,terminal_syllable,2,True,False,False,[],False,2,"[""DA-RE"", ""DA-RI-DA""]",11.078318
+HT 28,HT 117,SA-RA2,SA-TA,terminal_syllable,2,True,False,False,[],False,1,"[""U-MI-NA-SI""]",6.539159
+HT 10,HT 86,SA-MA,SA-RU,terminal_syllable,2,True,False,False,[],False,1,"[""KU-NI-SU""]",5.954196
+HT 10,HT 95,DA-RE,DA-ZA,terminal_syllable,2,True,False,False,[],False,1,"[""KU-NI-SU""]",5.954196
+HT 10,HT 95,SA-MA,SA-RU,terminal_syllable,2,True,False,False,[],False,1,"[""KU-NI-SU""]",5.954196
+HT 16,HT 9,SA-PO,SA-RO,terminal_syllable,2,True,False,False,[],False,1,"[""DI-NA-U""]",5.954196
+HT 85,PH 31,TE-KE,TE-RI,terminal_syllable,2,True,False,False,[],True,1,"[""MA-DI""]",5.954196
+HT 86,HT 10,DA-ME,DA-RE,terminal_syllable,2,True,False,False,[],False,1,"[""KU-NI-SU""]",5.954196
+HT 95,HT 10,DA-ME,DA-RE,terminal_syllable,2,True,False,False,[],False,1,"[""KU-NI-SU""]",5.954196
+HT 10,HT 93,SA-MA,SA-RA2,terminal_syllable,2,True,False,False,[],False,1,"[""DA-RI-DA""]",5.539159
+HT 122,HT 7,TE-KI,TE-TU,terminal_syllable,2,True,False,False,"[""HT 13""]",False,1,"[""DA-RE""]",5.539159
+HT 123,HT 86,DA-KI,DA-ME,terminal_syllable,2,True,False,False,[],False,1,"[""SA-RU""]",5.539159
+HT 123,HT 95,DA-KI,DA-ME,terminal_syllable,2,True,False,False,[],False,1,"[""SA-RU""]",5.539159
+HT 123,HT 95,DA-KI,DA-ZA,terminal_syllable,2,True,False,False,[],False,1,"[""SA-RU""]",5.539159
+HT 140,HT 8,KA-MA,KA-PA,terminal_syllable,2,False,True,False,"[""HT 140""]",False,1,"[""JE-DI""]",5.539159
+HT 85,HT 7,QE-KA,QE-TI,terminal_syllable,2,True,False,False,[],False,1,"[""DA-RE""]",5.539159
+HT 85,HT 7,TE-KE,TE-TU,terminal_syllable,2,True,False,False,[],False,1,"[""DA-RE""]",5.539159
+HT 85,HT 93,A-DU,A-SE,terminal_syllable,2,True,False,False,[],False,1,"[""DA-RI-DA""]",5.539159
+HT 88,HT 8,KA-JU,KA-PA,terminal_syllable,2,True,False,False,[],False,1,"[""PA-JA-RE""]",5.539159
+ZA 10,HT 10,TA-NA-TE,TA-NA-TI,terminal_syllable,3,True,False,False,[],True,1,"[""SA-MA""]",5.539159
+ZA 10,HT 88,A-DE,A-DU,terminal_syllable,2,True,False,False,[],True,1,"[""PA-JA-RE""]",5.539159
+HT 102,HT 94,SA-RA2,SA-RU,terminal_syllable,2,False,False,True,"[""HT 94""]",False,1,"[""KA-PA""]",5.217231
+HT 6,HT 102,SA-MA,SA-RA2,terminal_syllable,2,True,False,False,[],False,1,"[""KA-PA""]",5.217231
+HT 6,HT 94,SA-MA,SA-RA2,terminal_syllable,2,True,False,False,[],False,1,"[""KA-PA""]",5.217231
+HT 6,HT 94,SA-MA,SA-RU,terminal_syllable,2,True,False,False,[],False,1,"[""KA-PA""]",5.217231
+HT 85,HT 95,DA-RE,DA-ZA,terminal_syllable,2,True,False,False,[],False,1,"[""A-DU""]",4.731804
+HT 86,HT 85,DA-ME,DA-RE,terminal_syllable,2,True,False,False,[],False,1,"[""A-DU""]",4.731804
+HT 95,HT 85,DA-ME,DA-RE,terminal_syllable,2,True,False,False,[],False,1,"[""A-DU""]",4.731804
+HT 99,HT 86,SA-RA2,SA-RU,terminal_syllable,2,True,False,False,"[""HT 94""]",False,1,"[""A-DU""]",4.731804
+HT 99,HT 95,SA-RA2,SA-RU,terminal_syllable,2,True,False,False,"[""HT 94""]",False,1,"[""A-DU""]",4.731804
+HT 102,HT 97,KA-PA,KA-RU,terminal_syllable,2,True,False,False,[],False,1,"[""SA-RA2""]",3.539159
+HT 94,HT 97,KA-PA,KA-RU,terminal_syllable,2,True,False,False,[],False,1,"[""SA-RA2""]",3.539159
+HT 99,HT 93,A-DU,A-SE,terminal_syllable,2,True,False,False,[],False,1,"[""SA-RA2""]",3.539159

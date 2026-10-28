@@ -1,0 +1,151 @@
+{
+  "scope": "Review audit of encoded observations and original verifiers. Not an epigraphic autopsy or a decipherment test.",
+  "baseline_reproductions": [
+    {
+      "iteration": 10,
+      "exit_code": 0,
+      "passed": true,
+      "script": "verify.py",
+      "log": "logs/iteration_010.txt"
+    },
+    {
+      "iteration": 11,
+      "exit_code": 0,
+      "passed": true,
+      "script": "iterations/011/code/verify.py",
+      "log": "logs/iteration_011.txt"
+    },
+    {
+      "iteration": 12,
+      "exit_code": 0,
+      "passed": true,
+      "script": "iterations/012/code/derive_and_verify.py",
+      "log": "logs/iteration_012.txt"
+    },
+    {
+      "iteration": 13,
+      "exit_code": 0,
+      "passed": true,
+      "script": "iterations/013/code/derive_and_verify.py",
+      "log": "logs/iteration_013.txt"
+    },
+    {
+      "iteration": 14,
+      "exit_code": 0,
+      "passed": true,
+      "script": "iterations/014/code/derive_and_verify.py",
+      "log": "logs/iteration_014.txt"
+    },
+    {
+      "iteration": 15,
+      "exit_code": 0,
+      "passed": true,
+      "script": "iterations/015/code/verify.py",
+      "log": "logs/iteration_015.txt"
+    },
+    {
+      "iteration": 16,
+      "exit_code": 0,
+      "passed": true,
+      "script": "iterations/016/code/verify.py",
+      "log": "logs/iteration_016.txt"
+    }
+  ],
+  "iteration16_erasure_status_mutation": {
+    "original_status": "erased",
+    "mutated_status": "written_current",
+    "original_derive": {
+      "ht34_reference": 100,
+      "ht34_pa3": 70,
+      "ht34_kiro_current": 30,
+      "ht34_erased": 7,
+      "ht34_residual": 30,
+      "ht34_current_closes": true,
+      "ht34_erased_state_closes": false,
+      "ht118_ki_sum": 15,
+      "ht118_written_ki_total": 15,
+      "ht118_ki_closes": true,
+      "participant_class": "masculine personal name"
+    },
+    "mutated_derive": {
+      "ht34_reference": 100,
+      "ht34_pa3": 70,
+      "ht34_kiro_current": 30,
+      "ht34_erased": 7,
+      "ht34_residual": 30,
+      "ht34_current_closes": true,
+      "ht34_erased_state_closes": false,
+      "ht118_ki_sum": 15,
+      "ht118_written_ki_total": 15,
+      "ht118_ki_closes": true,
+      "participant_class": "masculine personal name"
+    },
+    "all_original_outputs_identical": true,
+    "original_test_condition_before_mutation": true,
+    "original_test_condition_after_mutation": true,
+    "finding": "The derive function ignores the status field; the published erasure-status failure-injection test cannot detect this mutation.",
+    "status_aware_baseline": {
+      "kiro_current": 30,
+      "sum": 100,
+      "reference": 100,
+      "closes": true,
+      "scope": "Conditional on the encoded row association and common quantitative scope."
+    },
+    "status_aware_mutation": {
+      "kiro_current": 37,
+      "sum": 107,
+      "reference": 100,
+      "closes": false,
+      "scope": "Conditional on the encoded row association and common quantitative scope."
+    }
+  },
+  "ht118_complete_arithmetic_audit": {
+    "main_components": [
+      15,
+      6,
+      4,
+      10
+    ],
+    "computed_main_sum": 35,
+    "written_kuro": 30,
+    "main_closes": false,
+    "KI_components": [
+      10,
+      4,
+      1
+    ],
+    "computed_KI_sum": 15,
+    "encoded_written_KI_total": 15,
+    "changing_main_quantity_leaves_original_derive_unchanged": true,
+    "finding": "Mismatch is acknowledged in the source evidence.json but omitted from the report discussion and verifier output. KI closure does not resolve main-column scope.",
+    "critical_text_caveat": "Reopened public transcriptions end KI 15[; do not drop the break marker. This alone does not prove a missing numeral."
+  },
+  "ht100_inclusion_is_not_subtraction": [
+    {
+      "damaged_numeral": 4,
+      "without_KI": 95,
+      "with_KI_added": 97,
+      "with_KI_subtracted": 93,
+      "written_total": 97
+    },
+    {
+      "damaged_numeral": 6,
+      "without_KI": 97,
+      "with_KI_added": 99,
+      "with_KI_subtracted": 95,
+      "written_total": 97
+    }
+  ],
+  "source_hashes": {
+    "iteration16_verifier_sha256": "2c5dd926ed7c2d662faf3f08bb1b72bde0bb030272ab4e60a5c40de921d3f00e",
+    "iteration16_evidence_sha256": "f14fc336d4a03dc487faea71e9c617fda0336041f62e741c47803257a8f9c796"
+  },
+  "archive_hashes": {
+    "Linear_A_Research_Workspace_Iteration_10.zip": "155a5c92a2c07c95aae4802662fb09a66d2f90d6468f50d8b84bc1dac90deb42",
+    "Linear_A_Research_Workspace_Iteration_11.zip": "ff8369c56aa8676809713f8b6495bf08b86e9c44d877192cc6c4bcac19718bd4",
+    "Linear_A_Research_Workspace_Iteration_12.zip": "cf88dd507142bc0b0894f25744e6c00625e5e6b225326ae76ae0ddd2f342bdae",
+    "Linear_A_Research_Workspace_Iteration_14.zip": "556a40e3a6420c59f14b236e23beecbd82f0cd061783b9359160e5f32888978d",
+    "Linear_A_Research_Workspace_Iteration_15_HT100.zip": "7a2d0f2853e7be3f8ef3a6067275e377546df33d491e283af8d8b3b494043d46",
+    "Linear_A_Research_Workspace_Iteration_16_Breakthrough.zip": "83235aa5725e58a1c18aa60c3713650120f2437c0a9d917225c85ba9212ea660"
+  }
+}

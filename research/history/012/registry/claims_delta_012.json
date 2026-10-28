@@ -1,0 +1,57 @@
+[
+  {
+    "id": "LA-012-001",
+    "claim": "The secure heading-versus-counted-entry contrast for QI-TU-NE does not depend on HT94b restoration.",
+    "disposition": "supported_structural_finding",
+    "evidence": [
+      "O12-01",
+      "O12-02",
+      "O12-03"
+    ],
+    "rival": "HT94 restoration artifact",
+    "result": "Rejected as necessary support: HT7b supplies a secure counted occurrence."
+  },
+  {
+    "id": "LA-012-002",
+    "claim": "QI-TU-NE participates in personnel-related administration and is unlikely to be a commodity-only term or pure predicate.",
+    "disposition": "supported_broad_category_preference",
+    "evidence": [
+      "O12-01",
+      "O12-02",
+      "O12-03"
+    ],
+    "qualification": "Personnel category/status, person/account, place/institution and homographic-use models remain live."
+  },
+  {
+    "id": "LA-012-003",
+    "claim": "DI-KI-SE has a repeated structural relation to QI-TU-NE.",
+    "disposition": "supported_replicated_relation",
+    "evidence": [
+      "O12-02",
+      "O12-03"
+    ],
+    "qualification": "The relation is membership/classification at the structural level; lexical meanings are not identified."
+  },
+  {
+    "id": "LA-012-004",
+    "claim": "HT94b *21F-TU-[NE] 1 is a secure independent witness to the complete form.",
+    "disposition": "not_supported",
+    "evidence": [
+      "O12-04"
+    ],
+    "qualification": "Final NE is restored in Uchitel's presentation; retain only as conditional corroboration."
+  },
+  {
+    "id": "LA-012-005",
+    "claim": "Iteration 12 establishes supplier/recipient direction or an overt action.",
+    "disposition": "not_achieved",
+    "evidence": [],
+    "qualification": "Role reversal leaves the current observations unchanged."
+  },
+  {
+    "id": "LA-012-006",
+    "claim": "Iteration 11's SA-RU category exclusion should remain categorical.",
+    "disposition": "amended",
+    "replacement": "SA-RU remains a favored entity/account designation; only a narrow direct-grain-denotation model is strongly challenged. Broader commodity-derived account/category readings remain possible."
+  }
+]

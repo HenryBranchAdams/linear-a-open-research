@@ -1,0 +1,48 @@
+[
+  {
+    "id": "R13-S01",
+    "title": "Carlo Consani, 'Double writing' in Minoan Linear A",
+    "url": "https://bazhum.muzhp.pl/media/texts/collectanea-philologica/2002-tom-4/collectanea_philologica-r2002-t4-s15-25.pdf",
+    "used_for": "HT88 structural interpretation; VIR+KA 20 and six KI-RO one-count entries.",
+    "note": "Interpretation of the six as absences is scholarly inference, not independently adopted."
+  },
+  {
+    "id": "R13-S02",
+    "title": "Alexander Uchitel, HT 94",
+    "url": "https://gredos.usal.es/bitstream/10366/133929/1/HT_94.pdf",
+    "used_for": "HT94b KI-RO 1-list and KU-RO 5; HT94a personnel totals; HT30 comparison.",
+    "note": "Uchitel glosses KI-RO as deficit; Iteration 13 separates observed structure from that gloss."
+  },
+  {
+    "id": "R13-S03",
+    "title": "Standard HT88 transcription / explanatory overview",
+    "url": "https://de.wikipedia.org/wiki/Minoische_Sprache",
+    "used_for": "Cross-check of HT88 transcription and six-entry KI-RO / KU-RO 6 structure.",
+    "note": "Secondary reference only."
+  },
+  {
+    "id": "R13-S04",
+    "title": "Brent Davis & Miguel Val\u00e9rio, Names and designations of people in Linear A",
+    "url": "https://www.researchgate.net/publication/352343395_Names_and_designations_of_people_in_Linear_A_A_contextual_study_of_tablets_HT_85_and_117",
+    "used_for": "HT117 KI-RO heading family; HT88 and HT1 parallels; explicit caveat that absence is only one possibility."
+  },
+  {
+    "id": "R13-S05",
+    "title": "Ruth Palmer, Linear A Commodities: A Comparison of Resources",
+    "url": "https://electronicsandbooks.com/edt/manual/Magazine/A/Aegaeum%20US/Aegaeum%2012%20%281995%29.%20Politeia.%20Society%20and%20State%20in%20the%20Aegean%20Bronze%20Age/Palmer.pdf",
+    "used_for": "Independent domain controls and caution that KI-RO can resemble owing in some contexts but not all."
+  },
+  {
+    "id": "R13-S06",
+    "title": "Roland Cash & Evelyne Cash, The HT 123 tablet: Accounting in Linear A",
+    "url": "https://www.researchgate.net/publication/291276250_The_HT_123_tablet_Accounting_in_Linear_A_Purpose_of_the_tablet_consequences_on_the_values_of_fractions_and_the_meaning_of_the_term_67-02",
+    "used_for": "HT123 arithmetic model and conclusion that KI-RO represents a differential between actual and expected/prior amounts; explicit taxation/allocation symmetry."
+  },
+  {
+    "id": "R13-S07",
+    "title": "Orazio Monti, Observations sur Quelques Tablettes en Lin\u00e9aire A",
+    "url": "https://www.aegeussociety.org/en/new_article/observations-sur-quelques-tablettes-en-lineaire-a/",
+    "used_for": "Published objection to a fixed 'deficit' gloss: HT123 KI-RO quantities may be positive surpluses.",
+    "note": "Abstract-level access; enough to establish the existence and exact direction of the published objection."
+  }
+]

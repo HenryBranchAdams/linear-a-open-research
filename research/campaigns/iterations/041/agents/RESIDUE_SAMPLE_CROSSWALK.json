@@ -1,0 +1,208 @@
+{
+  "source_id": "C041-OBJ-S02",
+  "title": "An interdisciplinary approach to the study of cooking vessels from Bronze Age Akrotiri, Thera",
+  "authors": [
+    "Maria Roumpou",
+    "Noémi S. Müller",
+    "Nick Kalogeropoulos",
+    "Peter M. Day",
+    "Irene Nikolakopoulou",
+    "Vassilis Kilikoglou"
+  ],
+  "date": 2013,
+  "source_url": "https://www.academia.edu/4944783/An_interdisciplinary_approach_to_the_study_of_cooking_vessels_from_Bronze_Age_Akrotiri_Thera",
+  "locator": "Table1 printed39–40",
+  "access": "author-hosted searchable body/table transcription; actual table pixels not inspected",
+  "unit": "analytical sample row, not necessarily unique ancient vessel or use event",
+  "population": "17 table rows preserving considerable plant/animal lipid traces; not all38 residue sherds or all76 technological samples; not a marked-vessel census",
+  "population_overlap": "38 residue sherds and76 technological samples, largely overlapping; methods footnote18 notes three exceptions to the residue samples being a subset of the technological sample set. Do not assume complete nesting.",
+  "mapping_status": "transcribed from source text; exact laboratory-code pairings retained; no museum inventory link established",
+  "rows": [
+    {
+      "residue_sample": "ACV100",
+      "technological_sample": "AKR07/31",
+      "phase": "MCA",
+      "vessel_type": "Low-walled hearth",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "<800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV101",
+      "technological_sample": "AKR07/32",
+      "phase": "MCA",
+      "vessel_type": "Pedestalled (?) globular deep bowl",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "800–900°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV102",
+      "technological_sample": "AKR07/33",
+      "phase": "MCB",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "n.d.",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV103",
+      "technological_sample": "AKR07/34",
+      "phase": "MCB",
+      "vessel_type": "Globular cooking vessel with outturned rim",
+      "reported_provenance": "import (Naxos)",
+      "reported_firing_temperature": "<800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV107",
+      "technological_sample": "AKR07/45",
+      "phase": "MCC",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "import (Naxos)",
+      "reported_firing_temperature": "<800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV113",
+      "technological_sample": "AKR05/46",
+      "phase": "MCA",
+      "vessel_type": "Pedestalled hearth",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "700–800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV114",
+      "technological_sample": "AKR05/47",
+      "phase": "MCA",
+      "vessel_type": "Large stamped hearth",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "800–850°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV116",
+      "technological_sample": "AKR05/52",
+      "phase": "MCB",
+      "vessel_type": "Cooking pot/jug with pedestal",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "700–800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV118",
+      "technological_sample": "AKR05/59",
+      "phase": "MCC",
+      "vessel_type": "?Cooking pot/jug with flat base",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "900–1050°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV119",
+      "technological_sample": "AKR05/61",
+      "phase": "MCC",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "700–800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV120",
+      "technological_sample": "AKR05/63",
+      "phase": "LCI",
+      "vessel_type": "Cooking pot/jug with flat base",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "700–800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV125",
+      "technological_sample": "AKR05/74",
+      "phase": "LCI",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "700–800°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV126",
+      "technological_sample": "AKR05/75",
+      "phase": "LCI",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "local",
+      "reported_firing_temperature": ">900°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV127",
+      "technological_sample": "AKR05/78",
+      "phase": "LCI",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "import (Naxos)",
+      "reported_firing_temperature": "600–750°C",
+      "printed_page": 39,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV134",
+      "technological_sample": "AKR05/91",
+      "phase": "MCA (?)",
+      "vessel_type": "Open, slightly rounded, pedestalled vase",
+      "reported_provenance": "local",
+      "reported_firing_temperature": "900–1050°C",
+      "printed_page": 40,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV135",
+      "technological_sample": "AKR08/01",
+      "phase": "MCC",
+      "vessel_type": "Tripod cooking pot",
+      "reported_provenance": "n.d.",
+      "reported_firing_temperature": "n.d.",
+      "printed_page": 40,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    },
+    {
+      "residue_sample": "ACV136",
+      "technological_sample": "AKR08/02",
+      "phase": "LCI",
+      "vessel_type": "Funnel-mouthed jar",
+      "reported_provenance": "n.d.",
+      "reported_firing_temperature": "n.d.",
+      "printed_page": 40,
+      "residue_scope": "Table1 plant and/or animal lipids; not specific spice/content identification"
+    }
+  ],
+  "additional_figure": {
+    "locator": "fig2 printed40",
+    "residue_sample": "ACV137",
+    "reported": "beeswax residue chromatogram",
+    "technological_sample": null,
+    "inventory": null
+  },
+  "target_join": {
+    "inventories": [
+      "9384",
+      "9730"
+    ],
+    "exact_join_recovered": false,
+    "means_unsampled": false
+  },
+  "reading_note": "ACV134 phase uncertainty retained; source footnote39 permits ECII-late because mixed context. n.d. retained as unknown."
+}

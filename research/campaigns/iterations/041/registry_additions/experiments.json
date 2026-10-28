@@ -1,0 +1,49 @@
+[
+  {
+    "id": "C041-CATALOGUE-SAMPLE-LINK",
+    "iteration": 41,
+    "status": "completed",
+    "kind": "bounded primary-source and exact specimen-link feasibility inquiry",
+    "title": "Akrotiri9384/9730 catalogue and manufacturing concordance",
+    "input": [
+      "C041-S01",
+      "C041-S02",
+      "LA-040-001"
+    ],
+    "method": "Original inventory/catalogue mapping, separate measurement/reading histories, actual image-only concordance check and independent challenge; recorded remaining macrotable inspection.",
+    "outputs": [
+      "iterations/041/evidence/CATALOGUE_OVERLAY.json",
+      "iterations/041/agents/SOURCE_ROUTE.md",
+      "iterations/041/agents/challenger/REVIEW.md"
+    ],
+    "finding": "Original catalogue access obtained; precise object controls retained. No exact target analytical join recovered in inspected records.",
+    "limitations": "Published-table scope, blank cells and sample-number gaps; no never-sampled inference, autopsy, new assay or independent ancient witness.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/041/Linear_A_Campaign_041.zip"
+  },
+  {
+    "id": "C041-RESIDUE-ACCESS-AND-CROSSWALK",
+    "iteration": 41,
+    "status": "completed",
+    "kind": "bounded acquisition and analytical-code crosswalk feasibility",
+    "title": "Exact Akrotiri contents/use route",
+    "input": [
+      "C041-S03",
+      "C041-S04"
+    ],
+    "method": "Exact title/author institutional and author-hosted route checks; transcribe positive-result ACV↔AKR table; require inventory link independent of mark.",
+    "outputs": [
+      "iterations/041/agents/OBJECT_EVIDENCE.md",
+      "iterations/041/agents/RESIDUE_SAMPLE_CROSSWALK.json",
+      "iterations/041/analysis/JOIN_DECISION.md"
+    ],
+    "finding": "17 positive-result code pairs retained, no exact targets joined.2021 full chapter not acquired in checked routes; zero article pages.",
+    "limitations": "Text-transcription access to2013, no actual table pixels; positive subset not full sample census; broad lipids/coatings do not identify specific contents.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/041/Linear_A_Campaign_041.zip"
+  }
+]

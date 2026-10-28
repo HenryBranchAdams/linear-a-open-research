@@ -1,0 +1,48 @@
+[
+  {
+    "id": "R14-RECURRENCE-GRAPH",
+    "status": "completed",
+    "inputs": "corpus/sigla_sequences_2026-09-07.json",
+    "results": [
+      "iterations/014/data/kiro_recurrence_graph.json",
+      "iterations/014/results/recurrence_edges.csv"
+    ],
+    "finding": "Multiple KI-RO-associated labels recur in non-KI-RO contexts; no matched expected/present roster pair found."
+  },
+  {
+    "id": "R14-ROSTER-COMPARISON",
+    "status": "completed",
+    "result": "iterations/014/notes/ROSTER_COMPARISON.md",
+    "finding": "One-count KIRO lists cannot be equated with personal-name lists; KU-*56-NU is decisive control."
+  },
+  {
+    "id": "R14-HT100-POLARITY",
+    "status": "completed",
+    "result": "iterations/014/data/ht100_polarity.json",
+    "finding": "Critical restoration [4] vs [6] flips whether KI2 is included or excluded; polarity not identified."
+  },
+  {
+    "id": "R14-PHYSICAL-LINKS",
+    "status": "completed",
+    "result": "iterations/014/data/physical_links.json",
+    "finding": "PA-TA-NE supplies a strong tablet\u2194nodule recurrence but no transaction direction."
+  },
+  {
+    "id": "R14-CROSS-DOMAIN-OPERATOR",
+    "status": "completed",
+    "result": "iterations/014/data/operator_models.json",
+    "finding": "Unsigned reconciliation/difference model survives with least extra assumptions; fixed negative/positive models not identified."
+  },
+  {
+    "id": "R14-LINEARB-CONTROLS",
+    "status": "completed",
+    "result": "iterations/014/data/linear_b_controls.json",
+    "finding": "Deciphered controls show deficit/absence distinctions rely on overt lexical/documentary cues, invalidating list-shape-only diagnosis."
+  },
+  {
+    "id": "R14-PREDICTION-LEDGER",
+    "status": "completed",
+    "result": "iterations/014/data/prediction_exposure_ledger.json",
+    "finding": "No genuinely unseen witness remained for a held-out test; all results labeled retrospective."
+  }
+]

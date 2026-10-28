@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "research_through": 44,
+  "documentation_revision": "D2026-10-26",
+  "mission_achieved": false,
+  "active_candidates": 0,
+  "active_semantic_experiments": 0,
+  "expected_registry_counts": {
+    "claims": 89,
+    "experiments_and_access_feasibility_records": 39,
+    "source_access_records": 129,
+    "raw_discovery_records": 1721
+  },
+  "expected_queue_records": 26,
+  "new_id_patterns": {
+    "claims": "LA-04[34]-[0-9]{3}",
+    "experiments": "C04[34]-[A-Z0-9-]+",
+    "sources": "C04[34]-S[0-9]{2}"
+  },
+  "expected_added_ids": {
+    "claims": [
+      "LA-043-001",
+      "LA-044-001"
+    ],
+    "experiments": [
+      "C043-CORD-JOIN",
+      "C044-VESSEL-CLASS"
+    ],
+    "sources": [
+      "C043-S01",
+      "C043-S02",
+      "C044-S01",
+      "C044-S02",
+      "C044-S03",
+      "C044-S04",
+      "C044-S05",
+      "C044-S06"
+    ]
+  },
+  "control_documents": [
+    "START_HERE.md",
+    "NEXT.md",
+    "context/CURRENT_STATE.md",
+    "context/DOCUMENTATION_MAP.md",
+    "context/RESEARCH_PROTOCOL.md",
+    "templates/ITERATION_BRIEF.md",
+    "reviews/2026-10-23/REVIEW_THROUGH_041.md",
+    "archive/010_environment/README.md",
+    "phases/2026-10-24/PHASE_CHARTER.md",
+    "phases/2026-10-24/PHASE_REPORT.md",
+    "iterations/042/REPORT.md",
+    "reviews/2026-10-25/REVIEW_THROUGH_042.md",
+    "phases/2026-10-25/PHASE_CHARTER.md",
+    "phases/2026-10-25/PHASE_REPORT.md",
+    "iterations/043/REPORT.md",
+    "iterations/044/REPORT.md",
+    "reviews/2026-10-26/REVIEW_THROUGH_044.md"
+  ],
+  "additional_markdown_trees": [
+    "iterations/042",
+    "phases/2026-10-24",
+    "iterations/043",
+    "iterations/044",
+    "phases/2026-10-25"
+  ],
+  "required_paths": [
+    "iterations/042/BRIEF.md",
+    "iterations/042/REPORT.md",
+    "phases/2026-10-24/PHASE_REPORT.md",
+    "iterations/043/REPORT.md",
+    "iterations/044/REPORT.md",
+    "phases/2026-10-25/PHASE_REPORT.md",
+    "iterations/044/review/FINAL_REVIEW.md",
+    "phases/2026-10-25/review/SYNTHESIS_CHECK.md"
+  ],
+  "analysis_integrity": [
+    {
+      "input_path": "iterations/042/analysis/capacity_inputs.json",
+      "result_path": "iterations/042/analysis/capacity_results.json",
+      "rule_path": "iterations/042/analysis/C042_ANALYSIS_RULE.md",
+      "rule_sha256": "72ecdf4a19014190562b327dfecb88b93a5449c198fbfa60f37e3db568c167f0",
+      "expected_scenarios": 9
+    }
+  ],
+  "frozen_hashes": {
+    "iterations/043/ANALYSIS_RULE.md": "4194cb7f13f114df5beec76298831c206a74c6d06f086f14745c1cbda126ad1c",
+    "iterations/043/evidence/PHYSICAL_SELECTION_BEFORE_JOIN.json": "bcc47eb5f3f0b0f8d3ea081d59246ba31c8510517cc1a7ef8593a2e43f724dc6",
+    "iterations/043/review/INITIAL_CRITERIA.md": "d243a536c6131afcaa6f086594b6e394e5e6997de9e7fd7dedebfaf7fbd60973",
+    "iterations/043/review/RECONSTRUCTION_CRITERIA.md": "8b1bd48007d68919c681d752fbbf89197435f5a2e5f8ed9ea608fda2a1ce38a1",
+    "iterations/043/review/PHYSICAL_ASSESSMENT_BEFORE_JOIN.md": "fba46a27c8c59ebbae1e67f0f9ebe72ea77bca1ee9ba3351de04dd5aa87552c7",
+    "iterations/044/BRIEF.md": "2d94a856e0a7fcd48a95eb8203257d0d5d19ea700e4e486439cb8b0dc52a1ef0",
+    "iterations/044/review/INITIAL_CRITERIA.md": "a7b1ad4f23133f533b0a8ca6daefab2c67728877eef37baa0785adc30be97ba1"
+  },
+  "reproducible_outputs": [
+    {
+      "script_path": "iterations/043/analysis/check_join.py",
+      "result_path": "iterations/043/analysis/result.json"
+    },
+    {
+      "script_path": "iterations/044/analysis/extract_target.py",
+      "result_path": "iterations/044/analysis/target_index_result.json"
+    }
+  ]
+}

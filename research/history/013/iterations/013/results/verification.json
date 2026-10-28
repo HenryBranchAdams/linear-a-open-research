@@ -1,0 +1,30 @@
+{
+  "derived": {
+    "pure_witness_count": 2,
+    "all_personnel_totals_match": true,
+    "totals": [
+      {
+        "document": "HT 88",
+        "computed": 6,
+        "written": 6,
+        "matches": true
+      },
+      {
+        "document": "HT 94b",
+        "computed": 5,
+        "written": 5,
+        "matches": true
+      }
+    ],
+    "cross_domain_control_count": 2,
+    "fixed_negative_sign_supported": false,
+    "functional_core": "best_supported_functional_core",
+    "full_action_and_roles": false
+  },
+  "failure_injection_tests": {
+    "wrong_ht88_total_detected": true,
+    "single_witness_is_not_replication": true,
+    "loss_of_cross_domain_controls_detected": true
+  },
+  "scope_note": "Verifier proves replication/arithmetic only. The differential/exception functional gloss remains an evidence synthesis, not machine-derived lexical decipherment."
+}

@@ -1,0 +1,100 @@
+{
+  "reviewer_reconstructed_from_entity_fields": true,
+  "rows": [
+    {
+      "inventory": "451/5",
+      "entity_id": 1162956,
+      "function_source": "label",
+      "identity_field": [
+        "Inventarnummer: HMs  451/  5<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+      ],
+      "preservation": [
+        "Fragment"
+      ],
+      "inscription_field": [
+        "Schriftzeichennein"
+      ],
+      "linked_device": [
+        "CMS - Nummer: II,6 011"
+      ],
+      "readable_text_id": null
+    },
+    {
+      "inventory": "546/1",
+      "entity_id": 1163440,
+      "function_source": "label_and_secures_two_ends",
+      "identity_field": [
+        "Inventarnummer: HMs  546/  1<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+      ],
+      "preservation": [
+        "komplett"
+      ],
+      "inscription_field": [
+        "Schriftzeichennein"
+      ],
+      "linked_device": [
+        "CMS - Nummer: II,6 065"
+      ],
+      "readable_text_id": null
+    },
+    {
+      "inventory": "557",
+      "entity_id": 1163474,
+      "function_source": "label",
+      "identity_field": [
+        "Inventarnummer: HMs  557<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+      ],
+      "preservation": [
+        "komplett"
+      ],
+      "inscription_field": [
+        "SchriftzeichenHT Wa 1018"
+      ],
+      "linked_device": [
+        "CMS - Nummer: II,6 011"
+      ],
+      "readable_text_id": "HTWa1018"
+    },
+    {
+      "inventory": "1657",
+      "entity_id": 1163627,
+      "function_source": "label_and_secures_two_ends",
+      "identity_field": [
+        "Inventarnummer: HMs 1657<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+      ],
+      "preservation": [
+        "Fragment"
+      ],
+      "inscription_field": [
+        "Schriftzeichennein"
+      ],
+      "linked_device": [
+        "CMS - Nummer: II,6 095"
+      ],
+      "readable_text_id": null
+    },
+    {
+      "inventory": "1143 (ZA)",
+      "entity_id": 1164664,
+      "function_source": "label",
+      "identity_field": [
+        "Inventarnummer: HMs 1143<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+      ],
+      "preservation": null,
+      "inscription_field": null,
+      "linked_device": [
+        "CMS - Nummer: II,7 190"
+      ],
+      "readable_text_id": null
+    }
+  ],
+  "currently_readable_inventories": [
+    "HMs557"
+  ],
+  "represented_function_among_readable": [
+    "label"
+  ],
+  "no_readable_secure_two_ends_row": true,
+  "semantic_comparison_admitted": false,
+  "important": "This is an eligibility inventory, not a correlation or evidence that all secure nodules were uninscribed."
+}

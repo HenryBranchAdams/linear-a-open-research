@@ -1,0 +1,30 @@
+[
+  {
+    "id": "HT86_younger_mirror",
+    "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT86.html",
+    "sha256": "b17ec406dad3d432c035cbe746952f589eae0993e976139c21ab4cafcbacd5e7",
+    "accessed_utc": "2026-09-09T02:24:35.039509+00:00",
+    "source_type": "edition derivative, discovery and comparison; not independent ancient witness"
+  },
+  {
+    "id": "HT95_younger_mirror",
+    "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT95.html",
+    "sha256": "8aaf9a364bea4d37e697501f51ee1b04cae25414fedd2d76cb42c351108aa8bf",
+    "accessed_utc": "2026-09-09T02:24:35.032932+00:00",
+    "source_type": "edition derivative, discovery and comparison; not independent ancient witness"
+  },
+  {
+    "id": "HT85_younger_mirror",
+    "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT85.html",
+    "sha256": "bf296b080b9ca1dccc52c504c0772abafce4395162baa9d93aed0321c84eddb5",
+    "accessed_utc": "2026-09-09T02:24:35.014419+00:00",
+    "source_type": "edition derivative, discovery and comparison; not independent ancient witness"
+  },
+  {
+    "id": "HT122_younger_mirror",
+    "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT122.html",
+    "sha256": "18a820ee46aa7476baa6732c415f6b4190cbba3c500679f068c2ec338386afd3",
+    "accessed_utc": "2026-09-09T02:24:35.033991+00:00",
+    "source_type": "edition derivative, discovery and comparison; not independent ancient witness"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "C038-P2",
+  "status": "completed_source_feasibility_semantic_gate_unmet",
+  "selection": "CANDIDATE_SELECTION.json; selection facts and later exposure clarification separated",
+  "target": {
+    "inscription": "KH Wc2123",
+    "inventory": "Khania Museum KH2123",
+    "face": "incised obverse",
+    "component": "residual AB39–77 / PI-KA; uncertain preceding mark",
+    "locators": [
+      "2007pp13–15 fig5p14",
+      "DelFreo p100",
+      "committee p586"
+    ]
+  },
+  "reading": "See critical overlay; whole group editorially erased, physical erasure incomplete; first mark A373/tripod/unresolved; no ancient divider established.",
+  "decision": "Can a physical writing–erasure–stamping relation independently identify what PI-KA denotes or its participant role?",
+  "rivals": [
+    "Responsibility designation continuing into the stamped operation",
+    "Designation of a distinct counterparty continuing into that operation",
+    "Account/item/category designation",
+    "Earlier entry whose reference did not continue; correction or reuse"
+  ],
+  "predictions": {
+    "semantic": "No obtained observation has different necessary predictions under the serious rival assignments. This remained unknown at admission to source inquiry and failed the semantic gate after investigation.",
+    "physical": "Conditional on editorial sequence, inscription first creation wholly after surviving stamps conflicts with order; this is not semantic discrimination."
+  },
+  "independent_connection": "Exact inventory identifies carrier independent of writing; physical co-presence and reported sequence join marks to carrier operations, but do not identify the inscription referent.",
+  "evidence_route": "Original edition target text/author-hosted images plus later critical source pages; newly inspected finite source route, not reopening an existing parked semantic claim.",
+  "exposure": "Raw index presence established; prior primary-page exposure unknown. Source-led retrospective comparison, no unused validation.",
+  "method": "Compare source reading and physical sequence; construct compatible rival histories; inspect consequential reading and timing branches; independent challenge and raw-row audit.",
+  "stop": "Selected finite packet and obtainable decisive dependencies exhausted without a role-dependent independent observation.",
+  "second_investigation": false,
+  "new_ancient_witness": false
+}

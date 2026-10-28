@@ -1,0 +1,44 @@
+[
+  {
+    "page": 134,
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=170&max_image_size=1",
+    "image_url": "https://cefael.efa.gr/apps/library/services/images/?ce=ot2bvst8p1vvf43mhgqsvourj583eque&f=EtCret_21-1_1976_170.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-1_1976%2FEtCret_21-1_1976_VolumeBroche",
+    "file": "gorila_I_p134.jpg",
+    "sha256": "b024206250b4d79561bef774b01e9ac662fdae78b8312b60bc5a52a40063af69"
+  },
+  {
+    "page": 135,
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=171&max_image_size=1",
+    "image_url": "https://cefael.efa.gr/apps/library/services/images/?ce=uas1fb0phjvk88sgdi9u118t35l8ufgj&f=EtCret_21-1_1976_171.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-1_1976%2FEtCret_21-1_1976_VolumeBroche",
+    "file": "gorila_I_p135.jpg",
+    "sha256": "ce636080b6320e1b032a18702006149baedb602b3f3634694417d0287e8eea4b"
+  },
+  {
+    "page": 154,
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=190&max_image_size=1",
+    "image_url": "https://cefael.efa.gr/apps/library/services/images/?ce=7cl2tufun50td420tfl3neeqni2abi7t&f=EtCret_21-1_1976_190.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-1_1976%2FEtCret_21-1_1976_VolumeBroche",
+    "file": "gorila_I_p154.jpg",
+    "sha256": "8273f7f7aca946af59b49d6a82cc0c448d429d44126122bc9300b1e13de9bfd5"
+  },
+  {
+    "page": 155,
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=191&max_image_size=1",
+    "image_url": "https://cefael.efa.gr/apps/library/services/images/?ce=eeavv7hksnp8d2rs61chf06hvcqucvv5&f=EtCret_21-1_1976_191.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-1_1976%2FEtCret_21-1_1976_VolumeBroche",
+    "file": "gorila_I_p155.jpg",
+    "sha256": "1a6dee9c05592b119b11de606896092868598e4f88812225a2f623a9b055c9ea"
+  },
+  {
+    "page": 26,
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=62&max_image_size=1",
+    "image_url": "https://cefael.efa.gr/apps/library/services/images/?ce=jtjarcttodutq3unb18krv4mhd78n7ae&f=EtCret_21-1_1976_062.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-1_1976%2FEtCret_21-1_1976_VolumeBroche",
+    "file": "gorila_I_p26.jpg",
+    "sha256": "9088da77ec913ac07e6d81bd5debc43e97abcfd1574438a3e1a58f7f0960ddae"
+  },
+  {
+    "page": 27,
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=63&max_image_size=1",
+    "image_url": "https://cefael.efa.gr/apps/library/services/images/?ce=8pu4libfruu1pcid8pads15md512j0oh&f=EtCret_21-1_1976_063.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-1_1976%2FEtCret_21-1_1976_VolumeBroche",
+    "file": "gorila_I_p27.jpg",
+    "sha256": "efd1c2fb8f2b78c5d09151c4f9b36cce6d9fe489050274100b2a3558783b0e74"
+  }
+]

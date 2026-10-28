@@ -1,0 +1,40 @@
+{
+  "campaign_id": "LA-C041-2026-10-23",
+  "authority_before": "B2026-10-18 plusC038/C039/C040",
+  "authority_after": "B2026-10-18 plusC038/C039/C040/C041",
+  "status": "completed_stopped",
+  "claim_changes": [
+    {
+      "id": "LA-041-001",
+      "before": "Original2019 exact catalogue/analytical concordance not adjudicated",
+      "after": "catalogue_source_qualification_retained_exact_analytical_binding_unrecovered"
+    }
+  ],
+  "evidence_levels": {
+    "access": "Official complete2019 volumes acquired;2021 residue article not acquired",
+    "reading_object_control": "Exact catalogue aliases, measurement convention and historical mark qualifications",
+    "physical_constraint": "No new assay/volume measurement",
+    "semantic_discrimination": null,
+    "linguistic_replication": null,
+    "mission_construction": null
+  },
+  "active_candidates": 0,
+  "deep_inquiries_completed": 1,
+  "semantic_experiments_admitted": 0,
+  "new_ancient_objects": 0,
+  "registry_additions": {
+    "claims": 1,
+    "access_feasibility_records": 2,
+    "sources": 4
+  },
+  "expected_totals": {
+    "claims": 85,
+    "access_feasibility_records": 36,
+    "sources": 113
+  },
+  "stop": "Exact target analytical/use binding unrecovered in finite inspected packet; no crossed comparison executable",
+  "independence": "New modern sources and reviewers, same exposed carriers; no unused linguistic prediction",
+  "external_actions": [],
+  "completed_at_utc": "2026-10-23T17:41:35.252715+00:00",
+  "independent_final_review": "passed; no blocking findings"
+}

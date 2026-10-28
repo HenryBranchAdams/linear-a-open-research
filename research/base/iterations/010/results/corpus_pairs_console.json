@@ -1,0 +1,1379 @@
+{
+  "coverage": {
+    "document_faces": 802,
+    "catalog_object_groups": 651,
+    "indexed_sequence_occurrences": 1401,
+    "classification_counts": {
+      "broken_or_nonlexical_syntax": 629,
+      "phonetic": 519,
+      "possible_logogram_fraction_or_composite": 53,
+      "accounting_marker": 48,
+      "opaque_sign_extended": 121,
+      "less_than_two_signs": 26,
+      "uncertain_reading": 5
+    }
+  },
+  "runs": {
+    "phonetic_face": {
+      "nonempty_contexts": 220,
+      "distinct_forms": 381,
+      "pair_counts": {
+        "1": {
+          "within_site": 299,
+          "cross_site": 20
+        },
+        "2": {
+          "within_site": 8,
+          "cross_site": 0
+        },
+        "3": {
+          "within_site": 2,
+          "cross_site": 0
+        },
+        "4": {
+          "within_site": 1,
+          "cross_site": 0
+        },
+        "5": {
+          "within_site": 1,
+          "cross_site": 0
+        }
+      },
+      "top_pairs": [
+        {
+          "left": "HT 86a",
+          "right": "HT 95b",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 5,
+          "shared": [
+            "A-DU",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 28.929519,
+          "jaccard": 0.5,
+          "left_only": [
+            "A-KA-RU",
+            "DA-ME",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-ZA",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "A-DU": 7,
+            "DI-DE-RU": 2,
+            "KU-NI-SU": 4,
+            "MI-NU-TE": 3,
+            "SA-RU": 6
+          },
+          "rank": 1
+        },
+        {
+          "left": "HT 86a",
+          "right": "HT 95a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-ME",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 17.589192,
+          "jaccard": 0.3,
+          "left_only": [
+            "A-DU",
+            "A-KA-RU",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-DU-MA-TA",
+            "DI-DE-RU-QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "DA-ME": 3,
+            "MI-NU-TE": 3,
+            "SA-RU": 6
+          },
+          "rank": 2
+        },
+        {
+          "left": "HT 10b",
+          "right": "HT 7a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "DA-RE",
+            "TA-NA-TI"
+          ],
+          "rarity_bits": 11.655829,
+          "jaccard": 0.222222,
+          "left_only": [
+            "KA-SA-RU",
+            "TA-RI-NA",
+            "U-TI"
+          ],
+          "right_only": [
+            "DU-JA",
+            "I-RU-JA",
+            "QE-TI",
+            "TE-TU"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 5,
+            "TA-NA-TI": 3
+          },
+          "rank": 3
+        },
+        {
+          "left": "HT 10a",
+          "right": "HT 85a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA"
+          ],
+          "rarity_bits": 11.240791,
+          "jaccard": 0.285714,
+          "left_only": [
+            "KU-NI-SU",
+            "ME-ZA",
+            "SA-MA"
+          ],
+          "right_only": [
+            "A-DU",
+            "TE-KE"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 5,
+            "DA-RI-DA": 4
+          },
+          "rank": 4
+        },
+        {
+          "left": "HT 86b",
+          "right": "HT 95b",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "KU-NI-SU",
+            "SA-RU"
+          ],
+          "rarity_bits": 10.977757,
+          "jaccard": 0.222222,
+          "left_only": [
+            "A-KA-RU",
+            "DI-DE"
+          ],
+          "right_only": [
+            "A-DU",
+            "DA-ZA",
+            "DI-DE-RU",
+            "MI-NU-TE",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "KU-NI-SU": 4,
+            "SA-RU": 6
+          },
+          "rank": 5
+        }
+      ],
+      "exclusive_variant_count": 22,
+      "exclusive_variant_at_least_three_signs": []
+    },
+    "phonetic_object": {
+      "nonempty_contexts": 186,
+      "distinct_forms": 381,
+      "pair_counts": {
+        "1": {
+          "within_site": 277,
+          "cross_site": 18
+        },
+        "2": {
+          "within_site": 11,
+          "cross_site": 0
+        },
+        "3": {
+          "within_site": 2,
+          "cross_site": 0
+        },
+        "4": {
+          "within_site": 1,
+          "cross_site": 0
+        },
+        "5": {
+          "within_site": 1,
+          "cross_site": 0
+        }
+      },
+      "top_pairs": [
+        {
+          "left": "HT 86",
+          "right": "HT 95",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 6,
+          "shared": [
+            "A-DU",
+            "DA-ME",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 35.257673,
+          "jaccard": 0.461538,
+          "left_only": [
+            "A-KA-RU",
+            "DI-DE",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-DU-MA-TA",
+            "DA-ZA",
+            "DI-DE-RU-QE-RA2-U",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "A-DU": 7,
+            "DA-ME": 3,
+            "DI-DE-RU": 2,
+            "KU-NI-SU": 3,
+            "MI-NU-TE": 2,
+            "SA-RU": 4
+          },
+          "rank": 1
+        },
+        {
+          "left": "HT 10",
+          "right": "HT 85",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "ME-ZA"
+          ],
+          "rarity_bits": 17.617476,
+          "jaccard": 0.176471,
+          "left_only": [
+            "KA-SA-RU",
+            "KU-NI-SU",
+            "SA-MA",
+            "TA-NA-TI",
+            "TA-RI-NA",
+            "U-TI"
+          ],
+          "right_only": [
+            "A-DU",
+            "KI-KI-RA-JA",
+            "KI-RE-TA2",
+            "MA-DI",
+            "QE-KA",
+            "RE-DI-SE",
+            "TE-KE",
+            "WA-DU-NI-MI"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 4,
+            "DA-RI-DA": 4,
+            "ME-ZA": 2
+          },
+          "rank": 2
+        },
+        {
+          "left": "HT 117",
+          "right": "HT 87",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "DI-KI-SE",
+            "MA-KA-RI-TE"
+          ],
+          "rarity_bits": 13.078318,
+          "jaccard": 0.090909,
+          "left_only": [
+            "DA-MI-NU",
+            "DA-NE-KU-TI",
+            "KI-DA-RO",
+            "KO-SA-I-TI",
+            "KU-KU-DA-RA",
+            "KU-RA-MU",
+            "KU-RE-JU",
+            "MA-RU",
+            "MI-RU-TA-RA-RE",
+            "MI-TU",
+            "NA-DA-RE",
+            "SA-TA",
+            "TU-JU-MA",
+            "U-DI-MI",
+            "U-MI-NA-SI",
+            "U-SU"
+          ],
+          "right_only": [
+            "JA-RE-MI",
+            "KU-RU-KU",
+            "PI-TA-KE-SI",
+            "QE-SU-PU"
+          ],
+          "shared_context_frequency": {
+            "DI-KI-SE": 2,
+            "MA-KA-RI-TE": 2
+          },
+          "rank": 3
+        },
+        {
+          "left": "HT 10",
+          "right": "HT 7",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "DA-RE",
+            "TA-NA-TI"
+          ],
+          "rarity_bits": 11.493355,
+          "jaccard": 0.153846,
+          "left_only": [
+            "DA-RI-DA",
+            "KA-SA-RU",
+            "KU-NI-SU",
+            "ME-ZA",
+            "SA-MA",
+            "TA-RI-NA",
+            "U-TI"
+          ],
+          "right_only": [
+            "DU-JA",
+            "I-RU-JA",
+            "QE-TI",
+            "TE-TU"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 4,
+            "TA-NA-TI": 3
+          },
+          "rank": 4
+        },
+        {
+          "left": "HT 122",
+          "right": "HT 93",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "DA-RI-DA",
+            "QA-QA-RU"
+          ],
+          "rarity_bits": 11.493355,
+          "jaccard": 0.117647,
+          "left_only": [
+            "DA-RE",
+            "JA-MI-DA-RE",
+            "JE-DI",
+            "KU-DA",
+            "PA-DE",
+            "PA-RI-NE",
+            "PO-TO-KU-RO",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-SE",
+            "DE-JU-KU",
+            "DI-RI-NA",
+            "KI-DI-NI",
+            "SA-RA2"
+          ],
+          "shared_context_frequency": {
+            "DA-RI-DA": 4,
+            "QA-QA-RU": 3
+          },
+          "rank": 5
+        }
+      ],
+      "exclusive_variant_count": 31,
+      "exclusive_variant_at_least_three_signs": [
+        {
+          "left": "ZA 10",
+          "right": "HT 10",
+          "left_form": "TA-NA-TE",
+          "right_form": "TA-NA-TI",
+          "kind": "terminal_syllable",
+          "min_target_signs": 3,
+          "exclusive_substitution": true,
+          "left_also_contains_right_form": false,
+          "right_also_contains_left_form": false,
+          "forms_cooccur_in_any_context": [],
+          "cross_site": true,
+          "independent_associate_count": 1,
+          "independent_associates": [
+            "SA-MA"
+          ],
+          "associate_rarity_bits": 5.539159
+        }
+      ]
+    },
+    "extended_face": {
+      "nonempty_contexts": 242,
+      "distinct_forms": 476,
+      "pair_counts": {
+        "1": {
+          "within_site": 325,
+          "cross_site": 26
+        },
+        "2": {
+          "within_site": 10,
+          "cross_site": 0
+        },
+        "3": {
+          "within_site": 5,
+          "cross_site": 0
+        },
+        "4": {
+          "within_site": 1,
+          "cross_site": 0
+        },
+        "5": {
+          "within_site": 1,
+          "cross_site": 0
+        }
+      },
+      "top_pairs": [
+        {
+          "left": "HT 86a",
+          "right": "HT 95b",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 5,
+          "shared": [
+            "A-DU",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 29.617036,
+          "jaccard": 0.5,
+          "left_only": [
+            "A-KA-RU",
+            "DA-ME",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-ZA",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "A-DU": 7,
+            "DI-DE-RU": 2,
+            "KU-NI-SU": 4,
+            "MI-NU-TE": 3,
+            "SA-RU": 6
+          },
+          "rank": 1
+        },
+        {
+          "left": "HT 122a",
+          "right": "HT 9a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "A306-TU",
+            "A324-DI-RA",
+            "PA-DE"
+          ],
+          "rarity_bits": 18.586665,
+          "jaccard": 0.1875,
+          "left_only": [
+            "DA-RI-DA",
+            "JA-MI-DA-RE",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-RI-NE",
+            "QA-A310-I",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-RU-KU-RO",
+            "DI-NA-U",
+            "QE-PU",
+            "SA-RO"
+          ],
+          "shared_context_frequency": {
+            "A306-TU": 4,
+            "A324-DI-RA": 3,
+            "PA-DE": 3
+          },
+          "rank": 2
+        },
+        {
+          "left": "HT 122a",
+          "right": "HT 9b",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "A306-TU",
+            "A324-DI-RA",
+            "PA-DE"
+          ],
+          "rarity_bits": 18.586665,
+          "jaccard": 0.1875,
+          "left_only": [
+            "DA-RI-DA",
+            "JA-MI-DA-RE",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-RI-NE",
+            "QA-A310-I",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-SI",
+            "DI-NA-U",
+            "KA-A305",
+            "QE-PU"
+          ],
+          "shared_context_frequency": {
+            "A306-TU": 4,
+            "A324-DI-RA": 3,
+            "PA-DE": 3
+          },
+          "rank": 3
+        },
+        {
+          "left": "HT 10a",
+          "right": "HT 85a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "U-A325-ZA"
+          ],
+          "rarity_bits": 18.434662,
+          "jaccard": 0.272727,
+          "left_only": [
+            "A305-RU",
+            "KU-NI-SU",
+            "ME-ZA",
+            "SA-MA"
+          ],
+          "right_only": [
+            "*56-NI",
+            "A-DU",
+            "KU-*79-NI",
+            "TE-KE"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 5,
+            "DA-RI-DA": 4,
+            "U-A325-ZA": 2
+          },
+          "rank": 4
+        },
+        {
+          "left": "HT 86a",
+          "right": "HT 95a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-ME",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 18.001702,
+          "jaccard": 0.3,
+          "left_only": [
+            "A-DU",
+            "A-KA-RU",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-DU-MA-TA",
+            "DI-DE-RU-QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "DA-ME": 3,
+            "MI-NU-TE": 3,
+            "SA-RU": 6
+          },
+          "rank": 5
+        }
+      ],
+      "exclusive_variant_count": 30,
+      "exclusive_variant_at_least_three_signs": []
+    },
+    "extended_object": {
+      "nonempty_contexts": 203,
+      "distinct_forms": 476,
+      "pair_counts": {
+        "1": {
+          "within_site": 297,
+          "cross_site": 24
+        },
+        "2": {
+          "within_site": 14,
+          "cross_site": 0
+        },
+        "3": {
+          "within_site": 4,
+          "cross_site": 0
+        },
+        "4": {
+          "within_site": 2,
+          "cross_site": 0
+        },
+        "5": {
+          "within_site": 1,
+          "cross_site": 0
+        }
+      },
+      "top_pairs": [
+        {
+          "left": "HT 86",
+          "right": "HT 95",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 6,
+          "shared": [
+            "A-DU",
+            "DA-ME",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 36.014736,
+          "jaccard": 0.461538,
+          "left_only": [
+            "A-KA-RU",
+            "DI-DE",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-DU-MA-TA",
+            "DA-ZA",
+            "DI-DE-RU-QE-RA2-U",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "A-DU": 7,
+            "DA-ME": 3,
+            "DI-DE-RU": 2,
+            "KU-NI-SU": 3,
+            "MI-NU-TE": 2,
+            "SA-RU": 4
+          },
+          "rank": 1
+        },
+        {
+          "left": "HT 10",
+          "right": "HT 85",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 4,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "ME-ZA",
+            "U-A325-ZA"
+          ],
+          "rarity_bits": 24.661344,
+          "jaccard": 0.173913,
+          "left_only": [
+            "A305-RU",
+            "A312-TA",
+            "KA-SA-RU",
+            "KU-NI-SU",
+            "SA-MA",
+            "TA-NA-TI",
+            "TA-RI-NA",
+            "U-TI"
+          ],
+          "right_only": [
+            "*56-NI",
+            "A-DU",
+            "KI-KI-RA-JA",
+            "KI-RE-TA2",
+            "KU-*79-NI",
+            "MA-DI",
+            "QA-A310-I",
+            "QE-KA",
+            "RE-DI-SE",
+            "TE-KE",
+            "WA-DU-NI-MI"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 4,
+            "DA-RI-DA": 4,
+            "ME-ZA": 2,
+            "U-A325-ZA": 2
+          },
+          "rank": 2
+        },
+        {
+          "left": "HT 122",
+          "right": "HT 9",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "A306-TU",
+            "A324-DI-RA",
+            "PA-DE"
+          ],
+          "rarity_bits": 19.411045,
+          "jaccard": 0.136364,
+          "left_only": [
+            "DA-RE",
+            "DA-RI-DA",
+            "JA-MI-DA-RE",
+            "JE-DI",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-RI-NE",
+            "PO-TO-KU-RO",
+            "QA-A310-I",
+            "QA-QA-RU",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-RU-KU-RO",
+            "A-SI",
+            "DI-NA-U",
+            "KA-A305",
+            "QE-PU",
+            "SA-RO"
+          ],
+          "shared_context_frequency": {
+            "A306-TU": 3,
+            "A324-DI-RA": 2,
+            "PA-DE": 2
+          },
+          "rank": 3
+        },
+        {
+          "left": "HT 122",
+          "right": "HT 85",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "QA-A310-I"
+          ],
+          "rarity_bits": 17.411045,
+          "jaccard": 0.107143,
+          "left_only": [
+            "A306-TU",
+            "A324-DI-RA",
+            "JA-MI-DA-RE",
+            "JE-DI",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-DE",
+            "PA-RI-NE",
+            "PO-TO-KU-RO",
+            "QA-QA-RU",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "*56-NI",
+            "A-DU",
+            "KI-KI-RA-JA",
+            "KI-RE-TA2",
+            "KU-*79-NI",
+            "MA-DI",
+            "ME-ZA",
+            "QE-KA",
+            "RE-DI-SE",
+            "TE-KE",
+            "U-A325-ZA",
+            "WA-DU-NI-MI"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 4,
+            "DA-RI-DA": 4,
+            "QA-A310-I": 3
+          },
+          "rank": 4
+        },
+        {
+          "left": "HT 117",
+          "right": "HT 87",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 2,
+          "shared": [
+            "DI-KI-SE",
+            "MA-KA-RI-TE"
+          ],
+          "rarity_bits": 13.330672,
+          "jaccard": 0.083333,
+          "left_only": [
+            "DA-MI-NU",
+            "DA-NE-KU-TI",
+            "KI-DA-RO",
+            "KO-SA-I-TI",
+            "KU-*56-NU",
+            "KU-KU-DA-RA",
+            "KU-RA-MU",
+            "KU-RE-JU",
+            "MA-RU",
+            "MI-RU-TA-RA-RE",
+            "MI-TU",
+            "NA-DA-RE",
+            "SA-TA",
+            "TE-*56-RE",
+            "TU-JU-MA",
+            "U-DI-MI",
+            "U-MI-NA-SI",
+            "U-SU"
+          ],
+          "right_only": [
+            "JA-RE-MI",
+            "KU-RU-KU",
+            "PI-TA-KE-SI",
+            "QE-SU-PU"
+          ],
+          "shared_context_frequency": {
+            "DI-KI-SE": 2,
+            "MA-KA-RI-TE": 2
+          },
+          "rank": 5
+        }
+      ],
+      "exclusive_variant_count": 47,
+      "exclusive_variant_at_least_three_signs": [
+        {
+          "left": "ZA 10",
+          "right": "HT 10",
+          "left_form": "TA-NA-TE",
+          "right_form": "TA-NA-TI",
+          "kind": "terminal_syllable",
+          "min_target_signs": 3,
+          "exclusive_substitution": true,
+          "left_also_contains_right_form": false,
+          "right_also_contains_left_form": false,
+          "forms_cooccur_in_any_context": [],
+          "cross_site": true,
+          "independent_associate_count": 1,
+          "independent_associates": [
+            "SA-MA"
+          ],
+          "associate_rarity_bits": 5.665336
+        }
+      ]
+    },
+    "all_complete_audit_face": {
+      "nonempty_contexts": 250,
+      "distinct_forms": 512,
+      "pair_counts": {
+        "1": {
+          "within_site": 338,
+          "cross_site": 28
+        },
+        "2": {
+          "within_site": 17,
+          "cross_site": 0
+        },
+        "3": {
+          "within_site": 5,
+          "cross_site": 0
+        },
+        "4": {
+          "within_site": 1,
+          "cross_site": 0
+        },
+        "5": {
+          "within_site": 1,
+          "cross_site": 0
+        }
+      },
+      "top_pairs": [
+        {
+          "left": "HT 86a",
+          "right": "HT 95b",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 5,
+          "shared": [
+            "A-DU",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 29.851641,
+          "jaccard": 0.5,
+          "left_only": [
+            "A-KA-RU",
+            "DA-ME",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-ZA",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "A-DU": 7,
+            "DI-DE-RU": 2,
+            "KU-NI-SU": 4,
+            "MI-NU-TE": 3,
+            "SA-RU": 6
+          },
+          "rank": 1
+        },
+        {
+          "left": "HT 122a",
+          "right": "HT 9a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "A306-TU",
+            "A324-DI-RA",
+            "PA-DE"
+          ],
+          "rarity_bits": 18.727428,
+          "jaccard": 0.166667,
+          "left_only": [
+            "DA-RI-DA",
+            "DA-SI-*118",
+            "JA-MI-DA-RE",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-RI-NE",
+            "QA-A310-I",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-RU-KU-RO",
+            "DI-NA-U",
+            "QE-PU",
+            "SA-RO",
+            "TA-I-*123"
+          ],
+          "shared_context_frequency": {
+            "A306-TU": 4,
+            "A324-DI-RA": 3,
+            "PA-DE": 3
+          },
+          "rank": 2
+        },
+        {
+          "left": "HT 122a",
+          "right": "HT 9b",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "A306-TU",
+            "A324-DI-RA",
+            "PA-DE"
+          ],
+          "rarity_bits": 18.727428,
+          "jaccard": 0.166667,
+          "left_only": [
+            "DA-RI-DA",
+            "DA-SI-*118",
+            "JA-MI-DA-RE",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-RI-NE",
+            "QA-A310-I",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-SI",
+            "DI-NA-U",
+            "KA-A305",
+            "QE-PU",
+            "TA-I-*123"
+          ],
+          "shared_context_frequency": {
+            "A306-TU": 4,
+            "A324-DI-RA": 3,
+            "PA-DE": 3
+          },
+          "rank": 3
+        },
+        {
+          "left": "HT 10a",
+          "right": "HT 85a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "U-A325-ZA"
+          ],
+          "rarity_bits": 18.575425,
+          "jaccard": 0.25,
+          "left_only": [
+            "A305-RU",
+            "KU-NI-SU",
+            "ME-ZA",
+            "SA-MA"
+          ],
+          "right_only": [
+            "*56-NI",
+            "A-DU",
+            "DA-SI-*118",
+            "KU-*79-NI",
+            "TE-KE"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 5,
+            "DA-RI-DA": 4,
+            "U-A325-ZA": 2
+          },
+          "rank": 4
+        },
+        {
+          "left": "HT 86a",
+          "right": "HT 95a",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DA-ME",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 18.142465,
+          "jaccard": 0.3,
+          "left_only": [
+            "A-DU",
+            "A-KA-RU",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-DU-MA-TA",
+            "DI-DE-RU-QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "DA-ME": 3,
+            "MI-NU-TE": 3,
+            "SA-RU": 6
+          },
+          "rank": 5
+        }
+      ],
+      "exclusive_variant_count": 31,
+      "exclusive_variant_at_least_three_signs": []
+    },
+    "all_complete_audit_object": {
+      "nonempty_contexts": 209,
+      "distinct_forms": 512,
+      "pair_counts": {
+        "1": {
+          "within_site": 308,
+          "cross_site": 26
+        },
+        "2": {
+          "within_site": 19,
+          "cross_site": 0
+        },
+        "3": {
+          "within_site": 6,
+          "cross_site": 0
+        },
+        "4": {
+          "within_site": 3,
+          "cross_site": 0
+        },
+        "5": {
+          "within_site": 1,
+          "cross_site": 0
+        }
+      },
+      "top_pairs": [
+        {
+          "left": "HT 86",
+          "right": "HT 95",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 6,
+          "shared": [
+            "A-DU",
+            "DA-ME",
+            "DI-DE-RU",
+            "KU-NI-SU",
+            "MI-NU-TE",
+            "SA-RU"
+          ],
+          "rarity_bits": 36.266875,
+          "jaccard": 0.461538,
+          "left_only": [
+            "A-KA-RU",
+            "DI-DE",
+            "QA-RA2-WA"
+          ],
+          "right_only": [
+            "DA-DU-MA-TA",
+            "DA-ZA",
+            "DI-DE-RU-QE-RA2-U",
+            "QE-RA2-U"
+          ],
+          "shared_context_frequency": {
+            "A-DU": 7,
+            "DA-ME": 3,
+            "DI-DE-RU": 2,
+            "KU-NI-SU": 3,
+            "MI-NU-TE": 2,
+            "SA-RU": 4
+          },
+          "rank": 1
+        },
+        {
+          "left": "HT 10",
+          "right": "HT 85",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 4,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "ME-ZA",
+            "U-A325-ZA"
+          ],
+          "rarity_bits": 24.829437,
+          "jaccard": 0.166667,
+          "left_only": [
+            "A305-RU",
+            "A312-TA",
+            "KA-SA-RU",
+            "KU-NI-SU",
+            "SA-MA",
+            "TA-NA-TI",
+            "TA-RI-NA",
+            "U-TI"
+          ],
+          "right_only": [
+            "*56-NI",
+            "A-DU",
+            "DA-SI-*118",
+            "KI-KI-RA-JA",
+            "KI-RE-TA2",
+            "KU-*79-NI",
+            "MA-DI",
+            "QA-A310-I",
+            "QE-KA",
+            "RE-DI-SE",
+            "TE-KE",
+            "WA-DU-NI-MI"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 4,
+            "DA-RI-DA": 4,
+            "ME-ZA": 2,
+            "U-A325-ZA": 2
+          },
+          "rank": 2
+        },
+        {
+          "left": "HT 122",
+          "right": "HT 85",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 4,
+          "shared": [
+            "DA-RE",
+            "DA-RI-DA",
+            "DA-SI-*118",
+            "QA-A310-I"
+          ],
+          "rarity_bits": 23.244474,
+          "jaccard": 0.137931,
+          "left_only": [
+            "A306-TU",
+            "A324-DI-RA",
+            "JA-MI-DA-RE",
+            "JE-DI",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-DE",
+            "PA-RI-NE",
+            "PO-TO-KU-RO",
+            "QA-QA-RU",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "*56-NI",
+            "A-DU",
+            "KI-KI-RA-JA",
+            "KI-RE-TA2",
+            "KU-*79-NI",
+            "MA-DI",
+            "ME-ZA",
+            "QE-KA",
+            "RE-DI-SE",
+            "TE-KE",
+            "U-A325-ZA",
+            "WA-DU-NI-MI"
+          ],
+          "shared_context_frequency": {
+            "DA-RE": 4,
+            "DA-RI-DA": 4,
+            "DA-SI-*118": 4,
+            "QA-A310-I": 3
+          },
+          "rank": 3
+        },
+        {
+          "left": "HT 117",
+          "right": "HT 87",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "DI-KI-SE",
+            "MA-KA-RI-TE",
+            "QIF-TU-NE"
+          ],
+          "rarity_bits": 19.537115,
+          "jaccard": 0.12,
+          "left_only": [
+            "DA-MI-NU",
+            "DA-NE-KU-TI",
+            "KI-DA-RO",
+            "KO-SA-I-TI",
+            "KU-*56-NU",
+            "KU-KU-DA-RA",
+            "KU-RA-MU",
+            "KU-RE-JU",
+            "MA-RU",
+            "MI-RU-TA-RA-RE",
+            "MI-TU",
+            "NA-DA-RE",
+            "SA-TA",
+            "TE-*56-RE",
+            "TU-JU-MA",
+            "U-DI-MI",
+            "U-MI-NA-SI",
+            "U-SU"
+          ],
+          "right_only": [
+            "JA-RE-MI",
+            "KU-RU-KU",
+            "PI-TA-KE-SI",
+            "QE-SU-PU"
+          ],
+          "shared_context_frequency": {
+            "DI-KI-SE": 2,
+            "MA-KA-RI-TE": 2,
+            "QIF-TU-NE": 3
+          },
+          "rank": 4
+        },
+        {
+          "left": "HT 122",
+          "right": "HT 9",
+          "cross_site": false,
+          "same_object": false,
+          "shared_count": 3,
+          "shared": [
+            "A306-TU",
+            "A324-DI-RA",
+            "PA-DE"
+          ],
+          "rarity_bits": 19.537115,
+          "jaccard": 0.125,
+          "left_only": [
+            "DA-RE",
+            "DA-RI-DA",
+            "DA-SI-*118",
+            "JA-MI-DA-RE",
+            "JE-DI",
+            "KU-*56-NU",
+            "KU-DA",
+            "PA-RI-NE",
+            "PO-TO-KU-RO",
+            "QA-A310-I",
+            "QA-QA-RU",
+            "SI-DA-RE",
+            "TE-KI",
+            "U-DE-ZA"
+          ],
+          "right_only": [
+            "A-RU-KU-RO",
+            "A-SI",
+            "DI-NA-U",
+            "KA-A305",
+            "QE-PU",
+            "SA-RO",
+            "TA-I-*123"
+          ],
+          "shared_context_frequency": {
+            "A306-TU": 3,
+            "A324-DI-RA": 2,
+            "PA-DE": 2
+          },
+          "rank": 5
+        }
+      ],
+      "exclusive_variant_count": 49,
+      "exclusive_variant_at_least_three_signs": [
+        {
+          "left": "ZA 10",
+          "right": "HT 10",
+          "left_form": "TA-NA-TE",
+          "right_form": "TA-NA-TI",
+          "kind": "terminal_syllable",
+          "min_target_signs": 3,
+          "exclusive_substitution": true,
+          "left_also_contains_right_form": false,
+          "right_also_contains_left_form": false,
+          "forms_cooccur_in_any_context": [],
+          "cross_site": true,
+          "independent_associate_count": 1,
+          "independent_associates": [
+            "SA-MA"
+          ],
+          "associate_rarity_bits": 5.707359
+        }
+      ]
+    }
+  }
+}

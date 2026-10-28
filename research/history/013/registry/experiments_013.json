@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R13-KIRO-PERSONNEL-CONSTRUCTION",
+    "status": "completed",
+    "result": "iterations/013/results/verification.json",
+    "finding": "Two pure KI-RO personnel 1-lists independently total correctly: HT88=6, HT94b=5."
+  },
+  {
+    "id": "R13-KIRO-SIGN-AUDIT",
+    "status": "completed",
+    "result": "iterations/013/notes/KIRO_SEMANTICS.md",
+    "finding": "Fixed negative 'deficit/missing' polarity is not supported across contexts; neutral differential/exception is safer."
+  },
+  {
+    "id": "R13-ROLE-REVERSAL",
+    "status": "completed",
+    "result": "iterations/013/notes/ROLE_TEST.md",
+    "finding": "Personnel subset membership is secure; concrete status/polarity remains unidentified."
+  }
+]

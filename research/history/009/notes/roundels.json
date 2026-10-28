@@ -1,0 +1,391 @@
+{
+  "schema": "linear-a-round9-subtask-v1",
+  "topic": "Counted roundels and ZA Wc 2 role identifiability",
+  "sources": [
+    {
+      "id": "R_ANASTASIADOU_2025",
+      "title": "Names on Roundels? The Special Case of Neopalatial Roundels with Incised Numerals on the Faces",
+      "author": "Maria Anastasiadou",
+      "year": 2025,
+      "publication": "The Wor(l)ds of Linear A, AURA Supplement 15",
+      "pages": "35–42",
+      "access": "Full local PDF and extracted text; published p38 Fig1.3 viewed",
+      "local_source": "work/source_cache/aura15.pdf",
+      "bibliographic_url": "https://www.arch.uni-heidelberg.de/de/unser-institut/mitarbeiterinnen/dr-maria-anastasiadou/publikationen",
+      "dependency": "New author autopsy of ZA Wc2 explicitly tests Perna1994; other observations partly depend on Hallager1996",
+      "retrieval_date": "2026-09-07"
+    },
+    {
+      "id": "R_PERNA_1994",
+      "title": "The Roundel in Linear A from Zakro Wc 2 (HM 84)",
+      "author": "Massimo Perna",
+      "year": 1994,
+      "publication": "Kadmos 33",
+      "pages": "29–37",
+      "url": "https://www.academia.edu/2077118/The_Roundel_in_Linear_A_from_Zakro_Wc_2_HM_84_",
+      "access": "Full author-posted text via web indexing; Fig1 viewed in later authorized reproduction; separate plates not retrieved",
+      "dependency": "Original autopsy; describes GORILA1979 reading and Hallager functional hypothesis",
+      "retrieval_date": "2026-09-07"
+    },
+    {
+      "id": "R_LIBER_V831",
+      "title": "KN V(4) 831 critical transcription",
+      "publisher": "LiBER, CNR",
+      "url": "https://liber.cnr.it/tablet/view/686",
+      "access": "Complete transcription and apparatus viewed",
+      "dependency": "Institutional critical edition; no independent rereading of object imagery in this review",
+      "retrieval_date": "2026-09-07"
+    },
+    {
+      "id": "R_SIGLA_ROUNDELS",
+      "title": "Document type: Roundel",
+      "url": "https://phis.me/sigla/kind/Roundel/",
+      "access": "Catalogue viewed",
+      "dependency": "Derived corpus catalogue; individual faces may be separate records",
+      "retrieval_date": "2026-09-07"
+    },
+    {
+      "id": "R_HGO_1989",
+      "title": "La rondelle en linéaire A d'Aghia Triada Wc 3024 (HM 1110)",
+      "author": "Olivier, Hallager, Godart",
+      "year": 1989,
+      "publication": "BCH 113(2)",
+      "pages": "431–437",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1989_num_113_2_4733",
+      "doi": "10.3406/bch.1989.4733",
+      "access": "Bibliography and first page only; later correction details known through R_PERNA_1994 and R_ANASTASIADOU_2025",
+      "retrieval_date": "2026-09-07"
+    }
+  ],
+  "observations": [
+    {
+      "id": "R01",
+      "inscription": "ZA Wc 2",
+      "location": "line1 / line2",
+      "reading_minimum": "A TI KA A / DU KO {2 | [[MI]]}",
+      "preferred_ending": "2",
+      "boundary_status": "No independently secure internal word divisions",
+      "reading_qualifications": "DU least legible in Perna; possible older traces elsewhere; no new stroke reading made here",
+      "sources": [
+        "R_PERNA_1994",
+        "R_ANASTASIADOU_2025"
+      ]
+    },
+    {
+      "id": "R02",
+      "inscription": "ZA Wc 2",
+      "observation": "Two final incisions interpreted as numeral 2; supposed MI diagonal interpreted as clay fissure",
+      "type": "published original autopsy",
+      "sources": [
+        "R_PERNA_1994"
+      ],
+      "pages": "32–33"
+    },
+    {
+      "id": "R03",
+      "inscription": "ZA Wc 2",
+      "observation": "Second author autopsy favors fissure plus numeral2 analysis",
+      "type": "published confirming autopsy",
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ],
+      "pages": "38–39",
+      "dependency": "Explicitly follows R02, but reports a further object examination"
+    },
+    {
+      "id": "R04",
+      "inscription": "ZA Wc 2",
+      "feature": "seal_impressions",
+      "value": 2,
+      "sources": [
+        "R_PERNA_1994"
+      ],
+      "pages": "31,34",
+      "seal": "CMS II.7 25; Levi191"
+    },
+    {
+      "id": "R05",
+      "inscription": "ZA Wc 2",
+      "feature": "seal_impressions",
+      "value": 4,
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ],
+      "pages": "39 Appearance paragraph",
+      "status": "Conflicts with same page's count2 agreement assertion and Fig1.3; retain as apparent textual error, not silently erase"
+    },
+    {
+      "id": "R06",
+      "inscription": "ZA Wc 2",
+      "feature": "seal_impressions",
+      "value": 2,
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ],
+      "pages": "39 first paragraph; Fig1.3",
+      "status": "Favored reading of physical count; full independent rim recount not performed"
+    },
+    {
+      "id": "R07",
+      "inscription": "ZA Z 1132",
+      "observation": "Same seal as ZA Wc2; reverse suggests folded perishable document secured by cord",
+      "sources": [
+        "R_PERNA_1994"
+      ],
+      "pages": "34–35",
+      "independent_role_anchor": false,
+      "reason": "Lost underlying text; no named owner; seal equality does not prove a particular written label names seal user"
+    },
+    {
+      "id": "R08",
+      "inscription": "ZA Wc 2",
+      "candidate_word": "KO",
+      "observation": "Not otherwise catalogued as a Linear A ideogram in source discussion; commodity function proposed from roundel arrangement",
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ],
+      "pages": "40–41",
+      "status": "Conditional segmentation and semantic analysis"
+    },
+    {
+      "id": "R09",
+      "inscription": "KN V(4) 831.4",
+      "reading": "]de-ro 1 ma-ti-ko 1 a-ti-ka 1",
+      "target": "a-ti-ka",
+      "target_complete": true,
+      "target_reading_qualified": false,
+      "apparatus": "ma-ti- over erasure; -ti-ka over erasure",
+      "sources": [
+        "R_LIBER_V831"
+      ]
+    },
+    {
+      "id": "R10",
+      "inscription": "KN V(4) 831",
+      "scribe": "203",
+      "findspot": "(I3) Area of Bull Relief",
+      "chronology": "LM III A2",
+      "inventory": "Herakleion M89",
+      "sources": [
+        "R_LIBER_V831"
+      ]
+    },
+    {
+      "id": "R11",
+      "inscription": "KN V(4) 831.4",
+      "candidate": "a-ti-ka",
+      "classification": "male anthroponym",
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ],
+      "pages": "41",
+      "dependency": "Cites Aura Jorro1985 pp118–119 and Davis2014 p201 table51 no4; neither original classification source independently retrieved here"
+    },
+    {
+      "id": "R12",
+      "inscription": "GO Wc 1",
+      "word": "A-SA-SU-MA-I-SE",
+      "commodity": "BOS",
+      "face_quantity": {
+        "integer": 5
+      },
+      "seal_impressions_options": [
+        5
+      ],
+      "period_scope": "Neopalatial",
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ]
+    },
+    {
+      "id": "R13",
+      "inscription": "HT Wc 3024",
+      "word": "A-RA-TU-ME",
+      "commodity": "OVISf",
+      "face_quantity": {
+        "integer": 6
+      },
+      "seal_impressions_options": [
+        6
+      ],
+      "inactive_impression_count": 1,
+      "correction": "Seventh impression covered with clay",
+      "period_scope": "Neopalatial",
+      "sources": [
+        "R_ANASTASIADOU_2025",
+        "R_PERNA_1994"
+      ],
+      "dependency": "Physical correction originally studied in R_HGO_1989, later pages not directly read here"
+    },
+    {
+      "id": "R14",
+      "inscription": "MA Wc <5>",
+      "word": "A-SA-DA-KA",
+      "commodity": "GRA",
+      "face_quantity": {
+        "integer": 4,
+        "fraction_sign": "A704",
+        "fraction_assumption": "positive proper fraction, exact value not assigned"
+      },
+      "seal_impressions_options": [
+        1,
+        2
+      ],
+      "period_scope": "Neopalatial",
+      "sources": [
+        "R_ANASTASIADOU_2025"
+      ],
+      "qualifications": "Object lost; one impression reported, two inferred by some observers from photographed rim"
+    },
+    {
+      "id": "R15",
+      "inscription": "PH Wc 41",
+      "commodity": "VIN",
+      "face_quantity": {
+        "integer": 1,
+        "fraction_sign": "A707",
+        "fraction_assumption": "positive proper fraction, exact value not assigned"
+      },
+      "seal_impressions_options": [
+        2
+      ],
+      "period_scope": "Protopalatial; outside Anastasiadou's study scope",
+      "sources": [
+        "R_PERNA_1994",
+        "R_ANASTASIADOU_2025"
+      ]
+    },
+    {
+      "id": "R16",
+      "feature": "SigLA roundel coverage",
+      "catalogue_records": 146,
+      "records_are_objects": false,
+      "missing_positive_example": "HT Wc3024",
+      "also_not_listed": "HT Wc3014",
+      "sources": [
+        "R_SIGLA_ROUNDELS"
+      ],
+      "limitation": "Cannot use this catalogue alone as a complete denominator for all A-initial counted roundels"
+    }
+  ],
+  "claim_ledger": [
+    {
+      "id": "RC1",
+      "claim": "ZA Wc2 most probably ends with numeral2 rather than erased MI",
+      "status": "strengthened published reading",
+      "evidence": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R06"
+      ],
+      "counterevidence": [
+        "R05"
+      ],
+      "assumptions": [
+        "Published autopsies reliable; physical recount not independently performed"
+      ],
+      "novelty": "Perna1994 proposal, newly corroborated by Anastasiadou2025; not a discovery here"
+    },
+    {
+      "id": "RC2",
+      "claim": "A-TI-KA is a plausible person-related designation in Linear A",
+      "status": "conditional",
+      "evidence": [
+        "R09",
+        "R11"
+      ],
+      "assumptions": [
+        "Boundary after KA on ZA Wc2",
+        "Some lexical/onomastic continuity between scripts"
+      ],
+      "strongest_counterargument": "Entire A-TI-KA-A-DU-KO may be one expression; exact spelling across scripts does not ensure same meaning or referent"
+    },
+    {
+      "id": "RC3",
+      "claim": "A-DU identifies an action on ZA Wc2",
+      "status": "not established",
+      "evidence": [
+        "R01",
+        "R08"
+      ],
+      "assumptions": [
+        "Two unmarked lexical boundaries",
+        "Heading distribution excludes place/account labels"
+      ],
+      "strongest_counterargument": "Toponym, institution, account scope, or part of a longer expression remains compatible"
+    },
+    {
+      "id": "RC4",
+      "claim": "The same seal independently identifies A-TI-KA's participant role",
+      "status": "unsupported",
+      "evidence": [
+        "R04",
+        "R07"
+      ],
+      "strongest_counterargument": "Seal names no verified written actor; inward and outward transfers both fit physical association"
+    },
+    {
+      "id": "RC5",
+      "claim": "Each impression universally equals one written commodity unit on all counted roundels",
+      "status": "fails under reported Malia counts and positive additive fraction interpretation",
+      "evidence": [
+        "R12",
+        "R13",
+        "R14"
+      ],
+      "assumptions": [
+        "Malia had1 or2 impressions",
+        "4+A704 denotes a quantity greater than4"
+      ],
+      "strongest_counterargument": "Malia missing or miscounted impressions; differences of ration/commodity units; not a refutation of local animal-count equality"
+    },
+    {
+      "id": "RC6",
+      "claim": "A-initial labels identify recipients",
+      "status": "not established",
+      "evidence": [
+        "R12",
+        "R13",
+        "R14"
+      ],
+      "assumptions": [
+        "Independently established recipient identity would be required"
+      ],
+      "strongest_counterargument": "No named entity in the selected group has an independently recognizable transfer role; presence of a numeral may mark another document subtype"
+    },
+    {
+      "id": "RC7",
+      "claim": "A participant-action construction is established on ZA Wc2",
+      "status": "goal unmet",
+      "evidence": [
+        "R01",
+        "R07",
+        "R08",
+        "R09"
+      ],
+      "strongest_counterargument": "Segmentation, verbal meaning, commodity status, and directed participant identity remain partly or wholly interdependent"
+    }
+  ],
+  "next_tests": [
+    {
+      "test": "Independently read complete rim of ZA Wc2 or obtain published correction",
+      "distinguishes": "Two versus four impressions; stabilizes quantitative comparison"
+    },
+    {
+      "test": "Find another securely bounded A-TI-KA occurrence",
+      "distinguishes": "Separate lexical designation versus only substring of longer ZA Wc2 expression"
+    },
+    {
+      "test": "Find isolated KO followed by a numeral in an independently commodity-recognizable context",
+      "distinguishes": "Commodity/abbreviation use versus phonetic continuation"
+    },
+    {
+      "test": "Identify same participant on a closed package and a mirrored administrative record with independently directed movement",
+      "distinguishes": "Source, recipient, owner, supervisor roles; shared seal alone is insufficient"
+    }
+  ],
+  "retrieval_date": "2026-09-07",
+  "retrieval_date_basis": "UTC session date supplied for this research iteration; local PDF inspection and web-source access occurred during this session."
+}

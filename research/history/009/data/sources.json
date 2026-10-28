@@ -1,0 +1,998 @@
+[
+  {
+    "registry_id": "za9:ZA9_SIGLA_index-17",
+    "source_id": "ZA9_SIGLA_index-17",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_SIGLA_index-17",
+      "url": "https://sigla.phis.me/document/ZA%209/index-17.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 6903,
+      "sha256": "571786c057bd8be60b64045751e2f18af18d5065a4b88cddbb7acdc9c4dad8bd",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "za9:ZA9_SIGLA_index-3",
+    "source_id": "ZA9_SIGLA_index-3",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_SIGLA_index-3",
+      "url": "https://sigla.phis.me/document/ZA%209/index-3.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 7246,
+      "sha256": "f2b5802f968e9b7f57c0486843347e7f3bed80f02944a7f7a6b7bfd6f545ea65",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "za9:ZA9_SIGLA_index-27",
+    "source_id": "ZA9_SIGLA_index-27",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_SIGLA_index-27",
+      "url": "https://sigla.phis.me/document/ZA%209/index-27.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 7249,
+      "sha256": "bc5e26dd861d985884dcaa5f6ceb922c3d7b4dd347979cba84059a1fef822302",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "za9:ZA9_SIGLA_index-word",
+    "source_id": "ZA9_SIGLA_index-word",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_SIGLA_index-word",
+      "url": "https://sigla.phis.me/document/ZA%209/index-word.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 13052,
+      "sha256": "82dd24c965dd718de25fd2c1fb7da93087f216ba5a7e4fc06f5a6219bb091e0e",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "za9:ZA9_SIGLA_ZAdrawing",
+    "source_id": "ZA9_SIGLA_ZAdrawing",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_SIGLA_ZAdrawing",
+      "url": "https://sigla.phis.me/document/ZA%209/ZA%209.png",
+      "retrieved": "2026-09-07",
+      "access": "image inspected",
+      "bytes": 370133,
+      "sha256": "add8fe0f4a9e48961b344121e7d330d078e78583bf7c384984a546c757992d61",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "za9:ZA9_GORILA3_166",
+    "source_id": "ZA9_GORILA3_166",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_GORILA3_166",
+      "author": "Louis Godart and Jean-Pierre Olivier",
+      "year": 1976,
+      "title": "Recueil des inscriptions en linéaire A III, p.166",
+      "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=3&sp=190&max_image_size=1",
+      "retrieved": "2026-09-07",
+      "access": "publisher scan at offered 100%, visually inspected",
+      "image_dimensions": [
+        1232,
+        1624
+      ],
+      "bytes": 194543,
+      "sha256": "295a128569a14a709fff4dbe4e08fc65c7635194c67ab553456c9b6c7e445356",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "za9:ZA9_GORILA3_167",
+    "source_id": "ZA9_GORILA3_167",
+    "branch": "za9",
+    "provenance_file": "notes/za9.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "source_id": "ZA9_GORILA3_167",
+      "author": "Louis Godart and Jean-Pierre Olivier",
+      "year": 1976,
+      "title": "Recueil des inscriptions en linéaire A III, p.167",
+      "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=3&sp=191&max_image_size=1",
+      "retrieved": "2026-09-07",
+      "access": "publisher scan at offered 100%, visually inspected",
+      "image_dimensions": [
+        1232,
+        1624
+      ],
+      "bytes": 74362,
+      "sha256": "2e79e9e4403a03e518b8ed3502a364d5d5e91263cdc5b3f47879f4404e7b2170",
+      "redistributed": false
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_DE1618",
+    "source_id": "LB_LIBER_DE1618",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_DE1618",
+      "url": "https://liber.cnr.it/tablet/view/3249",
+      "title": "LiBER KN De 1618+7171+7174+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text, apparatus and metadata directly retrieved; institutional photograph directly retrieved and visually inspected",
+      "sha256_html": "35036170971dffbd71da862533adfd7704b29ac328f9abffcc3c5ba11c3f0875",
+      "image_url": "https://liber.cnr.it/static/img/tablets/KN/KN%20De%201618.jpg",
+      "sha256_image": "8057db14b6d73d6737d228811b5c392f4522666a061206a65412afd1150ed41b",
+      "image_redistributed": false,
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_UF311",
+    "source_id": "LB_LIBER_UF311",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_UF311",
+      "url": "https://liber.cnr.it/tablet/view/619",
+      "title": "LiBER KN Uf(1) ‹311›",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML critical text and apparatus directly retrieved; object missing; edition descends from Evans Original Handlist through Scripta Minoa II",
+      "sha256_html": "dadcf769f449c8403909fa8c5950a33b6367aa6f2e59d5b17d59fc260079615d",
+      "image_inspected": false,
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_DB1168",
+    "source_id": "LB_LIBER_DB1168",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_DB1168",
+      "url": "https://liber.cnr.it/tablet/view/3066",
+      "title": "LiBER KN Db 1168+7168+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text and apparatus directly retrieved; image not inspected",
+      "sha256_html": "b6276a199f67957f1155f03581d58bcd6d39d103b32391d0fcb69843ce916d0e",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_AS603",
+    "source_id": "LB_LIBER_AS603",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_AS603",
+      "url": "https://liber.cnr.it/tablet/view/2670",
+      "title": "LiBER KN As(1) 603+8157+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text and apparatus directly retrieved; image not inspected",
+      "sha256_html": "56c3e01772293cddbc5cee5e77dcdea1cb865c1fe2ff772c58ae4754152c0bac",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_DN1092",
+    "source_id": "LB_LIBER_DN1092",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_DN1092",
+      "url": "https://liber.cnr.it/tablet/view/3473",
+      "title": "LiBER KN Dn 1092+5379+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text and apparatus directly retrieved; image not inspected",
+      "sha256_html": "8c94a1487a752e8edc193d3cbdf9de5b2adfee234ea89e6c21aa32b1907bbd16",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_AS1519",
+    "source_id": "LB_LIBER_AS1519",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_AS1519",
+      "url": "https://liber.cnr.it/tablet/view/2680",
+      "title": "LiBER KN As(2) 1519+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML critical text and apparatus read through web and directly retrieved",
+      "sha256_html": "5e343134921218f25138534c13ac9eec2428eb193172702ce8b278acb3df6291",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_LIBER_C912",
+    "source_id": "LB_LIBER_C912",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_LIBER_C912",
+      "url": "https://liber.cnr.it/tablet/view/2780",
+      "title": "LiBER KN C(2) 912+5027",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML critical text and apparatus read through web and directly retrieved",
+      "sha256_html": "f78fa52d36d46c509a6e06dbd1324aef0c5086e8ef19b307e0f5331521dce972",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_CIVITILLO2025",
+    "source_id": "LB_CIVITILLO2025",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_CIVITILLO2025",
+      "url": "https://polygraphia.it/wp-content/uploads/2025/11/P-09-2025.pdf",
+      "author": "Matilde Civitillo",
+      "title": "Some notes on Mycenaean prosopography: the Knossian shepherds, their names, and their roles in Mycenaean society",
+      "publication": "Polygraphia 7 (2025), 127–144",
+      "locators": [
+        "pp.128–130",
+        "p.131 n.20",
+        "pp.138–140"
+      ],
+      "kind": "primary_research_article",
+      "access": "Publisher PDF retrieved and relevant text read; no new epigraphic reading",
+      "sha256_pdf": "8beda86975f2996ab8a1b62c1f6699e832dbf8c3efd894ebb41d8809dadddfdc",
+      "dependency": "Combines original analysis with earlier Killen, Ilievski, Landau, Baumbach, Greco, and other studies; not independent inscriptions for each citation",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_GRECO2010",
+    "source_id": "LB_GRECO2010",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_GRECO2010",
+      "url": "https://www.academia.edu/44964264/Scribi_e_pastori",
+      "author": "Alessandro Greco",
+      "title": "Scribi e pastori: Amministrazione e gestione dell’allevamento nell’archivio di Cnosso",
+      "publication": "Tripodes 12, Athens–Padua (2010)",
+      "locators": [
+        "p.179",
+        "p.185"
+      ],
+      "kind": "primary_research_monograph",
+      "access": "Author-hosted full text supplied by web tool, relevant pages read; print/PDF page image not directly inspected",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_MELENA2014",
+    "source_id": "LB_MELENA2014",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_MELENA2014",
+      "url": "https://www.academia.edu/7078918/Jos%C3%A9_L_Melena_Mycenaean_Writing_in_A_Companion_to_Linear_B_Mycenaean_Greek_Texts_and_their_World_Eds_Duhoux_Y_Morpurgo_Davies_A_Volume_3_Series_Biblioth%C3%A8que_des_Cahiers_de_lInstitut_de_Linguistique_de_Louvain_BCILL_133_2014",
+      "author": "José L. Melena",
+      "title": "Mycenaean Writing",
+      "publication": "A Companion to Linear B, vol.3 (2014)",
+      "locators": [
+        "§17.2.5 p.22",
+        "§17.3.4.2.7 p.112",
+        "§17.3.5.5.6 p.141"
+      ],
+      "kind": "primary_research_reference_chapter",
+      "access": "Author-hosted full text supplied by web tool, targeted passages read; no PDF screenshot inspected",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_DAVIS_VALERIO2020",
+    "source_id": "LB_DAVIS_VALERIO2020",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_DAVIS_VALERIO2020",
+      "url": "https://www.researchgate.net/publication/352343395_Names_and_designations_of_people_in_Linear_A_A_contextual_study_of_tablets_HT_85_and_117",
+      "title": "Names and designations of people in Linear A",
+      "author": "Brent Davis and Miguel Valério",
+      "publication": "Aegaeum 44 (2020), 23–32",
+      "locator": "p.29",
+      "kind": "primary_research_article",
+      "access": "Author manuscript text rechecked through web tool; inherited comparison and identifier verified",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_HT8",
+    "source_id": "LB_HT8",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_HT8",
+      "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT8.html",
+      "title": "Younger HT 8 commentary after GORILA I 16–17",
+      "kind": "scholarly_transcription_mirror",
+      "access": "Full HTML directly retrieved; transcription distinguished from Davis/Younger interpretive prose",
+      "sha256_html": "1b78e9ba03a7ec5311789c332e302078e633c81666203b32f79577783765bf0b",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_HT10",
+    "source_id": "LB_HT10",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_HT10",
+      "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT10.html",
+      "title": "Younger HT 10 commentary after GORILA I 20–21",
+      "kind": "scholarly_transcription_mirror",
+      "access": "Full HTML directly retrieved",
+      "sha256_html": "32caaeecd3b374f471155c711d4e5256b671e2cf27c1afa9f36911a01b1ade42",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "linear_b:LB_API",
+    "source_id": "LB_API",
+    "branch": "linear_b",
+    "provenance_file": "notes/linear_b.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "LB_API",
+      "url": "https://liber.cnr.it/search/api/words",
+      "method": "POST",
+      "kind": "institutional_corpus_search",
+      "access": "Public form endpoint discovered from search-page JavaScript, normal text searches executed; raw SQL diagnostic response was not used to issue SQL",
+      "coverage": "LiBER home describes all Linear B except archival documents from Agios Vasileios and Thebes; queries may return alternate/restored readings and duplicate tokens",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "jar:JAR_BOULOTIS2008",
+    "source_id": "JAR_BOULOTIS2008",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_BOULOTIS2008",
+      "author": "Christos Boulotis",
+      "title": "Οι πινακίδες Γραμμικής Α από το Ακρωτήρι (THE 7-12): όψεις της οικονομικής ζωής του οικισμού",
+      "locator": "2008; BAE257 pp67–94; relevant69–71 fig8 nn7–11",
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_257.pdf",
+      "access": "Original publisher PDF read and pp69–71 visually inspected.",
+      "kind": "original_edition",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "a3d9ba74be19fc4d8f98d48f0e0d49b506354ca61abebc3967c26eeb2ebd1e60",
+      "cache_filename": "bae257.pdf",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_PAE1992",
+    "source_id": "JAR_PAE1992",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_PAE1992",
+      "author": "Christos Doumas",
+      "title": "Ανασκαφή Ακρωτηρίου Θήρας",
+      "locator": "PAE1992 p178",
+      "url": "https://www.archetai.gr/images/pdfs/praktika/Publ_PRAKTIKA_1992.pdf",
+      "access": "Original excavation report p178 text and page image inspected.",
+      "kind": "excavation_report",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "644073270857b1035f2a62aa93ad17d152015acf89f3b73d2db1664ac2776215",
+      "cache_filename": "pae1992.pdf",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_PAE1993",
+    "source_id": "JAR_PAE1993",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_PAE1993",
+      "author": "Christos Doumas",
+      "title": "Ανασκαφή Ακρωτηρίου Θήρας",
+      "locator": "PAE1993 p185 n32",
+      "url": "https://www.archetai.gr/images/pdfs/praktika/Publ_PRAKTIKA_1993.pdf",
+      "access": "Original excavation report p185 text and page image inspected.",
+      "kind": "excavation_report",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "b0f380b233b158bc1636b0a2d9c664e193cc3e5af508f3ba0d6e05f6c1c501a0",
+      "cache_filename": "pae1993.pdf",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_ERGON1993",
+    "source_id": "JAR_ERGON1993",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_ERGON1993",
+      "author": "Archaeological Society at Athens",
+      "title": "Το Έργον της Αρχαιολογικής Εταιρείας κατά το 1993",
+      "locator": "p90; fig89 on p91 not separately inspected",
+      "url": "https://www.archetai.gr/images/pdfs/ergon/Publ_ERGON_1993.pdf",
+      "access": "Original report p90 text and page image inspected.",
+      "kind": "excavation_report",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "88371ebfe7edbc55024b2d72038b840262e4b18a4928d74b8ca100876d9cdb7b",
+      "cache_filename": "ergon1993.pdf",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_MICHA2001",
+    "source_id": "JAR_MICHA2001",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_MICHA2001",
+      "author": "Anna Michailidou",
+      "title": "Indications of Literacy in Bronze Age Thera",
+      "locator": "Minos35–36 (2000–2001), p9 n22 continuedp10",
+      "url": "https://gredos.usal.es/bitstream/10366/133892/1/Indice.pdf",
+      "access": "Institutional PDF text read; relevant pages not newly visually inspected.",
+      "kind": "primary_archaeological_discussion",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": null,
+      "cache_filename": null,
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_NOTTI_RECENT",
+    "source_id": "JAR_NOTTI_RECENT",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_NOTTI_RECENT",
+      "author": "Erika Notti",
+      "title": "La scrittura “fuori” da Creta. Nuove evidenze epigrafiche ad Akrotiri (Thera)",
+      "locator": "In Lingue e scritture nell’Egeo pregreco pp183–208; p185n13,p189. Standalone PDF cites through2022; volume year unverified.",
+      "url": "https://www.openstarts.units.it/bitstreams/25cf919c-0a22-4a27-b609-5b7a85c8ceb8/download",
+      "access": "Institutional PDF text read. Local filename2022 is not asserted bibliographic year.",
+      "kind": "primary_corpus_review",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "ff595b9011e3ff0f99b5b748e7421dc5cb47f7aaa63bb9694b64a7d3ba6a124d",
+      "cache_filename": "notti2022.pdf",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_BOULOTIS1998",
+    "source_id": "JAR_BOULOTIS1998",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_BOULOTIS1998",
+      "author": "Christos Boulotis",
+      "title": "Les nouveaux documents en linéaire A d’Akrotiri (Théra): remarques préliminaires",
+      "locator": "BCH122(1998)407–411; p407",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1998_num_122_2_7184",
+      "access": "Public page content fetched and read; original journal page text.",
+      "kind": "preliminary_original_notice",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "f7589f49c62907e479411765bdc3f0f00baa9205bae0f518888b1384948418c0",
+      "cache_filename": "boulotis1998_p407.html",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_DELFREO2011",
+    "source_id": "JAR_DELFREO2011",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_DELFREO2011",
+      "author": "Maurizio Del Freo; Julien Zurbach",
+      "title": "La préparation d’un supplément au Recueil des inscriptions en linéaire A. Observations à partir d’un travail en cours",
+      "locator": "BCH135(2011)73–97; cataloguep93",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_2011_num_135_1_7827",
+      "access": "Public page93 catalogue image visually inspected.",
+      "kind": "critical_corpus_catalogue",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "7ab20ecd72b7c67d59f213282d4b7702a77ec100e504dd11b0f7b4a2284f45f7",
+      "cache_filename": "delfreo2011_p93.jpg",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_MONTECCHI2024",
+    "source_id": "JAR_MONTECCHI2024",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_MONTECCHI2024",
+      "author": "Barbara Montecchi",
+      "title": "Design and Origins of Linear A Picture-Based Signs",
+      "locator": "Writing from Invention to Decipherment pp171–188; pp180–182 fig9.6",
+      "url": "https://doi.org/10.1093/oso/9780198908746.003.0010",
+      "access": "Chapter HTML text read; fig9.6 image viewed. Image of THE Zb6 explicitly after Boulotis2008fig8b. PDF download403; PDF screenshot failed.",
+      "kind": "primary_palaeographic_study",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": "0e316b94658991f288e7f8447ae2086aa3b2b9621881b0bfeb9e6fc6b97890d4",
+      "cache_filename": "montecchi_fig96.jpeg",
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "jar:JAR_KARNAVA2016",
+    "source_id": "JAR_KARNAVA2016",
+    "branch": "jar",
+    "provenance_file": "notes/jar.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "JAR_KARNAVA2016",
+      "author": "Artemis Karnava",
+      "title": "On sacred vocabulary and religious dedications: the Minoan libation formula",
+      "locator": "Aegaeum39 pp345–355; p351nn61–63",
+      "url": "https://www.researchgate.net/publication/316285128_On_sacred_vocabulary_and_religious_dedications_the_Minoan_%27libation_formula%27",
+      "access": "Author manuscript text reread.",
+      "kind": "primary_interpretative_paper",
+      "retrieved": "2026-09-07",
+      "checksum_sha256": null,
+      "cache_filename": null,
+      "redistributable_in_bundle": false
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT7",
+    "source_id": "YOUNGER_HT7",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT7",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT7.html",
+      "snapshot_sha256": "7f08f0a614634587cb37bec2e35e62cf56c3227e4032e7476c4679869e052106"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT10",
+    "source_id": "YOUNGER_HT10",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT10",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT10.html",
+      "snapshot_sha256": "43ce57b64070c7549682a60a072a455cca61fa56d04bb9bfc4ef6e40d916a9c0"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT98",
+    "source_id": "YOUNGER_HT98",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT98",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT98.html",
+      "snapshot_sha256": "2d88b24649b0cc305c7d2d1afe35a868cd53d3c3c4dbf38e6f7d6468da3f2042"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT49",
+    "source_id": "YOUNGER_HT49",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT49",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT49.html",
+      "snapshot_sha256": "931033aa8f68d2aa83e8c1f4bef1d42936752a5618c8ea40a19551b03bfee91c"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_ZA10",
+    "source_id": "YOUNGER_ZA10",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_ZA10",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/ZA10.html",
+      "snapshot_sha256": "113d3ec67d51f7cfa395dffd0b48320e74bf78577936ebc0607e5f614fe9a084"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT52",
+    "source_id": "YOUNGER_HT52",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT52",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT52.html",
+      "snapshot_sha256": "4a9b4ffd4721dfe2acf210adc941d1c3bcee24611b42b2214674130bbffa8411"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT6",
+    "source_id": "YOUNGER_HT6",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT6",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT6.html",
+      "snapshot_sha256": "e02572eb48fc0a14d958a620b242710bcf8bf533580faaa04b8046a07d284d54"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT88",
+    "source_id": "YOUNGER_HT88",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT88",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT88.html",
+      "snapshot_sha256": "ab7bfae18e76ee4fcb4db0ed15dffbcef979033d4475c0d419d26d37bd63eb95"
+    }
+  },
+  {
+    "registry_id": "identity:YOUNGER_HT29",
+    "source_id": "YOUNGER_HT29",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "accessed_utc": "2026-09-07",
+      "author": "John G. Younger after GORILA",
+      "id": "YOUNGER_HT29",
+      "raw_html_available_in_tool_session": true,
+      "source_dependency": "Derived from published GORILA; mirror is not an independent edition.",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/HT29.html",
+      "snapshot_sha256": "7d20ca9831a0f60b53e5008e4eeb2fd3d961c42165fd9c82e4192658dc2e2b7f"
+    }
+  },
+  {
+    "registry_id": "identity:SIGLA_HT49a",
+    "source_id": "SIGLA_HT49a",
+    "branch": "identity",
+    "provenance_file": "notes/identity.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "SIGLA_HT49a",
+      "author": "Ester Salgarella and Simon Castellan",
+      "url": "https://sigla.phis.me/document/HT%2049a/index-word.html",
+      "accessed_utc": "2026-09-07",
+      "snapshot_sha256": "3e62e2617ffb6acd11f2a6b33a1ab09e7e82d4c42c2693ef85902d2c1f372c5a",
+      "source_dependency": "Institutional paleographic database, based on corpus; same ancient HT49 witness, not a new object.",
+      "license": "CC BY-NC-SA 4.0"
+    }
+  },
+  {
+    "registry_id": "anetaki:ANETAKI-2024",
+    "source_id": "ANETAKI-2024",
+    "branch": "anetaki",
+    "provenance_file": "notes/anetaki.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "ANETAKI-2024",
+      "authors": "Athanasia Kanta, Dimitri Nakassis, Thomas G. Palaima, Massimo Perna",
+      "title": "An archaeological and epigraphical overview of some inscriptions found in the Cult Center of the city of Knossos (Anetaki plot)",
+      "bibliography": "KO-RO-NO-WE-SA, Ariadne Supplement 5 (print 2024; online 2025-03-04), 27-43",
+      "url": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841",
+      "pdf_url": "https://ejournals.lib.uoc.gr/Ariadne/article/download/1841/1751/3474",
+      "access": "Full primary publication PDF retrieved; p35 fig7 visually inspected. No full sign-group transcription supplied by this preliminary publication.",
+      "dependency": "Original excavation and epigraphical team; multiple mirrors not independent editions"
+    }
+  },
+  {
+    "registry_id": "anetaki:NOSCH-WEILHARTNER-2025",
+    "source_id": "NOSCH-WEILHARTNER-2025",
+    "branch": "anetaki",
+    "provenance_file": "notes/anetaki.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "NOSCH-WEILHARTNER-2025",
+      "authors": "Marie-Louise Nosch and Jorg Weilhartner",
+      "title": "The Common Thread: Textiles and Wool Logograms in Linear A",
+      "bibliography": "The Wor(l)ds of Linear A, AURA Supplement 15, 115-135 (volume imprint 2025; digital landing 2026-01-09)",
+      "url": "https://www.academia.edu/145903263/The_Common_Thread_Textiles_and_Wool_Logograms_in_Linear_A",
+      "official_volume_url": "https://epub.lib.uoa.gr/index.php/aura/article/view/2642",
+      "access": "Full author-uploaded chapter text including pp129-131 read",
+      "dependency": "New interpretation, with Anetaki readings dependent on original editors; HT24 discussion dependent on Del Freo2020"
+    }
+  },
+  {
+    "registry_id": "anetaki:DEL-FREO-2020-WOOL",
+    "source_id": "DEL-FREO-2020-WOOL",
+    "branch": "anetaki",
+    "provenance_file": "notes/anetaki.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "DEL-FREO-2020-WOOL",
+      "authors": "Maurizio Del Freo",
+      "title": "Wool Working at Hagia Triada: the HT 24 Tablet and the 45 noduli from the Quartiere Sudovest",
+      "bibliography": "Neoteros, Aegaeum 44 (2020), 55-63, especially pp55-60 and nn16-18,33",
+      "url": "https://openportal.ispc.cnr.it/data/2020/421681/2020_421681.published.pdf",
+      "access": "Full institutional PDF retrieved; p55 drawing and grey uncertainty coding visually inspected",
+      "dependency": "GORILA-based drawing/readings, Hallager and Palaima wool-ratio interpretation; paper gives own contextual interpretation"
+    }
+  },
+  {
+    "registry_id": "anetaki:YOUNGER-HT24-38",
+    "source_id": "YOUNGER-HT24-38",
+    "branch": "anetaki",
+    "provenance_file": "notes/anetaki.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "YOUNGER-HT24-38",
+      "title": "John Younger's commentary on HT24 and HT38, mirrored in Linear A Explorer",
+      "urls": [
+        "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT24.html",
+        "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT38.html"
+      ],
+      "access": "Both HTML texts downloaded",
+      "dependency": "GORILA derivative; not independent readings"
+    }
+  },
+  {
+    "registry_id": "anetaki:GORILA-I-HT24",
+    "source_id": "GORILA-I-HT24",
+    "branch": "anetaki",
+    "provenance_file": "notes/anetaki.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "GORILA-I-HT24",
+      "title": "Godart and Olivier, GORILA I (1976), HT24, pp42-43",
+      "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=78&max_image_size=1",
+      "transcription_url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=79&max_image_size=1",
+      "access": "Official full-size150dpi photo/drawing and apparatus retrieved and visually inspected; no new secure ME reading obtained.",
+      "dependency": "Critical edition underlying Younger, SigLA and Del Freo; not an independent ancient witness"
+    }
+  },
+  {
+    "registry_id": "anetaki:SIGLA-HT24a",
+    "source_id": "SIGLA-HT24a",
+    "branch": "anetaki",
+    "provenance_file": "notes/anetaki.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "SIGLA-HT24a",
+      "title": "SigLA HT24a signs6,9,15",
+      "url": "https://sigla.phis.me/document/HT%2024a/",
+      "access": "Full HTML read. A561 composite tagged sure at positions6,9,15.",
+      "dependency": "GORILA derivative; coarse composite encoding does not remove critical-edition uncertainty on ME component."
+    }
+  },
+  {
+    "registry_id": "roundels:R_ANASTASIADOU_2025",
+    "source_id": "R_ANASTASIADOU_2025",
+    "branch": "roundels",
+    "provenance_file": "notes/roundels.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "R_ANASTASIADOU_2025",
+      "title": "Names on Roundels? The Special Case of Neopalatial Roundels with Incised Numerals on the Faces",
+      "author": "Maria Anastasiadou",
+      "year": 2025,
+      "publication": "The Wor(l)ds of Linear A, AURA Supplement 15",
+      "pages": "35–42",
+      "access": "Full local PDF and extracted text; published p38 Fig1.3 viewed",
+      "local_source": "work/source_cache/aura15.pdf",
+      "bibliographic_url": "https://www.arch.uni-heidelberg.de/de/unser-institut/mitarbeiterinnen/dr-maria-anastasiadou/publikationen",
+      "dependency": "New author autopsy of ZA Wc2 explicitly tests Perna1994; other observations partly depend on Hallager1996",
+      "retrieval_date": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "roundels:R_PERNA_1994",
+    "source_id": "R_PERNA_1994",
+    "branch": "roundels",
+    "provenance_file": "notes/roundels.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "R_PERNA_1994",
+      "title": "The Roundel in Linear A from Zakro Wc 2 (HM 84)",
+      "author": "Massimo Perna",
+      "year": 1994,
+      "publication": "Kadmos 33",
+      "pages": "29–37",
+      "url": "https://www.academia.edu/2077118/The_Roundel_in_Linear_A_from_Zakro_Wc_2_HM_84_",
+      "access": "Full author-posted text via web indexing; Fig1 viewed in later authorized reproduction; separate plates not retrieved",
+      "dependency": "Original autopsy; describes GORILA1979 reading and Hallager functional hypothesis",
+      "retrieval_date": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "roundels:R_LIBER_V831",
+    "source_id": "R_LIBER_V831",
+    "branch": "roundels",
+    "provenance_file": "notes/roundels.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "R_LIBER_V831",
+      "title": "KN V(4) 831 critical transcription",
+      "publisher": "LiBER, CNR",
+      "url": "https://liber.cnr.it/tablet/view/686",
+      "access": "Complete transcription and apparatus viewed",
+      "dependency": "Institutional critical edition; no independent rereading of object imagery in this review",
+      "retrieval_date": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "roundels:R_SIGLA_ROUNDELS",
+    "source_id": "R_SIGLA_ROUNDELS",
+    "branch": "roundels",
+    "provenance_file": "notes/roundels.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "R_SIGLA_ROUNDELS",
+      "title": "Document type: Roundel",
+      "url": "https://phis.me/sigla/kind/Roundel/",
+      "access": "Catalogue viewed",
+      "dependency": "Derived corpus catalogue; individual faces may be separate records",
+      "retrieval_date": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "roundels:R_HGO_1989",
+    "source_id": "R_HGO_1989",
+    "branch": "roundels",
+    "provenance_file": "notes/roundels.json",
+    "retrieved": "2026-09-07",
+    "metadata": {
+      "id": "R_HGO_1989",
+      "title": "La rondelle en linéaire A d'Aghia Triada Wc 3024 (HM 1110)",
+      "author": "Olivier, Hallager, Godart",
+      "year": 1989,
+      "publication": "BCH 113(2)",
+      "pages": "431–437",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1989_num_113_2_4733",
+      "doi": "10.3406/bch.1989.4733",
+      "access": "Bibliography and first page only; later correction details known through R_PERNA_1994 and R_ANASTASIADOU_2025",
+      "retrieval_date": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "root:DAVIS_AURA15",
+    "source_id": "DAVIS_AURA15",
+    "branch": "ritual_prior_art",
+    "metadata": {
+      "author": "Brent Davis",
+      "title": "Recent Linguistics-Based Advances in the Study of Linear A",
+      "publication": "The Wor(l)ds of Linear A, AURA15, 2025, pp43–59; online2026",
+      "url": "https://epub.lib.uoa.gr/index.php/aura/article/download/2642/pdf_73/5535",
+      "access": "Official full PDF downloaded; chapter text read; exact morphology comparison at p47 and ritual interpretation pp53–55 checked",
+      "dependency": "Synthesis and arguments rely on GORILA, Duhoux, Valerio and prior Davis research; not additional ancient witnesses",
+      "retrieved": "2026-09-07",
+      "pdf_sha256": "339a38a0d8d2b8939110b950aa773c2ce8f7ac17207afbed5417c95149efbf2b"
+    }
+  },
+  {
+    "registry_id": "root:SCHOEP_DRIESSEN_HANDLE",
+    "source_id": "SCHOEP_DRIESSEN_HANDLE",
+    "branch": "ritual_countermodel",
+    "metadata": {
+      "authors": "Ilse Schoep and Jan Driessen",
+      "title": "An Inscribed Handle from Palaikastro (PK Zb25)",
+      "publication": "Minos37–38 (2002–2003),77–80; relevant79",
+      "url": "https://www.researchgate.net/profile/Jan-Driessen-2/publication/285902837_An_Inscribed_Handle_at_Palaikastro/links/5664309408ae192bbf907d86/An-Inscribed-Handle-at-Palaikastro.pdf",
+      "access": "Full PDF parsed through web; local download403; no new original-image inspection",
+      "dependency": "Uses ZA Zb3 as an earlier published comparison",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "root:THOMAS_MORPHOLOGY",
+    "source_id": "THOMAS_MORPHOLOGY",
+    "branch": "ritual_boundary",
+    "metadata": {
+      "author": "Rose Thomas",
+      "title": "Some reflections on morphology in the language of the Linear A libation formula",
+      "url": "https://www.finnishsyntax.co.uk/wp-content/uploads/sites/3/2022/01/Reflections_on_Morphology_in_the_Language_of_the_Linear_A_Libation_Formula.pdf",
+      "access": "Author-manuscript full PDF text read through web; SY Za2 RE/OLIV qualification and explicit VSO assumptions checked",
+      "dependency": "Conditional morphology/syntax model relying on published transcriptions; not new SY Za2 reading",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "root:YOUNGER_ZAZb3",
+    "source_id": "YOUNGER_ZAZb3",
+    "branch": "ritual_context",
+    "metadata": {
+      "author": "John G Younger after GORILAIV112–113",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/ZAZb3.html",
+      "access": "Full HTML through GitHub connector; uncertain TA retained",
+      "dependency": "GORILA derivative",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "identity:SIGLA_BROWSE_SNAPSHOT",
+    "source_id": "SIGLA_BROWSE_SNAPSHOT",
+    "branch": "identity",
+    "metadata": {
+      "authors": "Ester Salgarella and Simon Castellan",
+      "title": "SigLA all indexed document-face sequence pages",
+      "url": "https://sigla.phis.me/",
+      "access": "All 802 document-face sequence pages retrieved; 1401 indexed sequences; zero final fetch errors and metadata count mismatches. Per-page URLs and hashes are in the inventory.",
+      "retrieved": "2026-09-07T20:03:51.147660+00:00",
+      "browse_sha256": "c1d25f91dccf334c3cf24b52c1e4a279970cebd3f5c6f377569de076360170cd",
+      "inventory_sha256": "0512f28f757d9330b4fe13e213da6dd583b3562466b459ee77f9558a095a9f4b",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "dependency": "Independent acquisition of an edited database, not independent readings of 802 objects. Sequence chunks may be damaged or split at faces."
+    }
+  }
+]

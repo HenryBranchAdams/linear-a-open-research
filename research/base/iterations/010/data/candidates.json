@@ -1,0 +1,128 @@
+[
+  {
+    "id": "R10-C01",
+    "title": "HT 86 / HT 95: the strongest audited roster",
+    "forms": "QA-RA2-WA \u2194 QE-RA2-U",
+    "status": "Related records; identity and role unresolved",
+    "tier": "keep",
+    "evidence": "Five other labels recur after the Q forms are withheld: DA-ME, DI-DE-RU, KU-NI-SU, MI-NU-TE, SA-RU. The Q entries follow DI-DE-RU in the inspected edition. Two tablets, not four independent witnesses.",
+    "test": "All five exact-label quantities are 20 on HT86a and 10 on HT95b. Extending that \u00d72 conversion to the proposed Q pairing predicts 20, but the QA entry is 10. The conjunction of same Q account and universal conversion of equivalent quantities fails.",
+    "rival": "Spelling variation; distinct related accounts; commodity vocabulary; repeated rosters in separate events. Different grain composites and sections prevent treating a common unit as established.",
+    "next": "An independent participant/category anchor, followed by a third linked record with an externally recognizable operation. More spelling resemblance is insufficient.",
+    "novelty": "Roster and Q correspondence are published prior work. Exhaustive ranking and exact conditional scale diagnostic were executed in this iteration; publication priority unestablished.",
+    "access": "GORILA I pp134\u2013135 and154\u2013155 visually checked.",
+    "sources": [
+      "GORILA_I_135",
+      "GORILA_I_155",
+      "BEST_1984_85",
+      "STEELE_MEISSNER_2017"
+    ],
+    "detail": "notes/documentary_links.md"
+  },
+  {
+    "id": "R10-C02",
+    "title": "DA-ME / DA-ZA: a misleading database contrast",
+    "forms": "HT86a DA-ME \u2194 frozen SigLA HT95b DA-ZA",
+    "status": "Do not use as morphology",
+    "tier": "stop",
+    "evidence": "The strongest raw terminal-sign candidate changes when the primary edition is checked. GORILA prints ME in HT95b.2; its damaged-sign apparatus concerns a preceding mark.",
+    "test": "Keep raw SigLA unchanged; rerun with a named DA-ME reading overlay. The apparent DA-ME/DA-ZA substitution disappears.",
+    "rival": "A database transcription or interpretation discrepancy, not demonstrated ancient variation. This audit does not diagnose its cause.",
+    "next": "Retain the discrepancy record; only a documented revised reading should reopen it.",
+    "novelty": "Source audit and explicit overlay newly executed in this project run.",
+    "access": "Primary edition normalized table and drawing inspected by root and source researcher.",
+    "sources": [
+      "GORILA_I_155",
+      "SIGLA_20260907"
+    ],
+    "detail": "notes/documentary_links.md"
+  },
+  {
+    "id": "R10-C03",
+    "title": "TE-KE / TE-KI, with TE-TU as an explicit rival",
+    "forms": "HT85a TE-KE \u2194 HT122a TE-KI; control HT13 TE-TU",
+    "status": "Contextually linked; substitution not unique",
+    "tier": "keep",
+    "evidence": "HT85a and HT122a share DA-RI-DA and the opaque chunk DA-SI-*118 when that chunk is admitted. Published hand attribution puts both under Scribe 9. Broader object overlap adds labels on other faces.",
+    "test": "HT13 contains TE-KI and TE-TU. Either can be compared to HT85a TE-KE with the same independent companions DA-SI-*118 and KU-*79-NI. Co-occurrence does not itself prove either reading is the same referent.",
+    "rival": "Short related names or unrelated names; spelling habit; grammar. Similar context does not uniquely select a mapping.",
+    "next": "An additional identity anchor that chooses TE-KI over TE-TU, and role evidence independent of the last sign.",
+    "novelty": "TE-KE/TE-KI is published. Explicit rival-context screen newly run; no priority claim.",
+    "access": "SigLA snapshot; Davis/Val\u00e9rio contextual study. HT13 edition check documented in source note; HT85/122 no fresh full plate audit.",
+    "sources": [
+      "SIGLA_20260907",
+      "DAVIS_VALERIO_2020",
+      "GORILA_I_27"
+    ],
+    "detail": "notes/documentary_links.md"
+  },
+  {
+    "id": "R10-C04",
+    "title": "HT 117 / HT 87: linked administrative contexts",
+    "forms": "MA-KA-RI-TE; QI-TU-NE; DI-KI-SE",
+    "status": "Useful context; action unassigned",
+    "tier": "context",
+    "evidence": "Published shared headings/subheadings, DI-KI-SE 1, and attribution to Scribe 9 supply a concrete documentary connection.",
+    "test": "No independently identified role contrast was recovered. Reading an attendance/absence action depends on contested KI-RO and name classifications.",
+    "rival": "Related lists, categories or obligations without a written attendance action.",
+    "next": "Check original plates, then seek a role anchor beyond heading position and KI-RO interpretation.",
+    "novelty": "Published contextual relationship, retrieved as a control.",
+    "access": "Primary research article read; original HT87/117 plates not freshly inspected.",
+    "sources": [
+      "DAVIS_VALERIO_2020"
+    ],
+    "detail": "notes/documentary_links.md"
+  },
+  {
+    "id": "R10-C05",
+    "title": "Seal AT 125 across document types",
+    "forms": "HT Wc3015 \u2194 Wa1471\u20131511",
+    "status": "Physical administrative link; no named identity",
+    "tier": "context",
+    "evidence": "Published seal identification connects a roundel and nodules; the publication distinguishes scribal hands.",
+    "test": "Shared seal identity survives independently of text morphology, but no written designation is independently tied to one historical person or transaction direction.",
+    "rival": "Institution, office, intermediary, reused instrument, multiple writers.",
+    "next": "A complete written designation explicitly linked to that seal and an independently known operation.",
+    "novelty": "Published observation; retrieved control. Older seal142 variant tests are preserved in project history and not counted again.",
+    "access": "Weingarten article text; no new seal-image comparison.",
+    "sources": [
+      "WEINGARTEN_1987"
+    ],
+    "detail": "notes/documentary_links.md"
+  },
+  {
+    "id": "R10-C06",
+    "title": "TA-NA family: the earlier target remains blocked",
+    "forms": "TA-NA-TE / A-TA-NA-TE / TA-NA-TI",
+    "status": "No stronger independent identity bridge",
+    "tier": "park",
+    "evidence": "The expanded search reproduces only the SA-MA bridge when opposite faces of HT10 and ZA10 are aggregated. No local associate packet independently identifies one TA-NA referent.",
+    "test": "No exclusive initial-A or final-syllable pair with both targets at least three signs has even one independent face associate under the tested complete-chunk screens. This is a bounded indexed-corpus result.",
+    "rival": "Related designations, distinct entities, site-conditioned spelling, derivation or grammar.",
+    "next": "A complete physically or transactionally linked witness; do not promote damaged ZA9 or a missing A-TA-NA-TI reconstruction.",
+    "novelty": "Prior target result confirmed within a broader executed screen.",
+    "access": "Frozen 802-face snapshot and round9 evidence; no fresh TA-NA autopsy.",
+    "sources": [
+      "SIGLA_20260907",
+      "ROUND9"
+    ],
+    "detail": "notes/corpus_pairs.md"
+  },
+  {
+    "id": "R10-C07",
+    "title": "HT 122 / HT 9: another recurring packet",
+    "forms": "A306-TU; A324-DI-RA; PA-DE",
+    "status": "Screening lead; semantics unassigned",
+    "tier": "context",
+    "evidence": "Three shared complete indexed labels emerge when opaque syllabic sign codes are admitted. This is a useful additional packet independent of the proposed TA-NA endings.",
+    "test": "No exclusive longer initial-A or terminal-sign substitution with independent associates emerges from this packet in the screen.",
+    "rival": "Shared administrative vocabulary; persistent roster; recurring categories.",
+    "next": "Verify quantities, layout, and uncertainty in primary editions before using it as identity evidence.",
+    "novelty": "Bounded ranking newly computed; historical uniqueness not claimed.",
+    "access": "Corpus screen only; no fresh primary plate audit for this pair.",
+    "sources": [
+      "SIGLA_20260907"
+    ],
+    "detail": "notes/corpus_pairs.md"
+  }
+]

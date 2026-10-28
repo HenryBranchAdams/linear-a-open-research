@@ -1,0 +1,117 @@
+{
+  "documentation_revision": "D2026-10-26",
+  "reviewed_on": "2026-10-26",
+  "timezone_for_dates": "Etc/UTC",
+  "research_through": 44,
+  "new_research_iteration": true,
+  "scientific_authority": [
+    "B2026-10-18",
+    "C038",
+    "C039",
+    "C040",
+    "C041",
+    "C042",
+    "C043",
+    "C044"
+  ],
+  "latest_campaign_status": "completed_closed_reviewed",
+  "mission": "Establish one Linear A construction whose action and relevant participant roles are independently supported and distinguish serious alternatives.",
+  "mission_achieved": false,
+  "active_candidates": 0,
+  "active_semantic_experiments": 0,
+  "next_iteration_number": 45,
+  "next_iteration_created": false,
+  "registry_counts": {
+    "claims": 89,
+    "experiments_and_access_feasibility_records": 39,
+    "source_access_records": 129,
+    "raw_discovery_records": 1721
+  },
+  "counts_interpretation": "Record continuity only. The experiments register includes historical computations and access work; counts are not semantic achievements.",
+  "recent_campaigns": {
+    "range": [
+      38,
+      44
+    ],
+    "claim_entries_added": 9,
+    "experiment_access_entries_added": 11,
+    "source_access_entries_added": 37,
+    "semantic_experiments_admitted": 1,
+    "new_semantic_relationships": 0,
+    "new_archaeological_discoveries_claimed": 0,
+    "graded_semantic_preferences": 1,
+    "semantic_relationship_count_definition": "Established exclusive referent/material binding, action or role. C044 adds graded category support, not that stronger binding."
+  },
+  "highest_value_conditional_dependency": "Duhoux2003 section4.1.2 exact ceramic discussion through a changed legitimate route/supplied copy; feature-matched ceramic counterpart or target-specific A410 material use. For action/roles, an exact vessel/account/event join is required. Earlier KN/ZA unit/scope and Akrotiri specimen/use dependencies remain.",
+  "canonical_paths": {
+    "entry": "START_HERE.md",
+    "current_state": "context/CURRENT_STATE.md",
+    "next": "NEXT.md",
+    "protocol": "context/RESEARCH_PROTOCOL.md",
+    "documentation_map": "context/DOCUMENTATION_MAP.md",
+    "queue": "registry/research_queue.json",
+    "review": "reviews/2026-10-26/REVIEW_THROUGH_044.md",
+    "archive_navigation": "registry/archive_navigation.json",
+    "iteration_template": "templates/ITERATION_BRIEF.md",
+    "verifier": "verify.py",
+    "manifest": "MANIFEST.json",
+    "phase_report": "phases/2026-10-25/PHASE_REPORT.md",
+    "latest_report": "iterations/044/REPORT.md",
+    "verification_expectations": "registry/verification_expectations.json"
+  },
+  "preservation": {
+    "original_checkpoint": "iterations/041/Linear_A_Campaign_041.zip",
+    "original_checkpoint_sha256": "b8e03e1d5476f1702e060aca8be20b995afd5923851649dae92738744d53598e",
+    "scientific_record_objects_changed": false,
+    "claims_envelope_authority_corrected": true,
+    "frozen_baseline_changed": false,
+    "raw_corpus_changed": false,
+    "recent_campaign_evidence_changed": false,
+    "inherited_record_prefixes_unchanged": true,
+    "appended_record_counts": {
+      "claims": 2,
+      "experiments": 2,
+      "sources": 8
+    },
+    "pinned_documentation_snapshot": "archive/D2026-10-25/Linear_A_Research_Current_through_042.zip",
+    "pinned_documentation_snapshot_sha256": "98e19e34100098485bafbccfd975b86197e08ffef759c266f9d5c2fe449d5c02",
+    "inherited_prefix_counts": {
+      "claims": 87,
+      "experiments": 37,
+      "sources": 121
+    },
+    "prior_pinned_snapshot": "archive/D2026-10-23/Linear_A_Research_Current_through_041.zip",
+    "prior_pinned_snapshot_sha256": "5d6429073a4735f99710ce73dbdec0487f798a681c1d6d0fc9c617d05fea7fcf"
+  },
+  "publication": {
+    "site_project_id": "appgprj_6ac02e2781b48191b83e560bd31d1ba0",
+    "url": "https://linear-a-open-research.madebyhenry.chatgpt.site",
+    "metadata_observed_on": "2026-10-23",
+    "version": 3,
+    "last_updated_at": "2026-10-20T23:15:37.722409+00:00",
+    "status": "active",
+    "content_inspected_in_review": false,
+    "deployed_in_review": false,
+    "automations_in_site_metadata": [],
+    "github_project_repository_verified": false,
+    "deployed_in_phase": false,
+    "metadata_rechecked_in_phase": false
+  },
+  "external_correspondence_sent": false,
+  "new_recurring_search_created": false,
+  "historical_source_dates": "Preserved as originally recorded; the review does not reinterpret earlier date boundaries.",
+  "phase": {
+    "opened": "2026-10-25",
+    "completed": "2026-10-26",
+    "status": "completed_bounded_continuation",
+    "substantive_campaigns": [
+      43,
+      44
+    ],
+    "highest_level": "graded local category preference with exclusive material extension unconfirmed; conditional material/scope constraint",
+    "next_iteration_created": false,
+    "report": "phases/2026-10-25/PHASE_REPORT.md",
+    "unused_validation": false,
+    "external_correspondence_sent": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "retrieved_utc": "2026-09-09T02:29:21.751191+00:00",
+  "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Best-77-79.pdf",
+  "bibliographic_locator": "Jan G.P. Best, Ku-ni-su: Emmer Wheat or Personal Name?, Talanta 16\u201317 (1984\u20131985 volume label), pp77\u201379; later publication dates appear in secondary citations, not resolved here",
+  "status": "All three article pages visually inspected; PDF cover is page1. Full copyrighted PDF and rendered pages kept only in scratch research cache, not deliverable tree.",
+  "cache_files": [
+    {
+      "file": "best-1.png",
+      "sha256": "359536d8fda3fb6c4209174eac140a48763f01949c57e4f396e14a8e1fa3edf1",
+      "bytes": 51255,
+      "cache_path": "/workspace/scratch/9f1885bf9314/research_source_cache/documentary_links/best-1.png"
+    },
+    {
+      "file": "best-2.png",
+      "sha256": "f619798e1e7b5f303b711d715d8e11722528d5ffe99942cc28e24d4fd52cb8ca",
+      "bytes": 796211,
+      "cache_path": "/workspace/scratch/9f1885bf9314/research_source_cache/documentary_links/best-2.png"
+    },
+    {
+      "file": "best-3.png",
+      "sha256": "e07f7cd3b70d0a87895f4a889ce140e6d11a48573ede58248b1f78b390208b9c",
+      "bytes": 1102987,
+      "cache_path": "/workspace/scratch/9f1885bf9314/research_source_cache/documentary_links/best-3.png"
+    },
+    {
+      "file": "best-4.png",
+      "sha256": "e4d2d78b1b522a78c51527989f888ba267ad1b1cd436a5a78ce09d65b21a5c22",
+      "bytes": 583215,
+      "cache_path": "/workspace/scratch/9f1885bf9314/research_source_cache/documentary_links/best-4.png"
+    },
+    {
+      "file": "best_kunisu_talanta16_17.pdf",
+      "sha256": "3e3f2278f200354f8bca306e194c090a94d38935b514c6fbdaffa720960b48ba",
+      "bytes": 174287,
+      "cache_path": "/workspace/scratch/9f1885bf9314/research_source_cache/documentary_links/best_kunisu_talanta16_17.pdf"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Decisions and scope
+
+1. Recovered canonical authority B2026-10-18+C038; verified exact byte equality between the038 archive and current canonical state/registries. User's “Run next iteration” authorizes039 but does not erase parked-branch gates.
+2. Screened two materially distinct packets: (a) new lawful complete-copy route for Flouda2024, (b) SI Zg1's direct object/autopsy record and newly accessible full AB118 argument. Root's initial general search also surfaced an RTI title; no exact target relation was developed and no third packet was investigated.
+3. Selected SI Zg1 for the sole deep source/feasibility inquiry. The changed condition was primary source access, not a presumed semantic discriminator. Protocol was recorded after initial source observations and is not claimed as pre-exposure preregistration.
+4. Direct INSCRIBE text and full AB118 section acquired. Specialist scratch report, reading branches and direction discrepancy require a critical overlay. The frozen raw row contains no fractionD. Original GORILA plate, substantive Alberti scan and all figure pixels remained unavailable.
+5. Source comparison and conditional arithmetic executed; independent reviewer checked both, full snapshot hash and exact row. Weight-logogram and genuine-weight-plus-designation models remain compatible. No semantic experiment admitted.
+6. Flouda route stopped after bounded endpoint search. UCLouvain hit resolved by source investigator to neighboring Driessen article plus front matter, not target article; lead's independent open failed. No target pages inspected.
+7. Added one source-control claim, two access/feasibility records and four source records; all inherited entries and baseline controls unchanged. Closed039 as evidence-limited for semantics; no public action or unattended continuation.

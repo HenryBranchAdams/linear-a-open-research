@@ -1,0 +1,76 @@
+{
+  "model": "One common proportionality: seal impressions = k * additive face commodity quantity",
+  "assumptions": [
+    "Integer face quantities have comparable counting semantics",
+    "Fraction signs are additive positive proper fractions, not multipliers",
+    "Reported seal-count alternatives are exhaustive within this test"
+  ],
+  "integer_anchors": [
+    {
+      "inscription": "GO Wc 1",
+      "impressions_per_face_unit": "1"
+    },
+    {
+      "inscription": "HT Wc 3024",
+      "impressions_per_face_unit": "1"
+    }
+  ],
+  "forced_k": "1",
+  "fraction_cases": [
+    {
+      "inscription": "MA Wc <5>",
+      "fraction_sign": "A704",
+      "period_scope": "Neopalatial",
+      "alternatives": [
+        {
+          "seal_impressions": 1,
+          "required_fraction": "-3",
+          "valid_positive_proper_fraction": false
+        },
+        {
+          "seal_impressions": 2,
+          "required_fraction": "-2",
+          "valid_positive_proper_fraction": false
+        }
+      ],
+      "compatible_with_fixed_scale": false
+    },
+    {
+      "inscription": "PH Wc 41",
+      "fraction_sign": "A707",
+      "period_scope": "Protopalatial; outside Anastasiadou's study scope",
+      "alternatives": [
+        {
+          "seal_impressions": 2,
+          "required_fraction": "1",
+          "valid_positive_proper_fraction": false
+        }
+      ],
+      "compatible_with_fixed_scale": false
+    }
+  ],
+  "neopalatial_common_scale_survives_reported_malia_counts": false,
+  "za_wc2_sensitivity": [
+    {
+      "impressions": 2,
+      "face_quantity": 2,
+      "matches_forced_scale": true
+    },
+    {
+      "impressions": 4,
+      "face_quantity": 2,
+      "matches_forced_scale": false
+    }
+  ],
+  "meaning": "GO and HT fix k=1; MA's reported 1/2 impressions require negative fraction values. PH, outside chapter scope, would require fraction1 rather than a proper fraction.",
+  "limits": "Unknown/unrecorded Malia impressions, nonadditive reading, or different ration/commodity measures can evade this narrow model. The animal counts retain local evidential value. No direction or verb is inferred.",
+  "source_observation_ids": [
+    "R04",
+    "R05",
+    "R06",
+    "R12",
+    "R13",
+    "R14",
+    "R15"
+  ]
+}

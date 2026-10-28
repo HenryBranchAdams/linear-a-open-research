@@ -1,0 +1,567 @@
+{
+  "documentation_revision": "D2026-10-26",
+  "research_through": 44,
+  "kind": "current_operational_queue_not_new_scientific_claims",
+  "active_candidates": 0,
+  "active_semantic_experiments": 0,
+  "not_a_rotation_schedule": true,
+  "priority_meaning": "Conditional value when a real source or relationship changes; no automatic rotation. C044 completed one graded category comparison; no semantic experiment is active.",
+  "supersedes_operational_selection": "baseline/RESEARCH_QUEUE.json, whose frozen historical contents remain unchanged",
+  "selection_policy": "Next authorized campaign045 selects a changed evidence opportunity or a declared finite new-packet pass; keep one deep candidate with independent challenge.",
+  "records": [
+    {
+      "id": "DQ-01",
+      "topic": "Akrotiri 9384/9730 exact analytical and use join",
+      "status": "parked_evidence_limited",
+      "priority_if_changed": 1,
+      "blocker": "No documented inventory/catalogue-to-sampled-sherd/laboratory-code join recovered in the inspected packet; manufacture and contents/use remain confounded.",
+      "reopening_condition": "An exact specimen-register mapping or documented refit/photo chain, then diagnostic use evidence and a contrast separating manufacture from use at the proposed marking-event scope.",
+      "first_step": "Inspect the actual newly identified register or physical join. Keep catalogue 1121=9384 and 1122=9730; keep sample namespaces separate.",
+      "stop_condition": "No exact join or no decision-changing use/production contrast within the declared packet.",
+      "do_not_repeat": [
+        "2019 metadata-only access searches",
+        "same-pair equal-capacity assumption",
+        "transfer of neighboring soot or site-wide residues",
+        "claim that no recovered join proves targets never sampled"
+      ],
+      "evidence_paths": [
+        "iterations/040/REPORT.md",
+        "iterations/041/REPORT.md",
+        "iterations/041/evidence/CATALOGUE_OVERLAY.json",
+        "iterations/041/analysis/JOIN_DECISION.md"
+      ],
+      "related_claim_ids": [
+        "LA-040-001",
+        "LA-041-001"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-02",
+      "topic": "Complete 2021 Akrotiri residue chapter",
+      "status": "parked_access_limited",
+      "priority_if_changed": 2,
+      "blocker": "Zero article pages inspected in 041; no new complete-copy route identified.",
+      "reopening_condition": "A supplied lawful complete copy or genuinely new identified full-copy endpoint for Roumpou, Kylikoglou and Kalogeropoulos, Organic residues in pottery and cooking areas at Akrotiri.",
+      "first_step": "Verify exact title/authors/pages, inspect target text/figures/tables and look for exact specimen identities; preserve pagination uncertainty.",
+      "stop_condition": "Full text not acquired or no exact-object relationship changing the current comparison.",
+      "evidence_paths": [
+        "iterations/041/evidence/SOURCE_RECORDS.json",
+        "iterations/041/agents/OBJECT_EVIDENCE.md"
+      ],
+      "related_source_ids": [
+        "C041-S04"
+      ],
+      "qualification": "Source access is useful but does not automatically admit a semantic test.",
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-03",
+      "topic": "Materially different administrative object packet",
+      "status": "bounded_phases_completed_C044_graded_category_preference_no_active_test",
+      "priority_if_changed": null,
+      "blocker": "Through044 phases screened materially different strategies. C044 supports a graded local vessel-class preference; exclusive material/action/roles remain unresolved. Remaining declared packets supply no feasible third deep test. Not global source exhaustion.",
+      "reopening_condition": "An actual new accessible primary packet with a concrete possible independent relation, or a declared finite discovery task seeking such a packet.",
+      "first_step": "Record the missing relation, finite source/candidate scope and stop; select one deep candidate with independent challenge if warranted.",
+      "stop_condition": "No stable target or decision-changing independent relation/path within the declared scope.",
+      "evidence_paths": [
+        "context/RESEARCH_PROTOCOL.md",
+        "templates/ITERATION_BRIEF.md",
+        "phases/2026-10-24/CANDIDATE_COMPARISON.md",
+        "phases/2026-10-25/CANDIDATE_COMPARISON.md",
+        "phases/2026-10-25/review/PHASE_STOP_REVIEW.md"
+      ],
+      "prior_queue_id": "B-Q02",
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-04",
+      "topic": "Flouda 2024 complete Phaistos argument",
+      "status": "parked_access_limited",
+      "priority_if_changed": 2,
+      "blocker": "Complete article remains uninspected; zero target pages in 038/039, no renewed search in 040/041.",
+      "reopening_condition": "A supplied legitimate complete copy or genuinely new identified endpoint for DOI 10.19272/202433301008, pp.117–131 and figures.",
+      "first_step": "Evaluate exact carrier, stable writing, operation and role-binding argument. Keep HMs789theta/CMS II.5 205 distinct from PH Wa52/HMs689/CMS II.5 300 absent explicit source link.",
+      "stop_condition": "Access remains unresolved or argument does not distinguish grounded role/category alternatives.",
+      "do_not_repeat": [
+        "Known UCLouvain wrong-article hit",
+        "DOI/abstract/request-only metadata as a new completed source task"
+      ],
+      "evidence_paths": [
+        "iterations/039/CONTINUATION.md",
+        "baseline/EVIDENCE_PREREQUISITES_36_37.md"
+      ],
+      "prior_queue_id": "B-Q01",
+      "related_dispositions": [
+        "B-D24",
+        "B-D26"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-05",
+      "topic": "KH Wc2123 / KH2123",
+      "status": "parked_evidence_limited",
+      "priority_if_changed": null,
+      "blocker": "No independent referent/role binding at the partly erased written stage or proof of continued reference into stamping.",
+      "reopening_condition": "An independently joined counterpart, attachment or use record with different predictions for responsibility, distinct counterparty or earlier-account designation; consequential surface evidence may separately improve reading/order.",
+      "first_step": "Apply whole-group erasure and uncertain-first-mark overlay; distinguish reported chronology from direct crosscut verification.",
+      "stop_condition": "Only another compatible history or improved imagery without a semantic relation; classify any reading gain separately.",
+      "evidence_paths": [
+        "iterations/038/REPORT.md",
+        "iterations/038/evidence/KHWc2123_critical_overlay.json",
+        "iterations/038/CONTINUATION.md"
+      ],
+      "related_claim_ids": [
+        "LA-038-001",
+        "LA-038-002"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-06",
+      "topic": "SI Zg1 / Heraklion L2615",
+      "status": "parked_evidence_limited",
+      "priority_if_changed": null,
+      "blocker": "No independent local component/function binding even if physical weight function is granted.",
+      "reopening_condition": "An independently associated calibrated series with controlled written variation, or a directly diagnostic counterpart/use record; new surface evidence may separately settle AB01/11/direction.",
+      "first_step": "Retain the full evaluated AB118 argument, reported scratch and source direction conflict. Do not restore fraction D through mass fit.",
+      "stop_condition": "No local discriminator; repeated mass-fit calculation or physical function alone.",
+      "evidence_paths": [
+        "iterations/039/REPORT.md",
+        "iterations/039/evidence/SIZg1_critical_overlay.json",
+        "iterations/039/CONTINUATION.md"
+      ],
+      "related_claim_ids": [
+        "LA-039-001"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-07",
+      "topic": "Mochlos P511",
+      "status": "screened_parked",
+      "priority_if_changed": null,
+      "blocker": "No exact contents/capacity/use relation in screened packet.",
+      "reopening_condition": "Exact-object independent contents, use or capacity evidence relevant to the prefiring mark.",
+      "first_step": "Verify original object/figure identity and new relation; P461 in plate101a is a different vessel.",
+      "stop_condition": "Neighboring olive remains or adjacent vessel imagery only.",
+      "evidence_paths": [
+        "iterations/040/agents/discovery_b.md",
+        "iterations/040/REPORT.md"
+      ],
+      "related_source_ids": [
+        "C040-S03"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-08",
+      "topic": "Malia fractional vessel mark",
+      "status": "originaltext_carrier_identified_no_capacity_calibration",
+      "priority_if_changed": null,
+      "blocker": "Pelon1995 originaltext/captions identify sherd89P33, smalljugbase and prefiringmark; no completecapacity or independentfractioncalibration. Figurepixelsuninspected.",
+      "reopening_condition": "Original Perna/Pelon source and precise carrier identity, plus independent capacity/calibration or diagnostic use.",
+      "first_step": "Inspect only a new whole-profile/refit/calibrated counterpart, or a finite high-quality figure packet for reading control.",
+      "stop_condition": "Source chain alone without original/calibrated relationship.",
+      "evidence_paths": [
+        "iterations/040/agents/discovery_c.md",
+        "iterations/040/REPORT.md",
+        "phases/2026-10-24/reconnaissance/source_archaeology_RECONNAISSANCE.md"
+      ],
+      "related_source_ids": [
+        "C040-S04"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q03",
+      "topic": "A588 / THEZb13 / KNZb34",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "No independent component-bound semantic discriminator.",
+      "reopening_condition": "Independent product/capacity/production/commission/allocation relation at the component and marking event, or controlled differentiating contrast.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q03",
+      "related_dispositions": [
+        "B-D21",
+        "B-D22"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q04",
+      "topic": "HT86/95 and repeated labels",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "No independent referent/event/direction anchor.",
+      "reopening_condition": "Exact source-backed account, event or participant evidence changing a specified comparison.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q04",
+      "related_dispositions": [
+        "B-D14",
+        "B-D15",
+        "B-D16"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q05",
+      "topic": "HT34 / HT100 / HT103",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "Reading/scope alternatives followed by semantic symmetry.",
+      "reopening_condition": "Reading adequate for the specific comparison, or a result robust across retained reading branches, plus an independently constrained account relationship. A new numeral alone need not select meaning.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q05",
+      "related_dispositions": [
+        "B-D05",
+        "B-D08",
+        "B-D09"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q06",
+      "topic": "HT118",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "Damaged summary and competing row/summary/error models.",
+      "reopening_condition": "Independently linked comparable account with known scope or a discriminating new source constraint.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q06",
+      "related_dispositions": [
+        "B-D06"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q07",
+      "topic": "HT24 textile arithmetic",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "Unknown conversion, missing input and processing yield.",
+      "reopening_condition": "Independent metrological/process bounds.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q07",
+      "related_dispositions": [
+        "B-D10"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q08",
+      "topic": "TA-NA / TI / QE / SE / KU-MI-NA",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "No independently linked referent/function contrast.",
+      "reopening_condition": "Complete source-controlled forms plus an independent designation/context bridge with different functional predictions.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q08",
+      "related_dispositions": [
+        "B-D11",
+        "B-D17",
+        "B-D18"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q09",
+      "topic": "Seal device roles",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "Membership/provenance/marking event ambiguity.",
+      "reopening_condition": "Exact object/device/provenance evidence that changes a particular role comparison.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q09",
+      "related_dispositions": [
+        "B-D23"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q10",
+      "topic": "Phaistos attachment/object packets",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "Missing individual inventory/reverse/link, or unresolved target reading.",
+      "reopening_condition": "Original images/inventories and diagnostic use evidence connecting stable writing to a differentiating relation.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q10",
+      "related_dispositions": [
+        "B-D24"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q11",
+      "topic": "Akrotiri analytical nodules",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "No exact sample/readable-inscription/marking-event join.",
+      "reopening_condition": "An exact analytical sample on a legible marked object tied to relevant use/production event.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q11",
+      "related_dispositions": [
+        "B-D25"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "qualification": "Older analytical nodules; distinct from the 9384/9730 jar pair in DQ-01.",
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-B-Q12",
+      "topic": "Ritual lexical substitution and construction",
+      "status": "dormant",
+      "priority_if_changed": null,
+      "blocker": "No independent controlled equivalent span or role/action anchor.",
+      "reopening_condition": "Stable comparison with discriminating flanks or other independent function/role context, retaining real layout.",
+      "first_step": "Verify only the new observation against the existing source branches and strongest alternative before broader work.",
+      "stop_condition": "The blocker is unchanged or the new evidence does not change comparative evidential support at the claimed scope. Mere logical survival of a grounded rival does not veto graded support.",
+      "prior_queue_id": "B-Q12",
+      "related_dispositions": [
+        "B-D01",
+        "B-D19",
+        "B-D20"
+      ],
+      "evidence_paths": [
+        "baseline/RESEARCH_QUEUE.json",
+        "baseline/CLAIM_DISPOSITIONS.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-042-01",
+      "topic": "KN Zb27 / ZA Zb3 unit and quantity scope",
+      "status": "closed_conditional_physical_constraint",
+      "priority_if_changed": "conditional_decision_value_not_rotation",
+      "blocker": "Full/common-unit and common-fill models constrained. Local/subunits, variable fill and wider scope survive.",
+      "reopening_condition": "Independent unit equation, fill convention or exact linked container/account fixing scope.",
+      "first_step": "If a completeNotti2025 copy becomes obtainable, inspect its measurement/unit argument; otherwise seek the exact HM5194 recording dossier. Do not recalculate sameinputs.",
+      "stop_condition": "No changed obtainable relationship, unstable target, or inspected packet cannot distinguish grounded alternatives; do not repeat metadata or fitted models.",
+      "evidence_paths": [
+        "iterations/042/REPORT.md",
+        "iterations/042/CONTINUATION.md"
+      ],
+      "related_claim_ids": [
+        "LA-042-001",
+        "LA-042-002"
+      ],
+      "related_source_ids": [
+        "C042-S01",
+        "C042-S02",
+        "C042-S03",
+        "C042-S04",
+        "C042-S05",
+        "C042-S06",
+        "C042-S07",
+        "C042-S08"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-042-02",
+      "topic": "Akrotiri L46 / AIN11057 textile mark",
+      "status": "screened_not_admitted_reading_and_function_unresolved",
+      "priority_if_changed": "conditional_decision_value_not_rotation",
+      "blocker": "Allproposed signs doubtful; shallowfirstmark/direction/segmentation unresolved. Textilecontext has modest compatibility; publishedsyllabicuse grounds rival.",
+      "reopening_condition": "Raking-light/RTI/autopsy resolving firstmark; then exact toolset/production/use counterpart.",
+      "first_step": "Inspect genuinely improved targetimages, preservingalternatives; do not repeat ordinary2019reproduction.",
+      "stop_condition": "No changed obtainable relationship, unstable target, or inspected packet cannot distinguish grounded alternatives; do not repeat metadata or fitted models.",
+      "evidence_paths": [
+        "phases/2026-10-24/reconnaissance/source_archaeology_L46_SCREEN_ADJUDICATION.md"
+      ],
+      "related_claim_ids": [],
+      "related_source_ids": [],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-042-03",
+      "topic": "PH Wg45 / HM1535 exact reverse and substrate",
+      "status": "source_dependency_current_route_blocked",
+      "priority_if_changed": "conditional_decision_value_not_rotation",
+      "blocker": "OriginalGORILAII96/Hallager1996II7 uninspected. Officialdetail/image route503. VerydoubtfulE-TA2-QE; no substratebinding.",
+      "reopening_condition": "Suppliedoriginalpages or a changedworkingroute with exactreverse/substrate/inscriptionstage.",
+      "first_step": "VerifyPHWc45→PHWg45 andHM1535, keepingPHWg36/HM1534separate; decide whethercounterpartsupports newtest.",
+      "stop_condition": "No changed obtainable relationship, unstable target, or inspected packet cannot distinguish grounded alternatives; do not repeat metadata or fitted models.",
+      "evidence_paths": [
+        "phases/2026-10-24/PH_SOURCE_SCREEN.md",
+        "phases/2026-10-24/reconnaissance/PH_ACCESS_LEDGER.json"
+      ],
+      "related_claim_ids": [],
+      "related_source_ids": [],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-042-04",
+      "topic": "Malia grouped marked loomweights",
+      "status": "parked_script_and_operational_join_missing",
+      "priority_if_changed": "conditional_decision_value_not_rotation",
+      "blocker": "Originalpatternedgroups and distinctclay supportproductionrival. MarksnotsecureLinearA; depositedgroupnotprovenoperationalset.",
+      "reopening_condition": "Exactoriginalcatalogue mark/object/fabric/group join plus securewriting or independentoperationalrelationship.",
+      "first_step": "Acquire identifiedMuI45–56/MuIII330–331 targetcatalogue only if actualroutechanges; testscriptclassification before roles.",
+      "stop_condition": "No changed obtainable relationship, unstable target, or inspected packet cannot distinguish grounded alternatives; do not repeat metadata or fitted models.",
+      "evidence_paths": [
+        "phases/2026-10-24/reconnaissance/source_archaeology_RECONNAISSANCE.md"
+      ],
+      "related_claim_ids": [],
+      "related_source_ids": [],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-043-01",
+      "topic": "Readable nodule with documented internal cord topology",
+      "status": "closed_finite_packet_admission_failure",
+      "priority_if_changed": "conditional_independent_physical_axis",
+      "blocker": "The five-carrier packet has only one readable labeling-class carrier and no readable two-end-securing carrier.",
+      "reopening_condition": "Exact readable inscription joined to independently reconstructed securing topology, or original edition correction changing a selected inscription status.",
+      "first_step": "Select by physical catalogue before sign values; retain inventory suffixes, site, preservation and unknown fields.",
+      "stop_condition": "Only exterior apertures, another mirror, or no readable cross-function opportunity.",
+      "evidence_paths": [
+        "iterations/043/REPORT.md",
+        "iterations/043/CONTINUATION.md",
+        "iterations/043/evidence/JOIN_FINAL.json"
+      ],
+      "related_claim_ids": [
+        "LA-043-001"
+      ],
+      "related_source_ids": [
+        "C043-S01",
+        "C043-S02"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-044-01",
+      "topic": "HT31 A410 vessel class and material extension",
+      "status": "completed_graded_local_preference_material_extension_unconfirmed",
+      "priority_if_changed": "highest_value_outstanding_source_target_for_latest_result",
+      "blocker": "Positive bronze morphology survives exact ceramic rival, but category exclusivity and exact event join remain unconfirmed. Duhoux2003 direct ceramic discussion and Puglisi2011 figures uninspected.",
+      "reopening_condition": "Legitimate complete Duhoux2003 section4.1.2 with exact comparanda; a feature-matched ceramic specimen; target-specific A410 material use; or a directly joined vessel/account/event.",
+      "first_step": "Inspect the actual new source/counterpart. Separate pictorial prototype, material extension, event scope and participant roles. Use prepared unsent request if correspondence is separately authorized.",
+      "stop_condition": "Generic tripod membership, unchanged access routes, numerical kiln fits without event join, or another compatible paraphrase.",
+      "evidence_paths": [
+        "iterations/044/REPORT.md",
+        "iterations/044/CONTINUATION.md",
+        "iterations/044/CONTINUATION_EVIDENCE_REQUEST.md",
+        "iterations/044/review/FINAL_REVIEW.md"
+      ],
+      "related_claim_ids": [
+        "LA-044-001"
+      ],
+      "related_source_ids": [
+        "C044-S01",
+        "C044-S02",
+        "C044-S03",
+        "C044-S04",
+        "C044-S05",
+        "C044-S06"
+      ],
+      "active": false,
+      "semantic_test_admitted": true,
+      "semantic_admission_scope": "Completed qualitative local category comparison; not an established exclusive material rule or action/role construction."
+    },
+    {
+      "id": "DQ-044-02",
+      "topic": "Kalo Chorafi exact marked cups and manufacture/use grouping",
+      "status": "screened_parked_relationship_missing",
+      "priority_if_changed": "strongest_rejected_technical_opportunity",
+      "blocker": "Exact objects have different signs and reported marking stages, but no controlled maker/use/referent relationship; original target pixels uninspected.",
+      "reopening_condition": "Independent manufacture/use series including marked and unmarked objects, or an exact counterpart binding the writing to a relationship.",
+      "first_step": "Crosswalk AMR Pi36184/X4-A74-2014 and Pi36189/X13-A17-2018 to corpus identifiers; preserve uncertain extra stroke and collapsed-floor qualification.",
+      "stop_condition": "Different stages alone, another generic vessel parallel or isolated image without the missing relationship.",
+      "evidence_paths": [
+        "phases/2026-10-25/reconnaissance/TECHNICAL_RECONNAISSANCE.md",
+        "phases/2026-10-25/reconnaissance/TECHNICAL_SOURCE_LEDGER.json"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    },
+    {
+      "id": "DQ-044-03",
+      "topic": "HT24 /45 noduli exact find-position source",
+      "status": "parked_original_page_access_dependency",
+      "priority_if_changed": "strongest_rejected_linked_context_access_lead",
+      "blocker": "Original Privitera2025 target page unacquired; indexed excerpt cannot correct canonical grouping or prove reconciliation.",
+      "reopening_condition": "Readable original exact-location page and underlying excavation/find-context argument.",
+      "first_step": "Inspect original provenance, identities and distances, then ask whether an actual event relation differs between serious interpretations. Keep inherited HT24 metrology limits.",
+      "stop_condition": "Search excerpt only, room proximity, unchanged inaccessible route or repeat arithmetic fit.",
+      "evidence_paths": [
+        "phases/2026-10-25/reconnaissance/LINKED_RECONNAISSANCE.md",
+        "phases/2026-10-25/reconnaissance/LINKED_SOURCE_LEDGER.json"
+      ],
+      "related_dispositions": [
+        "B-D10"
+      ],
+      "active": false,
+      "semantic_test_admitted": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-25",
+  "phase_opened": "2026-10-24",
+  "iteration": 42,
+  "before": "B2026-10-18+C038–C041",
+  "after": "B2026-10-18+C038–C042",
+  "claims_added": [
+    "LA-042-001",
+    "LA-042-002"
+  ],
+  "experiment_access_records_added": [
+    "C042-CAPACITY-SCOPE"
+  ],
+  "sources_added": [
+    "C042-S01",
+    "C042-S02",
+    "C042-S03",
+    "C042-S04",
+    "C042-S05",
+    "C042-S06",
+    "C042-S07",
+    "C042-S08"
+  ],
+  "highest_level": "reading/source control and conditional structural/physical constraint",
+  "semantic_experiments_admitted": 0,
+  "new_semantic_relationships": 0,
+  "mission_achieved": false,
+  "new_to_scholarship": false,
+  "raw_corpus_unchanged": true,
+  "inherited_record_prefixes_unchanged": true,
+  "next_iteration": 43,
+  "next_iteration_created": false,
+  "remaining_discriminator": "Independent unit or scope relationship applicable to exact inscription; a new capacity measurement alone does not choose meaning."
+}

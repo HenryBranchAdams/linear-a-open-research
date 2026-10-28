@@ -1,0 +1,97 @@
+left,right,left_form,right_form,shared_non_generic_count,shared_non_generic,sign_edit_distance,warning
+HT 86,HT 95,QA-RA2-WA,QE-RA2-U,5,"[""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",2,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86,HT 95,A-KA-RU,QE-RA2-U,5,"[""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86,HT 95,A-KA-RU,DA-DU-MA-TA,5,"[""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86,HT 95,QA-RA2-WA,DA-DU-MA-TA,5,"[""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86,HT 95,A-KA-RU,DI-DE-RU-QE-RA2-U,5,"[""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",5,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86,HT 95,QA-RA2-WA,DI-DE-RU-QE-RA2-U,5,"[""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",5,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KU-NI-SU,KU-*79-NI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",2,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KA-SA-RU,KI-RE-TA2,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KA-SA-RU,KU-*79-NI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KA-SA-RU,QA-A310-I,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KA-SA-RU,RE-DI-SE,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KU-NI-SU,KI-RE-TA2,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KU-NI-SU,QA-A310-I,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KU-NI-SU,RE-DI-SE,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KU-NI-SU,WA-DU-NI-MI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-NA-TI,KI-RE-TA2,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-NA-TI,KU-*79-NI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-NA-TI,QA-A310-I,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-NA-TI,RE-DI-SE,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-RI-NA,KI-RE-TA2,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-RI-NA,KU-*79-NI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-RI-NA,QA-A310-I,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-RI-NA,RE-DI-SE,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KA-SA-RU,KI-KI-RA-JA,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KA-SA-RU,WA-DU-NI-MI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,KU-NI-SU,KI-KI-RA-JA,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-NA-TI,KI-KI-RA-JA,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-NA-TI,WA-DU-NI-MI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-RI-NA,KI-KI-RA-JA,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 10,HT 85,TA-RI-NA,WA-DU-NI-MI,4,"[""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""U-A325-ZA""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,U-DE-ZA,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",1,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,A324-DI-RA,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",2,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,KU-*56-NU,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",2,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,PO-TO-KU-RO,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",2,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,A324-DI-RA,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,A324-DI-RA,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,A324-DI-RA,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,A324-DI-RA,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,KU-*56-NU,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,KU-*56-NU,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,KU-*56-NU,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PA-RI-NE,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PA-RI-NE,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PA-RI-NE,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PA-RI-NE,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,QA-QA-RU,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,QA-QA-RU,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,QA-QA-RU,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,QA-QA-RU,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,SI-DA-RE,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,SI-DA-RE,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,SI-DA-RE,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,SI-DA-RE,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,U-DE-ZA,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,U-DE-ZA,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,U-DE-ZA,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,DA-RI-DA,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,KU-*56-NU,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,PA-RI-NE,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,QA-A310-I,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,QA-QA-RU,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,SI-DA-RE,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,U-DE-ZA,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,A324-DI-RA,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,JA-MI-DA-RE,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,JA-MI-DA-RE,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,JA-MI-DA-RE,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,JA-MI-DA-RE,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,JA-MI-DA-RE,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,JA-MI-DA-RE,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,KU-*56-NU,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,KU-*56-NU,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PA-RI-NE,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PA-RI-NE,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PO-TO-KU-RO,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PO-TO-KU-RO,KI-RE-TA2,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PO-TO-KU-RO,KU-*79-NI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PO-TO-KU-RO,RE-DI-SE,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PO-TO-KU-RO,U-A325-ZA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,PO-TO-KU-RO,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,QA-QA-RU,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,QA-QA-RU,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,SI-DA-RE,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,SI-DA-RE,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,U-DE-ZA,KI-KI-RA-JA,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 85,U-DE-ZA,WA-DU-NI-MI,3,"[""DA-RE"", ""DA-RI-DA"", ""QA-A310-I""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,DA-RI-DA,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,JA-MI-DA-RE,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,JA-MI-DA-RE,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,KU-*56-NU,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,PA-RI-NE,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,PO-TO-KU-RO,DI-NA-U,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,QA-A310-I,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,QA-QA-RU,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,SI-DA-RE,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 122,HT 9,U-DE-ZA,A-RU-KU-RO,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.

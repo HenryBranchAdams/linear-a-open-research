@@ -1,0 +1,509 @@
+{
+  "baseline_id": "B2026-10-18",
+  "created_on": "2026-10-18",
+  "kind": "retrospective_known_outcome_exposure_register",
+  "scope": "Core decision-bearing outcomes recovered in this review; not a census of every witness, source page or prior interaction.",
+  "unknown_is_not_unexposed": true,
+  "absence_from_this_ledger_does_not_establish_blindness": true,
+  "first_actual_exposure_dates_not_reconstructed": true,
+  "source_exposure_vs_computational_split": "A valid later train/test split does not erase earlier source, model-selection or outcome exposure.",
+  "currently_certified_unused_test_witnesses": [],
+  "policy_for_future_tests": [
+    "Record source/object/event/inferential independence separately.",
+    "Freeze exact component, reading branches, predictions, selection and criteria before unused outcome inspection.",
+    "Record revisions as discovery; select another unused observation when required.",
+    "A new article may expose every example at first reading."
+  ],
+  "entries": [
+    {
+      "id": "B-E01",
+      "witnesses_or_packet": [
+        "SYZa2"
+      ],
+      "known_exposed_outcomes": [
+        "Normalized ritual sequence, commodity/category argument and apparent numeral; later1→divider correction.",
+        "Used in INITIAL-R training and INITIAL-C alleged semantic holdout."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "First-Principles final, verified role-bearing subset and held-out/failure analysis.",
+      "reference_metadata_created_at": "2026-09-04T20:37:25.223464Z",
+      "metadata_time_is_not_freeze_time": true,
+      "source_keys": [
+        "S00a",
+        "S00b",
+        "S00c",
+        "S06",
+        "S07"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E02",
+      "witnesses_or_packet": [
+        "TLZa1"
+      ],
+      "known_exposed_outcomes": [
+        "Normalized sequence and later-frame association scored in INITIAL-R3/3 structural check."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "First-Principles final, verified role-bearing subset and construction discussion.",
+      "reference_metadata_created_at": "2026-09-04T20:37:25.223464Z",
+      "metadata_time_is_not_freeze_time": true,
+      "source_keys": [
+        "S00a",
+        "S00b"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E03",
+      "witnesses_or_packet": [
+        "IOZa6",
+        "IOZa2",
+        "KOZa1",
+        "PRZa1",
+        "PKZa11",
+        "ZAZb3"
+      ],
+      "known_exposed_outcomes": [
+        "Opening/frame structure, proposed variable-slot roles, additional constituents and counterexamples."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Initial First-Principles final discusses the listed ritual anchors/complications.",
+      "reference_metadata_created_at": "2026-09-04T20:37:25.223464Z",
+      "metadata_time_is_not_freeze_time": true,
+      "source_keys": [
+        "S00a",
+        "S00b",
+        "S00c"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E04",
+      "witnesses_or_packet": [
+        "Published17-member*301-family selection"
+      ],
+      "known_exposed_outcomes": [
+        "INITIAL-R reported1/3 exact majority-form prediction and3/3 family recognition; sample already selected for family membership."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Reproducible final, morphological-family test.",
+      "reference_metadata_created_at": "2026-09-04T21:29:04.993603Z",
+      "metadata_time_is_not_freeze_time": true,
+      "source_keys": [
+        "S00b"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E05",
+      "witnesses_or_packet": [
+        "HT28",
+        "HT95",
+        "HT122",
+        "ZA4",
+        "ZA15"
+      ],
+      "known_exposed_outcomes": [
+        "Original equation tests, mixed changes, late KU-DA1 and closed settlement-model failures."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Recheck and round3 reports; exact first exposure unestablished.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S01"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E06",
+      "witnesses_or_packet": [
+        "IOZa16",
+        "PKZa12",
+        "SASARA/ME word grids"
+      ],
+      "known_exposed_outcomes": [
+        "Damaged prefix, TE-*123 rival, RU-rule failures and cross-face continuations."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Recheck/nextstep and rounds3–6.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S01"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E07",
+      "witnesses_or_packet": [
+        "TA-NA forms",
+        "ZA9",
+        "KU-MI-NA forms",
+        "KA-PA/QE",
+        "RU-MA-TA/SE"
+      ],
+      "known_exposed_outcomes": [
+        "Published graphic variants, site confounding, ZA9 inconclusive reading and incomplete crossed paradigm."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Rounds5–10; not a newly unseen paradigm test.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S01"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E08",
+      "witnesses_or_packet": [
+        "HT24",
+        "Malia seal counts",
+        "Seal169 textile association"
+      ],
+      "known_exposed_outcomes": [
+        "ME alternatives, mass/conversion/yield sensitivity and seal-unit assumptions."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Rounds4–10; exact initial exposure unknown.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S01"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E09",
+      "witnesses_or_packet": [
+        "QI-TU-NE",
+        "SA-RU",
+        "DI-KI-SE"
+      ],
+      "known_exposed_outcomes": [
+        "Counted, heading, subheading and association patterns used in category selection."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iterations11–12, with some earlier occurrences already known.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S03"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E10",
+      "witnesses_or_packet": [
+        "HT34",
+        "HT100",
+        "HT118"
+      ],
+      "known_exposed_outcomes": [
+        "30[[7]]/37,4/6, paired25/10/5 and35/30 scope/error patterns."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iterations13–17 and review16; exact first exposure may predate these.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S02",
+        "S03",
+        "S04",
+        "S13",
+        "S14"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E11",
+      "witnesses_or_packet": [
+        "HT9"
+      ],
+      "known_exposed_outcomes": [
+        "Repeated-label amounts, nonincrease,1/60 remapping and separated PA3 block."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iterations18–19.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S03"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E12",
+      "witnesses_or_packet": [
+        "HT103",
+        "HT104",
+        "TI comparator census"
+      ],
+      "known_exposed_outcomes": [
+        "Damaged numeral and6.5 equality, PA3 scope, TI parses and source corrections."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iterations20–21 and26–27; source material may be earlier.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E13",
+      "witnesses_or_packet": [
+        "HT88",
+        "HT117a",
+        "HT94b"
+      ],
+      "known_exposed_outcomes": [
+        "KI-RO unit-list counts and broken5[ total."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iteration21/22 analysis; occurrences known earlier.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S04",
+        "S05"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E14",
+      "witnesses_or_packet": [
+        "HT30",
+        "HT114b",
+        "HT114a",
+        "HT121",
+        "HT89"
+      ],
+      "known_exposed_outcomes": [
+        "Rate/basket contrasts, VIN9 scope and corrected87 total."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Campaign22–31; some records present in prior discovery data.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S05"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E15",
+      "witnesses_or_packet": [
+        "HT86",
+        "HT95",
+        "HT85",
+        "HT122",
+        "Room7/9 cohort pool"
+      ],
+      "known_exposed_outcomes": [
+        "Five-label recurrence,120 equivalent20/10 permutations, room tails/four-label tie and3+2 partition."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Early recheck/prior scholarship for cohort; later25/33/34 for diagnostics.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S01",
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E16",
+      "witnesses_or_packet": [
+        "HT86a",
+        "HT108",
+        "HT120",
+        "DA-ME",
+        "KI-RE-TA-NA"
+      ],
+      "known_exposed_outcomes": [
+        "Following-sign compounds/families, source qualifiers and exact-sign census."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iteration34; label occurrences already captured earlier.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S08"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E17",
+      "witnesses_or_packet": [
+        "SYZa2",
+        "SYZa4",
+        "KOZa1",
+        "PKZa27"
+      ],
+      "known_exposed_outcomes": [
+        "Divider, original SI–A302 overlap, oil-substitution alignments, face-crossing words and shorter complete tail."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Cycles29 and iterations32–33; key witnesses exposed in initial reports.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E18",
+      "witnesses_or_packet": [
+        "THEZb13",
+        "KNZb34",
+        "A588",
+        "NM1160"
+      ],
+      "known_exposed_outcomes": [
+        "Prefiring phase, paint/incision account, uncertain numbers/designation, compound-only parallel and context qualification."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "THEZb13/parallel already in inherited2005 source; investigations35–36 and baseline primary check.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S09",
+        "S10",
+        "P01"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E19",
+      "witnesses_or_packet": [
+        "HTWa1031",
+        "HTWa1117",
+        "HTWa1118",
+        "HMs1715",
+        "CMSII.6.68",
+        "CMSII.7.45"
+      ],
+      "known_exposed_outcomes": [
+        "Device membership, AB01/AB02 contrast and provenance qualifications."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Earlier seal work plus iteration35 exact crosswalk.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S01",
+        "S09"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E20",
+      "witnesses_or_packet": [
+        "PHWa32",
+        "PHWa52",
+        "HMs689",
+        "HMs789θ"
+      ],
+      "known_exposed_outcomes": [
+        "Reading conflict, secondary fill, contact/attachment distinction, enumerations and packet separation."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iterations34–37; Flouda full argument remains uninspected.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S08",
+        "S09",
+        "S10",
+        "S11"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    },
+    {
+      "id": "B-E21",
+      "witnesses_or_packet": [
+        "AkrotiriN69",
+        "AkrotiriN70"
+      ],
+      "known_exposed_outcomes": [
+        "Missing lower half/unknown incision, illegible N70 and missing exact sample/marking join."
+      ],
+      "exposure_status": "known_exposed_to_listed_outcomes",
+      "first_actual_exposure_at": null,
+      "earliest_recovered_reference": "Iteration35.",
+      "reference_metadata_created_at": null,
+      "metadata_time_is_not_freeze_time": null,
+      "source_keys": [
+        "S09",
+        "S11"
+      ],
+      "eligible_as_unseen_test_for_listed_outcomes": false,
+      "scope": "Does not exhaust all possible observations of these objects; genuinely new independent features require a separately documented test."
+    }
+  ],
+  "future_entry_template": {
+    "witness": null,
+    "target_observation": null,
+    "prior_source_exposure": null,
+    "first_observed_at": null,
+    "freeze_artifact": null,
+    "freeze_timestamp": null,
+    "rival_predictions": null,
+    "independent_test_unit": null,
+    "result": null,
+    "status": "template_only_not_an_experiment"
+  }
+}

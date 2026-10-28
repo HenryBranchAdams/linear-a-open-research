@@ -1,0 +1,105 @@
+{
+  "status": "conditional deterministic calculation; no confidence intervals or new measurement",
+  "ZA_source_tolerance_L": [
+    494.84,
+    617.16
+  ],
+  "rows": [
+    {
+      "KN_numeral": 107,
+      "ZA_numeral": 32,
+      "KN_implied_full_unit_L": 0.3177570093457944,
+      "ZA_implied_full_unit_L": 17.375,
+      "ZA_to_KN_implied_unit_ratio": 54.68014705882353,
+      "required_KN_capacity_at_ZA_lower_L": 1654.62125,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.01828817319975795,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.02054850921321118
+    },
+    {
+      "KN_numeral": 107,
+      "ZA_numeral": 22,
+      "KN_implied_full_unit_L": 0.3177570093457944,
+      "ZA_implied_full_unit_L": 25.272727272727273,
+      "ZA_to_KN_implied_unit_ratio": 79.53475935828877,
+      "required_KN_capacity_at_ZA_lower_L": 2406.721818181818,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.012573119074833591,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.014127100084082687
+    },
+    {
+      "KN_numeral": 107,
+      "ZA_numeral": 21,
+      "KN_implied_full_unit_L": 0.3177570093457944,
+      "ZA_implied_full_unit_L": 26.476190476190474,
+      "ZA_to_KN_implied_unit_ratio": 83.32212885154061,
+      "required_KN_capacity_at_ZA_lower_L": 2521.327619047619,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.012001613662341155,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.013484959171169836
+    },
+    {
+      "KN_numeral": 117,
+      "ZA_numeral": 32,
+      "KN_implied_full_unit_L": 0.2905982905982906,
+      "ZA_implied_full_unit_L": 17.375,
+      "ZA_to_KN_implied_unit_ratio": 59.79044117647059,
+      "required_KN_capacity_at_ZA_lower_L": 1809.25875,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.016725081473282912,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.018792226374475182
+    },
+    {
+      "KN_numeral": 117,
+      "ZA_numeral": 22,
+      "KN_implied_full_unit_L": 0.2905982905982906,
+      "ZA_implied_full_unit_L": 25.272727272727273,
+      "ZA_to_KN_implied_unit_ratio": 86.96791443850267,
+      "required_KN_capacity_at_ZA_lower_L": 2631.649090909091,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.011498493512882003,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.012919655632451687
+    },
+    {
+      "KN_numeral": 117,
+      "ZA_numeral": 21,
+      "KN_implied_full_unit_L": 0.2905982905982906,
+      "ZA_implied_full_unit_L": 26.476190476190474,
+      "ZA_to_KN_implied_unit_ratio": 91.10924369747899,
+      "required_KN_capacity_at_ZA_lower_L": 2756.9657142857145,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.01097583471684191,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.012332398558249339
+    },
+    {
+      "KN_numeral": 17,
+      "ZA_numeral": 32,
+      "KN_implied_full_unit_L": 2.0,
+      "ZA_implied_full_unit_L": 17.375,
+      "ZA_to_KN_implied_unit_ratio": 8.6875,
+      "required_KN_capacity_at_ZA_lower_L": 262.88375,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.11510791366906475,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.12933473445962332
+    },
+    {
+      "KN_numeral": 17,
+      "ZA_numeral": 22,
+      "KN_implied_full_unit_L": 2.0,
+      "ZA_implied_full_unit_L": 25.272727272727273,
+      "ZA_to_KN_implied_unit_ratio": 12.636363636363637,
+      "required_KN_capacity_at_ZA_lower_L": 382.37636363636364,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.07913669064748201,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.08891762994099103
+    },
+    {
+      "KN_numeral": 17,
+      "ZA_numeral": 21,
+      "KN_implied_full_unit_L": 2.0,
+      "ZA_implied_full_unit_L": 26.476190476190474,
+      "ZA_to_KN_implied_unit_ratio": 13.238095238095237,
+      "required_KN_capacity_at_ZA_lower_L": 400.5847619047619,
+      "ZA_fill_fraction_if_KN_full_same_unit": 0.07553956834532374,
+      "ZA_fill_fraction_upper_at_ZA_lower": 0.0848759194891278
+    }
+  ],
+  "post_hoc_geometry": {
+    "height_m": 0.53,
+    "premises": "Approximately axisymmetric vessel; all horizontal outer diameters <= reported 53 cm height; published profile preserves shape",
+    "outer_enclosing_cylinder_L": 116.92772237212193,
+    "warning": "Conditional upper bound, not measured internal capacity and not an independent second ancient observation"
+  }
+}

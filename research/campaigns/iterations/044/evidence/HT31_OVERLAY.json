@@ -1,0 +1,208 @@
+{
+  "schema_version": "ht31-exact-row-overlay-1",
+  "purpose": "Reading and source-scope control for C044; no normalization or corpus correction",
+  "source": {
+    "project_relative_path": "corpus/discovery_snapshot.json",
+    "sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+    "records": 1721,
+    "record_id": "HT31",
+    "extraction": "All decoded JSON field values and array order copied exactly; serialization whitespace is not part of this claim"
+  },
+  "audit": {
+    "exact_token": "*410-VS",
+    "field": "transliteratedWords",
+    "record_matches": [
+      "HT31"
+    ],
+    "target_zero_based_positions": [
+      5
+    ],
+    "scope_limit": "Only the exact encoding in this frozen snapshot; not proof of unique ancient attestation across editions, allographs, omissions or different notations",
+    "validation": "Exact row equality with source checked after output serialization; source hash checked again after extraction"
+  },
+  "raw_row": {
+    "support": "Tablet",
+    "transliteratedWords": [
+      "𐄁",
+      "TI-SA",
+      "𐄁",
+      "PU-KO",
+      "𐄁",
+      "*410-VS",
+      "𐝫",
+      "\n",
+      "5",
+      "\n",
+      "*815-QA-PA₃",
+      "10",
+      "\n",
+      "*415-VS-SU-PU",
+      "10",
+      "\n",
+      "*416-VS-KA-RO-PA₃",
+      "10",
+      "\n",
+      "SA-JA-MA",
+      "30",
+      "\n",
+      "10",
+      "\n",
+      "KI-DE-MA-*323-NA",
+      "\n",
+      "*815",
+      "400",
+      "\n",
+      "*815-SU-PA₃-RA",
+      "300",
+      "\n",
+      "*815-PA-TA-QE",
+      "3000"
+    ],
+    "words": [
+      "𐄁",
+      "𐝫𐘠𐘞",
+      "𐄁",
+      "𐘫𐘺",
+      "𐄁",
+      "𐚪",
+      "𐝫",
+      "\n",
+      "𐝫𐄋",
+      "\n",
+      "𐚢𐘌𐘰",
+      "𐄐",
+      "\n",
+      "𐚯𐘲𐘫",
+      "𐄐",
+      "\n",
+      "𐝫𐚰𐘾𐘁𐘰",
+      "𐄐",
+      "\n",
+      "𐘞𐘱𐙁",
+      "𐄒𐝫",
+      "\n",
+      "𐝫𐄐",
+      "\n",
+      "𐘸𐘦𐙁𐙯𐘅",
+      "\n",
+      "𐚢",
+      "𐄜",
+      "\n",
+      "𐚢𐘲𐘰𐘴",
+      "𐄛",
+      "\n",
+      "𐚢𐘂𐘳𐘿",
+      "𐄤"
+    ]
+  },
+  "annotation_convention": "Indices are zero-based positions in both parallel raw arrays. Annotations do not replace any field or propose a normalized row.",
+  "annotations": [
+    {
+      "indices": [
+        1
+      ],
+      "issue": "Initial word and damage",
+      "snapshot": "TI-SA; paired raw string 𐝫𐘠𐘞 preserves the initial damage marker",
+      "editions": "Militello2011 p275 transcribes i-ti-sa; Duhoux2000–2001 pp34–35 discusses i-ti-sa",
+      "rule": "Retain TI-SA and its damaged raw counterpart; do not silently supply the initial I in the frozen row"
+    },
+    {
+      "indices": [
+        3,
+        5
+      ],
+      "issue": "PU-KO scope",
+      "alternatives": [
+        "PU-KO belongs with the preceding word in a two-word heading",
+        "PU-KO qualifies the following vessel sign"
+      ],
+      "sources": [
+        "Militello2011 p276",
+        "Duhoux2000–2001 p35"
+      ],
+      "rule": "No material gloss adopted; the proposed bronze gloss depends on both scope and the object interpretation"
+    },
+    {
+      "indices": [
+        5,
+        6,
+        8
+      ],
+      "issue": "Target, damage and following numeral",
+      "snapshot": "*410-VS / 𐚪 followed by separate 𐝫; later 5 is paired with 𐝫𐄋",
+      "alternatives": [
+        "The surviving 5 belongs to a different lost entry",
+        "The 5 is a surviving part of a larger damaged quantity of tripods"
+      ],
+      "sources": [
+        "Militello2011 p275",
+        "Duhoux2000–2001 pp35–36"
+      ],
+      "rule": "Do not assign quantity 5 directly to A410; no quantitative fit is used in C044"
+    },
+    {
+      "indices": [
+        5
+      ],
+      "issue": "Target notation and supposed upper ligature",
+      "notations": {
+        "frozen_snapshot": "*410-VS",
+        "Militello_GORILA": "A410VAS",
+        "Duhoux_Raison_Pope": "LA545 / VASd1"
+      },
+      "source_control": "Duhoux p33 reports Olivier's macrophotograph showing two small stones, not writing, above/between the handles. Present page previews do not independently resolve those tiny marks.",
+      "rule": "Do not create a target ligature or merge the target with A411"
+    },
+    {
+      "indices": [
+        10,
+        13,
+        16,
+        26,
+        29,
+        32
+      ],
+      "issue": "Other vessel and syllabic notation",
+      "snapshot": "*815, *415-VS, *416-VS and PA₃ remain as encoded",
+      "editions": "Militello p275 uses A432VAS, A415VAS, A416VAS and *56; lower vessels are represented as VAS in that transcription",
+      "rule": "Preserve source namespaces without substituting A432 for *815 or *56 for PA₃ in the frozen record; no fresh phonetic identification follows"
+    },
+    {
+      "indices": [
+        16,
+        19,
+        20,
+        22,
+        24
+      ],
+      "issue": "Damage, intermediate rows and numeral uncertainty",
+      "snapshot": "Raw index16 begins with 𐝫; SA-JA-MA has encoded30 paired with 𐄒𐝫; separate10 is paired with 𐝫𐄐; KI-DE-MA-*323-NA follows",
+      "editions": "Militello p275 gives 30 (or20) after SA-JA-MA and alternative losses around the following10; p276 regards the vessel-list continuation of row4 as hypothetical",
+      "rule": "Keep encoded30 and all damage unchanged while recording the edition's30/20 alternative; do not assert all intermediate word groups are securely vessel names"
+    },
+    {
+      "indices": [
+        24
+      ],
+      "issue": "Internal edition discrepancy",
+      "snapshot": "KI-DE-MA-*323-NA",
+      "editions": "Militello2011 p275 prints ki-de-ma-A323-na; prose p276 prints ki-de-ma-A326",
+      "rule": "Retain both source readings as a discrepancy; no correction adopted and C044 does not depend on this group"
+    },
+    {
+      "indices": [
+        26,
+        27,
+        29,
+        30,
+        32,
+        33
+      ],
+      "issue": "Lower entries and interpretation",
+      "snapshot": "400,300,3000 preserved exactly",
+      "editions": "Militello p275 notes preceding row5 vestiges; p276 allows names or descriptive characteristics in vessel ligatures",
+      "rule": "No arithmetic closure, capacity fit, transaction direction, or participant role inferred from these entries"
+    }
+  ],
+  "evidentiary_limit": "The software check verifies snapshot preservation and selection only. It supplies no independent ancient semantic observation."
+}

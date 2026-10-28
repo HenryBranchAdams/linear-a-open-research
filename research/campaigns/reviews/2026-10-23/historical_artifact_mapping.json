@@ -1,0 +1,116 @@
+{
+  "review_date": "2026-10-23",
+  "method": "Exact byte equality against original retained baseline archives; filenames not used as proof.",
+  "files": [
+    {
+      "name": "SARU_DOSSIER.md",
+      "sha256": "9910960bfdc70270be322cccba8bc3f692b568a3fb365310f0e9dbbe3c963453",
+      "size_bytes": 809,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_11.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_11/iterations/011/notes/SARU_DOSSIER.md"
+        }
+      ]
+    },
+    {
+      "name": "TOP_CANDIDATE_DOSSIER.md",
+      "sha256": "47eeedcb439a90568767876a48259032d4d9cb8ee0daabbcab4d3052a2f711e2",
+      "size_bytes": 1700,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_14.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_14/iterations/014/notes/TOP_CANDIDATE_DOSSIER.md"
+        }
+      ]
+    },
+    {
+      "name": "KIRO_SEMANTICS.md",
+      "sha256": "51cc8953d5089dd58c7542d4528e1474d3e403e47c9fc430035e7cf19c99c226",
+      "size_bytes": 1275,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_13.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_13/iterations/013/notes/KIRO_SEMANTICS.md"
+        }
+      ]
+    },
+    {
+      "name": "HT100_POLARITY.md",
+      "sha256": "67fd290950e1730d7694396a43ecb5c4ffcc59de0cb064d8fa2372a50056c8e3",
+      "size_bytes": 864,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_14.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_14/iterations/014/notes/HT100_POLARITY.md"
+        }
+      ]
+    },
+    {
+      "name": "SOURCE_AUDIT.md",
+      "sha256": "49934def5079ca10805bef2525741b503687986d3159cbcb27cb2c86be18c3b7",
+      "size_bytes": 1761,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_15_HT100.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_15_HT100/iterations/015/notes/SOURCE_AUDIT.md"
+        }
+      ]
+    },
+    {
+      "name": "EPIGRAPHIC_ADJUDICATION.md",
+      "sha256": "c15e4dddf8808a34a4f626447401054901de7996b3ef83848e7100408a5a0618",
+      "size_bytes": 1379,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_15_HT100.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_15_HT100/iterations/015/notes/EPIGRAPHIC_ADJUDICATION.md"
+        }
+      ]
+    },
+    {
+      "name": "derived_findings.json",
+      "sha256": "8afab50a49d4071c2388fc664e55811964b6e95dab06779aaa04c85a2833faf8",
+      "size_bytes": 791,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_12.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_12/iterations/012/results/derived_findings.json"
+        }
+      ]
+    },
+    {
+      "name": "HT34_SCRIBAL_CORRECTION.md",
+      "sha256": "e6c833af2efc35867e05c7c16f1773cbd8e638a5c84f107deb8dd7da3c74cd58",
+      "size_bytes": 902,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_16_Breakthrough.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_16_Breakthrough/iterations/016/notes/HT34_SCRIBAL_CORRECTION.md"
+        }
+      ]
+    },
+    {
+      "name": "HT118_PERSON_DEFICIT.md",
+      "sha256": "76c063a14dde0590941c8ac966a85f1ce447ef0f3ec988205a69138a954733db",
+      "size_bytes": 873,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Workspace_Iteration_16_Breakthrough.zip",
+          "member": "Linear_A_Research_Workspace_Iteration_16_Breakthrough/iterations/016/notes/HT118_PERSON_DEFICIT.md"
+        }
+      ]
+    },
+    {
+      "name": "results.json",
+      "sha256": "68b3b96303b0fea21f50729a506d7cf2c20a196136a3df35417d45aacfbe78c3",
+      "size_bytes": 12950,
+      "exact_archive_matches": [
+        {
+          "archive": "history/Linear_A_Research_Iteration_19.zip",
+          "member": "Linear_A_Iteration_19/results/results.json"
+        }
+      ]
+    }
+  ]
+}

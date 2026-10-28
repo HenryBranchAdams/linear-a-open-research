@@ -1,0 +1,41 @@
+{
+  "reviewer": "/root/challenger",
+  "checks": [
+    {
+      "file": "claims.json",
+      "inherited_count": 83,
+      "current_count": 84,
+      "inherited_prefix_equal": true,
+      "expected_counts_equal": true,
+      "appended_ids": [
+        "LA-040-001"
+      ]
+    },
+    {
+      "file": "experiments.json",
+      "inherited_count": 32,
+      "current_count": 34,
+      "inherited_prefix_equal": true,
+      "expected_counts_equal": true,
+      "appended_ids": [
+        "C040-THREE-PACKET-SCREEN",
+        "C040-AKROTIRI-9384-9730"
+      ]
+    },
+    {
+      "file": "sources.json",
+      "inherited_count": 104,
+      "current_count": 109,
+      "inherited_prefix_equal": true,
+      "expected_counts_equal": true,
+      "appended_ids": [
+        "C040-S01",
+        "C040-S02",
+        "C040-S03",
+        "C040-S04",
+        "C040-S05"
+      ]
+    }
+  ],
+  "all_pass": true
+}

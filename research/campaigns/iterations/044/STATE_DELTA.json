@@ -1,0 +1,28 @@
+{
+  "campaign": "C044",
+  "status": "completed_closed_reviewed",
+  "highest_level": "graded local semantic preference for vessel class; conditional material/scope constraint",
+  "claim_ids": [
+    "LA-044-001"
+  ],
+  "experiment_ids": [
+    "C044-VESSEL-CLASS"
+  ],
+  "source_ids": [
+    "C044-S01",
+    "C044-S02",
+    "C044-S03",
+    "C044-S04",
+    "C044-S05",
+    "C044-S06"
+  ],
+  "semantic_experiment_admitted": true,
+  "semantic_test_kind": "qualitative local class comparison",
+  "graded_semantic_preference": true,
+  "new_semantic_relationship": false,
+  "established_binding_definition": "No exclusive material extension, action, role or linguistic construction established.",
+  "new_archaeological_discovery": false,
+  "new_to_scholarship": false,
+  "unused_validation": false,
+  "next_action": "Obtain Duhoux2003 section4.1.2 through a changed legitimate route, then inspect exact ceramic comparanda; no renewed generic tripod search."
+}

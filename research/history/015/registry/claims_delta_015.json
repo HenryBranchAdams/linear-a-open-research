@@ -1,0 +1,32 @@
+[
+  {
+    "id": "LA-015-001",
+    "claim": "The damaged HT100 quantity after *304+PA can be securely read as 4.",
+    "disposition": "not_supported",
+    "reason": "4 is a restoration in Was/Uchitel; GORILA and current derivative transcriptions do not securely preserve it."
+  },
+  {
+    "id": "LA-015-002",
+    "claim": "The damaged HT100 quantity after *304+PA can be securely read as 6.",
+    "disposition": "not_supported",
+    "reason": "6 is the CTLA/Montecchi-side reading; the primary critical edition does not securely preserve it."
+  },
+  {
+    "id": "LA-015-003",
+    "claim": "The best current epigraphic transcription leaves the quantity unresolved.",
+    "disposition": "supported_source_critical_result",
+    "reason": "GORILA lacks a secure numeral and two modern GORILA-derived transcriptions preserve a gap/unknown."
+  },
+  {
+    "id": "LA-015-004",
+    "claim": "HT100 independently establishes KI as positive/included or negative/excluded.",
+    "disposition": "not_identifiable",
+    "reason": "4 makes KI 2 inclusive; 6 makes KI 2 exclusive. Neither numeral is independently secured."
+  },
+  {
+    "id": "LA-015-005",
+    "claim": "The KU-RO 97 total can be used to choose the damaged numeral for purposes of determining KI polarity.",
+    "disposition": "methodologically_invalid",
+    "reason": "That would use the target semantic relation to restore the evidence meant to test that same relation."
+  }
+]

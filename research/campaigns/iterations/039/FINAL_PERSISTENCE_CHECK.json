@@ -1,0 +1,11 @@
+{
+  "checked_at_utc": "2026-10-22T10:26:40.057639+00:00",
+  "actual_registry_totals": [
+    83,
+    32,
+    104
+  ],
+  "final_reviewer_registry_condition": "satisfied by lead after appending; reviewer did not certify final persistence",
+  "source_scope": "text only; no figure/autopsy replication",
+  "status": "ready_for_preservation_check"
+}

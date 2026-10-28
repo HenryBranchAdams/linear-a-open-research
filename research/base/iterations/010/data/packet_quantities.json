@@ -1,0 +1,125 @@
+{
+  "experiment_id": "R10-PACKET-SCALE",
+  "selection": "Retrospective diagnostic of top corpus packet; not a preregistered or held-out discovery.",
+  "sources": {
+    "GORILA_I_135": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=171&max_image_size=1",
+    "GORILA_I_155": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=191&max_image_size=1"
+  },
+  "source_access": "Primary edition drawings and normalized sign/number tables visually inspected in this iteration; transliteration uses conventional Linear B-based labels, not deciphered language.",
+  "facts": {
+    "HT86a": {
+      "header_1": "A-KA-RU",
+      "header_2": "A-DU",
+      "commodity_1": "GRA+K+L2",
+      "commodity_2": "GRA+B",
+      "rows": [
+        {
+          "label": "KU-NI-SU",
+          "quantity": 20,
+          "section": 1
+        },
+        {
+          "label": "SA-RU",
+          "quantity": 20,
+          "section": 1
+        },
+        {
+          "label": "DI-DE-RU",
+          "quantity": 20,
+          "section": 1
+        },
+        {
+          "label": "QA-RA2-WA",
+          "quantity": 10,
+          "section": 1
+        },
+        {
+          "label": "DA-ME",
+          "quantity": 20,
+          "section": 2
+        },
+        {
+          "label": "MI-NU-TE",
+          "quantity": 20,
+          "section": 2
+        }
+      ]
+    },
+    "HT95a": {
+      "header": "DA-DU-MA-TA",
+      "commodity": "GRA",
+      "rows": [
+        {
+          "label": "DA-ME",
+          "quantity": 10
+        },
+        {
+          "label": "MI-NU-TE",
+          "quantity": 10,
+          "reading_note": "surface/sign uncertainty retained in edition-derived witness audit"
+        },
+        {
+          "label": "SA-RU",
+          "quantity": 20
+        },
+        {
+          "label": "KU-NI-SU",
+          "quantity": 10,
+          "reading_note": "SU damaged; not a fully secure word in strict raw SigLA scan"
+        },
+        {
+          "label": "DI-DE-RU",
+          "quantity": 10
+        },
+        {
+          "label": "QE-RA2-U",
+          "quantity": 7
+        }
+      ]
+    },
+    "HT95b": {
+      "header": "A-DU",
+      "commodity": null,
+      "commodity_note": "No explicit grain logogram on this face; do not silently inherit unchanged unit from face a. Uncertain isolated sign precedes DA-ME.",
+      "rows": [
+        {
+          "label": "SA-RU",
+          "quantity": 10
+        },
+        {
+          "label": "DA-ME",
+          "quantity": 10,
+          "reading_note": "GORILA I155 supports ME; frozen SigLA labels DA-ZA; raw snapshot preserved"
+        },
+        {
+          "label": "MI-NU-TE",
+          "quantity": 10
+        },
+        {
+          "label": "KU-NI-SU",
+          "quantity": 10
+        },
+        {
+          "label": "DI-DE-RU",
+          "quantity": 10
+        },
+        {
+          "label": "QE-RA2-U",
+          "quantity": 10
+        }
+      ]
+    }
+  },
+  "hypothetical_pair": {
+    "left": "QA-RA2-WA",
+    "right": "QE-RA2-U",
+    "status": "published possible variant, not demonstrated same referent"
+  },
+  "dependencies": [
+    "same historical transaction or equivalent quantities",
+    "common conversion factor across all entries",
+    "stable commodity meaning/unit despite differing grain composites and headings",
+    "Q forms identify same account only in the extended test"
+  ],
+  "prior_work": "HT95a/b mixed increases/decreases already analyzed in early project recheck; reproduced here solely as inherited control. Roster and Q-form resemblance were previously published. Novelty of scale diagnostic not established."
+}

@@ -1,0 +1,367 @@
+left,right,cross_site,same_object,shared_count,shared,rarity_bits,jaccard,left_only,right_only,shared_context_frequency,rank
+HT 86a,HT 95b,False,False,5,"[""A-DU"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",29.851641,0.5,"[""A-KA-RU"", ""DA-ME"", ""QA-RA2-WA""]","[""DA-ZA"", ""QE-RA2-U""]","{""A-DU"": 7, ""DI-DE-RU"": 2, ""KU-NI-SU"": 4, ""MI-NU-TE"": 3, ""SA-RU"": 6}",1
+HT 122a,HT 9a,False,False,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",18.727428,0.166667,"[""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""A-RU-KU-RO"", ""DI-NA-U"", ""QE-PU"", ""SA-RO"", ""TA-I-*123""]","{""A306-TU"": 4, ""A324-DI-RA"": 3, ""PA-DE"": 3}",2
+HT 122a,HT 9b,False,False,3,"[""A306-TU"", ""A324-DI-RA"", ""PA-DE""]",18.727428,0.166667,"[""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""A-SI"", ""DI-NA-U"", ""KA-A305"", ""QE-PU"", ""TA-I-*123""]","{""A306-TU"": 4, ""A324-DI-RA"": 3, ""PA-DE"": 3}",3
+HT 10a,HT 85a,False,False,3,"[""DA-RE"", ""DA-RI-DA"", ""U-A325-ZA""]",18.575425,0.25,"[""A305-RU"", ""KU-NI-SU"", ""ME-ZA"", ""SA-MA""]","[""*56-NI"", ""A-DU"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE""]","{""DA-RE"": 5, ""DA-RI-DA"": 4, ""U-A325-ZA"": 2}",4
+HT 86a,HT 95a,False,False,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",18.142465,0.3,"[""A-DU"", ""A-KA-RU"", ""DI-DE-RU"", ""KU-NI-SU"", ""QA-RA2-WA""]","[""DA-DU-MA-TA"", ""DI-DE-RU-QE-RA2-U""]","{""DA-ME"": 3, ""MI-NU-TE"": 3, ""SA-RU"": 6}",5
+HT 117b,HT 87,False,False,2,"[""DI-KI-SE"", ""QIF-TU-NE""]",13.346606,0.25,"[""KU-RE-JU""]","[""JA-RE-MI"", ""KU-RU-KU"", ""MA-KA-RI-TE"", ""PI-TA-KE-SI"", ""QE-SU-PU""]","{""DI-KI-SE"": 2, ""QIF-TU-NE"": 3}",6
+ZA 15a,ZA 4a,False,False,2,"[""IB-NU-MA-RE"", ""QE-SI-*79-E""]",13.346606,0.142857,"[""*47-KU-NA"", ""A364-KE-MA-SE"", ""I-TI-NI-SA"", ""JA-SA-MU"", ""MI-DA-E"", ""MI-ZA-SE""]","[""A-TI-RU"", ""E-*82"", ""JA-PA"", ""JA-TO-JA"", ""KA-DI"", ""SI-PI-KI""]","{""IB-NU-MA-RE"": 3, ""QE-SI-*79-E"": 2}",7
+ZA 4a,ZA 5b,False,False,2,"[""IB-NU-MA-RE"", ""SI-PI-KI""]",13.346606,0.222222,"[""A-TI-RU"", ""E-*82"", ""JA-PA"", ""JA-TO-JA"", ""KA-DI"", ""QE-SI-*79-E""]","[""MA-KA-I-TA""]","{""IB-NU-MA-RE"": 3, ""SI-PI-KI"": 2}",8
+HT 122a,HT 13,False,False,2,"[""DA-SI-*118"", ""TE-KI""]",12.931569,0.111111,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""U-DE-ZA""]","[""I-DU-NE-SI"", ""KA-U-DE-TA"", ""KU-*79-NI"", ""RE-ZA"", ""TE-TU""]","{""DA-SI-*118"": 4, ""TE-KI"": 2}",9
+HT 13,HT 85a,False,False,2,"[""DA-SI-*118"", ""KU-*79-NI""]",12.931569,0.153846,"[""I-DU-NE-SI"", ""KA-U-DE-TA"", ""RE-ZA"", ""TE-KI"", ""TE-TU""]","[""*56-NI"", ""A-DU"", ""DA-RE"", ""DA-RI-DA"", ""TE-KE"", ""U-A325-ZA""]","{""DA-SI-*118"": 4, ""KU-*79-NI"": 2}",10
+HT 17,HT 19,False,False,2,"[""RA-*164A-TI"", ""SA-RO""]",12.931569,0.5,"[""SI-DA-RE""]","[""DU-ME-DI""]","{""RA-*164A-TI"": 2, ""SA-RO"": 4}",11
+HT 10b,HT 7a,False,False,2,"[""DA-RE"", ""TA-NA-TI""]",12.024678,0.2,"[""A312-TA"", ""KA-SA-RU"", ""TA-RI-NA"", ""U-TI""]","[""DU-JA"", ""I-RU-JA"", ""QE-TI"", ""TE-TU""]","{""DA-RE"": 5, ""TA-NA-TI"": 3}",12
+HT 122a,HT 85a,False,False,2,"[""DA-RI-DA"", ""DA-SI-*118""]",11.931569,0.105263,"[""A306-TU"", ""A324-DI-RA"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""*56-NI"", ""A-DU"", ""DA-RE"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","{""DA-RI-DA"": 4, ""DA-SI-*118"": 4}",13
+HT 86b,HT 95b,False,False,2,"[""KU-NI-SU"", ""SA-RU""]",11.346606,0.222222,"[""A-KA-RU"", ""DI-DE""]","[""A-DU"", ""DA-ZA"", ""DI-DE-RU"", ""MI-NU-TE"", ""QE-RA2-U""]","{""KU-NI-SU"": 4, ""SA-RU"": 6}",14
+HT 102,HT 93a,False,False,2,"[""DI-RI-NA"", ""SA-RA2""]",10.931569,0.153846,"[""*56-NI"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""KI-DI-NI"", ""QA-QA-RU""]","{""DI-RI-NA"": 2, ""SA-RA2"": 16}",15
+HT 114a,HT 121,False,False,2,"[""KI-RI-TA2"", ""SA-RA2""]",10.931569,1.0,[],[],"{""KI-RI-TA2"": 2, ""SA-RA2"": 16}",16
+HT 102,HT 94a,False,False,2,"[""KA-PA"", ""SA-RA2""]",9.60964,0.285714,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""MA-*79""]","[""A318-A306""]","{""KA-PA"": 5, ""SA-RA2"": 16}",17
+HS Zg 1,MA 1b,True,False,1,"[""A-MA""]",6.965784,0.5,[],"[""QE-DE-MI-NU""]","{""A-MA"": 2}",18
+HT 1,HT 95b,False,False,1,"[""QE-RA2-U""]",6.965784,0.090909,"[""*79-SU"", ""A-RA-NA-RE"", ""DI-DI-ZA-KE"", ""KU-*56-NU""]","[""A-DU"", ""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]","{""QE-RA2-U"": 2}",19
+HT 102,HT 85a,False,False,1,"[""*56-NI""]",6.965784,0.076923,"[""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79"", ""SA-RA2""]","[""A-DU"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","{""*56-NI"": 2}",20
+HT 102,HT 91,False,False,1,"[""I-KA""]",6.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""KA-PA"", ""MA-*79"", ""SA-RA2""]","[""TE-RI""]","{""I-KA"": 2}",21
+HT 103,ZA 8,True,False,1,"[""KI-RA""]",6.965784,0.083333,"[""*56-DA-KU-SE-NE"", ""DA-KU-NA"", ""DA-KU-SE-NE"", ""U-TA2""]","[""A-RI-NI-TA"", ""A-TA-RE"", ""DA-I-PI-TA"", ""KA-I-RO"", ""KU-TU-KO-RE"", ""MA-KA-I-SE"", ""TA-I-NU-MA-PA""]","{""KI-RA"": 2}",22
+HT 10a,HT 85b,False,False,1,"[""ME-ZA""]",6.965784,0.071429,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""KU-NI-SU"", ""SA-MA"", ""U-A325-ZA""]","[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""MA-DI"", ""QA-A310-I"", ""QE-KA"", ""RE-DI-SE"", ""WA-DU-NI-MI""]","{""ME-ZA"": 2}",23
+HT 116a,HT 28b,False,False,1,"[""PU-RA2""]",6.965784,0.090909,"[""KU-PA-JA"", ""PI-*34-TE"", ""QA-NU-MA"", ""SI-KI-NE"", ""U-TA-RO""]","[""A-SI-JA-KA"", ""JA-QIF"", ""SA-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""PU-RA2"": 2}",24
+HT 117a,HT 28b,False,False,1,"[""U-MI-NA-SI""]",6.965784,0.043478,"[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-*56-NU"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-KA-RI-TE"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-SU""]","[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""SA-RA2"", ""WI-DI-NA""]","{""U-MI-NA-SI"": 2}",25
+HT 117a,HT 87,False,False,1,"[""MA-KA-RI-TE""]",6.965784,0.041667,"[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-*56-NU"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-MI-NA-SI"", ""U-SU""]","[""DI-KI-SE"", ""JA-RE-MI"", ""KU-RU-KU"", ""PI-TA-KE-SI"", ""QE-SU-PU"", ""QIF-TU-NE""]","{""MA-KA-RI-TE"": 2}",26
+HT 117b,HT 39,False,False,1,"[""KU-RE-JU""]",6.965784,0.2,"[""DI-KI-SE"", ""QIF-TU-NE""]","[""SA-MA-TI"", ""TA-I-*123""]","{""KU-RE-JU"": 2}",27
+HT 119,HT 47a,False,False,1,"[""KU-*56-NA-TU""]",6.965784,0.166667,"[""A306-TU"", ""A327-JU"", ""JA-A345"", ""KO-JA"", ""RI-MI-SI""]",[],"{""KU-*56-NA-TU"": 2}",28
+HT 11a,HT 93a,False,False,1,"[""*100-I""]",6.965784,0.083333,"[""A-SU-JA"", ""A322-RI"", ""KA-RO-NA""]","[""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""*100-I"": 2}",29
+HT 120,HT 6a,False,False,1,"[""DA-QE-RA""]",6.965784,0.083333,"[""DA-ME"", ""DA-U-*49"", ""KI-RE-TA-NA"", ""PA-I-TO""]","[""DA-TA-RA"", ""KA-PA"", ""KA-PA-QE"", ""MA-A321"", ""O-RA2-DI-NE"", ""PI-TA-JA"", ""QE-PI-TA""]","{""DA-QE-RA"": 2}",30
+HT 120,HT 97a,False,False,1,"[""PA-I-TO""]",6.965784,0.111111,"[""DA-ME"", ""DA-QE-RA"", ""DA-U-*49"", ""KI-RE-TA-NA""]","[""KA-NU-TI"", ""KA-RU"", ""NA-TI-MA-DI"", ""TA-TI""]","{""PA-I-TO"": 2}",31
+HT 122a,HT 17,False,False,1,"[""SI-DA-RE""]",6.965784,0.066667,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""TE-KI"", ""U-DE-ZA""]","[""RA-*164A-TI"", ""SA-RO""]","{""SI-DA-RE"": 2}",32
+HT 122b,HT 131b,False,False,1,"[""PO-TO-KU-RO""]",6.965784,0.25,"[""DA-RE"", ""JE-DI"", ""QA-QA-RU""]",[],"{""PO-TO-KU-RO"": 2}",33
+HT 123a,HT 14,False,False,1,"[""PU-*131A""]",6.965784,0.2,"[""DA-KI"", ""KI-TA-I"", ""SA-RU""]","[""A-PU2-NA-DU""]","{""PU-*131A"": 2}",34
+HT 126a,ZA 10b,True,False,1,"[""U-*49""]",6.965784,0.076923,"[""DA-NA-SI"", ""SI-DI-JA""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""PA-JA-RE"", ""RA2-RO-RE"", ""SA-MA"", ""WA-A362""]","{""U-*49"": 2}",35
+HT 128a,PH 3a,True,False,1,"[""PA-RA""]",6.965784,0.25,"[""MA-RI"", ""TU-RU-*56-SE-ME"", ""WA-TU-MA-RE""]",[],"{""PA-RA"": 2}",36
+HT 13,HT 7a,False,False,1,"[""TE-TU""]",6.965784,0.083333,"[""DA-SI-*118"", ""I-DU-NE-SI"", ""KA-U-DE-TA"", ""KU-*79-NI"", ""RE-ZA"", ""TE-KI""]","[""DA-RE"", ""DU-JA"", ""I-RU-JA"", ""QE-TI"", ""TA-NA-TI""]","{""TE-TU"": 2}",37
+HT 13,HT 88,False,False,1,"[""RE-ZA""]",6.965784,0.066667,"[""DA-SI-*118"", ""I-DU-NE-SI"", ""KA-U-DE-TA"", ""KU-*79-NI"", ""TE-KI"", ""TE-TU""]","[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""SA-MA-RO""]","{""RE-ZA"": 2}",38
+HT 131a,HT 44a,False,False,1,"[""I-QA-*118""]",6.965784,1.0,[],[],"{""I-QA-*118"": 2}",39
+HT 140,HT 15,False,False,1,"[""U-*34-SI""]",6.965784,0.166667,"[""*86-SI-NI"", ""JE-DI"", ""KA-MA"", ""KA-PA""]","[""DU-*123-A""]","{""U-*34-SI"": 2}",40
+HT 18,HT 27b,False,False,1,"[""PA-SE""]",6.965784,0.5,"[""SA-RA2""]",[],"{""PA-SE"": 2}",41
+HT 25a,ZA 8,True,False,1,"[""A-RI-NI-TA""]",6.965784,0.090909,"[""DI-NA-U"", ""DU-RU-WI"", ""U-RE-WI""]","[""A-TA-RE"", ""DA-I-PI-TA"", ""KA-I-RO"", ""KI-RA"", ""KU-TU-KO-RE"", ""MA-KA-I-SE"", ""TA-I-NU-MA-PA""]","{""A-RI-NI-TA"": 2}",42
+HT 26a,HT 97a,False,False,1,"[""TA-TI""]",6.965784,0.125,"[""A312-TE-TE"", ""MI-KI-SE-NA"", ""U-NU-QIF""]","[""KA-NU-TI"", ""KA-RU"", ""NA-TI-MA-DI"", ""PA-I-TO""]","{""TA-TI"": 2}",43
+HT 29,HT 99b,False,False,1,"[""RU-MA-TA""]",6.965784,0.125,"[""A-RE-DA-I"", ""A340-KI-TA"", ""KA-DU-MA-NE"", ""PA-JA-RE"", ""SA-A323-MI""]","[""*79-DU"", ""DA-SI-*118""]","{""RU-MA-TA"": 2}",44
+HT 6b,HT 85b,False,False,1,"[""WA-DU-NI-MI""]",6.965784,0.083333,"[""*56-NI-NA"", ""DU-DA-MA"", ""RA-TI-SE"", ""SA-MA""]","[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""MA-DI"", ""ME-ZA"", ""QA-A310-I"", ""QE-KA"", ""RE-DI-SE""]","{""WA-DU-NI-MI"": 2}",45
+HT 6b,HT 93a,False,False,1,"[""*56-NI-NA""]",6.965784,0.076923,"[""DU-DA-MA"", ""RA-TI-SE"", ""SA-MA"", ""WA-DU-NI-MI""]","[""*100-I"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""*56-NI-NA"": 2}",46
+HT 8a,HT 98a,False,False,1,"[""TE-A301""]",6.965784,0.1,"[""*56-KA-RA-TI"", ""JE-DI"", ""KI-RE-TA-NA"", ""QA-A310-I"", ""SI-KI-RA""]","[""DI-RE-DI-NA"", ""KA-RI-A310-I"", ""RO-KE"", ""TA-NA-TI""]","{""TE-A301"": 2}",47
+HT 91,PH 31b,True,False,1,"[""TE-RI""]",6.965784,0.333333,"[""I-KA""]","[""A-MI-DA-O""]","{""TE-RI"": 2}",48
+HT 94b,HT Wa 1019α,False,False,1,"[""PA-TA-NE""]",6.965784,0.166667,"[""DE-DI"", ""KE-KI-RU"", ""QIF-TU"", ""SA-RU"", ""TU-MA""]",[],"{""PA-TA-NE"": 2}",49
+HT Wa 1019γ,ZA 20,True,False,1,"[""SI-TU""]",6.965784,0.166667,[],"[""DU-RE-ZA-SE"", ""KU-RA"", ""RU-MA-TA-SE"", ""SI-TE-TU"", ""TE-*123""]","{""SI-TU"": 2}",50
+HT Wa 1021α,HT Wc 3020a,False,False,1,"[""*188-DU""]",6.965784,1.0,[],[],"{""*188-DU"": 2}",51
+HT Wc 3001,HT Wc 3002,False,False,1,"[""PA-SE-JA""]",6.965784,1.0,[],[],"{""PA-SE-JA"": 2}",52
+HT Wc 3007,HT Wc 3008a,False,False,1,"[""WA-DI-NI""]",6.965784,1.0,[],[],"{""WA-DI-NI"": 2}",53
+HT Wc 3011,HT Wc 3012a,False,False,1,"[""*79-DI-RA""]",6.965784,1.0,[],[],"{""*79-DI-RA"": 2}",54
+HT Zb 160,PH 31a,True,False,1,"[""PA-TA-DA""]",6.965784,0.25,"[""DU-PU2-RE""]","[""KU-*56-NU"", ""MA-DI""]","{""PA-TA-DA"": 2}",55
+PK 1a,ZA 5b,True,False,1,"[""MA-KA-I-TA""]",6.965784,0.071429,"[""A-DU-ZA"", ""KA-QA"", ""MA-TE-TI"", ""MA-TI-ZA-I-TE"", ""NI-MI"", ""O-KA-MI-ZA-I-NA"", ""O-TE-JA"", ""RA-NA-TU-SU"", ""TA2-TA-RE"", ""TA2-TI-TE"", ""TU-SU""]","[""IB-NU-MA-RE"", ""SI-PI-KI""]","{""MA-KA-I-TA"": 2}",56
+ZA 10a,ZA 8,False,False,1,"[""DA-I-PI-TA""]",6.965784,0.071429,"[""A-DU-KU-MI-NA"", ""A-KU-MI-NA"", ""A-MI-DA-U"", ""A-TA-NA-TE"", ""DU-RE-ZA-SE"", ""TA-NA-TE""]","[""A-RI-NI-TA"", ""A-TA-RE"", ""KA-I-RO"", ""KI-RA"", ""KU-TU-KO-RE"", ""MA-KA-I-SE"", ""TA-I-NU-MA-PA""]","{""DA-I-PI-TA"": 2}",57
+ZA 15b,ZA 4a,False,False,1,"[""KA-DI""]",6.965784,0.125,[],"[""A-TI-RU"", ""E-*82"", ""IB-NU-MA-RE"", ""JA-PA"", ""JA-TO-JA"", ""QE-SI-*79-E"", ""SI-PI-KI""]","{""KA-DI"": 2}",58
+HT 108,HT 120,False,False,1,"[""KI-RE-TA-NA""]",6.380822,0.142857,"[""DI-NA-RO"", ""DU-SU-NI""]","[""DA-ME"", ""DA-QE-RA"", ""DA-U-*49"", ""PA-I-TO""]","{""KI-RE-TA-NA"": 3}",59
+HT 108,HT 8a,False,False,1,"[""KI-RE-TA-NA""]",6.380822,0.125,"[""DI-NA-RO"", ""DU-SU-NI""]","[""*56-KA-RA-TI"", ""JE-DI"", ""QA-A310-I"", ""SI-KI-RA"", ""TE-A301""]","{""KI-RE-TA-NA"": 3}",60
+HT 10b,HT 98a,False,False,1,"[""TA-NA-TI""]",6.380822,0.1,"[""A312-TA"", ""DA-RE"", ""KA-SA-RU"", ""TA-RI-NA"", ""U-TI""]","[""DI-RE-DI-NA"", ""KA-RI-A310-I"", ""RO-KE"", ""TE-A301""]","{""TA-NA-TI"": 3}",61
+HT 117b,HT 7b,False,False,1,"[""QIF-TU-NE""]",6.380822,0.25,"[""DI-KI-SE"", ""KU-RE-JU""]","[""DA-RU-A329""]","{""QIF-TU-NE"": 3}",62
+HT 118,HT 122b,False,False,1,"[""QA-QA-RU""]",6.380822,0.142857,"[""A-RI-SU"", ""MA-DI"", ""RI-RU-MA""]","[""DA-RE"", ""JE-DI"", ""PO-TO-KU-RO""]","{""QA-QA-RU"": 3}",63
+HT 118,HT 85b,False,False,1,"[""MA-DI""]",6.380822,0.090909,"[""A-RI-SU"", ""QA-QA-RU"", ""RI-RU-MA""]","[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""ME-ZA"", ""QA-A310-I"", ""QE-KA"", ""RE-DI-SE"", ""WA-DU-NI-MI""]","{""MA-DI"": 3}",64
+HT 118,HT 93a,False,False,1,"[""QA-QA-RU""]",6.380822,0.083333,"[""A-RI-SU"", ""MA-DI"", ""RI-RU-MA""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""SA-RA2""]","{""QA-QA-RU"": 3}",65
+HT 118,PH 31a,True,False,1,"[""MA-DI""]",6.380822,0.166667,"[""A-RI-SU"", ""QA-QA-RU"", ""RI-RU-MA""]","[""KU-*56-NU"", ""PA-TA-DA""]","{""MA-DI"": 3}",66
+HT 120,HT 86a,False,False,1,"[""DA-ME""]",6.380822,0.083333,"[""DA-QE-RA"", ""DA-U-*49"", ""KI-RE-TA-NA"", ""PA-I-TO""]","[""A-DU"", ""A-KA-RU"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","{""DA-ME"": 3}",67
+HT 120,HT 8a,False,False,1,"[""KI-RE-TA-NA""]",6.380822,0.1,"[""DA-ME"", ""DA-QE-RA"", ""DA-U-*49"", ""PA-I-TO""]","[""*56-KA-RA-TI"", ""JE-DI"", ""QA-A310-I"", ""SI-KI-RA"", ""TE-A301""]","{""KI-RE-TA-NA"": 3}",68
+HT 120,HT 95a,False,False,1,"[""DA-ME""]",6.380822,0.111111,"[""DA-QE-RA"", ""DA-U-*49"", ""KI-RE-TA-NA"", ""PA-I-TO""]","[""DA-DU-MA-TA"", ""DI-DE-RU-QE-RA2-U"", ""MI-NU-TE"", ""SA-RU""]","{""DA-ME"": 3}",69
+HT 122b,HT 93a,False,False,1,"[""QA-QA-RU""]",6.380822,0.083333,"[""DA-RE"", ""JE-DI"", ""PO-TO-KU-RO""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""SA-RA2""]","{""QA-QA-RU"": 3}",70
+HT 132,HT 81,False,False,1,"[""A-SE""]",6.380822,0.5,"[""QA-RE-TO""]",[],"{""A-SE"": 3}",71
+HT 132,HT 93a,False,False,1,"[""A-SE""]",6.380822,0.1,"[""QA-RE-TO""]","[""*100-I"", ""*56-NI-NA"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""A-SE"": 3}",72
+HT 16,HT Wc 3015a,False,False,1,"[""KA-KU-PA""]",6.380822,0.333333,"[""DI-NA-U"", ""SA-PO""]",[],"{""KA-KU-PA"": 3}",73
+HT 16,HT Wc 3016a,False,False,1,"[""KA-KU-PA""]",6.380822,0.333333,"[""DI-NA-U"", ""SA-PO""]",[],"{""KA-KU-PA"": 3}",74
+HT 2,HT 86a,False,False,1,"[""A-KA-RU""]",6.380822,0.125,[],"[""A-DU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","{""A-KA-RU"": 3}",75
+HT 2,HT 86b,False,False,1,"[""A-KA-RU""]",6.380822,0.25,[],"[""DI-DE"", ""KU-NI-SU"", ""SA-RU""]","{""A-KA-RU"": 3}",76
+HT 39,HT 9a,False,False,1,"[""TA-I-*123""]",6.380822,0.1,"[""KU-RE-JU"", ""SA-MA-TI""]","[""A-RU-KU-RO"", ""A306-TU"", ""A324-DI-RA"", ""DI-NA-U"", ""PA-DE"", ""QE-PU"", ""SA-RO""]","{""TA-I-*123"": 3}",77
+HT 39,HT 9b,False,False,1,"[""TA-I-*123""]",6.380822,0.1,"[""KU-RE-JU"", ""SA-MA-TI""]","[""A-SI"", ""A306-TU"", ""A324-DI-RA"", ""DI-NA-U"", ""KA-A305"", ""PA-DE"", ""QE-PU""]","{""TA-I-*123"": 3}",78
+HT 7a,HT 98a,False,False,1,"[""TA-NA-TI""]",6.380822,0.1,"[""DA-RE"", ""DU-JA"", ""I-RU-JA"", ""QE-TI"", ""TE-TU""]","[""DI-RE-DI-NA"", ""KA-RI-A310-I"", ""RO-KE"", ""TE-A301""]","{""TA-NA-TI"": 3}",79
+HT 7b,HT 87,False,False,1,"[""QIF-TU-NE""]",6.380822,0.125,"[""DA-RU-A329""]","[""DI-KI-SE"", ""JA-RE-MI"", ""KU-RU-KU"", ""MA-KA-RI-TE"", ""PI-TA-KE-SI"", ""QE-SU-PU""]","{""QIF-TU-NE"": 3}",80
+HT 81,HT 93a,False,False,1,"[""A-SE""]",6.380822,0.111111,[],"[""*100-I"", ""*56-NI-NA"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""A-SE"": 3}",81
+HT 85b,PH 31a,True,False,1,"[""MA-DI""]",6.380822,0.1,"[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""ME-ZA"", ""QA-A310-I"", ""QE-KA"", ""RE-DI-SE"", ""WA-DU-NI-MI""]","[""KU-*56-NU"", ""PA-TA-DA""]","{""MA-DI"": 3}",82
+HT Wc 3015a,HT Wc 3016a,False,False,1,"[""KA-KU-PA""]",6.380822,1.0,[],[],"{""KA-KU-PA"": 3}",83
+KH 88,ZA 14,True,False,1,"[""QIF-*118""]",6.380822,0.125,"[""PU-DE""]","[""KU-PI"", ""ME-KI-DI"", ""PA-NU-QE"", ""PU-NI-KA-A363"", ""QA-TI-JU"", ""TU-MI-TI-ZA-SE""]","{""QIF-*118"": 3}",84
+KH 88,ZA 5a,True,False,1,"[""QIF-*118""]",6.380822,0.25,"[""PU-DE""]","[""KI-NI-MA"", ""O-TA-NI-ZA-SE""]","{""QIF-*118"": 3}",85
+ZA 10a,ZA 20,False,False,1,"[""DU-RE-ZA-SE""]",6.380822,0.083333,"[""A-DU-KU-MI-NA"", ""A-KU-MI-NA"", ""A-MI-DA-U"", ""A-TA-NA-TE"", ""DA-I-PI-TA"", ""TA-NA-TE""]","[""KU-RA"", ""RU-MA-TA-SE"", ""SI-TE-TU"", ""SI-TU"", ""TE-*123""]","{""DU-RE-ZA-SE"": 3}",86
+ZA 10b,ZA 20,False,False,1,"[""DU-RE-ZA-SE""]",6.380822,0.0625,"[""A-DE"", ""A-MI-TA"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""PA-JA-RE"", ""RA2-RO-RE"", ""SA-MA"", ""U-*49"", ""WA-A362""]","[""KU-RA"", ""RU-MA-TA-SE"", ""SI-TE-TU"", ""SI-TU"", ""TE-*123""]","{""DU-RE-ZA-SE"": 3}",87
+ZA 14,ZA 5a,False,False,1,"[""QIF-*118""]",6.380822,0.111111,"[""KU-PI"", ""ME-KI-DI"", ""PA-NU-QE"", ""PU-NI-KA-A363"", ""QA-TI-JU"", ""TU-MI-TI-ZA-SE""]","[""KI-NI-MA"", ""O-TA-NI-ZA-SE""]","{""QIF-*118"": 3}",88
+ZA 15a,ZA 5b,False,False,1,"[""IB-NU-MA-RE""]",6.380822,0.1,"[""*47-KU-NA"", ""A364-KE-MA-SE"", ""I-TI-NI-SA"", ""JA-SA-MU"", ""MI-DA-E"", ""MI-ZA-SE"", ""QE-SI-*79-E""]","[""MA-KA-I-TA"", ""SI-PI-KI""]","{""IB-NU-MA-RE"": 3}",89
+HT 10a,HT 122a,False,False,1,"[""DA-RI-DA""]",5.965784,0.052632,"[""A305-RU"", ""DA-RE"", ""KU-NI-SU"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""A306-TU"", ""A324-DI-RA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","{""DA-RI-DA"": 4}",90
+HT 10a,HT 52a,False,False,1,"[""SA-MA""]",5.965784,0.125,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""KU-NI-SU"", ""ME-ZA"", ""U-A325-ZA""]","[""DI-KA-TU""]","{""SA-MA"": 4}",91
+HT 10a,HT 6b,False,False,1,"[""SA-MA""]",5.965784,0.090909,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""KU-NI-SU"", ""ME-ZA"", ""U-A325-ZA""]","[""*56-NI-NA"", ""DU-DA-MA"", ""RA-TI-SE"", ""WA-DU-NI-MI""]","{""SA-MA"": 4}",92
+HT 10a,HT 86a,False,False,1,"[""KU-NI-SU""]",5.965784,0.071429,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""A-DU"", ""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","{""KU-NI-SU"": 4}",93
+HT 10a,HT 86b,False,False,1,"[""KU-NI-SU""]",5.965784,0.1,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""A-KA-RU"", ""DI-DE"", ""SA-RU""]","{""KU-NI-SU"": 4}",94
+HT 10a,HT 93a,False,False,1,"[""DA-RI-DA""]",5.965784,0.066667,"[""A305-RU"", ""DA-RE"", ""KU-NI-SU"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""DA-RI-DA"": 4}",95
+HT 10a,HT 95b,False,False,1,"[""KU-NI-SU""]",5.965784,0.076923,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""A-DU"", ""DA-ZA"", ""DI-DE-RU"", ""MI-NU-TE"", ""QE-RA2-U"", ""SA-RU""]","{""KU-NI-SU"": 4}",96
+HT 10a,ZA 10b,True,False,1,"[""SA-MA""]",5.965784,0.058824,"[""A305-RU"", ""DA-RE"", ""DA-RI-DA"", ""KU-NI-SU"", ""ME-ZA"", ""U-A325-ZA""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""PA-JA-RE"", ""RA2-RO-RE"", ""U-*49"", ""WA-A362""]","{""SA-MA"": 4}",97
+HT 110a,HT Wa 1020α,False,False,1,"[""KU-PA""]",5.965784,0.5,"[""SI-DU-*34-KU-MI""]",[],"{""KU-PA"": 4}",98
+HT 110a,ZA 11a,True,False,1,"[""KU-PA""]",5.965784,0.333333,"[""SI-DU-*34-KU-MI""]","[""DI-DI-KO-RA-ME-TA2""]","{""KU-PA"": 4}",99
+HT 110a,ZA 11b,True,False,1,"[""KU-PA""]",5.965784,0.25,"[""SI-DU-*34-KU-MI""]","[""E-TO-RI"", ""SA-A301-RI""]","{""KU-PA"": 4}",100
+HT 119,HT 122a,False,False,1,"[""A306-TU""]",5.965784,0.055556,"[""A327-JU"", ""JA-A345"", ""KO-JA"", ""KU-*56-NA-TU"", ""RI-MI-SI""]","[""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","{""A306-TU"": 4}",101
+HT 119,HT 9a,False,False,1,"[""A306-TU""]",5.965784,0.076923,"[""A327-JU"", ""JA-A345"", ""KO-JA"", ""KU-*56-NA-TU"", ""RI-MI-SI""]","[""A-RU-KU-RO"", ""A324-DI-RA"", ""DI-NA-U"", ""PA-DE"", ""QE-PU"", ""SA-RO"", ""TA-I-*123""]","{""A306-TU"": 4}",102
+HT 119,HT 9b,False,False,1,"[""A306-TU""]",5.965784,0.076923,"[""A327-JU"", ""JA-A345"", ""KO-JA"", ""KU-*56-NA-TU"", ""RI-MI-SI""]","[""A-SI"", ""A324-DI-RA"", ""DI-NA-U"", ""KA-A305"", ""PA-DE"", ""QE-PU"", ""TA-I-*123""]","{""A306-TU"": 4}",103
+HT 122a,HT 85b,False,False,1,"[""QA-A310-I""]",5.965784,0.05,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""MA-DI"", ""ME-ZA"", ""QE-KA"", ""RE-DI-SE"", ""WA-DU-NI-MI""]","{""QA-A310-I"": 4}",104
+HT 122a,HT 8a,False,False,1,"[""QA-A310-I""]",5.965784,0.055556,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""*56-KA-RA-TI"", ""JE-DI"", ""KI-RE-TA-NA"", ""SI-KI-RA"", ""TE-A301""]","{""QA-A310-I"": 4}",105
+HT 122a,HT 8b,False,False,1,"[""QA-A310-I""]",5.965784,0.058824,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""*56-*188"", ""KA-PA"", ""PA-JA-RE"", ""SU-PU2-*188""]","{""QA-A310-I"": 4}",106
+HT 122a,HT 93a,False,False,1,"[""DA-RI-DA""]",5.965784,0.047619,"[""A306-TU"", ""A324-DI-RA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""DA-RI-DA"": 4}",107
+HT 122a,HT 99b,False,False,1,"[""DA-SI-*118""]",5.965784,0.066667,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""JA-MI-DA-RE"", ""KU-*56-NU"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""*79-DU"", ""RU-MA-TA""]","{""DA-SI-*118"": 4}",108
+HT 122b,HT 140,False,False,1,"[""JE-DI""]",5.965784,0.125,"[""DA-RE"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","[""*86-SI-NI"", ""KA-MA"", ""KA-PA"", ""U-*34-SI""]","{""JE-DI"": 4}",109
+HT 122b,HT 36,False,False,1,"[""JE-DI""]",5.965784,0.2,"[""DA-RE"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","[""DU-*79-WA""]","{""JE-DI"": 4}",110
+HT 122b,HT 8a,False,False,1,"[""JE-DI""]",5.965784,0.111111,"[""DA-RE"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","[""*56-KA-RA-TI"", ""KI-RE-TA-NA"", ""QA-A310-I"", ""SI-KI-RA"", ""TE-A301""]","{""JE-DI"": 4}",111
+HT 13,HT 99b,False,False,1,"[""DA-SI-*118""]",5.965784,0.111111,"[""I-DU-NE-SI"", ""KA-U-DE-TA"", ""KU-*79-NI"", ""RE-ZA"", ""TE-KI"", ""TE-TU""]","[""*79-DU"", ""RU-MA-TA""]","{""DA-SI-*118"": 4}",112
+HT 140,HT 36,False,False,1,"[""JE-DI""]",5.965784,0.166667,"[""*86-SI-NI"", ""KA-MA"", ""KA-PA"", ""U-*34-SI""]","[""DU-*79-WA""]","{""JE-DI"": 4}",113
+HT 140,HT 8a,False,False,1,"[""JE-DI""]",5.965784,0.1,"[""*86-SI-NI"", ""KA-MA"", ""KA-PA"", ""U-*34-SI""]","[""*56-KA-RA-TI"", ""KI-RE-TA-NA"", ""QA-A310-I"", ""SI-KI-RA"", ""TE-A301""]","{""JE-DI"": 4}",114
+HT 16,HT 25a,False,False,1,"[""DI-NA-U""]",5.965784,0.166667,"[""KA-KU-PA"", ""SA-PO""]","[""A-RI-NI-TA"", ""DU-RU-WI"", ""U-RE-WI""]","{""DI-NA-U"": 4}",115
+HT 16,HT 9a,False,False,1,"[""DI-NA-U""]",5.965784,0.1,"[""KA-KU-PA"", ""SA-PO""]","[""A-RU-KU-RO"", ""A306-TU"", ""A324-DI-RA"", ""PA-DE"", ""QE-PU"", ""SA-RO"", ""TA-I-*123""]","{""DI-NA-U"": 4}",116
+HT 16,HT 9b,False,False,1,"[""DI-NA-U""]",5.965784,0.1,"[""KA-KU-PA"", ""SA-PO""]","[""A-SI"", ""A306-TU"", ""A324-DI-RA"", ""KA-A305"", ""PA-DE"", ""QE-PU"", ""TA-I-*123""]","{""DI-NA-U"": 4}",117
+HT 17,HT 42+59,False,False,1,"[""SA-RO""]",5.965784,0.333333,"[""RA-*164A-TI"", ""SI-DA-RE""]",[],"{""SA-RO"": 4}",118
+HT 17,HT 9a,False,False,1,"[""SA-RO""]",5.965784,0.1,"[""RA-*164A-TI"", ""SI-DA-RE""]","[""A-RU-KU-RO"", ""A306-TU"", ""A324-DI-RA"", ""DI-NA-U"", ""PA-DE"", ""QE-PU"", ""TA-I-*123""]","{""SA-RO"": 4}",119
+HT 19,HT 42+59,False,False,1,"[""SA-RO""]",5.965784,0.333333,"[""DU-ME-DI"", ""RA-*164A-TI""]",[],"{""SA-RO"": 4}",120
+HT 19,HT 9a,False,False,1,"[""SA-RO""]",5.965784,0.1,"[""DU-ME-DI"", ""RA-*164A-TI""]","[""A-RU-KU-RO"", ""A306-TU"", ""A324-DI-RA"", ""DI-NA-U"", ""PA-DE"", ""QE-PU"", ""TA-I-*123""]","{""SA-RO"": 4}",121
+HT 25a,HT 9a,False,False,1,"[""DI-NA-U""]",5.965784,0.090909,"[""A-RI-NI-TA"", ""DU-RU-WI"", ""U-RE-WI""]","[""A-RU-KU-RO"", ""A306-TU"", ""A324-DI-RA"", ""PA-DE"", ""QE-PU"", ""SA-RO"", ""TA-I-*123""]","{""DI-NA-U"": 4}",122
+HT 25a,HT 9b,False,False,1,"[""DI-NA-U""]",5.965784,0.090909,"[""A-RI-NI-TA"", ""DU-RU-WI"", ""U-RE-WI""]","[""A-SI"", ""A306-TU"", ""A324-DI-RA"", ""KA-A305"", ""PA-DE"", ""QE-PU"", ""TA-I-*123""]","{""DI-NA-U"": 4}",123
+HT 29,HT 88,False,False,1,"[""PA-JA-RE""]",5.965784,0.071429,"[""A-RE-DA-I"", ""A340-KI-TA"", ""KA-DU-MA-NE"", ""RU-MA-TA"", ""SA-A323-MI""]","[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""RE-ZA"", ""SA-MA-RO""]","{""PA-JA-RE"": 4}",124
+HT 29,HT 8b,False,False,1,"[""PA-JA-RE""]",5.965784,0.1,"[""A-RE-DA-I"", ""A340-KI-TA"", ""KA-DU-MA-NE"", ""RU-MA-TA"", ""SA-A323-MI""]","[""*56-*188"", ""KA-PA"", ""QA-A310-I"", ""SU-PU2-*188""]","{""PA-JA-RE"": 4}",125
+HT 29,ZA 10b,True,False,1,"[""PA-JA-RE""]",5.965784,0.0625,"[""A-RE-DA-I"", ""A340-KI-TA"", ""KA-DU-MA-NE"", ""RU-MA-TA"", ""SA-A323-MI""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""RA2-RO-RE"", ""SA-MA"", ""U-*49"", ""WA-A362""]","{""PA-JA-RE"": 4}",126
+HT 36,HT 8a,False,False,1,"[""JE-DI""]",5.965784,0.142857,"[""DU-*79-WA""]","[""*56-KA-RA-TI"", ""KI-RE-TA-NA"", ""QA-A310-I"", ""SI-KI-RA"", ""TE-A301""]","{""JE-DI"": 4}",127
+HT 42+59,HT 9a,False,False,1,"[""SA-RO""]",5.965784,0.125,[],"[""A-RU-KU-RO"", ""A306-TU"", ""A324-DI-RA"", ""DI-NA-U"", ""PA-DE"", ""QE-PU"", ""TA-I-*123""]","{""SA-RO"": 4}",128
+HT 52a,HT 6b,False,False,1,"[""SA-MA""]",5.965784,0.166667,"[""DI-KA-TU""]","[""*56-NI-NA"", ""DU-DA-MA"", ""RA-TI-SE"", ""WA-DU-NI-MI""]","{""SA-MA"": 4}",129
+HT 52a,ZA 10b,True,False,1,"[""SA-MA""]",5.965784,0.083333,"[""DI-KA-TU""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""PA-JA-RE"", ""RA2-RO-RE"", ""U-*49"", ""WA-A362""]","{""SA-MA"": 4}",130
+HT 6b,ZA 10b,True,False,1,"[""SA-MA""]",5.965784,0.066667,"[""*56-NI-NA"", ""DU-DA-MA"", ""RA-TI-SE"", ""WA-DU-NI-MI""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""PA-JA-RE"", ""RA2-RO-RE"", ""U-*49"", ""WA-A362""]","{""SA-MA"": 4}",131
+HT 85a,HT 93a,False,False,1,"[""DA-RI-DA""]",5.965784,0.0625,"[""*56-NI"", ""A-DU"", ""DA-RE"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU"", ""SA-RA2""]","{""DA-RI-DA"": 4}",132
+HT 85a,HT 99b,False,False,1,"[""DA-SI-*118""]",5.965784,0.1,"[""*56-NI"", ""A-DU"", ""DA-RE"", ""DA-RI-DA"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","[""*79-DU"", ""RU-MA-TA""]","{""DA-SI-*118"": 4}",133
+HT 85b,HT 8a,False,False,1,"[""QA-A310-I""]",5.965784,0.076923,"[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""MA-DI"", ""ME-ZA"", ""QE-KA"", ""RE-DI-SE"", ""WA-DU-NI-MI""]","[""*56-KA-RA-TI"", ""JE-DI"", ""KI-RE-TA-NA"", ""SI-KI-RA"", ""TE-A301""]","{""QA-A310-I"": 4}",134
+HT 85b,HT 8b,False,False,1,"[""QA-A310-I""]",5.965784,0.083333,"[""KI-KI-RA-JA"", ""KI-RE-TA2"", ""MA-DI"", ""ME-ZA"", ""QE-KA"", ""RE-DI-SE"", ""WA-DU-NI-MI""]","[""*56-*188"", ""KA-PA"", ""PA-JA-RE"", ""SU-PU2-*188""]","{""QA-A310-I"": 4}",135
+HT 88,HT 8b,False,False,1,"[""PA-JA-RE""]",5.965784,0.076923,"[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""RE-ZA"", ""SA-MA-RO""]","[""*56-*188"", ""KA-PA"", ""QA-A310-I"", ""SU-PU2-*188""]","{""PA-JA-RE"": 4}",136
+HT 88,ZA 10b,True,False,1,"[""PA-JA-RE""]",5.965784,0.052632,"[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""RE-ZA"", ""SA-MA-RO""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""RA2-RO-RE"", ""SA-MA"", ""U-*49"", ""WA-A362""]","{""PA-JA-RE"": 4}",137
+HT 8b,ZA 10b,True,False,1,"[""PA-JA-RE""]",5.965784,0.066667,"[""*56-*188"", ""KA-PA"", ""QA-A310-I"", ""SU-PU2-*188""]","[""A-DE"", ""A-MI-TA"", ""DU-RE-ZA-SE"", ""KA-KU-NE-TE"", ""MA-KI-DE-TE"", ""MA-ZA"", ""RA2-RO-RE"", ""SA-MA"", ""U-*49"", ""WA-A362""]","{""PA-JA-RE"": 4}",138
+HT Wa 1020α,ZA 11a,True,False,1,"[""KU-PA""]",5.965784,0.5,[],"[""DI-DI-KO-RA-ME-TA2""]","{""KU-PA"": 4}",139
+HT Wa 1020α,ZA 11b,True,False,1,"[""KU-PA""]",5.965784,0.333333,[],"[""E-TO-RI"", ""SA-A301-RI""]","{""KU-PA"": 4}",140
+HT 102,HT 140,False,False,1,"[""KA-PA""]",5.643856,0.1,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""MA-*79"", ""SA-RA2""]","[""*86-SI-NI"", ""JE-DI"", ""KA-MA"", ""U-*34-SI""]","{""KA-PA"": 5}",141
+HT 102,HT 6a,False,False,1,"[""KA-PA""]",5.643856,0.076923,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""MA-*79"", ""SA-RA2""]","[""DA-QE-RA"", ""DA-TA-RA"", ""KA-PA-QE"", ""MA-A321"", ""O-RA2-DI-NE"", ""PI-TA-JA"", ""QE-PI-TA""]","{""KA-PA"": 5}",142
+HT 102,HT 8b,False,False,1,"[""KA-PA""]",5.643856,0.1,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""MA-*79"", ""SA-RA2""]","[""*56-*188"", ""PA-JA-RE"", ""QA-A310-I"", ""SU-PU2-*188""]","{""KA-PA"": 5}",143
+HT 10a,HT 122b,False,False,1,"[""DA-RE""]",5.643856,0.1,"[""A305-RU"", ""DA-RI-DA"", ""KU-NI-SU"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""JE-DI"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","{""DA-RE"": 5}",144
+HT 10a,HT 7a,False,False,1,"[""DA-RE""]",5.643856,0.083333,"[""A305-RU"", ""DA-RI-DA"", ""KU-NI-SU"", ""ME-ZA"", ""SA-MA"", ""U-A325-ZA""]","[""DU-JA"", ""I-RU-JA"", ""QE-TI"", ""TA-NA-TI"", ""TE-TU""]","{""DA-RE"": 5}",145
+HT 10b,HT 122b,False,False,1,"[""DA-RE""]",5.643856,0.111111,"[""A312-TA"", ""KA-SA-RU"", ""TA-NA-TI"", ""TA-RI-NA"", ""U-TI""]","[""JE-DI"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","{""DA-RE"": 5}",146
+HT 10b,HT 85a,False,False,1,"[""DA-RE""]",5.643856,0.076923,"[""A312-TA"", ""KA-SA-RU"", ""TA-NA-TI"", ""TA-RI-NA"", ""U-TI""]","[""*56-NI"", ""A-DU"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","{""DA-RE"": 5}",147
+HT 122b,HT 7a,False,False,1,"[""DA-RE""]",5.643856,0.111111,"[""JE-DI"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","[""DU-JA"", ""I-RU-JA"", ""QE-TI"", ""TA-NA-TI"", ""TE-TU""]","{""DA-RE"": 5}",148
+HT 122b,HT 85a,False,False,1,"[""DA-RE""]",5.643856,0.090909,"[""JE-DI"", ""PO-TO-KU-RO"", ""QA-QA-RU""]","[""*56-NI"", ""A-DU"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","{""DA-RE"": 5}",149
+HT 140,HT 6a,False,False,1,"[""KA-PA""]",5.643856,0.083333,"[""*86-SI-NI"", ""JE-DI"", ""KA-MA"", ""U-*34-SI""]","[""DA-QE-RA"", ""DA-TA-RA"", ""KA-PA-QE"", ""MA-A321"", ""O-RA2-DI-NE"", ""PI-TA-JA"", ""QE-PI-TA""]","{""KA-PA"": 5}",150
+HT 140,HT 8b,False,False,1,"[""KA-PA""]",5.643856,0.111111,"[""*86-SI-NI"", ""JE-DI"", ""KA-MA"", ""U-*34-SI""]","[""*56-*188"", ""PA-JA-RE"", ""QA-A310-I"", ""SU-PU2-*188""]","{""KA-PA"": 5}",151
+HT 140,HT 94a,False,False,1,"[""KA-PA""]",5.643856,0.142857,"[""*86-SI-NI"", ""JE-DI"", ""KA-MA"", ""U-*34-SI""]","[""A318-A306"", ""SA-RA2""]","{""KA-PA"": 5}",152
+HT 6a,HT 8b,False,False,1,"[""KA-PA""]",5.643856,0.083333,"[""DA-QE-RA"", ""DA-TA-RA"", ""KA-PA-QE"", ""MA-A321"", ""O-RA2-DI-NE"", ""PI-TA-JA"", ""QE-PI-TA""]","[""*56-*188"", ""PA-JA-RE"", ""QA-A310-I"", ""SU-PU2-*188""]","{""KA-PA"": 5}",153
+HT 6a,HT 94a,False,False,1,"[""KA-PA""]",5.643856,0.1,"[""DA-QE-RA"", ""DA-TA-RA"", ""KA-PA-QE"", ""MA-A321"", ""O-RA2-DI-NE"", ""PI-TA-JA"", ""QE-PI-TA""]","[""A318-A306"", ""SA-RA2""]","{""KA-PA"": 5}",154
+HT 7a,HT 85a,False,False,1,"[""DA-RE""]",5.643856,0.076923,"[""DU-JA"", ""I-RU-JA"", ""QE-TI"", ""TA-NA-TI"", ""TE-TU""]","[""*56-NI"", ""A-DU"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","{""DA-RE"": 5}",155
+HT 8b,HT 94a,False,False,1,"[""KA-PA""]",5.643856,0.142857,"[""*56-*188"", ""PA-JA-RE"", ""QA-A310-I"", ""SU-PU2-*188""]","[""A318-A306"", ""SA-RA2""]","{""KA-PA"": 5}",156
+HT Wa 1001,HT Wa 1002,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",157
+HT Wa 1001,HT Wa 1003,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",158
+HT Wa 1001,HT Wa 1004,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",159
+HT Wa 1001,HT Wa 1005,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",160
+HT Wa 1002,HT Wa 1003,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",161
+HT Wa 1002,HT Wa 1004,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",162
+HT Wa 1002,HT Wa 1005,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",163
+HT Wa 1003,HT Wa 1004,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",164
+HT Wa 1003,HT Wa 1005,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",165
+HT Wa 1004,HT Wa 1005,False,False,1,"[""DA-KA""]",5.643856,1.0,[],[],"{""DA-KA"": 5}",166
+HT Wa 1014,HT Wa 1015,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",167
+HT Wa 1014,HT Wa 1016,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",168
+HT Wa 1014,HT Wa 1017,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",169
+HT Wa 1014,HT Wa 1018,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",170
+HT Wa 1015,HT Wa 1016,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",171
+HT Wa 1015,HT Wa 1017,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",172
+HT Wa 1015,HT Wa 1018,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",173
+HT Wa 1016,HT Wa 1017,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",174
+HT Wa 1016,HT Wa 1018,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",175
+HT Wa 1017,HT Wa 1018,False,False,1,"[""SI-KA""]",5.643856,1.0,[],[],"{""SI-KA"": 5}",176
+HT 1,HT 117a,False,False,1,"[""KU-*56-NU""]",5.380822,0.045455,"[""*79-SU"", ""A-RA-NA-RE"", ""DI-DI-ZA-KE"", ""QE-RA2-U""]","[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-KA-RI-TE"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-MI-NA-SI"", ""U-SU""]","{""KU-*56-NU"": 6}",177
+HT 1,HT 122a,False,False,1,"[""KU-*56-NU""]",5.380822,0.058824,"[""*79-SU"", ""A-RA-NA-RE"", ""DI-DI-ZA-KE"", ""QE-RA2-U""]","[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","{""KU-*56-NU"": 6}",178
+HT 1,HT 49a,False,False,1,"[""KU-*56-NU""]",5.380822,0.125,"[""*79-SU"", ""A-RA-NA-RE"", ""DI-DI-ZA-KE"", ""QE-RA2-U""]","[""A-RU"", ""TI-DU-NI"", ""TU-SU-PU2""]","{""KU-*56-NU"": 6}",179
+HT 1,HT 88,False,False,1,"[""KU-*56-NU""]",5.380822,0.076923,"[""*79-SU"", ""A-RA-NA-RE"", ""DI-DI-ZA-KE"", ""QE-RA2-U""]","[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""KU-*56-NU"": 6}",180
+HT 1,PH 31a,True,False,1,"[""KU-*56-NU""]",5.380822,0.142857,"[""*79-SU"", ""A-RA-NA-RE"", ""DI-DI-ZA-KE"", ""QE-RA2-U""]","[""MA-DI"", ""PA-TA-DA""]","{""KU-*56-NU"": 6}",181
+HT 117a,HT 122a,False,False,1,"[""KU-*56-NU""]",5.380822,0.033333,"[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-KA-RI-TE"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-MI-NA-SI"", ""U-SU""]","[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","{""KU-*56-NU"": 6}",182
+HT 117a,HT 49a,False,False,1,"[""KU-*56-NU""]",5.380822,0.047619,"[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-KA-RI-TE"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-MI-NA-SI"", ""U-SU""]","[""A-RU"", ""TI-DU-NI"", ""TU-SU-PU2""]","{""KU-*56-NU"": 6}",183
+HT 117a,HT 88,False,False,1,"[""KU-*56-NU""]",5.380822,0.038462,"[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-KA-RI-TE"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-MI-NA-SI"", ""U-SU""]","[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""KU-*56-NU"": 6}",184
+HT 117a,PH 31a,True,False,1,"[""KU-*56-NU""]",5.380822,0.05,"[""DA-MI-NU"", ""DA-NE-KU-TI"", ""KI-DA-RO"", ""KO-SA-I-TI"", ""KU-KU-DA-RA"", ""KU-RA-MU"", ""MA-KA-RI-TE"", ""MA-RU"", ""MI-RU-TA-RA-RE"", ""MI-TU"", ""NA-DA-RE"", ""SA-TA"", ""TE-*56-RE"", ""TU-JU-MA"", ""U-DI-MI"", ""U-MI-NA-SI"", ""U-SU""]","[""MA-DI"", ""PA-TA-DA""]","{""KU-*56-NU"": 6}",185
+HT 122a,HT 49a,False,False,1,"[""KU-*56-NU""]",5.380822,0.0625,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""A-RU"", ""TI-DU-NI"", ""TU-SU-PU2""]","{""KU-*56-NU"": 6}",186
+HT 122a,HT 88,False,False,1,"[""KU-*56-NU""]",5.380822,0.047619,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""KU-*56-NU"": 6}",187
+HT 122a,PH 31a,True,False,1,"[""KU-*56-NU""]",5.380822,0.066667,"[""A306-TU"", ""A324-DI-RA"", ""DA-RI-DA"", ""DA-SI-*118"", ""JA-MI-DA-RE"", ""KU-DA"", ""PA-DE"", ""PA-RI-NE"", ""QA-A310-I"", ""SI-DA-RE"", ""TE-KI"", ""U-DE-ZA""]","[""MA-DI"", ""PA-TA-DA""]","{""KU-*56-NU"": 6}",188
+HT 123a,HT 86a,False,False,1,"[""SA-RU""]",5.380822,0.090909,"[""DA-KI"", ""KI-TA-I"", ""PU-*131A""]","[""A-DU"", ""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA""]","{""SA-RU"": 6}",189
+HT 123a,HT 86b,False,False,1,"[""SA-RU""]",5.380822,0.142857,"[""DA-KI"", ""KI-TA-I"", ""PU-*131A""]","[""A-KA-RU"", ""DI-DE"", ""KU-NI-SU""]","{""SA-RU"": 6}",190
+HT 123a,HT 94b,False,False,1,"[""SA-RU""]",5.380822,0.111111,"[""DA-KI"", ""KI-TA-I"", ""PU-*131A""]","[""DE-DI"", ""KE-KI-RU"", ""PA-TA-NE"", ""QIF-TU"", ""TU-MA""]","{""SA-RU"": 6}",191
+HT 123a,HT 95a,False,False,1,"[""SA-RU""]",5.380822,0.125,"[""DA-KI"", ""KI-TA-I"", ""PU-*131A""]","[""DA-DU-MA-TA"", ""DA-ME"", ""DI-DE-RU-QE-RA2-U"", ""MI-NU-TE""]","{""SA-RU"": 6}",192
+HT 123a,HT 95b,False,False,1,"[""SA-RU""]",5.380822,0.1,"[""DA-KI"", ""KI-TA-I"", ""PU-*131A""]","[""A-DU"", ""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U""]","{""SA-RU"": 6}",193
+HT 49a,HT 88,False,False,1,"[""KU-*56-NU""]",5.380822,0.083333,"[""A-RU"", ""TI-DU-NI"", ""TU-SU-PU2""]","[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""KU-*56-NU"": 6}",194
+HT 49a,PH 31a,True,False,1,"[""KU-*56-NU""]",5.380822,0.166667,"[""A-RU"", ""TI-DU-NI"", ""TU-SU-PU2""]","[""MA-DI"", ""PA-TA-DA""]","{""KU-*56-NU"": 6}",195
+HT 86a,HT 94b,False,False,1,"[""SA-RU""]",5.380822,0.076923,"[""A-DU"", ""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA""]","[""DE-DI"", ""KE-KI-RU"", ""PA-TA-NE"", ""QIF-TU"", ""TU-MA""]","{""SA-RU"": 6}",196
+HT 86b,HT 94b,False,False,1,"[""SA-RU""]",5.380822,0.111111,"[""A-KA-RU"", ""DI-DE"", ""KU-NI-SU""]","[""DE-DI"", ""KE-KI-RU"", ""PA-TA-NE"", ""QIF-TU"", ""TU-MA""]","{""SA-RU"": 6}",197
+HT 86b,HT 95a,False,False,1,"[""SA-RU""]",5.380822,0.125,"[""A-KA-RU"", ""DI-DE"", ""KU-NI-SU""]","[""DA-DU-MA-TA"", ""DA-ME"", ""DI-DE-RU-QE-RA2-U"", ""MI-NU-TE""]","{""SA-RU"": 6}",198
+HT 88,PH 31a,True,False,1,"[""KU-*56-NU""]",5.380822,0.090909,"[""A-DU"", ""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","[""MA-DI"", ""PA-TA-DA""]","{""KU-*56-NU"": 6}",199
+HT 94b,HT 95a,False,False,1,"[""SA-RU""]",5.380822,0.1,"[""DE-DI"", ""KE-KI-RU"", ""PA-TA-NE"", ""QIF-TU"", ""TU-MA""]","[""DA-DU-MA-TA"", ""DA-ME"", ""DI-DE-RU-QE-RA2-U"", ""MI-NU-TE""]","{""SA-RU"": 6}",200
+HT 94b,HT 95b,False,False,1,"[""SA-RU""]",5.380822,0.083333,"[""DE-DI"", ""KE-KI-RU"", ""PA-TA-NE"", ""QIF-TU"", ""TU-MA""]","[""A-DU"", ""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U""]","{""SA-RU"": 6}",201
+HT 133,HT 85a,False,False,1,"[""A-DU""]",5.158429,0.125,[],"[""*56-NI"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","{""A-DU"": 7}",202
+HT 133,HT 86a,False,False,1,"[""A-DU""]",5.158429,0.125,[],"[""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","{""A-DU"": 7}",203
+HT 133,HT 88,False,False,1,"[""A-DU""]",5.158429,0.111111,[],"[""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""A-DU"": 7}",204
+HT 133,HT 92,False,False,1,"[""A-DU""]",5.158429,1.0,[],[],"{""A-DU"": 7}",205
+HT 133,HT 95b,False,False,1,"[""A-DU""]",5.158429,0.142857,[],"[""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U"", ""SA-RU""]","{""A-DU"": 7}",206
+HT 133,HT 99a,False,False,1,"[""A-DU""]",5.158429,0.5,[],"[""SA-RA2""]","{""A-DU"": 7}",207
+HT 85a,HT 86a,False,False,1,"[""A-DU""]",5.158429,0.066667,"[""*56-NI"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","[""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","{""A-DU"": 7}",208
+HT 85a,HT 88,False,False,1,"[""A-DU""]",5.158429,0.0625,"[""*56-NI"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","[""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""A-DU"": 7}",209
+HT 85a,HT 92,False,False,1,"[""A-DU""]",5.158429,0.125,"[""*56-NI"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]",[],"{""A-DU"": 7}",210
+HT 85a,HT 95b,False,False,1,"[""A-DU""]",5.158429,0.071429,"[""*56-NI"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","[""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U"", ""SA-RU""]","{""A-DU"": 7}",211
+HT 85a,HT 99a,False,False,1,"[""A-DU""]",5.158429,0.111111,"[""*56-NI"", ""DA-RE"", ""DA-RI-DA"", ""DA-SI-*118"", ""KU-*79-NI"", ""TE-KE"", ""U-A325-ZA""]","[""SA-RA2""]","{""A-DU"": 7}",212
+HT 86a,HT 88,False,False,1,"[""A-DU""]",5.158429,0.0625,"[""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","[""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","{""A-DU"": 7}",213
+HT 86a,HT 92,False,False,1,"[""A-DU""]",5.158429,0.125,"[""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]",[],"{""A-DU"": 7}",214
+HT 86a,HT 99a,False,False,1,"[""A-DU""]",5.158429,0.111111,"[""A-KA-RU"", ""DA-ME"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QA-RA2-WA"", ""SA-RU""]","[""SA-RA2""]","{""A-DU"": 7}",215
+HT 88,HT 92,False,False,1,"[""A-DU""]",5.158429,0.111111,"[""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]",[],"{""A-DU"": 7}",216
+HT 88,HT 95b,False,False,1,"[""A-DU""]",5.158429,0.066667,"[""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","[""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U"", ""SA-RU""]","{""A-DU"": 7}",217
+HT 88,HT 99a,False,False,1,"[""A-DU""]",5.158429,0.1,"[""DA-TA-RE"", ""KA-JU"", ""KI-KI-NA"", ""KU-*56-*56"", ""KU-*56-NU"", ""PA-JA-RE"", ""RE-ZA"", ""SA-MA-RO""]","[""SA-RA2""]","{""A-DU"": 7}",218
+HT 92,HT 95b,False,False,1,"[""A-DU""]",5.158429,0.142857,[],"[""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U"", ""SA-RU""]","{""A-DU"": 7}",219
+HT 92,HT 99a,False,False,1,"[""A-DU""]",5.158429,0.5,[],"[""SA-RA2""]","{""A-DU"": 7}",220
+HT 95b,HT 99a,False,False,1,"[""A-DU""]",5.158429,0.125,"[""DA-ZA"", ""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""QE-RA2-U"", ""SA-RU""]","[""SA-RA2""]","{""A-DU"": 7}",221
+HT Wa 1006,HT Wa 1007,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",222
+HT Wa 1006,HT Wa 1008,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",223
+HT Wa 1006,HT Wa 1009,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",224
+HT Wa 1006,HT Wa 1010,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",225
+HT Wa 1006,HT Wa 1011,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",226
+HT Wa 1006,HT Wa 1012,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",227
+HT Wa 1006,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",228
+HT Wa 1007,HT Wa 1008,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",229
+HT Wa 1007,HT Wa 1009,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",230
+HT Wa 1007,HT Wa 1010,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",231
+HT Wa 1007,HT Wa 1011,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",232
+HT Wa 1007,HT Wa 1012,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",233
+HT Wa 1007,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",234
+HT Wa 1008,HT Wa 1009,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",235
+HT Wa 1008,HT Wa 1010,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",236
+HT Wa 1008,HT Wa 1011,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",237
+HT Wa 1008,HT Wa 1012,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",238
+HT Wa 1008,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",239
+HT Wa 1009,HT Wa 1010,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",240
+HT Wa 1009,HT Wa 1011,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",241
+HT Wa 1009,HT Wa 1012,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",242
+HT Wa 1009,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",243
+HT Wa 1010,HT Wa 1011,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",244
+HT Wa 1010,HT Wa 1012,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",245
+HT Wa 1010,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",246
+HT Wa 1011,HT Wa 1012,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",247
+HT Wa 1011,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",248
+HT Wa 1012,HT Wa 1013,False,False,1,"[""I-RA2""]",4.965784,1.0,[],[],"{""I-RA2"": 8}",249
+HT 100,HT 101,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""*79-*22F-DI""]","{""SA-RA2"": 16}",250
+HT 100,HT 102,False,False,1,"[""SA-RA2""]",3.965784,0.166667,[],"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","{""SA-RA2"": 16}",251
+HT 100,HT 114a,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""KI-RI-TA2""]","{""SA-RA2"": 16}",252
+HT 100,HT 121,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""KI-RI-TA2""]","{""SA-RA2"": 16}",253
+HT 100,HT 18,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""PA-SE""]","{""SA-RA2"": 16}",254
+HT 100,HT 28b,False,False,1,"[""SA-RA2""]",3.965784,0.166667,[],"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""SA-RA2"": 16}",255
+HT 100,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""SA-RA-RA""]","{""SA-RA2"": 16}",256
+HT 100,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""SU-RE""]","{""SA-RA2"": 16}",257
+HT 100,HT 33,False,False,1,"[""SA-RA2""]",3.965784,1.0,[],[],"{""SA-RA2"": 16}",258
+HT 100,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.333333,[],"[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",259
+HT 100,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.333333,[],"[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",260
+HT 100,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.111111,[],"[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",261
+HT 100,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,[],"[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",262
+HT 100,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,1.0,[],[],"{""SA-RA2"": 16}",263
+HT 100,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""A-DU""]","{""SA-RA2"": 16}",264
+HT 101,HT 102,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*79-*22F-DI""]","[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","{""SA-RA2"": 16}",265
+HT 101,HT 114a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""*79-*22F-DI""]","[""KI-RI-TA2""]","{""SA-RA2"": 16}",266
+HT 101,HT 121,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""*79-*22F-DI""]","[""KI-RI-TA2""]","{""SA-RA2"": 16}",267
+HT 101,HT 18,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""*79-*22F-DI""]","[""PA-SE""]","{""SA-RA2"": 16}",268
+HT 101,HT 28b,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*79-*22F-DI""]","[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""SA-RA2"": 16}",269
+HT 101,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""*79-*22F-DI""]","[""SA-RA-RA""]","{""SA-RA2"": 16}",270
+HT 101,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""*79-*22F-DI""]","[""SU-RE""]","{""SA-RA2"": 16}",271
+HT 101,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""*79-*22F-DI""]",[],"{""SA-RA2"": 16}",272
+HT 101,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""*79-*22F-DI""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",273
+HT 101,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""*79-*22F-DI""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",274
+HT 101,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""*79-*22F-DI""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",275
+HT 101,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""*79-*22F-DI""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",276
+HT 101,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""*79-*22F-DI""]",[],"{""SA-RA2"": 16}",277
+HT 101,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""*79-*22F-DI""]","[""A-DU""]","{""SA-RA2"": 16}",278
+HT 102,HT 114a,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""KI-RI-TA2""]","{""SA-RA2"": 16}",279
+HT 102,HT 121,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""KI-RI-TA2""]","{""SA-RA2"": 16}",280
+HT 102,HT 18,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""PA-SE""]","{""SA-RA2"": 16}",281
+HT 102,HT 28b,False,False,1,"[""SA-RA2""]",3.965784,0.090909,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""SA-RA2"": 16}",282
+HT 102,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""SA-RA-RA""]","{""SA-RA2"": 16}",283
+HT 102,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""SU-RE""]","{""SA-RA2"": 16}",284
+HT 102,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.166667,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]",[],"{""SA-RA2"": 16}",285
+HT 102,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.125,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",286
+HT 102,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.125,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",287
+HT 102,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.166667,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]",[],"{""SA-RA2"": 16}",288
+HT 102,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""*56-NI"", ""DI-RI-NA"", ""I-KA"", ""KA-PA"", ""MA-*79""]","[""A-DU""]","{""SA-RA2"": 16}",289
+HT 114a,HT 18,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""PA-SE""]","{""SA-RA2"": 16}",290
+HT 114a,HT 28b,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""KI-RI-TA2""]","[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""SA-RA2"": 16}",291
+HT 114a,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""SA-RA-RA""]","{""SA-RA2"": 16}",292
+HT 114a,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""SU-RE""]","{""SA-RA2"": 16}",293
+HT 114a,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""KI-RI-TA2""]",[],"{""SA-RA2"": 16}",294
+HT 114a,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""KI-RI-TA2""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",295
+HT 114a,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""KI-RI-TA2""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",296
+HT 114a,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""KI-RI-TA2""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",297
+HT 114a,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""KI-RI-TA2""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",298
+HT 114a,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""KI-RI-TA2""]",[],"{""SA-RA2"": 16}",299
+HT 114a,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""A-DU""]","{""SA-RA2"": 16}",300
+HT 121,HT 18,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""PA-SE""]","{""SA-RA2"": 16}",301
+HT 121,HT 28b,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""KI-RI-TA2""]","[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""SA-RA2"": 16}",302
+HT 121,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""SA-RA-RA""]","{""SA-RA2"": 16}",303
+HT 121,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""SU-RE""]","{""SA-RA2"": 16}",304
+HT 121,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""KI-RI-TA2""]",[],"{""SA-RA2"": 16}",305
+HT 121,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""KI-RI-TA2""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",306
+HT 121,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""KI-RI-TA2""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",307
+HT 121,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""KI-RI-TA2""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",308
+HT 121,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""KI-RI-TA2""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",309
+HT 121,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""KI-RI-TA2""]",[],"{""SA-RA2"": 16}",310
+HT 121,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""KI-RI-TA2""]","[""A-DU""]","{""SA-RA2"": 16}",311
+HT 18,HT 28b,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""PA-SE""]","[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","{""SA-RA2"": 16}",312
+HT 18,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""PA-SE""]","[""SA-RA-RA""]","{""SA-RA2"": 16}",313
+HT 18,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""PA-SE""]","[""SU-RE""]","{""SA-RA2"": 16}",314
+HT 18,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""PA-SE""]",[],"{""SA-RA2"": 16}",315
+HT 18,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""PA-SE""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",316
+HT 18,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""PA-SE""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",317
+HT 18,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""PA-SE""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",318
+HT 18,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""PA-SE""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",319
+HT 18,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""PA-SE""]",[],"{""SA-RA2"": 16}",320
+HT 18,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""PA-SE""]","[""A-DU""]","{""SA-RA2"": 16}",321
+HT 28b,HT 30,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""SA-RA-RA""]","{""SA-RA2"": 16}",322
+HT 28b,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""SU-RE""]","{""SA-RA2"": 16}",323
+HT 28b,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.166667,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]",[],"{""SA-RA2"": 16}",324
+HT 28b,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.125,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",325
+HT 28b,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.125,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",326
+HT 28b,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.071429,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",327
+HT 28b,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.125,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",328
+HT 28b,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.166667,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]",[],"{""SA-RA2"": 16}",329
+HT 28b,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.142857,"[""A-SI-JA-KA"", ""JA-QIF"", ""PU-RA2"", ""U-MI-NA-SI"", ""WI-DI-NA""]","[""A-DU""]","{""SA-RA2"": 16}",330
+HT 30,HT 32,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""SA-RA-RA""]","[""SU-RE""]","{""SA-RA2"": 16}",331
+HT 30,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""SA-RA-RA""]",[],"{""SA-RA2"": 16}",332
+HT 30,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""SA-RA-RA""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",333
+HT 30,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""SA-RA-RA""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",334
+HT 30,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""SA-RA-RA""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",335
+HT 30,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""SA-RA-RA""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",336
+HT 30,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""SA-RA-RA""]",[],"{""SA-RA2"": 16}",337
+HT 30,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""SA-RA-RA""]","[""A-DU""]","{""SA-RA2"": 16}",338
+HT 32,HT 33,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""SU-RE""]",[],"{""SA-RA2"": 16}",339
+HT 32,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""SU-RE""]","[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",340
+HT 32,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""SU-RE""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",341
+HT 32,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""SU-RE""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",342
+HT 32,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""SU-RE""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",343
+HT 32,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.5,"[""SU-RE""]",[],"{""SA-RA2"": 16}",344
+HT 32,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""SU-RE""]","[""A-DU""]","{""SA-RA2"": 16}",345
+HT 33,HT 34,False,False,1,"[""SA-RA2""]",3.965784,0.333333,[],"[""DA-JU-TE"", ""SI-A516""]","{""SA-RA2"": 16}",346
+HT 33,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.333333,[],"[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",347
+HT 33,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.111111,[],"[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",348
+HT 33,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.333333,[],"[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",349
+HT 33,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,1.0,[],[],"{""SA-RA2"": 16}",350
+HT 33,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""A-DU""]","{""SA-RA2"": 16}",351
+HT 34,HT 90,False,False,1,"[""SA-RA2""]",3.965784,0.2,"[""DA-JU-TE"", ""SI-A516""]","[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","{""SA-RA2"": 16}",352
+HT 34,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.090909,"[""DA-JU-TE"", ""SI-A516""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",353
+HT 34,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.2,"[""DA-JU-TE"", ""SI-A516""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",354
+HT 34,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""DA-JU-TE"", ""SI-A516""]",[],"{""SA-RA2"": 16}",355
+HT 34,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""DA-JU-TE"", ""SI-A516""]","[""A-DU""]","{""SA-RA2"": 16}",356
+HT 90,HT 93a,False,False,1,"[""SA-RA2""]",3.965784,0.090909,"[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","{""SA-RA2"": 16}",357
+HT 90,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.2,"[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",358
+HT 90,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]",[],"{""SA-RA2"": 16}",359
+HT 90,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""I-KU-RI-NA"", ""SI-RU-MA-RI-TA2""]","[""A-DU""]","{""SA-RA2"": 16}",360
+HT 93a,HT 94a,False,False,1,"[""SA-RA2""]",3.965784,0.090909,"[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","[""A318-A306"", ""KA-PA""]","{""SA-RA2"": 16}",361
+HT 93a,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.111111,"[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]",[],"{""SA-RA2"": 16}",362
+HT 93a,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.1,"[""*100-I"", ""*56-NI-NA"", ""A-SE"", ""DA-RI-DA"", ""DE-JU-KU"", ""DI-RI-NA"", ""KI-DI-NI"", ""QA-QA-RU""]","[""A-DU""]","{""SA-RA2"": 16}",363
+HT 94a,HT 97b,False,False,1,"[""SA-RA2""]",3.965784,0.333333,"[""A318-A306"", ""KA-PA""]",[],"{""SA-RA2"": 16}",364
+HT 94a,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.25,"[""A318-A306"", ""KA-PA""]","[""A-DU""]","{""SA-RA2"": 16}",365
+HT 97b,HT 99a,False,False,1,"[""SA-RA2""]",3.965784,0.5,[],"[""A-DU""]","{""SA-RA2"": 16}",366

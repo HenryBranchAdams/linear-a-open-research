@@ -1,0 +1,796 @@
+[
+  {
+    "code": "iterations/010/code/corpus_pairs.py",
+    "finding": "Strongest packet HT86/95; no qualifying >=3sign initialA/terminal-only face-supported variant",
+    "id": "R10-CORPUS-PAIRS",
+    "input": "corpus/sigla_sequences_2026-09-07.json",
+    "kind": "new bounded offline screen plus source sensitivity overlays",
+    "limitations": "Indexed chunks not certified words; filters and object grouping documented; no significance or identity inference",
+    "result": "iterations/010/results/corpus_pairs.json",
+    "status": "completed"
+  },
+  {
+    "finding": "DA-ME edition reading; Q-pair context; TE-KI and TE-TU both preserved",
+    "id": "R10-PRIMARY-AUDIT",
+    "input": "GORILA I pp26,27,134,135,154,155",
+    "kind": "new selected edition inspection",
+    "limitations": "Edition-image inspection, not object autopsy; prior scholarship identified",
+    "result": "iterations/010/notes/documentary_links.md",
+    "status": "completed"
+  },
+  {
+    "code": "iterations/010/code/packet_models.py",
+    "finding": "Single factor fails proposed Q alignment even within HT86section1",
+    "id": "R10-PACKET-SCALE",
+    "input": "iterations/010/data/packet_quantities.json",
+    "kind": "retrospective exact model diagnostic",
+    "limitations": "Equivalent quantities, units, common event and Q identity not established; not a rejection of relationship",
+    "result": "iterations/010/results/packet_models.json",
+    "status": "completed"
+  },
+  {
+    "code": "iterations/010/notes/ht24_fallback/identifiability.py",
+    "finding": "Free yield/missing input leaves m unidentified; input/output-total distinction changes acquisition priority",
+    "id": "R10-HT24-IDENTIFIABILITY",
+    "kind": "new conditional extension of round9 model",
+    "limitations": "No new reading, denominator or actual yield",
+    "result": "iterations/010/notes/ht24_fallback/identifiability_results.json",
+    "status": "completed"
+  },
+  {
+    "finding": "36 historical claims;92 verified archive references",
+    "id": "R10-HISTORY",
+    "kind": "archive recovery and selective context consolidation",
+    "limitations": "Earlier computations inherited, not all rerun",
+    "result": "registry/historical_claims.json",
+    "status": "completed"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/account_scope.py",
+    "depends_on": [
+      21
+    ],
+    "id": "R22",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 22,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "Source audit and new bounded scope/subset tests",
+    "outputs": [
+      "results/account_scope_22.json"
+    ],
+    "report": "iterations/022/REPORT.md",
+    "status": "completed",
+    "title": "KI-RO edition and scope audit"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/account_scope.py",
+    "depends_on": [
+      22
+    ],
+    "id": "R23",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 23,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "New constrained model comparison and boundary-aware follow-up",
+    "outputs": [
+      "results/account_scope_23.json"
+    ],
+    "report": "iterations/023/REPORT.md",
+    "status": "completed",
+    "title": "HT30 shared rates and third-quantity test"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/entity_identity.py",
+    "depends_on": [
+      21
+    ],
+    "id": "R24",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 24,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "Primary-argument audit plus targeted corpus census",
+    "outputs": [
+      "results/entity_identity_24.json"
+    ],
+    "report": "iterations/024/REPORT.md",
+    "status": "completed",
+    "title": "Independent entity-type anchors"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/entity_identity.py",
+    "depends_on": [
+      24
+    ],
+    "id": "R25",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 25,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "Prior lead reproduction plus object-collapsed null and permutation identifiability test",
+    "outputs": [
+      "results/entity_cohorts_25.json",
+      "results/entity_cohort_followup_25.json",
+      "results/entity_object_null_25.json"
+    ],
+    "report": "iterations/025/REPORT.md",
+    "status": "completed",
+    "title": "Cohort identity controls"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/ti_morphology.py",
+    "depends_on": [
+      21
+    ],
+    "id": "R26",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 26,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "New distribution audit and damaged-reading qualification",
+    "outputs": [
+      "results/ti_distribution.json"
+    ],
+    "report": "iterations/026/REPORT.md",
+    "status": "completed",
+    "title": "TI inventory and source qualification"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/ti_morphology.py",
+    "depends_on": [
+      26
+    ],
+    "id": "R27",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 27,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "New matched structural comparison; inherited HT104 ambiguity retained",
+    "outputs": [
+      "results/ti_controls.json",
+      "results/ti_validation.json"
+    ],
+    "report": "iterations/027/REPORT.md",
+    "status": "completed",
+    "title": "TI matched-opportunity controls"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/quantitative_events.py",
+    "depends_on": [
+      21
+    ],
+    "id": "R28",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 28,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "Parser coverage repair and numerical scope diagnostics",
+    "outputs": [
+      "results/iteration28.json",
+      "results/quantity_events.json"
+    ],
+    "report": "iterations/028/REPORT.md",
+    "status": "completed",
+    "title": "Numerical-event coverage and scope"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/ritual_alternative.py",
+    "depends_on": [
+      21
+    ],
+    "id": "R29",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 29,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "Source-based completeness control, restoration correction and corpus test",
+    "outputs": [
+      "results/ritual_alternative.json"
+    ],
+    "report": "iterations/029/REPORT.md",
+    "status": "completed",
+    "title": "Ritual order and complete omission"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/arithmetic_nulls.py",
+    "depends_on": [
+      28
+    ],
+    "id": "R30",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 30,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "New exploratory nulls and reading/filter sensitivity",
+    "outputs": [
+      "results/iteration30.json"
+    ],
+    "report": "iterations/030/REPORT.md",
+    "status": "completed",
+    "title": "Arithmetic discovery calibration"
+  },
+  {
+    "archive": "iterations/022-031/Linear_A_Research_Iterations_22_31.zip",
+    "code": "code/sara_baskets.py",
+    "depends_on": [
+      21
+    ],
+    "id": "R31",
+    "input": "data/discovery_snapshot.json",
+    "iteration": 31,
+    "limitations": "Source/reading/scope controls in report; no established action-and-role sentence.",
+    "novelty": "Primary-backed fixed-composition/nesting exclusions, no priority claim",
+    "outputs": [
+      "results/sara_basket_models.json",
+      "results/sara_inventory.json",
+      "results/sara_checks.json"
+    ],
+    "report": "iterations/031/REPORT.md",
+    "status": "completed",
+    "title": "SA-RA2 matched basket models"
+  },
+  {
+    "id": "R32",
+    "iteration": 32,
+    "title": "Ritual oil-sign substitution and source-sensitive identifiability",
+    "status": "completed",
+    "depends_on": [
+      29,
+      31
+    ],
+    "input": "data/discovery_snapshot.json",
+    "code": "code/analyze.py",
+    "archive": "iterations/032/Linear_A_Iteration_32.zip",
+    "report": "REPORT.md",
+    "outputs": [
+      "results/corpus_census.json",
+      "results/two_flank_diagnostic.json",
+      "results/alignment_sensitivity.json",
+      "results/model_comparison.json",
+      "results/summary.json",
+      "results/validation.json"
+    ],
+    "method": "Exact-token/source-overlay census; observed two-flank diagnostic; exhaustive small monotone alignments; positive edit-cost and reading/segmentation sensitivity.",
+    "novelty": "New source conflict/uncertainty record and explicit contextual-identifiability tests. SYZa4 omission and PKZa27 restoration controls are inherited.",
+    "limitations": "Source-selected retrospective analysis, not an independently held-out prediction; no significance estimate; primary-object/complete original apparatus access incomplete; no established action/participant roles."
+  },
+  {
+    "id": "R33-BOUNDARY",
+    "iteration": 33,
+    "title": "Original ritual source arbitration and physical-boundary negative control",
+    "status": "completed",
+    "depends_on": [
+      29,
+      32
+    ],
+    "input": [
+      "data/discovery_snapshot.json",
+      "data/source_observations.json"
+    ],
+    "code": "code/boundary_audit.py",
+    "archive": "iterations/033/Linear_A_Iteration_33.zip",
+    "report": "REPORT.md",
+    "outputs": [
+      "data/critical_overlays_33.json",
+      "results/boundary_audit.json"
+    ],
+    "method": "Original-edition inspection; explicit sign-to-physical-region and conventional-word map; algorithmic and independently implemented crossing derivation.",
+    "novelty": "New original-source adjudication and boundary control; prior alignments/absence census not rerun.",
+    "limitations": "Conventional sound values/word segmentation inherited; geometries differ; no inscription-specific sentence endpoint, action or role established."
+  },
+  {
+    "id": "R33-CONTEXT",
+    "iteration": 33,
+    "title": "HT86/95 exact-label diagnostic conditioned on archaeological context",
+    "status": "completed",
+    "depends_on": [
+      25,
+      32
+    ],
+    "input": [
+      "data/discovery_snapshot.json",
+      "data/findspot_metadata.json",
+      "data/scribe_metadata.json"
+    ],
+    "code": "code/cohort_context.py",
+    "archive": "iterations/033/Linear_A_Iteration_33.zip",
+    "report": "REPORT.md",
+    "outputs": [
+      "results/quantified_label_events.json",
+      "results/cohort_context.json",
+      "results/cohort_summary.json",
+      "agents/review/REVIEW_CHECKS.json"
+    ],
+    "method": "Inherited bounded label eligibility; exact object sets; all-pairs overlap/Jaccard; four room pools and three sensitivities; degree-preserving double-edge-swap diagnostic with24seeded chains and48000retained samples.",
+    "novelty": "New source-defined context and within-pool margin conditioning for a previously known target. No new20:10ratio experiment.",
+    "limitations": "Selected-target retrospective analysis; heuristic incomplete label eligibility; source room categories not independently reconstructed from diaries; no known target same-hand group; semantic/commodity/layout/event confounds unresolved; no proven mixing or calibrated significance; no action/participant roles."
+  },
+  {
+    "id": "R34-COMMODITY-CONTEXT",
+    "iteration": 34,
+    "status": "completed",
+    "title": "Exact adjacent graphic categories, source-graded family contrast and physical-block partition",
+    "input": [
+      "data/discovery_snapshot.json",
+      "data/critical_commodity_contexts.json"
+    ],
+    "code": "code/commodity_context_audit.py",
+    "outputs": [
+      "results/commodity_context_rows.json",
+      "results/commodity_context_omissions.json",
+      "results/commodity_context_results.json",
+      "results/graphic_family_results.json",
+      "results/source_scope_results.json"
+    ],
+    "method": "Exhaustive bounded HT tablet adjacency census; literal and newline-only tiers, three index-flag branches, exact-form conflicts; separate source-family set-intersection and source-mapped block tests.",
+    "finding": "57 literal rows/41 labels/4 conflicts; DA-ME fixed-form association fails; source-graded KI-RE-TA-NA family association fails; cohort3+2 versus5. No role result.",
+    "novelty": "New project calculation plus primary HT120 and108 checks; known cohort not rediscovered; KI follow-up selected after census.",
+    "limitations": "Heuristic incomplete token eligibility; no quantity values, probabilities, semantic subtype, historical identity or action. Raw alias and source-scope uncertainties retained.",
+    "archive": "iterations/034/Linear_A_Iteration_34.zip",
+    "report": "REPORT.md"
+  },
+  {
+    "id": "R34-ARCHIVE-ROLE-GATE",
+    "iteration": 34,
+    "status": "completed",
+    "title": "Full monograph and published diary search for independently oriented account links",
+    "input": [
+      "agents/archive_context/source_ledger.json",
+      "agents/archive_context/observations.json"
+    ],
+    "outputs": [
+      "agents/archive_context/ARCHIVE_CONTEXT_AUDIT.md"
+    ],
+    "method": "Targeted reading of context, hand, commodity, classification and diary sections; exact source-version and access distinctions.",
+    "finding": "Full2019 source access obtained; Hand6 comparison retained; no named86/95 subpacket, chronological/stock equation or independent role anchor recovered.",
+    "novelty": "Completes a source gate explicitly left open in33; new access is not a new ancient attestation.",
+    "limitations": "Published diary transcriptions, not a complete original-notebook examination; full Militello2011 still unavailable; bounded negative.",
+    "archive": "iterations/034/Linear_A_Iteration_34.zip",
+    "report": "REPORT.md"
+  },
+  {
+    "id": "R34-MATERIAL-ROLE-GATE",
+    "iteration": 34,
+    "status": "completed",
+    "title": "PHWa32 contact/attachment and PHWa52 cross-media sealing test",
+    "input": [
+      "agents/role_anchors/SOURCE_LEDGER.json"
+    ],
+    "outputs": [
+      "agents/role_anchors/CANDIDATE_OBSERVATIONS.json",
+      "agents/role_anchors/ROLE_ANCHOR_AUDIT.md"
+    ],
+    "method": "Original source/plate inspection with explicit material, attachment, sign, place, device and direction levels; retain rival mechanisms.",
+    "finding": "PH12b supplies competing work-surface contact mechanism; PHWa32 tentative material and RA/RI branches remain; Wa52 device link does not orient a transaction.",
+    "novelty": "Source-specific mechanics and version control; no repeat of prior seal/count tests.",
+    "limitations": "No object autopsy, completed PHWa32 material/provenance test, exact linked box IDs, or1994 full arguments; null role fields.",
+    "archive": "iterations/034/Linear_A_Iteration_34.zip",
+    "report": "REPORT.md"
+  },
+  {
+    "id": "R34-COVERAGE-GATE",
+    "iteration": 34,
+    "status": "completed",
+    "title": "Anetaki sparse-entry and RILA-S1 access/denominator check",
+    "input": [
+      "data/discovery_snapshot.json",
+      "sources/coverage_observations.json"
+    ],
+    "code": "code/coverage_audit.py",
+    "outputs": [
+      "results/coverage_results.json"
+    ],
+    "method": "Exact named-entry token inventory compared with accessible original overview and institutional publication/access metadata.",
+    "finding": "Known sparse entries cannot support lexical absence; no complete critical addition or comparable corpus denominator recovered.",
+    "novelty": "Source/coverage extension; Anetaki material and cloth adjunct are inherited prior work.",
+    "limitations": "Not a full corpus update, latest-world census, new-object discovery or full supplement reading.",
+    "archive": "iterations/034/Linear_A_Iteration_34.zip",
+    "report": "REPORT.md"
+  },
+  {
+    "iteration": 35,
+    "status": "completed",
+    "archive": "iterations/035/Linear_A_Iteration_35.zip",
+    "report": "REPORT.md",
+    "novelty": "Source-led relation audit; no old sampler or constant-ratio rerun.",
+    "id": "R35-PRODUCTION-ORDER",
+    "title": "THEZb13 critical reading and source-conditioned physical-order test",
+    "input": [
+      "data/production_order.json",
+      "agents/review/THE_Zb13_CRITICAL_OVERLAY.json"
+    ],
+    "code": "code/production_order.py",
+    "outputs": [
+      "results/production_order_results.json"
+    ],
+    "method": "First-edition material observations encoded as a partial order; compare rival phase orders and omit each edge to expose dependence. Keep uncertain readings separate.",
+    "finding": "A prefiring inscription phase excludes whole-text first creation solely after firing. Incision/stamping order and all participant roles remain unresolved.",
+    "limitations": "Retrospective source selection; no individual object autopsy, statistical test, quantity fit, complete designation or independent date for every component."
+  },
+  {
+    "iteration": 35,
+    "status": "completed",
+    "archive": "iterations/035/Linear_A_Iteration_35.zip",
+    "report": "REPORT.md",
+    "novelty": "Source-led relation audit; no old sampler or constant-ratio rerun.",
+    "id": "R35-PHWA32-SOURCE-GATES",
+    "title": "PHWa32 sign-index, secondary-context and material-result audit",
+    "input": [
+      "agents/phwa32_material/source_ledger.json"
+    ],
+    "outputs": [
+      "agents/phwa32_material/observations.json",
+      "agents/phwa32_material/audit.md"
+    ],
+    "method": "Inspect original corpus classification, primary context discussion and bounded newer publication/image routes against separate reading, attachment and direction gates.",
+    "finding": "GORILAAB53 branch and secondaryfill qualification are source-supported; target-specific attachment and directed-role gates remain unmet.",
+    "limitations": "AB53/AB60 disagreement retained; tiny public images; named1994/2002 original arguments remain unread; no global absence claim."
+  },
+  {
+    "iteration": 35,
+    "status": "completed",
+    "archive": "iterations/035/Linear_A_Iteration_35.zip",
+    "report": "REPORT.md",
+    "novelty": "Source-led relation audit; no old sampler or constant-ratio rerun.",
+    "id": "R35-LINKED-SEALINGS",
+    "title": "Exact sealing-object and device/sign/provenance crosswalk audit",
+    "input": [
+      "agents/seal_relations/source_ledger.json",
+      "sources/root/source_ledger.json",
+      "agents/phwa32_material/observations.json"
+    ],
+    "outputs": [
+      "agents/seal_relations/observations.json",
+      "sources/root/RELATION_AUDIT.md",
+      "data/conditional_device_sign.json",
+      "agents/seal_relations/HTWa1031_SIGN_CONTRAST_ADDENDUM.md"
+    ],
+    "method": "Follow exact corpus, museum and device identifiers; distinguish carrier versus impression, indexed-original versus database fields, partial enumeration versus complete census, and device identity versus actor role.",
+    "finding": "Modern HT1117/1118/1031 crosswalks recovered. PH52 individual boxes and Flouda full argument remain inaccessible. ZA/HT movement remains unoriented and third-device attribution qualified. Conditional third-member retention produces an original-source AB01/AB02 counterexample to a fixed one-sign-per-device rule; omitting1715 removes it.",
+    "limitations": "No object autopsy, laboratory clay provenance, primary complete census or independent historical no13-to-CMS mapping; catalogue images can include multiple objects."
+  },
+  {
+    "iteration": 35,
+    "status": "completed",
+    "archive": "iterations/035/Linear_A_Iteration_35.zip",
+    "report": "REPORT.md",
+    "novelty": "Source-led relation audit; no old sampler or constant-ratio rerun.",
+    "id": "R35-AKROTIRI-SAMPLE-JOIN",
+    "title": "Akrotiri analytical-sample, object and readable-inscription join",
+    "input": [
+      "agents/review/SOURCES.json"
+    ],
+    "outputs": [
+      "agents/review/AKROTIRI_OBJECT_CROSSWALK.json",
+      "agents/review/AKROTIRI_AND_THE_Zb13_FINDINGS.md"
+    ],
+    "method": "Inspect exactN69/N70 inventories and preservation against macroscopic and analytical provenance claims; keep sampling programmes distinct.",
+    "finding": "No exact sample/readable-designation/marking-event join recovered. N69 incision status is unknown; the earlier chemical claim is not refuted by later missing tables.",
+    "limitations": "Müller2005p789 citation-only; aggregate analytical results not attributed to named objects; no exhaustive search or global availability claim."
+  },
+  {
+    "id": "R36-VESSEL-SEMANTIC-FEASIBILITY",
+    "iteration": 36,
+    "status": "completed",
+    "kind": "bounded source-to-test feasibility audit; semantic test not admitted",
+    "title": "A588 on THE Zb13 and KN Zb34",
+    "protocol": "iterations/036/preregistration.json",
+    "input": [
+      "iterations/036/source_ledger.json",
+      "inherited Iteration35 THE Zb13 critical overlay"
+    ],
+    "outputs": [
+      "iterations/036/observations.json",
+      "iterations/036/REPORT.md"
+    ],
+    "method": "Fix serious rival families and evidence requirements before new target inspection; check original edition and exact context; stop when no independent differentiating relation is acquired.",
+    "finding": "Source/object control improved; semantic branch parked. No serious rival rejected.",
+    "outcome_class": "B_source_object_improvement",
+    "limitations": "No new contents/production/participant binding, complete object autopsy or independent prediction; partial sources retained as partial.",
+    "novelty": "New source inspection/decision, not a newly discovered inscription or semantic result.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/036-037/Linear_A_Iterations_36_37.zip"
+  },
+  {
+    "id": "R37-PHAISTOS-FULL-ARGUMENT-ACCESS",
+    "iteration": 37,
+    "status": "completed",
+    "kind": "bounded access-discovery gate; full semantic argument uninspected",
+    "title": "Flouda2024 Phaistos responsibility argument",
+    "protocol": "iterations/037/PROSPECTIVE_GATE.md",
+    "input": [
+      "inherited35 SR-S06 source gap",
+      "iterations/037/acquisition_log.json"
+    ],
+    "outputs": [
+      "iterations/037/observations.json",
+      "iterations/037/REPORT.md"
+    ],
+    "method": "One exact-title/DOI new-copy discovery batch, followed by two newly surfaced metadata records; no repeat of known paid/on-request routes or unrelated box catalogue expansion.",
+    "finding": "No new public full-copy endpoint recovered within the pass. Article pages uninspected; access unresolved and branch parked.",
+    "outcome_class": "A_access_unresolved",
+    "limitations": "Not a global availability result and not a rejection of the unread article's administrator argument. No new original object dossier or semantic test.",
+    "novelty": "Bounded access outcome only; no new scientific claim appended for37.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/036-037/Linear_A_Iterations_36_37.zip"
+  },
+  {
+    "id": "C038-BOUNDED-DISCOVERY",
+    "iteration": 38,
+    "status": "completed",
+    "kind": "three-packet access and evidence-route screen; no semantic experiment",
+    "title": "Flouda2024 conditional access, KH Wc2123 physical sequence, SI Zg1 operation gate",
+    "protocol": "iterations/038/CAMPAIGN_PROTOCOL.json",
+    "input": [
+      "B2026-10-18 dispositions/exposure/queue",
+      "iterations/038/agents/source_epigraphy/acquisition_log.json",
+      "iterations/038/agents/archaeology_analysis/DISCOVERY_SCREEN.md"
+    ],
+    "outputs": [
+      "iterations/038/CANDIDATE_SELECTION.json",
+      "iterations/038/DECISION_LOG.md"
+    ],
+    "method": "Finite new-route search after baseline orientation; screen at most three distinct packets, select one primary; record unknown discriminator honestly.",
+    "finding": "P1 remained access-limited; P2 selected for source inquiry; P3 excluded for missing independent use event. No second deep investigation.",
+    "limitations": "Not a corpus-wide availability/completeness search. P3 screen does not refute all weight interpretations.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/038/Linear_A_Campaign_038.zip"
+  },
+  {
+    "id": "C038-KHWc2123-SOURCE-AND-ROLE-GATE",
+    "iteration": 38,
+    "status": "completed",
+    "kind": "qualitative source/physical feasibility and identifiability comparison; semantic test not admitted",
+    "title": "Erased KH Wc2123 designation and surviving impressions",
+    "protocol": "iterations/038/CANDIDATE_RECORD.json; exploratory source gate, not pre-exposure semantic preregistration",
+    "input": [
+      "iterations/038/evidence/EVIDENCE_RECORD.json",
+      "iterations/038/evidence/raw_index_record.json",
+      "iterations/038/evidence/KHWc2123_critical_overlay.json"
+    ],
+    "outputs": [
+      "iterations/038/analysis/RIVAL_COMPARISON.md",
+      "iterations/038/REPORT.md",
+      "iterations/038/agents/independent_challenger/REVIEW.md",
+      "iterations/038/agents/independent_challenger/OVERLAY_CHECK.json"
+    ],
+    "method": "Inspect exact original text/images and later objections; preserve reading branches; role-permutation countermodels and seven qualitative sensitivity dimensions; independent source and integrity review.",
+    "finding": "Source-control overlay and conditional physical exclusion retained. Responsibility/distinct-counterparty/account and earlier-entry models remain compatible; no independently fixed referent or role.",
+    "limitations": "Timing is source-attributed; no new decisive crosscut. One carrier, unknown historical event count; no certified unused outcome.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "serious_semantic_rivals_falsified": 0,
+    "archive": "iterations/038/Linear_A_Campaign_038.zip"
+  },
+  {
+    "id": "C039-BOUNDED-ACCESS-SCREEN",
+    "iteration": 39,
+    "status": "completed",
+    "kind": "two-packet access/source screen; no semantic experiment",
+    "title": "Flouda new repository route and SI Zg1 full-argument access",
+    "protocol": "iterations/039/CAMPAIGN_PROTOCOL.json",
+    "outputs": [
+      "iterations/039/DECISION_LOG.md",
+      "iterations/039/agents/source_route.md"
+    ],
+    "finding": "Full AB118 target text obtained; Flouda complete copy not obtained; wrong-article repository hit identified.",
+    "limitations": "Bounded source search, not exhaustive availability census; zero Flouda pages read.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "archive": "iterations/039/Linear_A_Campaign_039.zip"
+  },
+  {
+    "id": "C039-SIZg1-SOURCE-AND-FUNCTION-GATE",
+    "iteration": 39,
+    "status": "completed",
+    "kind": "source-control and qualitative identifiability inquiry; conditional arithmetic check",
+    "title": "SI Zg1 local AB118 interpretation",
+    "input": [
+      "iterations/039/evidence/SIZg1_critical_overlay.json",
+      "iterations/039/evidence/raw_index_record.json"
+    ],
+    "outputs": [
+      "iterations/039/REPORT.md",
+      "iterations/039/analysis/metrology_check.json",
+      "iterations/039/agents/challenger/REVIEW.md"
+    ],
+    "method": "Complete target-source text comparison, retained reading/direction branches, genuine-weight-plus-designation countermodel; exact arithmetic and independent source/preservation review.",
+    "finding": "One source qualification retained; local meaning and participant/action remain unidentified.",
+    "limitations": "No pixels/autopsy/new use event, no certified unused outcome. Fit to selected unit/fraction not semantic evidence.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "serious_semantic_rivals_falsified": 0,
+    "archive": "iterations/039/Linear_A_Campaign_039.zip"
+  },
+  {
+    "id": "C040-THREE-PACKET-SCREEN",
+    "iteration": 40,
+    "status": "completed",
+    "kind": "bounded discovery and feasibility screen",
+    "title": "MochlosP511, Akrotiri pair and Malia fractional mark",
+    "protocol": "iterations/040/checkpoints/01_CANDIDATE_AND_QUESTION.md",
+    "outputs": [
+      "iterations/040/DECISION_LOG.md",
+      "iterations/040/agents/discovery_a.md",
+      "iterations/040/agents/discovery_b.md",
+      "iterations/040/agents/discovery_c.md"
+    ],
+    "finding": "Three packets screened, only Akrotiri deep inquiry selected. P511 lacks exact content/capacity binding; Malia exact original/carrier/calibration unresolved.",
+    "limitations": "Targeted search, not census. Source-led exposure, no blind/unseen prediction.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "archive": "iterations/040/Linear_A_Campaign_040.zip"
+  },
+  {
+    "id": "C040-AKROTIRI-9384-9730",
+    "iteration": 40,
+    "status": "completed",
+    "kind": "qualitative primary-source, physical-control and semantic-feasibility comparison",
+    "title": "Different marks within shared G10 vessel class, with manufacturing confound",
+    "input": [
+      "C040-S01",
+      "C040-S02"
+    ],
+    "outputs": [
+      "iterations/040/evidence/EVIDENCE_RECORD.json",
+      "iterations/040/analysis/RIVAL_COMPARISON.md",
+      "iterations/040/agents/challenger/REVIEW_ADDENDUM.md"
+    ],
+    "method": "Exact visible inventory/photo concordance; primary Greek/English text, actual images; compare measured vs inferred capacity, technical groups and phase; independent challenge.",
+    "finding": "One measured volume, technical contrast, source-reported incision-before-coating and revised operator inference recovered. Restricted fixed-coarse-type code model contradicted conditional on classifications; no denotation selected.",
+    "limitations": "Same two objects/research context across sources; no laboratory/workshop/residue join, no fresh autopsy; no complete singleton guarantee for9384.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "serious_semantic_rivals_selected": 0,
+    "structural_model_exclusion": "fixed broadG10 class alone determines one preserved prominent mark",
+    "archive": "iterations/040/Linear_A_Campaign_040.zip"
+  },
+  {
+    "id": "C041-CATALOGUE-SAMPLE-LINK",
+    "iteration": 41,
+    "status": "completed",
+    "kind": "bounded primary-source and exact specimen-link feasibility inquiry",
+    "title": "Akrotiri9384/9730 catalogue and manufacturing concordance",
+    "input": [
+      "C041-S01",
+      "C041-S02",
+      "LA-040-001"
+    ],
+    "method": "Original inventory/catalogue mapping, separate measurement/reading histories, actual image-only concordance check and independent challenge; recorded remaining macrotable inspection.",
+    "outputs": [
+      "iterations/041/evidence/CATALOGUE_OVERLAY.json",
+      "iterations/041/agents/SOURCE_ROUTE.md",
+      "iterations/041/agents/challenger/REVIEW.md"
+    ],
+    "finding": "Original catalogue access obtained; precise object controls retained. No exact target analytical join recovered in inspected records.",
+    "limitations": "Published-table scope, blank cells and sample-number gaps; no never-sampled inference, autopsy, new assay or independent ancient witness.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/041/Linear_A_Campaign_041.zip"
+  },
+  {
+    "id": "C041-RESIDUE-ACCESS-AND-CROSSWALK",
+    "iteration": 41,
+    "status": "completed",
+    "kind": "bounded acquisition and analytical-code crosswalk feasibility",
+    "title": "Exact Akrotiri contents/use route",
+    "input": [
+      "C041-S03",
+      "C041-S04"
+    ],
+    "method": "Exact title/author institutional and author-hosted route checks; transcribe positive-result ACV↔AKR table; require inventory link independent of mark.",
+    "outputs": [
+      "iterations/041/agents/OBJECT_EVIDENCE.md",
+      "iterations/041/agents/RESIDUE_SAMPLE_CROSSWALK.json",
+      "iterations/041/analysis/JOIN_DECISION.md"
+    ],
+    "finding": "17 positive-result code pairs retained, no exact targets joined.2021 full chapter not acquired in checked routes; zero article pages.",
+    "limitations": "Text-transcription access to2013, no actual table pixels; positive subset not full sample census; broad lipids/coatings do not identify specific contents.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/041/Linear_A_Campaign_041.zip"
+  },
+  {
+    "id": "C042-CAPACITY-SCOPE",
+    "iteration": 42,
+    "status": "completed_stopped",
+    "kind": "source-qualified conditional structural/physical model comparison",
+    "title": "KN Zb27 / ZA Zb3 individual-capacity and unit/scope comparison",
+    "input": [
+      "C042-S01",
+      "C042-S02",
+      "C042-S03",
+      "C042-S04",
+      "C042-S05",
+      "C042-S06",
+      "C042-S07",
+      "C042-S08"
+    ],
+    "method": "Exact-object source/reading correction; common-unit ratio comparison, nine historical numeral branches, constructivepartial-fill countermodels, posthoc conditional geometry bound, independent source/arithmetic challenge.",
+    "outputs": [
+      "iterations/042/REPORT.md",
+      "iterations/042/evidence/READING_AND_OBJECT_OVERLAY.json",
+      "iterations/042/analysis/capacity_inputs.json",
+      "iterations/042/analysis/capacity_results.json",
+      "iterations/042/agents/challenger/C042_FINAL_REVIEW.md",
+      "iterations/042/ADJUDICATION.md"
+    ],
+    "finding": "Commonunit fullcapacity/commonfillfraction model constrained; preferredKN107 recovered; no unique wider scope or action/participant meaning.",
+    "limitations": "Approximate capacities, mixed measurement methods, source-reportedreading, sharedunit not independentlyproved, alltargets exposed.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/042/Linear_A_Campaign_042.zip"
+  },
+  {
+    "id": "C043-CORD-JOIN",
+    "iteration": 43,
+    "status": "completed_closed_admission_failure",
+    "kind": "finite source/object join and semantic-test feasibility",
+    "title": "Selected cord arrangements and exact inscriptions",
+    "input": [
+      "RA34-S01",
+      "C043-S01",
+      "C043-S02"
+    ],
+    "method": "Physical selection before current exact sign joins; preserve suffixes/site and catalogue missingness; reproduce readable-class eligibility and preservation sensitivities.",
+    "outputs": [
+      "iterations/043/REPORT.md",
+      "iterations/043/evidence/JOIN_FINAL.json",
+      "iterations/043/analysis/result.json",
+      "iterations/043/review/FINAL_REVIEW.md",
+      "iterations/043/ADJUDICATION.md"
+    ],
+    "finding": "Only one readable labeling-class carrier; no readable securing-class comparison.",
+    "limitations": "Original CMS/GORILA targets inaccessible; fragment negatives qualified; physical class does not identify attachment referent; previous exposure disclosed.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/043/Linear_A_Campaign_043.zip"
+  },
+  {
+    "id": "C044-VESSEL-CLASS",
+    "iteration": 44,
+    "status": "completed_closed_reviewed",
+    "kind": "qualitative local category/material comparison with conditional administrative-scope consequence",
+    "title": "HT31 first vessel versus exact bronze and ceramic archaeological comparators",
+    "input": [
+      "C044-S01",
+      "C044-S02",
+      "C044-S03",
+      "C044-S04",
+      "C044-S05",
+      "C044-S06"
+    ],
+    "method": "Inspect original sign/object photographs and exact kiln catalogue; compare combined features; challenge generic-tripod hypothesis and material-neutral convention rival; finite direct ceramic follow-up; independent reconstruction.",
+    "outputs": [
+      "iterations/044/REPORT.md",
+      "iterations/044/evidence/HT31_OVERLAY.json",
+      "iterations/044/analysis/INFERENCE.md",
+      "iterations/044/analysis/target_index_result.json",
+      "iterations/044/review/FINAL_REVIEW.md",
+      "iterations/044/ADJUDICATION.md"
+    ],
+    "finding": "Graded bronze-cauldron class preference survives exact ceramic rival. Exclusive bronze extension unconfirmed; all-ceramic kiln consequence conditional.",
+    "limitations": "No actual vessel material inferred by assay of writing; no complete ceramic support comparison, exact event join or unused validation. Puglisi original target pixels and Duhoux2003 section4.1.2 uninspected.",
+    "semantic_experiment_admitted": true,
+    "graded_semantic_preference": true,
+    "new_semantic_relationship": false,
+    "new_semantic_relationship_definition": "Established exclusive local material binding, action or role; none added.",
+    "new_testable_linguistic_prediction": false,
+    "archive": "iterations/044/Linear_A_Campaign_044.zip"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R16-HT34-SCRIBAL-CORRECTION",
+    "status": "completed",
+    "finding": "KI-RO 30 exactly closes 100\u221270; erased 7 would break closure.",
+    "result": "iterations/016/results/verification.json"
+  },
+  {
+    "id": "R16-HT118-NAMED-DEFICIT",
+    "status": "completed",
+    "finding": "QA-QA-RU independently person-classified; KI 4 attached; KI column closes 15.",
+    "result": "iterations/016/data/evidence.json"
+  },
+  {
+    "id": "R16-ADVERSARIAL-CONTROL",
+    "status": "completed",
+    "finding": "Generic section-marker and flattened-37 rivals weakened/rejected; universal polarity and counterparty direction remain open.",
+    "result": "iterations/016/notes/ADVERSARIAL_REVIEW.md"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "actual_registry_totals": [84, 34, 109],
+  "all_inherited_83_32_104_entries_unchanged": true,
+  "frozen_baseline_and_corpus_unchanged": true,
+  "exact_prior_archive_sha256": "4560f045b2b46314ba5f1b1152a06d3c6baaa3e4e85ac6284a750e8c99ce883f",
+  "inventory_mark_capacity_fields_consistent": true,
+  "independent_review_files": [
+    "agents/challenger/FINAL_SYNTHESIS_CHECK.md",
+    "agents/challenger/FINAL_REGISTRY_CHECK.json",
+    "agents/challenger/REVIEW_ADDENDUM.md",
+    "agents/ARCHAEOLOGY_REVIEW.md"
+  ],
+  "semantic_validation": false,
+  "autopsy_or_fill_replication": false,
+  "scope": "Actual preservation/representation checks run with verify040.py; independent primary-source review separately documents scientific limits."
+}

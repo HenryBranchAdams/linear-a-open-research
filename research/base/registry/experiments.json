@@ -1,0 +1,48 @@
+[
+  {
+    "id": "R10-CORPUS-PAIRS",
+    "status": "completed",
+    "input": "corpus/sigla_sequences_2026-09-07.json",
+    "code": "iterations/010/code/corpus_pairs.py",
+    "result": "iterations/010/results/corpus_pairs.json",
+    "kind": "new bounded offline screen plus source sensitivity overlays",
+    "finding": "Strongest packet HT86/95; no qualifying >=3sign initialA/terminal-only face-supported variant",
+    "limitations": "Indexed chunks not certified words; filters and object grouping documented; no significance or identity inference"
+  },
+  {
+    "id": "R10-PRIMARY-AUDIT",
+    "status": "completed",
+    "input": "GORILA I pp26,27,134,135,154,155",
+    "result": "iterations/010/notes/documentary_links.md",
+    "kind": "new selected edition inspection",
+    "finding": "DA-ME edition reading; Q-pair context; TE-KI and TE-TU both preserved",
+    "limitations": "Edition-image inspection, not object autopsy; prior scholarship identified"
+  },
+  {
+    "id": "R10-PACKET-SCALE",
+    "status": "completed",
+    "input": "iterations/010/data/packet_quantities.json",
+    "code": "iterations/010/code/packet_models.py",
+    "result": "iterations/010/results/packet_models.json",
+    "kind": "retrospective exact model diagnostic",
+    "finding": "Single factor fails proposed Q alignment even within HT86section1",
+    "limitations": "Equivalent quantities, units, common event and Q identity not established; not a rejection of relationship"
+  },
+  {
+    "id": "R10-HT24-IDENTIFIABILITY",
+    "status": "completed",
+    "code": "iterations/010/notes/ht24_fallback/identifiability.py",
+    "result": "iterations/010/notes/ht24_fallback/identifiability_results.json",
+    "kind": "new conditional extension of round9 model",
+    "finding": "Free yield/missing input leaves m unidentified; input/output-total distinction changes acquisition priority",
+    "limitations": "No new reading, denominator or actual yield"
+  },
+  {
+    "id": "R10-HISTORY",
+    "status": "completed",
+    "result": "registry/historical_claims.json",
+    "kind": "archive recovery and selective context consolidation",
+    "finding": "36 historical claims;92 verified archive references",
+    "limitations": "Earlier computations inherited, not all rerun"
+  }
+]

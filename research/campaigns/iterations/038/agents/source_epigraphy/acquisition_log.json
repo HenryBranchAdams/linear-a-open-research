@@ -1,0 +1,99 @@
+{
+  "schema": "linear_a_038.source_epigraphy_access.v1",
+  "packet": "P1",
+  "date": "2026-10-21",
+  "orientation_clock_utc": "2026-10-21T16:56:44Z",
+  "acquisition_finished_by_utc": "2026-10-21T16:57:46Z",
+  "ceiling_minutes": 15,
+  "scope": "One bounded full-copy discovery effort; no semantic test admitted.",
+  "controls_read": [
+    "B-D24",
+    "B-D26",
+    "B-Q01",
+    "B-Q10",
+    "B-E20",
+    "investigation37 acquisition_log.json and REPORT.md",
+    "investigation35 seal_relations acquisition/source/audit relevant entries"
+  ],
+  "searches": [
+    {
+      "engine": "system1_search_query",
+      "queries": [
+        "\"Flouda\" \"Agency and materiality\" -site:academia.edu -site:libraweb.net -site:torrossa.com -site:orcid.org -site:medra.org",
+        "\"Georgia Flouda\" publications repository 2024 Phaistos"
+      ],
+      "capture": "raw/P1_search_new_routes.json",
+      "result": "No matching full-copy endpoint."
+    },
+    {
+      "engine": "system2_search_query",
+      "queries": [
+        "\"Agency and materiality entangled\"",
+        "\"Flouda\" \"202433301008\"",
+        "\"Flouda\" \"Pasiphae\" \"2024\" pdf -site:academia.edu -site:torrossa.com -site:libraweb.net"
+      ],
+      "capture": "raw/P1_search_verification.json",
+      "result": "ResearchGate request-only author record, A3TEX institutional citation, prior vendor routes and bibliography."
+    }
+  ],
+  "opens": [
+    {
+      "attempt": "open three refs (ResearchGate article, A3TEX, ResearchGate author profile)",
+      "outcome": "Service 503; no source content",
+      "capture": "raw/P1_routes_opened.json"
+    },
+    {
+      "url": "https://www.a3tex.com/progetti/the-adriadnes-threads-a-minoan-and-mycenaean-brand/",
+      "ref": "turn4view0",
+      "followup_ref": "turn5view0",
+      "scope": "Full-text web extraction, 281 lines; no images",
+      "result": "Flouda citation at line220 points only to DOI",
+      "route_family": "bibliography -> already known DOI",
+      "captures": [
+        "raw/P1_routes_retry.json",
+        "raw/P1_a3tex_find.json"
+      ]
+    },
+    {
+      "url": "https://www.researchgate.net/publication/384861118_Flouda_G_2024_Agency_and_materiality_entangled_new_insights_into_Minoan_clay_sealed_documents_from_Protopalatial_Phaistos_in_L_Godart_A_Sacconi_eds_70o_Anniversario_della_decifrazione_della_Linear_B_1",
+      "ref": "turn4view1",
+      "scope": "Full-text web extraction of author record; abstract only",
+      "result": "Explicit no-full-text/request state lines15–16,45–50",
+      "route_family": "author request; same barrier as prior Academia",
+      "capture": "raw/P1_routes_retry.json"
+    }
+  ],
+  "full_article_pages_inspected": 0,
+  "new_object_dossiers_inspected": 0,
+  "incidental_exposure": [
+    {
+      "source": "A3TEX",
+      "locators": "lines129–139",
+      "objects": [
+        "PH Wc37",
+        "PH Wa32"
+      ],
+      "scope": "Text mentions only; no image or dossier inspection; no semantic reopening"
+    }
+  ],
+  "before": {
+    "B_D26": "parked_access_limited",
+    "B_D24": "parked_packet_incomplete"
+  },
+  "after": {
+    "B_D26": "parked_access_limited",
+    "B_D24": "parked_packet_incomplete"
+  },
+  "stop": "Finite route search produced request-only author page and DOI-only institutional reference; no new complete-copy route.",
+  "not_performed": [
+    "external correspondence",
+    "request submission",
+    "purchase",
+    "login",
+    "access-control bypass",
+    "object photo inspection",
+    "semantic experiment"
+  ],
+  "limits": "Not an exhaustive census of all legitimate copies; full argument remains unevaluated.",
+  "digest_scope": "Raw JSON files are tool-produced search/extraction records, not original publication bytes."
+}

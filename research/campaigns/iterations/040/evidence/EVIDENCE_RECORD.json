@@ -1,0 +1,80 @@
+{
+  "campaign": "LA-C040-2026-10-23",
+  "object_pair": [
+    {
+      "inventory": "9384",
+      "mark": "AB81",
+      "source2021_figures": [
+        "13",
+        "15"
+      ],
+      "source2025_figures": [
+        "9–11",
+        "13",
+        "14left"
+      ],
+      "capacity_litres": 7.95,
+      "capacity_status": "source-reported approximate granule-fill measurement on nearly complete/restored carrier",
+      "rim_diameter_cm": [
+        14,
+        15
+      ],
+      "height_cm": 29.5,
+      "base_diameter_cm_approx": 11,
+      "technical_description": "finer-grained/carefully finished interior/brown coating;slow-turning possibility",
+      "text_completeness": "AB81 preserved; possible following sign lost to break/restoration",
+      "find_context": "NewPillarShaft67 Room2 destructionlayer12; AS25–AS30,67NO39–44"
+    },
+    {
+      "inventory": "9730",
+      "mark": "AB164a",
+      "source2021_figures": [
+        "12",
+        "14"
+      ],
+      "source2025_figures": [
+        "12",
+        "13",
+        "14right"
+      ],
+      "capacity_litres": null,
+      "capacity_status": "equal volume inferred by source, not independently measured",
+      "rim_diameter_cm_approx": 14.5,
+      "height_cm": null,
+      "technical_description": "coarser/rougher interior/reddish coating; incomplete vessel",
+      "text_completeness": "preservedAB164a on fragmentary carrier, no whole-word reconstruction",
+      "find_context": "NewPillarShaft67 Room2 layer12 as reported; AS30 sherds specifically described"
+    }
+  ],
+  "common_class": "Hole-Mouthed JarG10, published ceramic classification",
+  "source_reports": {
+    "phase": "incision before coating and firing",
+    "provenance": "macroscopicTheran appraisal;Melian possibility retained",
+    "operator": "later source removes necessity of separating potter and inscriber"
+  },
+  "what_was_independently_checked": [
+    "Primary Greek/English source comparison",
+    "Actual visible inventory-card/photo/mark mapping",
+    "One-measurement vs inferred-capacity wording",
+    "Technical differences versus contents-control claim"
+  ],
+  "not_replicated": [
+    "Object autopsy",
+    "Laboratory provenance",
+    "Original excavation diaries",
+    "Modern fill experiment",
+    "Residue or use identification"
+  ],
+  "independence": {
+    "source": "Same researcher/pair; later detail not second ancient replication",
+    "object_event": "Two carriers; original use/event count unestablished",
+    "inferential": "Physical grouping/crosswalk fixed without assuming mark meaning; manufacture and contents not crossed"
+  },
+  "exposure": "Source-led discovery. Unknown earlier primary-page exposure, existing index sign/corpus exposure not reset; no unused linguistic outcome.",
+  "raw_corpus_modified": false,
+  "corpus_concordance": "No exact RILA/frozen-index code invented",
+  "sources": [
+    "C040-S01",
+    "C040-S02"
+  ]
+}

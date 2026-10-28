@@ -1,0 +1,48 @@
+[
+  {
+    "id": "P14-01",
+    "hypothesis": "KI-RO one-count entries are necessarily personal names",
+    "prediction": "All high-confidence repeated KIRO members should behave as person designations in external contexts",
+    "exposure": "Retrospective; all frozen corpus searched",
+    "result": "falsification/control failure",
+    "evidence": [
+      "KU-*56-NU quantity 3 on HT3 and broader list network",
+      "PA-JA-RE fractional/quantity contexts",
+      "Montecchi explicit counterexample"
+    ]
+  },
+  {
+    "id": "P14-02",
+    "hypothesis": "KI/KI-RO is a fixed negative item on HT100",
+    "prediction": "Only subtractive/exclusion arithmetic should reproduce KU-RO 97 under secure reading",
+    "exposure": "Retrospective source audit",
+    "result": "not_testable_from_current_reading",
+    "evidence": [
+      "[4] inclusion gives 97; [6] exclusion gives 97; source audit says numeral damaged/restored"
+    ]
+  },
+  {
+    "id": "P14-03",
+    "hypothesis": "KI-RO is cross-domain reconciliation/difference operator",
+    "prediction": "Should appear in structurally secondary/differential sections across commodity and label lists without requiring fixed sign",
+    "exposure": "Retrospective corpus",
+    "result": "survives_controls_not_independently_validated",
+    "evidence": [
+      "HT30 parallel commodity sections",
+      "HT123 difference model",
+      "HT88/94 sublists"
+    ]
+  },
+  {
+    "id": "P14-04",
+    "hypothesis": "PA-TA-NE identifies an entity/account that participates across tablet and sealing administration",
+    "prediction": "Same form should appear on administrative media beyond HT94",
+    "exposure": "Already known in literature before hypothesis freeze",
+    "result": "compatible_not_predictive",
+    "evidence": [
+      "HT Wa1019 nodule",
+      "modern HT122 reading"
+    ],
+    "note": "Not counted as novel prediction."
+  }
+]

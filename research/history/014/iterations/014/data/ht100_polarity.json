@@ -1,0 +1,39 @@
+{
+  "fixed_entries": [
+    58,
+    12,
+    2,
+    5,
+    16
+  ],
+  "ambiguous_quantity_options": [
+    4,
+    6
+  ],
+  "ki_quantity": 2,
+  "written_ku_ro": 97,
+  "source_observations": {
+    "Uchitel_2016": "prints *304+PA [4] in comparative table",
+    "Montecchi_2010": "proposes restoring six; then total 97 is obtained by excluding KI 2",
+    "Bennett_review": "reports Was [4] restored/damaged; GORILA gives the damaged slot without a secure numeral; CTLA reads 6; says neither restoration is persuasive from the damaged text."
+  },
+  "scenarios": [
+    {
+      "ambiguous_quantity": 4,
+      "include_KI_total": 97,
+      "exclude_KI_total": 95,
+      "written_total": 97,
+      "include_matches": true,
+      "exclude_matches": false
+    },
+    {
+      "ambiguous_quantity": 6,
+      "include_KI_total": 99,
+      "exclude_KI_total": 97,
+      "written_total": 97,
+      "include_matches": false,
+      "exclude_matches": true
+    }
+  ],
+  "derived_result": "Reading [4] supports inclusion of KI2 in total; reading [6] supports exclusion/subtractive interpretation. Since the damaged numeral is not securely resolved, HT100 cannot independently identify KI/KI-RO polarity."
+}

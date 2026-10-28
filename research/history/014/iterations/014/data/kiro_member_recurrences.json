@@ -1,0 +1,310 @@
+[
+  {
+    "form": "*79-SU",
+    "kiro_context_documents": [
+      "HT 1"
+    ],
+    "all_exact_documents": [
+      "HT 1"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "A-RA-NA-RE",
+    "kiro_context_documents": [
+      "HT 1"
+    ],
+    "all_exact_documents": [
+      "HT 1"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "DA-TA-RE",
+    "kiro_context_documents": [
+      "HT 88"
+    ],
+    "all_exact_documents": [
+      "HT 88"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "DE-DI",
+    "kiro_context_documents": [
+      "HT 94b"
+    ],
+    "all_exact_documents": [
+      "HT 94b"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "DI-DI-ZA-KE",
+    "kiro_context_documents": [
+      "HT 1"
+    ],
+    "all_exact_documents": [
+      "HT 1"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "KA-JU",
+    "kiro_context_documents": [
+      "HT 88"
+    ],
+    "all_exact_documents": [
+      "HT 88"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "KE-KI-RU",
+    "kiro_context_documents": [
+      "HT 94b"
+    ],
+    "all_exact_documents": [
+      "HT 94b"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "KU-*56-*56",
+    "kiro_context_documents": [
+      "HT 88"
+    ],
+    "all_exact_documents": [
+      "HT 88"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "KU-*56-NU",
+    "kiro_context_documents": [
+      "HT 1",
+      "HT 117a",
+      "HT 88"
+    ],
+    "all_exact_documents": [
+      "HT 1",
+      "HT 117a",
+      "HT 122a",
+      "HT 49a",
+      "HT 88",
+      "PH 31a"
+    ],
+    "external_exact_documents": [
+      "HT 122a",
+      "HT 49a",
+      "PH 31a"
+    ],
+    "exact_occurrence_count": 7,
+    "external_document_count": 3
+  },
+  {
+    "form": "KU-RA-MU",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "MA-RU",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "MI-RU-TA-RA-RE",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "MI-TU",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "NA-DA-RE",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "PA-JA-RE",
+    "kiro_context_documents": [
+      "HT 88"
+    ],
+    "all_exact_documents": [
+      "HT 29",
+      "HT 88",
+      "HT 8b",
+      "ZA 10b"
+    ],
+    "external_exact_documents": [
+      "HT 29",
+      "HT 8b",
+      "ZA 10b"
+    ],
+    "exact_occurrence_count": 4,
+    "external_document_count": 3
+  },
+  {
+    "form": "PA-TA-NE",
+    "kiro_context_documents": [
+      "HT 94b"
+    ],
+    "all_exact_documents": [
+      "HT 94b",
+      "HT Wa 1019\u03b1"
+    ],
+    "external_exact_documents": [
+      "HT Wa 1019\u03b1"
+    ],
+    "exact_occurrence_count": 2,
+    "external_document_count": 1
+  },
+  {
+    "form": "SA-MA-RO",
+    "kiro_context_documents": [
+      "HT 88"
+    ],
+    "all_exact_documents": [
+      "HT 88"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "SA-RU",
+    "kiro_context_documents": [
+      "HT 94b"
+    ],
+    "all_exact_documents": [
+      "HT 123a",
+      "HT 86a",
+      "HT 86b",
+      "HT 94b",
+      "HT 95a",
+      "HT 95b"
+    ],
+    "external_exact_documents": [
+      "HT 123a",
+      "HT 86a",
+      "HT 86b",
+      "HT 95a",
+      "HT 95b"
+    ],
+    "exact_occurrence_count": 6,
+    "external_document_count": 5
+  },
+  {
+    "form": "TE-*56-RE",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "TU-JU-MA",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "TU-MA",
+    "kiro_context_documents": [
+      "HT 94b"
+    ],
+    "all_exact_documents": [
+      "HT 94b"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "U-DI-MI",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  },
+  {
+    "form": "U-SU",
+    "kiro_context_documents": [
+      "HT 117a"
+    ],
+    "all_exact_documents": [
+      "HT 117a"
+    ],
+    "external_exact_documents": [],
+    "exact_occurrence_count": 1,
+    "external_document_count": 0
+  }
+]

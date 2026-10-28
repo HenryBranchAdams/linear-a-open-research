@@ -1,0 +1,31 @@
+Iteration 12 structural verification passed.
+{
+  "derived_findings": {
+    "secure_counted_documents": [
+      "HT 7b"
+    ],
+    "secure_heading_documents": [
+      "HT 87",
+      "HT 117b"
+    ],
+    "secure_cross_position": true,
+    "di_ki_se_under_qi_tu_ne_documents": [
+      "HT 87",
+      "HT 117b"
+    ],
+    "replicated_di_relation": true,
+    "ht94_required_for_cross_position": false,
+    "source_coverage_nonempty": true,
+    "full_action_and_roles": false
+  },
+  "failure_injection_tests": {
+    "remove_ht94_result_survives": true,
+    "remove_ht7_breaks_cross_position": true,
+    "uncertain_ht7_breaks_cross_position": true,
+    "remove_one_di_breaks_replication": true,
+    "missing_sources_detected": true
+  },
+  "note": "Structural/computational verification only. Semantic model preferences remain interpretive."
+}
+
+STDERR:

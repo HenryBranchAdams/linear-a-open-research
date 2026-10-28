@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ht31",
+    "title": "HT31: a graded vessel-class preference",
+    "tag": "Latest result · C044",
+    "summary": "The first vessel sign more closely matches an independently excavated bronze cauldron than the exact ceramic kiln fragment proposed as a rival. This supports a local category preference. Exclusive bronze denotation, PU-KO’s meaning, an administrative action and participant roles remain unconfirmed.",
+    "observed": "HT31.1/A410VAS combines a curved basin, upright loop handles and three long supports. The inspected Malia Quartier Mu inventory 3068 bronze comparator is a closer combined-form match than Puglisi 2011 catalogue 5.3/c.29a1, a cylindrical ceramic wall fragment with half a horizontal handle and no available supports. Handle-count and line-width differences remain explicit.",
+    "inferred": "The reviewed result is positive and graded at the vessel-category level. A material-neutral conventional category remains a grounded rival, and no target-specific ceramic use was recovered. An exclusively ceramic kiln list is excluded only conditionally on bronze-restricted referents. Broader inventory, acquisition, allocation, receipt and issue survive. No unused linguistic validation is claimed.",
+    "next": "Inspect a legitimately obtained complete Duhoux 2003 chapter, especially the exact ceramic comparison cited as §4.1.2, or recover an exact cross-material use of the sign. Original Puglisi target figures remain uninspected. A feature-matched ceramic counterpart could weaken the preference. Prepared evidence requests remain unsent.",
+    "sources": [
+      "research/campaigns/iterations/044/REPORT.md",
+      "research/campaigns/iterations/044/review/FINAL_REVIEW.md",
+      "research/campaigns/iterations/044/ADJUDICATION.md",
+      "research/campaigns/iterations/044/evidence/MATERIAL_RIVAL.md"
+    ],
+    "missions": []
+  },
+  {
+    "id": "capacity",
+    "title": "KN Zb27 / ZA Zb3: a capacity constraint",
+    "tag": "Physical constraint · C042",
+    "summary": "KN Zb27’s source-preferred numeral is 107. The two marked vessels cannot both express their full capacities in one common positive volume unit at the inspected values. Local units, unequal filling and wider scope remain possible; no transaction meaning is selected.",
+    "observed": "The autopsy-reported KN reading is107, with17 and117 retained as historical branches. ZA’s preferred numeral is32. Nominal capacities of approximately 34 L and 556 L±11% imply full-carrier units of approximately 0.318 L and 17.375 L. The mismatch survives the historical numeral combinations and a conditional post hoc profile-envelope check.",
+    "inferred": "One common-unit full-capacity model, and the corresponding common-fill-fraction model, fail under the stated premises. Different denominations, variable partial filling, non-volume counts and wider accounting scope survive. The anomaly was already discussed in earlier scholarship. A collective-label interpretation is not uniquely established.",
+    "next": "Recover an independent denomination equation or exact container/account/use counterpart fixing unit or scope. The complete Notti 2025 measurement discussion and KN interior-profile/restoration record could improve physical inputs without automatically choosing a meaning.",
+    "sources": [
+      "research/campaigns/iterations/042/REPORT.md",
+      "research/campaigns/iterations/042/evidence/READING_AND_OBJECT_OVERLAY.json",
+      "research/campaigns/iterations/042/ADJUDICATION.md"
+    ],
+    "missions": []
+  },
+  {
+    "id": "akrotiri",
+    "title": "Akrotiri: the exact analytical link is missing",
+    "tag": "Object control · C040–C041",
+    "summary": "Catalogue 1121 is inventory 9384; catalogue 1122 is9730. Only 9384 has a reported measured capacity, approximately 7.95 L. Original catalogue and analytical-concordance inspection did not recover the exact specimen/use join needed to compare inscription meaning against production or contents.",
+    "observed": "The two vessels differ in clay preparation and interior finish. Their reported rims are source-specific measurements. Original 2019 catalogue and concordance records were inspected, but no exact inventory-to-sampled-sherd-to-laboratory-code/use chain was recovered for the targets.",
+    "inferred": "Rim similarity does not establish equal capacity; fabric does not identify contents or workshop. Neighboring soot and general residue results do not belong to these jars without an exact join. Blank fields and code gaps do not establish that they were never sampled. Manufacture and later use remain separate questions.",
+    "next": "Recover a documented exact specimen/use link or materially new diagnostic observation that distinguishes the strongest production-related and use-related alternatives. Reacquiring already inspected catalogue pages is replication or access maintenance.",
+    "sources": [
+      "research/campaigns/iterations/040/REPORT.md",
+      "research/campaigns/iterations/041/REPORT.md",
+      "research/campaigns/iterations/041/analysis/JOIN_DECISION.md"
+    ],
+    "missions": []
+  },
+  {
+    "id": "cord-function",
+    "title": "SI-KA: no readable cross-function comparison",
+    "tag": "Admission limit · C043",
+    "summary": "The five-carrier cord-function packet supplies one readable labeling-class inscription, HMs 557 / HT Wa1018 SI-KA, and no readable securing-class counterpart. The intended semantic comparison could not be admitted; SI-KA’s meaning was neither confirmed nor refuted.",
+    "observed": "The exact catalogue/object join leaves only one readable member of the selected five-carrier packet. No readable inscription survives in the reconstructed securing class. Treating fragment no-signs fields as unknown does not restore the missing comparison.",
+    "inferred": "A physical cord arrangement constrains the nodule’s local function without identifying the sealed object, transaction or inscription’s referent. An admission failure supplies no semantic verdict. Missing catalogue fields and fragmentary surfaces do not establish a universal absence of signs.",
+    "next": "Recover an exactly readable carrier whose documented internal cord arrangement supplies the missing securing-class comparison. Repeat analysis of the same incomplete join does not change the gate.",
+    "sources": [
+      "research/campaigns/iterations/043/REPORT.md",
+      "research/campaigns/iterations/043/evidence/JOIN_FINAL.json",
+      "research/campaigns/iterations/043/review/FINAL_REVIEW.md"
+    ],
+    "missions": []
+  },
+  {
+    "id": "ht34",
+    "title": "HT34: a conditional balance",
+    "tag": "Conditional",
+    "summary": "HT34 retains published readings of 30[[7]] and 37. Under a comparable, shared-account scope, 70 + 30 = 100. Reading, scope and meaning remain separate premises: the exact complement cannot by itself select debt, allocation or retained stock, even if the reading is settled.",
+    "observed": "Using 30 from the 30[[7]] branch gives 70 + 30 = 100; retaining 37 gives 107. Both published reading branches remain in the baseline. The earlier status-insensitive verifier was corrected after review; that repair did not establish the ancient correction sequence.",
+    "inferred": "The 30 branch supports an exact complement under the specified account assumptions. Paid/unpaid, allocated/unallocated and issued/retained interpretations can share that arithmetic. Neither the number nor the complement independently identifies KI-RO's meaning or who acted toward whom.",
+    "next": "Reopen only with a reading adequate for the comparison, or a result robust across both branches, plus independently constrained account scope and a relationship that distinguishes the serious alternatives. A better numeral alone need not select a meaning.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": [
+      "LA-M001",
+      "LA-M002"
+    ]
+  },
+  {
+    "id": "ht118",
+    "title": "HT118: a total still open",
+    "tag": "Unresolved",
+    "summary": "HT118's main amounts sum to 35 against KU-RO 30. Pairwise addition yields 25, 10 and 5, but that pattern was noticed after inspection. The final KI total is broken, and competing error and scope models remain; a probable name comparison does not establish a person's deficit.",
+    "observed": "The paired main/KI quantities are MA-DI 15/10, QA-QA-RU 6/4 and A-RI-SU 4/1. RI-RU-MA 10 is unpaired; its missing KI is not an observed zero. The main values sum to 35, KU-RO records 30, and the final KI amount remains 15[.",
+    "inferred": "The no-error reconstruction requires row KI to be additional but final-summary KI to be included, with the unpaired 10 assigned a modeled outflow. That is not an observed recipient. One-cell error alternatives also preserve the roundness pattern. Neither QA-QA-RU's name comparison nor KI's association establishes a debt of four.",
+    "next": "Reopen with an independently linked comparable account whose relevant scope is known, or a new source constraint that discriminates the live error and scope models. Further fitting of the same exposed three-row pattern does not provide independent confirmation.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": [
+      "LA-M003"
+    ]
+  },
+  {
+    "id": "classification",
+    "title": "QI-TU-NE: roles still open",
+    "tag": "Positional evidence",
+    "summary": "QI-TU-NE occurs as a counted entry, heading and subheading. Its repeated association with DI-KI-SE survives exclusion of a restored comparator. This is useful positional evidence, while person, office, group, institution, place and account interpretations remain open; the pattern does not independently identify a participant role.",
+    "observed": "QI-TU-NE is counted on HT7b, heads HT87 and appears as a subheading on HT117. DI-KI-SE occurs beneath it in the latter two. Excluding the restored comparator does not remove these contrasts.",
+    "inferred": "The comparison supports recurring written positions and associations. It does not independently type the referent or establish a classification function, productive morphology or participant direction. Person and account interpretations can also overlap: a person's name may label an account.",
+    "next": "Reopen with a complete, source-controlled occurrence tied independently to an entity category or relationship that distinguishes the strongest serious rival. Another matching position alone does not establish who the referent is or what role it bears.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": [
+      "LA-M007"
+    ]
+  },
+  {
+    "id": "ritual",
+    "title": "Ritual signs and their limits",
+    "tag": "Source corrected",
+    "summary": "The ritual record now has stronger reading and layout controls: SY Za2's apparent 1 is a divider, and words can cross vessel faces. Recurrent strings and shorter formulas remain useful comparisons. They do not establish a verb, an ending's function or independently supported participant roles.",
+    "observed": "Investigation 33 supports a divider on SY Za2. Under the retained segmentation, I-DA-A crosses KO Za1 faces b/c and I-PI-NA-MA crosses c/d. The complete shorter SY Za4 text contradicts a rule requiring the full canonical tail after every occurrence of its opener.",
+    "inferred": "Physical faces do not supply universal word or sentence boundaries. The proposed oil substitution lacks independently controlled matching text on both sides, and alignment changes with the treatment of A-JA. Shared frames, formal variants and shorter texts do not independently identify grammatical functions or lexical meanings.",
+    "next": "Reopen with stable equivalent text spans or an independently anchored function or role context that makes rival interpretations predict different observations. Retain uncertainty and physical layout, and record prior outcome exposure before claiming any prospective validation.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": [
+      "LA-M004",
+      "LA-M005",
+      "LA-M006"
+    ]
+  },
+  {
+    "id": "corrections",
+    "title": "How the claims changed",
+    "tag": "Corrected record",
+    "summary": "Several earlier breakthrough and validation claims have been narrowed or withdrawn. The current baseline links their correction chains through C044. Useful observations survive, but an old headline, repeated interpretation or successful rerun does not restore a claim that later source evidence or review qualified.",
+    "observed": "The initial ritual outcomes were already exposed before the claimed unused-evidence tests. HT34's complement depends on reading and scope. HT9's nonincrease does not identify PA₃ as fulfilled. HT103's remainder claim depends on disputed readings. HT100's 4/6 alternatives change aggregate inclusion or exclusion, not lexical polarity.",
+    "inferred": "Retiring a success claim does not disprove every proposed lexical reading. It changes what the evidence establishes. Current interpretation must retain later source qualifications, the strongest serious alternatives and the distinction between retrospective fit and prediction on genuinely unused evidence.",
+    "next": "Reopen a corrected claim only when specific evidence changes its named blocker and distinguishes a serious rival. Preserve the correction and outcome-exposure history. Reproducing a frozen calculation remains reproduction, without becoming a new semantic validation.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md",
+      "research/reports/review-through-16.md"
+    ],
+    "missions": [
+      "LA-M008"
+    ]
+  },
+  {
+    "id": "accounting",
+    "title": "What the sums can exclude",
+    "tag": "Scoped results",
+    "summary": "Accounting work yields useful repairs and bounded model exclusions. HT89's missing 13 restores a total of 87; HT114a/HT121 do not fit one fixed basket; HT30 does not fit one common rate under retained assumptions. These results constrain numerical models without identifying transactions or discovering new word meanings.",
+    "observed": "HT89's published entries sum to 23 + 22 + 24 + 13 + 5 = 87; extraction had omitted 13. Between HT114a and HT121, grain changes from 10 to 5 while the conventional NI amount changes from 1 to 2. On HT30, VIN gives 1/17 while D versus D+D gives 1/2 if D is positive and additive.",
+    "inferred": "The specified fixed-basket and common-rate models fail under their retained readings and unit assumptions. Commodity-specific rules and transaction directions remain open. KU-RO totaling is an inherited scholarly anchor, not a project discovery; these repairs and exclusions have their own narrower scope.",
+    "next": "A semantic comparison requires independently constrained units, account scope or transaction context that separates the live process models. Another calculation on the same observations cannot supply those missing relationships.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": []
+  },
+  {
+    "id": "cohort",
+    "title": "Shared labels, open identity",
+    "tag": "Structural evidence",
+    "summary": "Five exact labels recur in HT86/95 after the proposed sixth identity is withheld. This supports a cohort comparison without establishing the same people or event. All five quantities are 20 versus 10, so all 120 label permutations preserve the ratio and provide no label-specific identity evidence.",
+    "observed": "The five exact-label cohort survives withholding QA-RA₂-WA/QE-RA₂-U. Its 20:10 quantities are constant within each side. The labels divide 3 + 2 across HT86a's visible rule, while HT95a presents one visible list. GORILA assigns HT86 to Hand 6 and leaves HT95 unassigned.",
+    "inferred": "Graphic recurrence remains a strong structural lead. It does not independently identify a historical person, shared account event or transfer direction. The room-conditioned diagnostic is conditional on its pool and extraction rules, not a probability of personal identity. An unassigned hand establishes neither a shared nor a different hand.",
+    "next": "Reopen with exact source-backed account, event or participant evidence that changes a defined comparison and supplies a discriminating relationship. Remapping the same constant quantity vectors cannot provide that independent bridge.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": []
+  },
+  {
+    "id": "material",
+    "title": "Writing before the firing",
+    "tag": "Physical evidence",
+    "summary": "THE Zb13 has evidence for a writing phase before firing. This constrains its production history without timing every stroke or identifying the inscription's referent or role. A maker, supplier, intended recipient or commission can remain compatible with such timing; a written participant relationship still needs independent support.",
+    "observed": "The original 2005 publication describes paint in incisions and deformation of wet clay after painting. The 18 October consolidation inspected pages 219–221. Those published observations conflict with first creation of the entire surviving text only after firing.",
+    "inferred": "Different marking moments could all precede firing; later additions to individual components are not ruled out. The supported claim is a restricted writing phase, not exhaustive stroke timing or a maker/recipient interpretation. Publication inspection also remains distinct from direct examination of the object.",
+    "next": "Reopen with evidence tying a specific written component and marking event to an independently known production, commission or allocation relationship that distinguishes serious role alternatives. Finer timing alone need not identify what the writing means.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": [],
+    "primarySources": [
+      {
+        "url": "https://smea.ispc.cnr.it/wp-content/uploads/2016/02/Karnava-Nikolakopoulou_A-pithos-fragment-with-a-Linear-A-inscription-from-Akrotiri-Thera.pdf",
+        "label": "Original THE Zb13 publication (2005)"
+      }
+    ]
+  },
+  {
+    "id": "a588",
+    "title": "A588: meaning still open",
+    "tag": "Parked: evidence limit",
+    "summary": "Investigation 36 improved source control for the compound mark on KN Zb34/NM1160 in the THE Zb13 comparison. The compound and no-numeral comparison were already published. No observed relationship identifies the modifier as contents, workshop, capacity or recipient. This evidence-limited branch remains parked without a semantic experiment.",
+    "observed": "Investigation 36 checked the original KN Zb34/NM1160 compound-mark entry. A588 is the better-controlled shared component; its modifier remains semantically unassigned. The critical THE Zb13 readings retain uncertain signs, erasures and number/word alternatives. The no-numeral comparison was already reported in the inherited publication.",
+    "inferred": "A shared component and physical timing fit several interpretations. Better original-source control did not make the compound a new discovery or bind its modifier to contents, workshop or recipient. The work found no observation that distinguishes the serious alternatives.",
+    "next": "Reopen only with an independently known product, capacity, workshop, commission or allocation relation tied to the component and marking event, or a controlled contrast separating those effects. No missing publication is currently established to contain that discriminator.",
+    "sources": [
+      "research/current/CURRENT_RESEARCH_BASELINE.md",
+      "research/current/SOURCE_GUIDE.md"
+    ],
+    "missions": []
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "iteration": 13,
+  "mission": "Test whether the personnel-family evidence supplies an independently recognizable status/operation anchor.",
+  "main_result": "KI-RO is best constrained as a differential/exception-balance marker rather than specifically 'deficit/missing'.",
+  "construction": {
+    "form": "KI-RO \u2022 ENTRY1 1 \u2022 ENTRY2 1 ... KU-RO N",
+    "secure_personnel_witnesses": [
+      {
+        "document": "HT 88",
+        "header": "KI-RO",
+        "entries": [
+          "KU-PA3-PA3 1",
+          "KA-JU 1",
+          "KU-PA3-NU 1",
+          "PA-JA-RE 1",
+          "SA-MA-RO 1",
+          "DA-TA-RE 1"
+        ],
+        "ku_ro_total": 6,
+        "computed_entry_total": 6,
+        "domain_anchor": "Same tablet contains VIR+KA 20; scholarship treats tablet as personnel/ration administration.",
+        "source_ids": [
+          "R13-S01",
+          "R13-S03",
+          "R13-S05"
+        ]
+      },
+      {
+        "document": "HT 94b",
+        "header": "KI-RO",
+        "entries": [
+          "TU-MA 1",
+          "PA-TA-NE 1",
+          "DE-DI 1",
+          "KE-KI-RU 1",
+          "SA-RU 1"
+        ],
+        "ku_ro_total": 5,
+        "computed_entry_total": 5,
+        "domain_anchor": "Obverse contains an explicit personnel total under KA-PA (VIR 62, *86 20, VIR+*313b 18, TA 4; KU-RO 110).",
+        "source_ids": [
+          "R13-S02"
+        ]
+      }
+    ],
+    "qualified_personnel_witness": {
+      "document": "HT 117",
+      "header": "MA-KA-RI-TE \u2022 KI-RO \u2022 U-MI-NA-SI",
+      "first_list_entries": 10,
+      "ku_ro_total": 10,
+      "qualification": "KI-RO is one element of a three-word heading, so this witness supports the family but is not a pure KI-RO construction.",
+      "source_ids": [
+        "R13-S04"
+      ]
+    }
+  },
+  "cross_domain_controls": [
+    {
+      "document": "HT 30",
+      "observation": "A SA-RA2 commodity section is followed by KI-RO and another list of the same commodity types with quantities.",
+      "implication": "KI-RO is not restricted to persons; it can classify a second accounting section over commodities.",
+      "source_ids": [
+        "R13-S02"
+      ]
+    },
+    {
+      "document": "HT 123a",
+      "observation": "Each row has OLIV, *308, and a KI-RO quantity; Cash & Cash derive KI-RO as a numerical differential between actual and reference amounts.",
+      "implication": "Supports an accounting-difference function, but not a fixed negative sign.",
+      "source_ids": [
+        "R13-S06"
+      ]
+    }
+  ],
+  "sign_test": {
+    "deficit_missing": {
+      "status": "not_identified",
+      "support": [
+        "Traditional interpretations of KI-RO as deficit/owing.",
+        "Personnel lists under KI-RO are naturally compatible with missing/absent persons."
+      ],
+      "counterevidence_or_ambiguity": [
+        "Cash & Cash explicitly note taxation/allocation direction is symmetric.",
+        "Monti 2012 argues HT123 KI-RO quantities can be positive surpluses, not shortages.",
+        "HT88/HT94 list structure identifies an exceptional/differential subset but does not reveal whether its members are missing, additional, owed, owing, exempt, or otherwise outstanding."
+      ]
+    },
+    "differential_exception_balance": {
+      "status": "best_supported_functional_core",
+      "support": [
+        "Works for commodity and personnel contexts.",
+        "Explains why KI-RO can head a separate section.",
+        "Does not require a fixed arithmetic sign.",
+        "Compatible with HT123 being an actual-vs-reference difference."
+      ],
+      "qualification": "This is a functional gloss, not an etymological or lexical translation."
+    }
+  },
+  "role_test": {
+    "secure_relation": "Entries under KI-RO are members of a differential/exception section.",
+    "not_secure": [
+      "missing/absent",
+      "owed",
+      "owing",
+      "surplus",
+      "recipient",
+      "supplier",
+      "responsible account",
+      "overt verbal predicate"
+    ],
+    "direction_reversal_result": "No current observation distinguishes the sign/direction of the differential in personnel records."
+  },
+  "mission_result": {
+    "full_action_and_roles": false,
+    "classification": "substantive_intermediate_construction",
+    "advance": "A replicated administrative construction is now established at the structural-functional level: KI-RO introduces a differential/exception section whose enumerated members are totaled by KU-RO.",
+    "barrier": "The semantic polarity and cause of the differential remain unidentified; the construction may be non-verbal."
+  }
+}

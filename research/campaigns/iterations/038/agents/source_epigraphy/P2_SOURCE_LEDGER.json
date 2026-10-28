@@ -1,0 +1,105 @@
+{
+  "schema": "linear_a_038.source_epigraphy_sources.v1",
+  "packet": "P2",
+  "sources": [
+    {
+      "id": "SE-P2-S01",
+      "title": "Andreadaki-Vlasaki and Hallager 2007, New and unpublished Linear A and Linear B inscriptions from Khania",
+      "publication": "Proceedings of the Danish Institute at Athens 5:7–22",
+      "locators": [
+        "p13: context, description, erased reading, seal description and n30",
+        "p14 fig5",
+        "p15: handling/drying interpretation",
+        "p16 fig7"
+      ],
+      "urls": [
+        "https://tidsskrift.dk/pdia/article/view/19622",
+        "https://tidsskrift.dk/pdia/article/download/19622/17243/44600",
+        "https://scispace.com/pdf/new-and-unpublished-linear-a-and-linear-b-inscriptions-from-190el7rjpt.pdf",
+        "https://www.academia.edu/74397585/New_and_unpublished_Linear_A_and_Linear_B_inscriptions_from_Khania"
+      ],
+      "access": "Original-edition target text inspected via web extraction at mirror and author upload; original full PDF bytes not acquired; figures5/7 author-linked JPEGs acquired and viewed.",
+      "web_refs": [
+        "turn22view0",
+        "turn27view1",
+        "turn39view0"
+      ],
+      "object_ids": [
+        "KH Wc2123",
+        "Khania Museum KH2123"
+      ],
+      "source_independence": "All hosts reproduce one 2007 edition; no additional ancient witness."
+    },
+    {
+      "id": "SE-P2-S02",
+      "title": "Andreadaki-Vlasaki and Hallager 2007, fig5 from author's uploaded paper",
+      "urls": [
+        "https://figures.academia-assets.com/82564874/figure_005.jpg"
+      ],
+      "access": "JPEG downloaded and visually inspected",
+      "local_path": "raw/AndreadakiVlasaki_Hallager2007_author_fig5.jpg",
+      "sha256": "e202219f9ea7a3f67db62d2442946b008ea02a0e33f0afa67875d01ab0200b19",
+      "bytes": 399589,
+      "source_independence": "Component of SE-P2-S01, not independent witness",
+      "limits": "Published plate, selected views and composite drawing; no direct autopsy or RTI."
+    },
+    {
+      "id": "SE-P2-S03",
+      "title": "Andreadaki-Vlasaki and Hallager 2007, fig7 from author's uploaded paper",
+      "urls": [
+        "https://figures.academia-assets.com/82564874/figure_007.jpg"
+      ],
+      "access": "JPEG downloaded and visually inspected",
+      "local_path": "raw/AndreadakiVlasaki_Hallager2007_author_fig7.jpg",
+      "sha256": "6153d9f3f0cc4b3026fd7ec71ea5865a0f781e3172b4f5aa3ee6e160b6536566",
+      "bytes": 154129,
+      "source_independence": "Component of SE-P2-S01, not independent witness",
+      "limits": "Public figure extraction omits part of rightmost columns; drawing is editorial abstraction."
+    },
+    {
+      "id": "SE-P2-S04",
+      "title": "Del Freo, Rapport2016–2021",
+      "publication": "Ariadne Supplement5:87–124; printed Rethymno2024; online article date2025-03-04",
+      "urls": [
+        "https://ejournals.lib.uoc.gr/Ariadne/article/view/1843",
+        "https://ejournals.lib.uoc.gr/Ariadne/article/download/1843/1753/3478"
+      ],
+      "locators": [
+        "printed p100, §2.2.1.4 notes70–71 = PDFp14",
+        "PDFp1 imprint"
+      ],
+      "access": "Full PDF downloaded; target page rendered and viewed; introduction read and whole-PDF term search, not whole report read in full",
+      "local_path": "raw/DelFreo_Rapport2016_2021_published2025.pdf",
+      "sha256": "404862427dd9faa01855ff6520b6c29da175a236a5dce2878ae7be2ca517deba",
+      "bytes": 869596,
+      "web_refs": [
+        "turn22view1",
+        "turn27view0",
+        "turn19view0"
+      ],
+      "source_independence": "Target note cites 2007 edition and same-volume committee discussion; no new autopsy or image stated for KH Wc2123."
+    },
+    {
+      "id": "SE-P2-S05",
+      "title": "CIPEM Comité des signes resolutions, meeting2021-09-22",
+      "publication": "Ariadne Supplement5, p586; individual online article date2025-03-04",
+      "urls": [
+        "https://ejournals.lib.uoc.gr/Ariadne/article/view/1875",
+        "https://ejournals.lib.uoc.gr/Ariadne/article/download/1875/1784/3540"
+      ],
+      "locators": [
+        "printed p586=PDFp8, Sign A373 paragraph"
+      ],
+      "access": "Full PDF downloaded; target page rendered and viewed; target text and committee meeting date inspected",
+      "local_path": "raw/CIPEM2021_minutes_published2025.pdf",
+      "sha256": "19f8979bfd092c57a9f5347baf9dec6c08b4fe5c659eef93ee0f72ae80eff6e8",
+      "bytes": 596966,
+      "web_refs": [
+        "turn12view1",
+        "turn16view1"
+      ],
+      "source_independence": "Reports 2021 debate about same object; not a new ancient event. Autopsies stated in adjacent paragraphs concern other signs, not A373."
+    }
+  ],
+  "raw_policy": "Preserve original downloaded bytes and tool response captures separately from observations. No canonical registry edits by this agent."
+}

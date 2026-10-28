@@ -1,0 +1,1313 @@
+{
+  "branch": "linear_b",
+  "date": "2026-09-07",
+  "sources": [
+    {
+      "id": "LB_LIBER_DE1618",
+      "url": "https://liber.cnr.it/tablet/view/3249",
+      "title": "LiBER KN De 1618+7171+7174+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text, apparatus and metadata directly retrieved; institutional photograph directly retrieved and visually inspected",
+      "sha256_html": "35036170971dffbd71da862533adfd7704b29ac328f9abffcc3c5ba11c3f0875",
+      "image_url": "https://liber.cnr.it/static/img/tablets/KN/KN%20De%201618.jpg",
+      "sha256_image": "8057db14b6d73d6737d228811b5c392f4522666a061206a65412afd1150ed41b",
+      "image_redistributed": false,
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_LIBER_UF311",
+      "url": "https://liber.cnr.it/tablet/view/619",
+      "title": "LiBER KN Uf(1) ‹311›",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML critical text and apparatus directly retrieved; object missing; edition descends from Evans Original Handlist through Scripta Minoa II",
+      "sha256_html": "dadcf769f449c8403909fa8c5950a33b6367aa6f2e59d5b17d59fc260079615d",
+      "image_inspected": false,
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_LIBER_DB1168",
+      "url": "https://liber.cnr.it/tablet/view/3066",
+      "title": "LiBER KN Db 1168+7168+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text and apparatus directly retrieved; image not inspected",
+      "sha256_html": "b6276a199f67957f1155f03581d58bcd6d39d103b32391d0fcb69843ce916d0e",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_LIBER_AS603",
+      "url": "https://liber.cnr.it/tablet/view/2670",
+      "title": "LiBER KN As(1) 603+8157+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text and apparatus directly retrieved; image not inspected",
+      "sha256_html": "56c3e01772293cddbc5cee5e77dcdea1cb865c1fe2ff772c58ae4754152c0bac",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_LIBER_DN1092",
+      "url": "https://liber.cnr.it/tablet/view/3473",
+      "title": "LiBER KN Dn 1092+5379+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML text and apparatus directly retrieved; image not inspected",
+      "sha256_html": "8c94a1487a752e8edc193d3cbdf9de5b2adfee234ea89e6c21aa32b1907bbd16",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_LIBER_AS1519",
+      "url": "https://liber.cnr.it/tablet/view/2680",
+      "title": "LiBER KN As(2) 1519+fr.",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML critical text and apparatus read through web and directly retrieved",
+      "sha256_html": "5e343134921218f25138534c13ac9eec2428eb193172702ce8b278acb3df6291",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_LIBER_C912",
+      "url": "https://liber.cnr.it/tablet/view/2780",
+      "title": "LiBER KN C(2) 912+5027",
+      "kind": "institutional_critical_corpus",
+      "access": "HTML critical text and apparatus read through web and directly retrieved",
+      "sha256_html": "f78fa52d36d46c509a6e06dbd1324aef0c5086e8ef19b307e0f5331521dce972",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_CIVITILLO2025",
+      "url": "https://polygraphia.it/wp-content/uploads/2025/11/P-09-2025.pdf",
+      "author": "Matilde Civitillo",
+      "title": "Some notes on Mycenaean prosopography: the Knossian shepherds, their names, and their roles in Mycenaean society",
+      "publication": "Polygraphia 7 (2025), 127–144",
+      "locators": [
+        "pp.128–130",
+        "p.131 n.20",
+        "pp.138–140"
+      ],
+      "kind": "primary_research_article",
+      "access": "Publisher PDF retrieved and relevant text read; no new epigraphic reading",
+      "sha256_pdf": "8beda86975f2996ab8a1b62c1f6699e832dbf8c3efd894ebb41d8809dadddfdc",
+      "dependency": "Combines original analysis with earlier Killen, Ilievski, Landau, Baumbach, Greco, and other studies; not independent inscriptions for each citation",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_GRECO2010",
+      "url": "https://www.academia.edu/44964264/Scribi_e_pastori",
+      "author": "Alessandro Greco",
+      "title": "Scribi e pastori: Amministrazione e gestione dell’allevamento nell’archivio di Cnosso",
+      "publication": "Tripodes 12, Athens–Padua (2010)",
+      "locators": [
+        "p.179",
+        "p.185"
+      ],
+      "kind": "primary_research_monograph",
+      "access": "Author-hosted full text supplied by web tool, relevant pages read; print/PDF page image not directly inspected",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_MELENA2014",
+      "url": "https://www.academia.edu/7078918/Jos%C3%A9_L_Melena_Mycenaean_Writing_in_A_Companion_to_Linear_B_Mycenaean_Greek_Texts_and_their_World_Eds_Duhoux_Y_Morpurgo_Davies_A_Volume_3_Series_Biblioth%C3%A8que_des_Cahiers_de_lInstitut_de_Linguistique_de_Louvain_BCILL_133_2014",
+      "author": "José L. Melena",
+      "title": "Mycenaean Writing",
+      "publication": "A Companion to Linear B, vol.3 (2014)",
+      "locators": [
+        "§17.2.5 p.22",
+        "§17.3.4.2.7 p.112",
+        "§17.3.5.5.6 p.141"
+      ],
+      "kind": "primary_research_reference_chapter",
+      "access": "Author-hosted full text supplied by web tool, targeted passages read; no PDF screenshot inspected",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_DAVIS_VALERIO2020",
+      "url": "https://www.researchgate.net/publication/352343395_Names_and_designations_of_people_in_Linear_A_A_contextual_study_of_tablets_HT_85_and_117",
+      "title": "Names and designations of people in Linear A",
+      "author": "Brent Davis and Miguel Valério",
+      "publication": "Aegaeum 44 (2020), 23–32",
+      "locator": "p.29",
+      "kind": "primary_research_article",
+      "access": "Author manuscript text rechecked through web tool; inherited comparison and identifier verified",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_HT8",
+      "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT8.html",
+      "title": "Younger HT 8 commentary after GORILA I 16–17",
+      "kind": "scholarly_transcription_mirror",
+      "access": "Full HTML directly retrieved; transcription distinguished from Davis/Younger interpretive prose",
+      "sha256_html": "1b78e9ba03a7ec5311789c332e302078e633c81666203b32f79577783765bf0b",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_HT10",
+      "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT10.html",
+      "title": "Younger HT 10 commentary after GORILA I 20–21",
+      "kind": "scholarly_transcription_mirror",
+      "access": "Full HTML directly retrieved",
+      "sha256_html": "32caaeecd3b374f471155c711d4e5256b671e2cf27c1afa9f36911a01b1ade42",
+      "retrieved": "2026-09-07"
+    },
+    {
+      "id": "LB_API",
+      "url": "https://liber.cnr.it/search/api/words",
+      "method": "POST",
+      "kind": "institutional_corpus_search",
+      "access": "Public form endpoint discovered from search-page JavaScript, normal text searches executed; raw SQL diagnostic response was not used to issue SQL",
+      "coverage": "LiBER home describes all Linear B except archival documents from Agios Vasileios and Thebes; queries may return alternate/restored readings and duplicate tokens",
+      "retrieved": "2026-09-07"
+    }
+  ],
+  "observations": [
+    {
+      "id": "LB01",
+      "object_id": "KN De 1618+7171+7174+fr.",
+      "aliases": [
+        "KN Dc 1618+7171+7174",
+        "KN De 1618"
+      ],
+      "face_line": ".A,.B",
+      "diplomatic": ".A [     ]-j̣ọ[  ] ,̣ OVISᵐ 47 OVISᶠ 37 ⟦3̣⟧\n.B ta-na-to , / e-ko-so , o OVISᵐ 16 ⟦2⟧",
+      "normalized_target": "TA-NA-TO",
+      "target_complete": true,
+      "target_sign_uncertainty": [],
+      "other_uncertainty": [
+        "upper expression lost before and after doubtful jo",
+        "doubtful divider in upper line",
+        "erased 3 doubtful",
+        "upper-line possible restoration [u-]ṭạ-j̣ọ-j̣ọ is editorial hypothesis"
+      ],
+      "scribe": "117",
+      "findspot": "J1 East–West Corridor",
+      "chronology": "LM III A2",
+      "museum": "Herakleion 618",
+      "source_id": "LB_LIBER_DE1618",
+      "context_observed": "initial large-sign designation, slash, e-ko-so, sheep logograms and numerals; separate upper-line label",
+      "proposed_roles_separate": {
+        "TA-NA-TO": "person associated with flock, conventionally shepherd",
+        "E-KO-SO": "place designation in standard corpus interpretation",
+        "upper_label": "possible collector position; actual designation unresolved"
+      },
+      "role_support": [
+        "LB_CIVITILLO2025",
+        "LB_GRECO2010",
+        "LB02",
+        "LB03",
+        "LB04"
+      ],
+      "action_supported": null
+    },
+    {
+      "id": "LB02",
+      "object_id": "KN Db 1168+7168+fr.",
+      "face_line": ".A,.B",
+      "diplomatic": ".A we-we-si-jo-jo OVISᵐ 91 OVISᶠ 9 [\n.B ma-di , / e-ko-so [",
+      "normalized_target": "MA-DI",
+      "target_complete": true,
+      "scribe": "117",
+      "findspot": "J1 East–West Corridor",
+      "chronology": "LM III A2",
+      "source_id": "LB_LIBER_DB1168",
+      "same_individual_as_LB03": null,
+      "context_observed": "ma-di before slash; e-ko-so after; separate upper label"
+    },
+    {
+      "id": "LB03",
+      "object_id": "KN As(1) 603+8157+fr.",
+      "face_line": ".2",
+      "diplomatic": "VIR ]1 ma-di VIR 1 o-po-ro-u-si-jo[ VIR 1",
+      "normalized_target": "MA-DI",
+      "target_complete": true,
+      "scribe": "103",
+      "findspot": "F14 West Magazine XV",
+      "chronology": "LM III A2",
+      "source_id": "LB_LIBER_AS603",
+      "context_observed": "ma-di immediately associated with VIR 1",
+      "same_individual_as_LB02": null
+    },
+    {
+      "id": "LB04",
+      "object_id": "KN Dn 1092+5379+fr.",
+      "face_line": ".1,.2",
+      "diplomatic": ".1 e-ko-so OVISᵐ 225̣2̣ [̣\n.2 su-ki-ri-ta OVISᵐ 517 [̣",
+      "normalized_target": "E-KO-SO",
+      "target_complete": true,
+      "scribe": "117",
+      "findspot": "J1 East–West Corridor",
+      "chronology": "LM III A2",
+      "source_id": "LB_LIBER_DN1092",
+      "apparatus": ".1 226̣2̣ also possible",
+      "context_observed": "labels beside flock totals; no separate ta-na-to designation"
+    },
+    {
+      "id": "LB05",
+      "object_id": "KN Uf(1) ‹311›",
+      "aliases": [
+        "KN Uf <311>",
+        "KN Uf 311"
+      ],
+      "face_line": ".2",
+      "diplomatic": "]ta-na-ti , DA 1̣[",
+      "normalized_target": "TA-NA-TI",
+      "target_complete": false,
+      "left_boundary": "lost",
+      "right_word_boundary": "divider after ti",
+      "other_uncertainty": [
+        "quantity 1 doubtful; continued lost",
+        "upper and lower tablet portions mutilated",
+        "original object missing; handwritten transmission only",
+        "scribe attribution doubtful"
+      ],
+      "scribe": "124?",
+      "findspot": "C Room of the Chariot Tablets",
+      "chronology": "LM II–III A",
+      "source_id": "LB_LIBER_UF311",
+      "transmission": [
+        "Evans Original Handlist",
+        "Scripta Minoa II",
+        "later editions/LiBER"
+      ],
+      "same_individual_as_LB01": null,
+      "dative_of_LB01": null
+    },
+    {
+      "id": "LB06",
+      "object_id": "KN As(2) 1519+fr.",
+      "face_line": ".6",
+      "diplomatic": "pa-ja-ro VIR 1",
+      "normalized_target": "PA-JA-RO",
+      "target_complete": true,
+      "source_id": "LB_LIBER_AS1519",
+      "context_observed": "VIR 1 immediately follows name type; no cross-script historical individual identified"
+    },
+    {
+      "id": "LB07",
+      "object_id": "KN C(2) 912+5027",
+      "face_line": ".8",
+      "diplomatic": "ka-sa-ro , / a-da-wa-si-jo OVISᵐ 60",
+      "normalized_target": "KA-SA-RO",
+      "target_complete": true,
+      "source_id": "LB_LIBER_C912",
+      "context_observed": "first designation in sheep record with following designation; no cross-script individual identified"
+    },
+    {
+      "id": "LB08",
+      "object_id": "HT 8",
+      "face_line": "b.4",
+      "diplomatic": "PA-JA-RE 1 F",
+      "normalized_target": "PA-JA-RE",
+      "target_complete": true,
+      "source_id": "LB_HT8",
+      "context_observed": "account entry; quantity includes fraction F; adjacent list not translated as distribution here"
+    },
+    {
+      "id": "LB09",
+      "object_id": "HT 10",
+      "face_line": "b.3",
+      "diplomatic": "KA-SA-RU 6",
+      "normalized_target": "KA-SA-RU",
+      "target_complete": true,
+      "source_id": "LB_HT10",
+      "context_observed": "account entry"
+    }
+  ],
+  "queries": [
+    {
+      "query": "ta-na-to",
+      "match_mode": "exact",
+      "payload": {
+        "text_search": "ta-na-to",
+        "radios": "0",
+        "opt": "2",
+        "notations": "",
+        "specials": ""
+      },
+      "retrieved": "2026-09-07",
+      "source_id": "LB_API",
+      "raw_response_sha256": "c207d910856402a56c400e31530648ef3fb385f20def894ee6f05257bb2e164c",
+      "reported_hits": 1,
+      "rows": [
+        {
+          "raw_form": "ta-na-to",
+          "sort_form": "ta-na-to",
+          "object_internal_id": 3249,
+          "token_internal_id": 13925,
+          "site": "KN",
+          "series": "De",
+          "number_html": "1618",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        }
+      ],
+      "critical_caution": "Exact mode allows broken edges and can return an apparatus alternative as a separate row. Do not equate hit counts with complete words or independent objects."
+    },
+    {
+      "query": "ta-na-ti",
+      "match_mode": "exact",
+      "payload": {
+        "text_search": "ta-na-ti",
+        "radios": "0",
+        "opt": "2",
+        "notations": "",
+        "specials": ""
+      },
+      "retrieved": "2026-09-07",
+      "source_id": "LB_API",
+      "raw_response_sha256": "18d123a190edc51f1f455bc34b259f5930521d44b4b169828ffd01e9544fc4cc",
+      "reported_hits": 1,
+      "rows": [
+        {
+          "raw_form": "]ta-na-ti",
+          "sort_form": "]ta-na-ti",
+          "object_internal_id": 619,
+          "token_internal_id": 31094,
+          "site": "KN",
+          "series": "Uf(1)",
+          "number_html": "‹311›",
+          "line_html": ".2",
+          "note_html": null,
+          "alternative_html": null
+        }
+      ],
+      "critical_caution": "Exact mode allows broken edges and can return an apparatus alternative as a separate row. Do not equate hit counts with complete words or independent objects."
+    },
+    {
+      "query": "ta-na-te",
+      "match_mode": "exact",
+      "payload": {
+        "text_search": "ta-na-te",
+        "radios": "0",
+        "opt": "2",
+        "notations": "",
+        "specials": ""
+      },
+      "retrieved": "2026-09-07",
+      "source_id": "LB_API",
+      "raw_response_sha256": "fe2c595af1f19c1e85c4db83d31910963d0022e97dc28c33b32c2db91306edf6",
+      "reported_hits": 0,
+      "rows": [],
+      "critical_caution": "Exact mode allows broken edges and can return an apparatus alternative as a separate row. Do not equate hit counts with complete words or independent objects."
+    },
+    {
+      "query": "e-ko-so",
+      "match_mode": "exact",
+      "payload": {
+        "text_search": "e-ko-so",
+        "radios": "0",
+        "opt": "2",
+        "notations": "",
+        "specials": ""
+      },
+      "retrieved": "2026-09-07",
+      "source_id": "LB_API",
+      "raw_response_sha256": "d19f343fc42dfa01eb172467f685c9640e0dcd350129bd6d7ecc8ad7ea7f90c2",
+      "reported_hits": 46,
+      "rows": [
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 2792,
+          "token_internal_id": 9139,
+          "site": "KN",
+          "series": "Cg",
+          "number_html": "1030",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 2947,
+          "token_internal_id": 10550,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "1137",
+          "line_html": ".b",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 2967,
+          "token_internal_id": 10727,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "1273",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 2968,
+          "token_internal_id": 10742,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "1275",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 2969,
+          "token_internal_id": 10751,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "1276",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 2970,
+          "token_internal_id": 10754,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "1277",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3023,
+          "token_internal_id": 11206,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "5&#803;2&#803;1&#803;8&#803;",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3029,
+          "token_internal_id": 11241,
+          "site": "KN",
+          "series": "Da",
+          "number_html": "5245",
+          "line_html": ".b",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3066,
+          "token_internal_id": 11559,
+          "site": "KN",
+          "series": "Db",
+          "number_html": "1168",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3091,
+          "token_internal_id": 11822,
+          "site": "KN",
+          "series": "Db",
+          "number_html": "1274",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3149,
+          "token_internal_id": 12475,
+          "site": "KN",
+          "series": "Dc",
+          "number_html": "1270",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3579,
+          "token_internal_id": 17667,
+          "site": "KN",
+          "series": "Dc",
+          "number_html": "1272",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3184,
+          "token_internal_id": 12962,
+          "site": "KN",
+          "series": "Dd",
+          "number_html": "1271",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3220,
+          "token_internal_id": 13475,
+          "site": "KN",
+          "series": "De",
+          "number_html": "1136",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3244,
+          "token_internal_id": 13852,
+          "site": "KN",
+          "series": "De",
+          "number_html": "1409",
+          "line_html": ".B",
+          "note_html": "⟦e&#803;⟧",
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3249,
+          "token_internal_id": 13928,
+          "site": "KN",
+          "series": "De",
+          "number_html": "1618",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3301,
+          "token_internal_id": 14712,
+          "site": "KN",
+          "series": "Dh(2)",
+          "number_html": "1646",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3305,
+          "token_internal_id": 14743,
+          "site": "KN",
+          "series": "Dk",
+          "number_html": "727",
+          "line_html": ".A",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3437,
+          "token_internal_id": 16371,
+          "site": "KN",
+          "series": "Dl(1)",
+          "number_html": "8177",
+          "line_html": "[.B]",
+          "note_html": "e-k&#803;o&#803;[-so",
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3437,
+          "token_internal_id": 16371,
+          "site": "KN",
+          "series": "Dl(1)",
+          "number_html": "8177",
+          "line_html": "[.B*]",
+          "note_html": null,
+          "alternative_html": "e[-ko-so"
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3384,
+          "token_internal_id": 15530,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "792",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3386,
+          "token_internal_id": 15572,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "916",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3391,
+          "token_internal_id": 15686,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "934",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3436,
+          "token_internal_id": 16363,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "8103",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3467,
+          "token_internal_id": 16632,
+          "site": "KN",
+          "series": "Dm",
+          "number_html": "5226",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3473,
+          "token_internal_id": 16678,
+          "site": "KN",
+          "series": "Dn",
+          "number_html": "1092",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3522,
+          "token_internal_id": 17129,
+          "site": "KN",
+          "series": "Dq(3)",
+          "number_html": "46",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3559,
+          "token_internal_id": 17456,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "1133",
+          "line_html": ".b",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3561,
+          "token_internal_id": 17478,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "1142",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3605,
+          "token_internal_id": 17885,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "1447",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3652,
+          "token_internal_id": 18232,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "5296",
+          "line_html": ".b",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3656,
+          "token_internal_id": 18262,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "5312",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3695,
+          "token_internal_id": 18527,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "[6059]",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3709,
+          "token_internal_id": 18642,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "[7240]",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3713,
+          "token_internal_id": 18667,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "7617",
+          "line_html": ".B&#803;",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3721,
+          "token_internal_id": 18702,
+          "site": "KN",
+          "series": "Dv",
+          "number_html": "8203",
+          "line_html": "[.B]",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 3902,
+          "token_internal_id": 20024,
+          "site": "KN",
+          "series": "F(1)",
+          "number_html": "157",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 4272,
+          "token_internal_id": 23889,
+          "site": "KN",
+          "series": "L",
+          "number_html": "564",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-ko-so",
+          "sort_form": "e-ko-so",
+          "object_internal_id": 629,
+          "token_internal_id": 31242,
+          "site": "KN",
+          "series": "Uf(3)",
+          "number_html": "983",
+          "line_html": ".b",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-]ko-so[",
+          "sort_form": "e-ko-so[",
+          "object_internal_id": 757,
+          "token_internal_id": 32978,
+          "site": "KN",
+          "series": "Wb(1)",
+          "number_html": "9607",
+          "line_html": "[.b]",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-]ko-so[",
+          "sort_form": "e-ko-so[",
+          "object_internal_id": 1330,
+          "token_internal_id": 35093,
+          "site": "KN",
+          "series": "X",
+          "number_html": "5964",
+          "line_html": "[.2]",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "']e-ko-so'",
+          "sort_form": "]e-ko-so",
+          "object_internal_id": 3702,
+          "token_internal_id": 18587,
+          "site": "KN",
+          "series": "De",
+          "number_html": "7176",
+          "line_html": ".b&#803;",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "']e-ko-so'",
+          "sort_form": "]e-ko-so",
+          "object_internal_id": 3382,
+          "token_internal_id": 15493,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "790",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "']e-ko-so'",
+          "sort_form": "]e-ko-so",
+          "object_internal_id": 3383,
+          "token_internal_id": 15513,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "791",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "']e-ko-so'",
+          "sort_form": "]e-ko-so",
+          "object_internal_id": 3415,
+          "token_internal_id": 16135,
+          "site": "KN",
+          "series": "Dl(1b)",
+          "number_html": "7086",
+          "line_html": ".B&#803;",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "']e-ko-so'",
+          "sort_form": "]e-ko-so",
+          "object_internal_id": 4460,
+          "token_internal_id": 26061,
+          "site": "KN",
+          "series": "Le",
+          "number_html": "5646",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": null
+        }
+      ],
+      "critical_caution": "Exact mode allows broken edges and can return an apparatus alternative as a separate row. Do not equate hit counts with complete words or independent objects."
+    },
+    {
+      "query": "ta-na-t",
+      "match_mode": "substring",
+      "payload": {
+        "text_search": "ta-na-t",
+        "radios": "0",
+        "opt": "1",
+        "notations": "",
+        "specials": ""
+      },
+      "retrieved": "2026-09-07",
+      "source_id": "LB_API",
+      "raw_response_sha256": "8f67c4c487214adcc262e40c347477b20a3e1a30cce73edd36bc9e9eb42afa4a",
+      "reported_hits": 2,
+      "rows": [
+        {
+          "raw_form": "]ta-na-ti",
+          "sort_form": "]ta-na-ti",
+          "object_internal_id": 619,
+          "token_internal_id": 31094,
+          "site": "KN",
+          "series": "Uf(1)",
+          "number_html": "‹311›",
+          "line_html": ".2",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-na-to",
+          "sort_form": "ta-na-to",
+          "object_internal_id": 3249,
+          "token_internal_id": 13925,
+          "site": "KN",
+          "series": "De",
+          "number_html": "1618",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        }
+      ],
+      "critical_caution": "Exact mode allows broken edges and can return an apparatus alternative as a separate row. Do not equate hit counts with complete words or independent objects."
+    },
+    {
+      "query": "ta-na",
+      "match_mode": "substring",
+      "payload": {
+        "text_search": "ta-na",
+        "radios": "0",
+        "opt": "1",
+        "notations": "",
+        "specials": ""
+      },
+      "retrieved": "2026-09-07",
+      "source_id": "LB_API",
+      "raw_response_sha256": "217fe85aa7f6c531aef1595de45d597f74b9d07a4b50d3bb6522c2b259101a61",
+      "reported_hits": 15,
+      "rows": [
+        {
+          "raw_form": "a-ta-na-po-ti-ni-ja",
+          "sort_form": "a-ta-na-po-ti-ni-ja",
+          "object_internal_id": 658,
+          "token_internal_id": 31445,
+          "site": "KN",
+          "series": "V",
+          "number_html": "52",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "a-u-ta-na",
+          "sort_form": "a-u-ta-na",
+          "object_internal_id": 72,
+          "token_internal_id": 39573,
+          "site": "KN",
+          "series": "Np(1)",
+          "number_html": "286",
+          "line_html": "",
+          "note_html": "⟦u⟧",
+          "alternative_html": null
+        },
+        {
+          "raw_form": "e-pi-jo-ta-na",
+          "sort_form": "e-pi-jo-ta-na",
+          "object_internal_id": 4546,
+          "token_internal_id": 39946,
+          "site": "PY",
+          "series": "Aa",
+          "number_html": "95",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "]no-ta-na",
+          "sort_form": "]no-ta-na",
+          "object_internal_id": 3059,
+          "token_internal_id": 11458,
+          "site": "KN",
+          "series": "Db",
+          "number_html": "1126",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-mi-ta-na",
+          "sort_form": "ta-mi-ta-na",
+          "object_internal_id": 5169,
+          "token_internal_id": 59638,
+          "site": "PY",
+          "series": "Na",
+          "number_html": "248",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "]ta-na",
+          "sort_form": "]ta-na",
+          "object_internal_id": 2394,
+          "token_internal_id": 1885,
+          "site": "MY",
+          "series": "X",
+          "number_html": "‹1›",
+          "line_html": ".1",
+          "note_html": "]-ta-na",
+          "alternative_html": null
+        },
+        {
+          "raw_form": "]-ta-na",
+          "sort_form": "]-ta-na",
+          "object_internal_id": 2394,
+          "token_internal_id": 1885,
+          "site": "MY",
+          "series": "X",
+          "number_html": "‹1›",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": "]ta-na"
+        },
+        {
+          "raw_form": "]ta-na-d°u°[",
+          "sort_form": "]ta-na-du[",
+          "object_internal_id": 1302,
+          "token_internal_id": 35023,
+          "site": "KN",
+          "series": "X",
+          "number_html": "5617",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-na-po-so",
+          "sort_form": "ta-na-po-so",
+          "object_internal_id": 3071,
+          "token_internal_id": 11600,
+          "site": "KN",
+          "series": "Db",
+          "number_html": "1198",
+          "line_html": "",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-na-po-so",
+          "sort_form": "ta-na-po-so",
+          "object_internal_id": 3593,
+          "token_internal_id": 17808,
+          "site": "KN",
+          "series": "Dc",
+          "number_html": "1410",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "]ta-na-qo",
+          "sort_form": "]ta-na-qo",
+          "object_internal_id": 2510,
+          "token_internal_id": 4179,
+          "site": "KN",
+          "series": "Ai(3)",
+          "number_html": "825",
+          "line_html": ".1",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "]ta-na-ti",
+          "sort_form": "]ta-na-ti",
+          "object_internal_id": 619,
+          "token_internal_id": 31094,
+          "site": "KN",
+          "series": "Uf(1)",
+          "number_html": "‹311›",
+          "line_html": ".2",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-na-to",
+          "sort_form": "ta-na-to",
+          "object_internal_id": 3249,
+          "token_internal_id": 13925,
+          "site": "KN",
+          "series": "De",
+          "number_html": "1618",
+          "line_html": ".B",
+          "note_html": null,
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-na-wa",
+          "sort_form": "ta-na-wa",
+          "object_internal_id": 5319,
+          "token_internal_id": 60855,
+          "site": "PY",
+          "series": "Sa",
+          "number_html": "793",
+          "line_html": "",
+          "note_html": "⟦w&#803;e&#803;-j&#803;e&#803;[-ke-e]&nbsp;⟧",
+          "alternative_html": null
+        },
+        {
+          "raw_form": "ta-na-wo",
+          "sort_form": "ta-na-wo",
+          "object_internal_id": 5068,
+          "token_internal_id": 56851,
+          "site": "PY",
+          "series": "Jn",
+          "number_html": "693",
+          "line_html": ".10",
+          "note_html": null,
+          "alternative_html": null
+        }
+      ],
+      "critical_caution": "Exact mode allows broken edges and can return an apparatus alternative as a separate row. Do not equate hit counts with complete words or independent objects."
+    }
+  ],
+  "claims": [
+    {
+      "id": "LBC01",
+      "claim": "ta-na-to is a securely edited complete designation in a person-name/flock-responsibility position, rather than the following place or upper collector position",
+      "status": "supported within Linear B",
+      "basis": [
+        "LB01",
+        "LB02",
+        "LB03",
+        "LB04",
+        "LB_CIVITILLO2025",
+        "LB_GRECO2010"
+      ],
+      "limitations": [
+        "personal name/type does not identify same historical person in Linear A",
+        "flock responsibility does not prove legal ownership or literal shepherd occupation"
+      ]
+    },
+    {
+      "id": "LBC02",
+      "claim": "TA-NA-TI in Linear A is the same lexeme or individual as TA-NA-TE/A-TA-NA-TE",
+      "status": "not established",
+      "basis": [
+        "LB01",
+        "LB05"
+      ],
+      "strongest_counterargument": "The external LB comparanda do not connect the complete LA forms independently; related names, distinct names and regional/grammatical variants survive."
+    },
+    {
+      "id": "LBC03",
+      "claim": "KN Uf311 supplies a complete homographic ta-na-ti personal name",
+      "status": "rejected as stated",
+      "basis": [
+        "LB05"
+      ],
+      "reason": "The left boundary is missing and the original object is lost."
+    },
+    {
+      "id": "LBC04",
+      "claim": "LB ta-na-to / ]ta-na-ti is an ordinary o-stem nominative/dative opposition",
+      "status": "rejected conditionally on ordinary Greek o-stem analysis",
+      "basis": [
+        "LB01",
+        "LB05",
+        "LB_MELENA2014"
+      ],
+      "reason": "The i of final oi is normally omitted; both expected forms would be written with final to. Another stem or formation would require evidence."
+    },
+    {
+      "id": "LBC05",
+      "claim": "Independent correspondence controls uniquely privilege final i→o over e→o",
+      "status": "not supported",
+      "basis": [
+        "LB06",
+        "LB07",
+        "LB08",
+        "LB09",
+        "LB_CIVITILLO2025"
+      ],
+      "reason": "Published adaptation comparisons include e/u/i; e/o and u/o examples have independently checked LB contexts. Candidate pairs are not securely calibrated sound laws."
+    },
+    {
+      "id": "LBC06",
+      "claim": "ta-na-to has securely established non-Greek etymology",
+      "status": "not established",
+      "basis": [
+        "LB_MELENA2014",
+        "LB_DAVIS_VALERIO2020"
+      ],
+      "reason": "Melena p112 gives a doubly questioned /Thnatos/ analysis; this does not establish that reading but prevents treating non-Greek origin as an uncontested independent premise."
+    }
+  ],
+  "controls": [
+    {
+      "la": "PA-JA-RE",
+      "lb": "PA-JA-RO",
+      "la_observation": "LB08",
+      "lb_observation": "LB06",
+      "published_pair_source": "LB_DAVIS_VALERIO2020",
+      "cross_script_identity": "hypothesis",
+      "selected_after_target": true
+    },
+    {
+      "la": "KA-SA-RU",
+      "lb": "KA-SA-RO",
+      "la_observation": "LB09",
+      "lb_observation": "LB07",
+      "published_pair_source": "LB_DAVIS_VALERIO2020",
+      "cross_script_identity": "hypothesis",
+      "selected_after_target": true
+    }
+  ],
+  "conditional_orthography": {
+    "assumption": "Greek thematic o-stem personal name with nominative -os and dative -oi; ordinary spelling rules",
+    "nominative_phonological_ending": "tos",
+    "dative_phonological_ending": "toi",
+    "nominative_expected_written_final": "TO",
+    "dative_expected_written_final": "TO",
+    "observed_Uf_final": "TI",
+    "source_id": "LB_MELENA2014",
+    "limitation": "The name etymology and relationship between the two LB strings remain uncertain; this is not a general ban on final ti names."
+  },
+  "access_failures": [
+    {
+      "source": "Luján 2012 La moción de género",
+      "urls": [
+        "https://www.raco.cat/index.php/Faventia/article/download/262937/350424",
+        "https://core.ac.uk/download/pdf/13323741.pdf",
+        "https://recercat.cat/handle/2072/397911?show=full"
+      ],
+      "result": "RACO/Recercat direct 403; CORE direct404; Academia abstract only; search-index Greek Thnatos? hit not used as independently inspected full article evidence."
+    }
+  ],
+  "next_discriminating_test": "A complete second form under an independently linked person/account with different independently established semantic role, preferably within the LA corpus. No such observation established here."
+}

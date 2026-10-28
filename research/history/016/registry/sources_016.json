@@ -1,0 +1,50 @@
+[
+  {
+    "id": "R16-S01",
+    "title": "HT34 current transcription/commentary (Younger corpus mirror in lineara.xyz)",
+    "url": "https://lineara.xyz/items/HT34.html",
+    "used_for": "HT34 SA+MU+KU 100; PA3 70; KI-RO 30 [[7]]; object metadata."
+  },
+  {
+    "id": "R16-S02",
+    "title": "Standard Aegean transcription conventions",
+    "url": "https://api.pageplace.de/preview/DT0400.9781108849357_A45555869/preview-9781108849357_A45555869.pdf",
+    "used_for": "Double square brackets indicate erased text."
+  },
+  {
+    "id": "R16-S03",
+    "title": "AIgent structured Linear A corpus",
+    "url": "https://aigents.berta.one/decipherment/corpus?q=RO&split=train",
+    "used_for": "Control showing flattened HT34 currently rendered as KI-RO 37; HT118 exact row sequence."
+  },
+  {
+    "id": "R16-S04",
+    "title": "Ester Salgarella, Writing in Bronze Age Crete (Cambridge, 2025)",
+    "url": "https://doi.org/10.1017/9781009520041",
+    "used_for": "Current specialist synthesis: KI-RO deficit/owed; KA-I-RO and perhaps KI-RA balance; transaction-word framework."
+  },
+  {
+    "id": "R16-S05",
+    "title": "Ester Salgarella, Cambridge Core Blog, HT118 example",
+    "url": "https://www.cambridge.org/core/blog/2021/10/20/writing-images-reading-syllables-script-creation-in-bronze-age-crete/",
+    "used_for": "HT118 transcription and specialist interpretation of KI[-RO] as deficit; commodities owed to palace."
+  },
+  {
+    "id": "R16-S06",
+    "title": "Gulizio & Nakassis 2014, KE-RA-ME-JA",
+    "url": "https://sites.utexas.edu/scripts/wp-content/uploads/sites/3428/2017/05/gulizio_nakassis_2014_kerameja.pdf",
+    "used_for": "QA-QA-RU / qa-qa-ro u/o adaptation in masculine personal names."
+  },
+  {
+    "id": "R16-S07",
+    "title": "Corresponding Linear A / Linear B sign-sequences table (University of Barcelona thesis)",
+    "url": "https://diposit.ub.edu/bitstreams/1419cfea-e25f-44dd-9a8c-74e9836ae05e/download",
+    "used_for": "QA-QA-RU \u2194 qa-qa-ro, As 604, MPN classification."
+  },
+  {
+    "id": "R16-S08",
+    "title": "Tsirkas 2026, Auditing the Unread / corpus-validation repository",
+    "url": "https://github.com/ChristosTsirkas/corpus-validation-for-undeciphered-scripts-linear-a",
+    "used_for": "Adversarial corpus-quality control; KU-RO null z=13.40; KI-RO 0/7 running-total matches; warning that editorial uncertainty must be preserved."
+  }
+]

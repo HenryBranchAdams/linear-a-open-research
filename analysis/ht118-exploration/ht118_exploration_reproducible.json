@@ -1,0 +1,245 @@
+{
+  "status": "Post-iteration-16 speculation; not iteration 17 or a decipherment claim",
+  "source": "https://www.inscribercproject.com/Clay_tablet_HT_118.php",
+  "transliteration_crosscheck": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT118.html",
+  "rows": [
+    {
+      "designation": "MA-DI",
+      "main": 15,
+      "KI": 10,
+      "sum": 25,
+      "difference": 5,
+      "KI_over_main": "2/3"
+    },
+    {
+      "designation": "QA-QA-RU",
+      "main": 6,
+      "KI": 4,
+      "sum": 10,
+      "difference": 2,
+      "KI_over_main": "2/3"
+    },
+    {
+      "designation": "A-RI-SU",
+      "main": 4,
+      "KI": 1,
+      "sum": 5,
+      "difference": 3,
+      "KI_over_main": "1/4"
+    }
+  ],
+  "scope_and_anomalies": {
+    "unpaired_row": {
+      "designation": "RI-RU-MA",
+      "main": 10,
+      "KI": null
+    },
+    "sum_main": 35,
+    "written_KU_RO": 30,
+    "main_mismatch": 5,
+    "sum_explicit_KI": 15,
+    "written_final_KI": "15[",
+    "final_break_preserved": true,
+    "same_units_and_row_scope": "required assumption for sums/differences"
+  },
+  "permutation_sanity_check": {
+    "assignments": [
+      {
+        "KI_assignment": [
+          10,
+          4,
+          1
+        ],
+        "sums": [
+          25,
+          10,
+          5
+        ],
+        "differences": [
+          5,
+          2,
+          3
+        ],
+        "sum_multiple5_count": 3,
+        "difference_multiple5_count": 1,
+        "all_differences_nonnegative": true
+      },
+      {
+        "KI_assignment": [
+          10,
+          1,
+          4
+        ],
+        "sums": [
+          25,
+          7,
+          8
+        ],
+        "differences": [
+          5,
+          5,
+          0
+        ],
+        "sum_multiple5_count": 1,
+        "difference_multiple5_count": 3,
+        "all_differences_nonnegative": true
+      },
+      {
+        "KI_assignment": [
+          4,
+          10,
+          1
+        ],
+        "sums": [
+          19,
+          16,
+          5
+        ],
+        "differences": [
+          11,
+          -4,
+          3
+        ],
+        "sum_multiple5_count": 1,
+        "difference_multiple5_count": 0,
+        "all_differences_nonnegative": false
+      },
+      {
+        "KI_assignment": [
+          4,
+          1,
+          10
+        ],
+        "sums": [
+          19,
+          7,
+          14
+        ],
+        "differences": [
+          11,
+          5,
+          -6
+        ],
+        "sum_multiple5_count": 0,
+        "difference_multiple5_count": 1,
+        "all_differences_nonnegative": false
+      },
+      {
+        "KI_assignment": [
+          1,
+          10,
+          4
+        ],
+        "sums": [
+          16,
+          16,
+          8
+        ],
+        "differences": [
+          14,
+          -4,
+          0
+        ],
+        "sum_multiple5_count": 0,
+        "difference_multiple5_count": 1,
+        "all_differences_nonnegative": false
+      },
+      {
+        "KI_assignment": [
+          1,
+          4,
+          10
+        ],
+        "sums": [
+          16,
+          10,
+          14
+        ],
+        "differences": [
+          14,
+          2,
+          -6
+        ],
+        "sum_multiple5_count": 1,
+        "difference_multiple5_count": 0,
+        "all_differences_nonnegative": false
+      }
+    ],
+    "all_sum_multiple5_assignments": 1,
+    "assignment_count": 6,
+    "interpretation": "1 of 6 arrangements; NOT an adjusted p-value, Bayes factor, or probability of the hypothesis"
+  },
+  "post_hoc_modulus_sensitivity": [
+    {
+      "modulus": 2,
+      "observed_sum_divisibility": 1,
+      "observed_difference_divisibility": 1,
+      "assignments_all_sums_divisible": 2,
+      "assignments_all_differences_divisible": 2
+    },
+    {
+      "modulus": 3,
+      "observed_sum_divisibility": 0,
+      "observed_difference_divisibility": 1,
+      "assignments_all_sums_divisible": 0,
+      "assignments_all_differences_divisible": 0
+    },
+    {
+      "modulus": 4,
+      "observed_sum_divisibility": 0,
+      "observed_difference_divisibility": 0,
+      "assignments_all_sums_divisible": 1,
+      "assignments_all_differences_divisible": 0
+    },
+    {
+      "modulus": 5,
+      "observed_sum_divisibility": 3,
+      "observed_difference_divisibility": 1,
+      "assignments_all_sums_divisible": 1,
+      "assignments_all_differences_divisible": 1
+    },
+    {
+      "modulus": 6,
+      "observed_sum_divisibility": 0,
+      "observed_difference_divisibility": 0,
+      "assignments_all_sums_divisible": 0,
+      "assignments_all_differences_divisible": 0
+    },
+    {
+      "modulus": 7,
+      "observed_sum_divisibility": 0,
+      "observed_difference_divisibility": 0,
+      "assignments_all_sums_divisible": 0,
+      "assignments_all_differences_divisible": 0
+    },
+    {
+      "modulus": 8,
+      "observed_sum_divisibility": 0,
+      "observed_difference_divisibility": 0,
+      "assignments_all_sums_divisible": 1,
+      "assignments_all_differences_divisible": 0
+    },
+    {
+      "modulus": 9,
+      "observed_sum_divisibility": 0,
+      "observed_difference_divisibility": 0,
+      "assignments_all_sums_divisible": 0,
+      "assignments_all_differences_divisible": 0
+    },
+    {
+      "modulus": 10,
+      "observed_sum_divisibility": 1,
+      "observed_difference_divisibility": 0,
+      "assignments_all_sums_divisible": 0,
+      "assignments_all_differences_divisible": 0
+    }
+  ],
+  "limitations": [
+    "Tablet, three-row subset, addition and modulus five were considered after exposure.",
+    "Round planned quotas/batches are a hypothesis, not an independently demonstrated practice for these rows.",
+    "KI = KI-RO is a proposed lexical bridge, not established by this calculation.",
+    "The numerical relation does not identify debt, physical flow direction, counterparty or historical persons.",
+    "The main-column total remains unresolved. No numeral is emended to close it.",
+    "No genuinely unseen ancient witness or publication-priority check is supplied."
+  ]
+}

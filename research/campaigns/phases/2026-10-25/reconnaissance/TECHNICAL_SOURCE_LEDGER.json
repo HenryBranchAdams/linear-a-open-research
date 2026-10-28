@@ -1,0 +1,60 @@
+{
+  "created_utc": "2026-10-25T23:54:34.622537+00:00",
+  "full_text_not_redistributed": true,
+  "records": [
+    {
+      "id": "T1",
+      "dependency": "Kalo Chorafi cup inscription stage and operational grouping",
+      "publication": "Tzigounaki–Karnava2020 pp319–328",
+      "inspected": "Author-uploaded article text/captions; pp321–326 relevant target sections",
+      "images": "None; fig5/6 paths failed404 or403",
+      "new_observation": "Reported exact cup stages differ; no operational referent bridge recovered",
+      "status": "screened_parked"
+    },
+    {
+      "id": "T2a",
+      "dependency": "KN Zc6/7 local use and audience",
+      "publication": "Flouda2013 pp160–162",
+      "inspected": "Open-book transcription and author excerpt target paragraphs",
+      "images": "None; publisher403",
+      "new_observation": "Holder orientation is a display argument, no exact text-to-role join",
+      "status": "screened_closed"
+    },
+    {
+      "id": "T2b",
+      "dependency": "KN Zc6/7 dating/material control",
+      "publication": "Palaima1988 p280",
+      "inspected": "PDF text page13",
+      "file": "sources/Palaima1988.pdf",
+      "bytes": 10728023,
+      "sha256": "5fbc6c2590c0237f3255f401276b8a1ab86a2e1ee9d72d65629ee5260b11dd99",
+      "images": "None",
+      "status": "source_control_only"
+    },
+    {
+      "id": "T2c",
+      "dependency": "Original Knossos cup excavation account",
+      "publication": "Evans1921 pp613–616",
+      "inspected": "No original pages",
+      "failed_route": "Heidelberg page0694 access denied; guessed0677 inaccessible",
+      "status": "uninspected"
+    },
+    {
+      "id": "T3a",
+      "dependency": "Exact ingot analytical sample comparison",
+      "publication": "Powell–Barjamovic–Pulak2024 pp4–5",
+      "inspected": "Author-uploaded text, §2.2 and casting/source distinction",
+      "images": "None",
+      "new_observation": "Explicit incompatible sample numbering across1986 and2000 datasets; casting origin not ore origin",
+      "status": "screened_parked"
+    },
+    {
+      "id": "T3b",
+      "dependency": "Stable Linear A classification of ingot marks",
+      "publication": "Gale–Stos-Gale1986 n27",
+      "inspected": "Publisher abstract and note only",
+      "underlying_source": "Bass1967 not acquired",
+      "status": "limited_source_access"
+    }
+  ]
+}

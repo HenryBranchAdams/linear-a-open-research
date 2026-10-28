@@ -1,0 +1,110 @@
+{
+  "campaign": "040",
+  "reviewer": "/root/object_evidence",
+  "primary": "Michailidou2025",
+  "comparison": [
+    {
+      "field": "inventory_identity",
+      "source2021": "fig12 red incomplete vessel; fig13 grey reconstructed vessel without inventory in caption",
+      "source2025": "fig9–11/14 identify9384; fig12–14 identify9730",
+      "current": "9384=AB81;9730=AB164a",
+      "scope": "caption_and_matching_image_chain"
+    },
+    {
+      "field": "capacity",
+      "source2021": "same_shape_and_size_used_against_capacity_or_vessel_name",
+      "source2025": "9384_approx7.95L_EPS_fill;9730_capacity_assumed_equal",
+      "current": "one_measured_volume_not_two_equal_measured_volumes",
+      "locator": "2025printed7_and10"
+    },
+    {
+      "field": "dimensions",
+      "source2025": {
+        "inventory9384": {
+          "height_m": 0.295,
+          "rim_diameter_m": [
+            0.14,
+            0.15
+          ],
+          "partly_restored_base_diameter_m_approx": 0.11
+        },
+        "inventory9730": {
+          "incomplete": true,
+          "rim_diameter_m_approx": 0.145
+        }
+      },
+      "current": "matched_rims_do_not_fix_missing_body_or_capacity",
+      "locator": "2025printed7_and10"
+    },
+    {
+      "field": "manufacture",
+      "source2025": "both_handmade;9384_smoother_interior_finer_fabric_brown_slip;9730_rougher_interior_coarser_fabric_redder_slip;different_workshops_possible",
+      "current": "production_contrast_independent_of_sign_gloss_but_workshop_identity_not_established",
+      "locator": "2025printed10"
+    },
+    {
+      "field": "provenance",
+      "source2021": "local_manufacture_conditional",
+      "source2025": "macroscopic_Theran_attribution_with_Melian_not_excluded",
+      "current": "not_exact_specimen_laboratory_join",
+      "locator": "2025printed10"
+    },
+    {
+      "field": "marking_sequence",
+      "source2025": "slip_after_incision_and_incision_before_firing_reported",
+      "current": "reported_assessment_not_newly_replicated_crosscut_autopsy",
+      "locator": "2025printed1_10_12"
+    },
+    {
+      "field": "maker_scribe_relation",
+      "source2021": "distinct_maker_and_scribe_inferred",
+      "source2025": "necessity_of_distinction_explicitly_withdrawn;potter_could_inscribe",
+      "current": "identity_and_relation_unresolved",
+      "locator": "2025printed13"
+    },
+    {
+      "field": "AB81_sequence_completeness",
+      "source2025": "possible_following_sign_lost_at_joined_sherd_restoration_edge",
+      "current": "9384_not_securely_complete_one_sign_text",
+      "locator": "2025printed13"
+    },
+    {
+      "field": "find_context",
+      "source2025": "NewPillarShaft67Room2_destructlayer12;joined_from_dispersedAS25–30_sherds;latercollapse_complications",
+      "current": "independent_contextual_link_not_one_original_use_transaction",
+      "locator": "2025printed3–7"
+    }
+  ],
+  "access_check_2019": {
+    "url": "https://dare.uva.nl/id/1739b110-7d3e-4505-ba37-6c3ef8254bb4",
+    "title": "The Middle Bronze Age Pottery. Fabrics and Technologies. Phases B-C",
+    "metadata_author": "J.Hilditch",
+    "metadata_date": 2019,
+    "metadata_pages": "377–470",
+    "metadata_chapter": "3.3.2",
+    "inspected": "metadata_and_abstract_only",
+    "full_text_link_found": false,
+    "full_text_literal_search_performed": false,
+    "exact_inventory_analytical_join_recovered": false,
+    "stop": "one_finite_institutional_route_exhausted"
+  },
+  "review_correction": {
+    "mistake": "initial_message_reversed_inventory_signclass",
+    "corrected": "9384AB81;9730AB164a",
+    "source_disagreement": false
+  },
+  "semantic_test_admitted": false,
+  "visual_inspection": {
+    "actual_local_pixels": true,
+    "source2025_figures": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "source2021": "printed285fig14/15captions_rechecked"
+  },
+  "scope": "source_and_physical_control_not_role_identification"
+}

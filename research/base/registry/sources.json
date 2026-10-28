@@ -1,0 +1,72 @@
+[
+  {
+    "id": "SIGLA_20260907",
+    "title": "Salgarella and Castellan, SigLA captured sequence inventory",
+    "url": "https://sigla.phis.me/",
+    "access": "Inherited frozen acquisition 2026-09-07; 802 faces / 1401 chunks; fresh offline analysis, not full critical edition",
+    "local": "corpus/sigla_sequences_2026-09-07.json",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  {
+    "id": "GORILA_I_135",
+    "title": "Godart and Olivier, GORILA I, HT86 p135",
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=171&max_image_size=1",
+    "access": "Edition image visually inspected in iteration10; p134 photograph also checked by source researcher"
+  },
+  {
+    "id": "GORILA_I_155",
+    "title": "Godart and Olivier, GORILA I, HT95 p155",
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=191&max_image_size=1",
+    "access": "Edition image visually inspected in iteration10; p154 photograph also checked by source researcher"
+  },
+  {
+    "id": "BEST_1984_85",
+    "title": "Best, Ku-ni-su: Emmer Wheat or Personal Name?, Talanta16\u201317, pp77\u201379",
+    "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Best-77-79.pdf",
+    "access": "All3 pages visually inspected; prior-art pointer and explicit rival, not authority for translation"
+  },
+  {
+    "id": "STEELE_MEISSNER_2017",
+    "title": "Steele and Mei\u00dfner, From Linear B to Linear A: The problem of backward projection of sound values",
+    "url": "https://www.repository.cam.ac.uk/bitstreams/635fb0e4-fed6-4dd0-a369-16067170b87f/download",
+    "access": "Author manuscript p11, possible Q pair"
+  },
+  {
+    "id": "DAVIS_VALERIO_2020",
+    "title": "Davis and Val\u00e9rio, Names and designations of people in Linear A",
+    "url": "https://www.academia.edu/44643375/2020_Names_and_designations_of_people_in_Linear_A_A_contextual_study_of_tablets_HT_85_and_117",
+    "access": "Research article text inspected; original plates not all reopened"
+  },
+  {
+    "id": "WEINGARTEN_1987",
+    "title": "Weingarten, Seal-use at LM IB Ayia Triada, part I",
+    "url": "https://www.academia.edu/28061569/SEAL_USE_AT_LM_IB_AYIA_TRIADA_A_MINOAN_ELITE_IN_ACTION_Part_I_ADMINISTRATIVE_CONSIDERATIONS",
+    "access": "Searchable article full text pp9\u201310; no new seal-image comparison"
+  },
+  {
+    "id": "DEL_FREO_2020",
+    "title": "Del Freo, Wool Working at Hagia Triada: HT24 and 45 Noduli",
+    "url": "https://iris.cnr.it/retrieve/435c5e13-7821-4b55-aec2-2c07865e1652/prod_421681-doc_175687.pdf",
+    "access": "Primary publication context checked, inherited reading uncertainty retained"
+  },
+  {
+    "id": "ROUND9",
+    "title": "Project iteration9 original bundle",
+    "url": null,
+    "local": "archive/linear_a_round9.zip",
+    "access": "Original recovered; SHA256 matches published checksum; source and results read, not all original analyses rerun"
+  },
+  {
+    "id": "HANDOFF9",
+    "title": "Project round9 handoff incl. rounds3\u20138 and earlier rechecks",
+    "url": null,
+    "local": "archive/linear_a_codex_round9_handoff.zip",
+    "access": "Recovered unchanged; selected reports/ledgers inspected by history audit"
+  },
+  {
+    "id": "GORILA_I_27",
+    "title": "Godart and Olivier, GORILA I, HT13 pp26\u201327",
+    "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=63&max_image_size=1",
+    "access": "Primary photograph/drawing/normalized table visually checked by source researcher; TE-KI and TE-TU are separate entries"
+  }
+]

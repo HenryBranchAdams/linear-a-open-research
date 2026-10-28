@@ -1,0 +1,187 @@
+{
+  "campaign_id": "LA-C038-2026-10-21",
+  "created_at_utc": "2026-10-21T17:16:41.697270+00:00",
+  "object": "KH Wc2123",
+  "inventory": "Khania Museum KH2123",
+  "target_face": "incised face / obverse; surviving seal impressions on rim",
+  "raw_record": "evidence/raw_index_record.json",
+  "critical_overlay": "evidence/KHWc2123_critical_overlay.json",
+  "source_registry": "../../registry/sources.json (relative to iterations/038)",
+  "source_registry_ids": [
+    "C038-S01",
+    "C038-S02",
+    "C038-S03",
+    "C038-S04",
+    "C038-S05",
+    "C038-S06",
+    "C038-S07",
+    "C038-S08"
+  ],
+  "observations": [
+    {
+      "id": "C038-O01",
+      "topic": "Object identification",
+      "observation": "KH Wc2123 is equated with Khania Museum KH2123 in the original target entry.",
+      "sources": "C038-S03",
+      "locators": "p13, target heading",
+      "access_and_certainty": "Original edition identification; not a new autopsy.",
+      "dependency_or_limit": "Independent of the disputed first mark and PI-KA.",
+      "classification": "object_control"
+    },
+    {
+      "id": "C038-O02",
+      "topic": "Raw discovery representation",
+      "observation": "Exact frozen row has one transliteratedWords token *810-PI-KA and no erasure status.",
+      "sources": "I21_FROZEN / R32-S6",
+      "locators": "corpus/discovery_snapshot.json, key KHWc2123",
+      "access_and_certainty": "Exact loaded row and baseline SHA-256 independently checked.",
+      "dependency_or_limit": "Modern index normalization, not an edition.",
+      "classification": "data_control"
+    },
+    {
+      "id": "C038-O03",
+      "topic": "Editorial erasure scope",
+      "observation": "All three elements occur inside edition erasure brackets; the described physical smoothing is incomplete.",
+      "sources": "C038-S03",
+      "locators": "p13 transcription; fig5 p14",
+      "access_and_certainty": "Target text and actual author-hosted plate inspected.",
+      "dependency_or_limit": "No replacement or retained outside-bracket label is reported.",
+      "classification": "reading_control"
+    },
+    {
+      "id": "C038-O04",
+      "topic": "Residual reading",
+      "observation": "The final pair is read AB39–77, conventionally PI-KA, comparatively securely by the original editors.",
+      "sources": "C038-S03",
+      "locators": "p13; fig5",
+      "access_and_certainty": "Retained as source reading; no museum autopsy.",
+      "dependency_or_limit": "Conventional syllabic values are not a translation or lexical-category identification.",
+      "classification": "reading_control"
+    },
+    {
+      "id": "C038-O05",
+      "topic": "Uncertain first mark",
+      "observation": "The original proposed A373 and later possible tripod variant remain competing identifications; the committee deferred resolution.",
+      "sources": "C038-S03; C038-S04; C038-S05",
+      "locators": "2007p13/fig5; DelFreo p100§2.2.1.4 nn70–71; committee p586",
+      "access_and_certainty": "Original plate and target later pages inspected; photo/drawing divergence retained.",
+      "dependency_or_limit": "Later sources concern the same object; no target-specific fresh autopsy established.",
+      "classification": "reading_control"
+    },
+    {
+      "id": "C038-O06",
+      "topic": "Reported physical order",
+      "observation": "Original editors place attempted erasure before the surviving impressions.",
+      "sources": "C038-S03",
+      "locators": "p13; handling discussion p15",
+      "access_and_certainty": "Source-supported chronology; decisive crosscut not independently verified from acquired images.",
+      "dependency_or_limit": "Does not select motive, administrative cancellation, event continuity, or linguistic action.",
+      "classification": "conditional_physical_constraint"
+    },
+    {
+      "id": "C038-O07",
+      "topic": "Counting and handling",
+      "observation": "One roundel; nine reported surviving impression placements assigned to one device; nine reported fingerprint pairs.",
+      "sources": "C038-S03",
+      "locators": "pp13–15; fig5",
+      "access_and_certainty": "Edition counts, not nine independently audited historical events.",
+      "dependency_or_limit": "Device, operator, owner, responsible institution and inscription referent remain distinct.",
+      "classification": "object_control"
+    },
+    {
+      "id": "C038-O08",
+      "topic": "Context",
+      "observation": "Recovery is in Geometric levelling fill.",
+      "sources": "C038-S03",
+      "locators": "p13 Context",
+      "access_and_certainty": "Original publication, not excavation-diary reinspection.",
+      "dependency_or_limit": "Secondary recovery does not identify the original transaction.",
+      "classification": "context_control"
+    },
+    {
+      "id": "C038-O09",
+      "topic": "Modern character label",
+      "observation": "Current upstream ideograms.js maps U+1076D to *810.",
+      "sources": "C038-S08",
+      "locators": "ideograms.js, rendered retrieval lines2180–2184",
+      "access_and_certainty": "Source code inspected by archaeology investigator; no frozen upstream commit recovered.",
+      "dependency_or_limit": "No global *810=A373 crosswalk is established.",
+      "classification": "data_control"
+    },
+    {
+      "id": "C038-O10",
+      "topic": "P1 access",
+      "observation": "ResearchGate offered a request-only record; A3TEX supplied a DOI citation; no complete article obtained.",
+      "sources": "C038-S01; C038-S02",
+      "locators": "Request/full-text notices and Flouda bibliography entry",
+      "access_and_certainty": "Web records inspected; zero Flouda article pages.",
+      "dependency_or_limit": "Not global unavailability, and not evaluation or refutation of the complete argument.",
+      "classification": "access"
+    },
+    {
+      "id": "C038-O11",
+      "topic": "P3 screen",
+      "observation": "SI Zg1/Heraklion2615 is discussed under conditional weighing-function interpretations with uncertain find context.",
+      "sources": "C038-S06",
+      "locators": "pp60–64, especially61 and63",
+      "access_and_certainty": "Target text inspected; no figures or complete object dossier.",
+      "dependency_or_limit": "No independent documented use event was recovered; does not disprove all weight interpretations.",
+      "classification": "screening"
+    }
+  ],
+  "physical_lifecycle": [
+    {
+      "stage": "manufacture",
+      "fixed": "Clay carrier exists; exact workshop, maker and manufacturing context not independently established.",
+      "source": "C038-S03"
+    },
+    {
+      "stage": "inscription",
+      "fixed": "Residual incisions on exact carrier; first-mark identification remains disputed.",
+      "source": "C038-O03–O05"
+    },
+    {
+      "stage": "alteration",
+      "fixed": "Attempted smoothing/erasure described; semantic reason not fixed.",
+      "source": "C038-O03; O06"
+    },
+    {
+      "stage": "stamping/handling",
+      "fixed": "Reported sequence follows attempted erasure; several impression placements and handling traces.",
+      "source": "C038-O06–O07"
+    },
+    {
+      "stage": "attachment",
+      "fixed": null,
+      "limit": "No exactly documented attached item or attachment operation admitted for this target."
+    },
+    {
+      "stage": "movement/storage/use",
+      "fixed": null,
+      "limit": "No original-event location, participant, or referent continuity fixed by acquired packet."
+    },
+    {
+      "stage": "deposition/recovery",
+      "fixed": "Secondary Geometric levelling context, recovered2003.",
+      "source": "C038-O08"
+    }
+  ],
+  "source_independence": "Mirror, publisher and author records reproduce one original edition. Later critical sources add a reading objection about the same carrier; do not multiply object or event evidence.",
+  "object_event_independence": {
+    "carriers": 1,
+    "reported_surviving_impressions": 9,
+    "attributed_devices": 1,
+    "historical_operator_count": null,
+    "relevant_event_count": null
+  },
+  "inferential_independence": "Physical marks and reported order are described without assuming PI-KA meaning. No independent text-to-referent or text-to-role connection is supplied.",
+  "exposure": "See STATE_DELTA.json exposure_additions; no certified unused test outcome.",
+  "negative_assertion_scope": "No role discriminator recovered within this finite packet; not a universal absence assertion.",
+  "interpretation_map": {
+    "observation_to_reading": "Source-controlled, qualified",
+    "reading_to_referent": "Not fixed",
+    "referent_to_role": "Not fixed",
+    "role_to_action": "Not fixed",
+    "action_to_construction": "Not fixed"
+  }
+}

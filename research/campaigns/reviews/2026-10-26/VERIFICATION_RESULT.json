@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "mode": "full",
+  "checks": {
+    "expectations_sha256": "c3afa196c7ee404b10b5c8ae3ff2ec9fda98d37983148bdc32480e5a4b9554e7",
+    "pinned_through042_archive": {
+      "path": "archive/D2026-10-25/Linear_A_Research_Current_through_042.zip",
+      "sha256": "98e19e34100098485bafbccfd975b86197e08ffef759c266f9d5c2fe449d5c02",
+      "old_verifier_sha256": "f4839b2bb7bd35dd1bbde5839fc9e724755fe09622f93434781405722454a9ab"
+    },
+    "scientific_prefix_counts_unchanged": {
+      "claims": 87,
+      "experiments": 37,
+      "sources": 121
+    },
+    "appended_record_ids": {
+      "claims": [
+        "LA-043-001",
+        "LA-044-001"
+      ],
+      "experiments": [
+        "C043-CORD-JOIN",
+        "C044-VESSEL-CLASS"
+      ],
+      "sources": [
+        "C043-S01",
+        "C043-S02",
+        "C044-S01",
+        "C044-S02",
+        "C044-S03",
+        "C044-S04",
+        "C044-S05",
+        "C044-S06"
+      ]
+    },
+    "immutable_inherited_files_checked": 198,
+    "queue_and_status": {
+      "research_through": 44,
+      "documentation_revision": "D2026-10-26",
+      "queue_records": 26,
+      "active_candidates": 0,
+      "active_semantic_experiments": 0,
+      "evidence_paths": 61,
+      "related_ids": 50,
+      "registry_counts": {
+        "claims": 89,
+        "experiments_and_access_feasibility_records": 39,
+        "source_access_records": 129,
+        "raw_discovery_records": 1721
+      }
+    },
+    "scientific_evidence_navigation": {
+      "files_checked": 104,
+      "dependency_entries_reviewed": 68,
+      "historical_scope": "Older free-form experiment inputs and original archive paths are preserved in their source snapshot. Their archives remain nested inside pinned C041; C042–C044 input IDs and archive paths are checked in this root."
+    },
+    "analysis_artifact_chains": 1,
+    "analysis_validation_scope": "input/rule hash joins and declared scenario coverage; equations not rerun here",
+    "configured_frozen_hashes": 7,
+    "reproducible_outputs": [
+      {
+        "script_path": "iterations/043/analysis/check_join.py",
+        "result_path": "iterations/043/analysis/result.json",
+        "script_sha256": "aa83a83ce1d29af416fda0fc5ee5a104f0c8ba8d936f7df3400176616421a67a",
+        "result_sha256": "abe5afbe73d5063e854b459f2f6186e651f6f15039a34e3ead038ef55cafdde3"
+      },
+      {
+        "script_path": "iterations/044/analysis/extract_target.py",
+        "result_path": "iterations/044/analysis/target_index_result.json",
+        "script_sha256": "dae4ed475402cd5bdc62c7c02213b2712e5b1a1d2aa7456555e8e90f9f8f7e99",
+        "result_sha256": "409e6fde3a9175cecde13ac1a880d750b87579de2e8e4049977fe78f89dec5dd"
+      }
+    ],
+    "reproduction_scope": "Configured local Python scripts only; JSON values/types compared without formatting. Scripts must be reviewed as read-only before inclusion. This is computational consistency, not ancient meaning.",
+    "current_navigation": {
+      "documents": 77,
+      "relative_links": 305,
+      "anchors": "not checked"
+    },
+    "manifest_files": 288
+  },
+  "errors": [],
+  "scope": "Preservation, metadata consistency, current evidence-file joins and navigation only; not source authenticity adjudication, epigraphic reading, autopsy, physical measurement, assay replication, unused-witness validation, or validation of ancient meaning."
+}

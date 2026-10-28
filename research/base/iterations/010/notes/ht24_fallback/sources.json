@@ -1,0 +1,77 @@
+{
+  "retrieval_date": "2026-09-09",
+  "branch": "HT24 physical association and identifiability",
+  "sources": [
+    {
+      "id": "R10-HT24-DEL-FREO-2020",
+      "title": "Wool Working at Hagia Triada: the HT 24 Tablet and the 45 noduli from the Quartiere Sudovest",
+      "author": "Maurizio Del Freo",
+      "year": 2020,
+      "url": "https://iris.cnr.it/retrieve/435c5e13-7821-4b55-aec2-2c07865e1652/prod_421681-doc_175687.pdf",
+      "locators": ["pp.55–60", "p.57 n.9", "p.59 nn.30–33", "pp.61–62"],
+      "access": "Full PDF parsed text read. Screenshot requests did not supply inspectable image content in this subtask, so no new visual reading is claimed.",
+      "type": "Primary scholarly interpretation; readings and findspot evidence depend on earlier editions/excavation research",
+      "dependency": ["GORILA I", "Hallager 1996 and 2002", "Militello", "Palaima 1994"],
+      "new_source_to_project": false
+    },
+    {
+      "id": "R10-HT24-MILITELLO-2014",
+      "title": "Festòs e Haghia Triada. Rinvenimenti minori I. Materiale per la tessitura",
+      "author": "Pietro Militello",
+      "year": 2014,
+      "url": "https://www.academia.edu/113784761/Pietro_Militello_Fest%C3%B2s_e_Haghia_Triada_Rinvenimenti_minori_I_Materiale_per_la_tessitura_",
+      "locators": ["pp.262–263"],
+      "access": "Author-uploaded monograph page text read; plate not inspected",
+      "type": "Archaeological research monograph by researcher responsible for findspot reassessment",
+      "dependency": ["excavation context reanalysis", "Hallager 1996 and 2002", "Palaima 1994"],
+      "new_source_to_project": "Newly inspected in this branch; no claim that prior project never cited it"
+    },
+    {
+      "id": "R10-HT24-STORATLAS",
+      "title": "South-West Quarter",
+      "author": "StorAtlas project, Santo Privitera",
+      "publication_date": "not stated; project funding period 2023–2024 on home page",
+      "url": "https://storatlas.weebly.com/south-west-quarter.html",
+      "project_url": "https://storatlas.weebly.com/",
+      "locators": ["Finds paragraphs 3–6", "Interpretation"],
+      "access": "Full research atlas page text read",
+      "type": "Researcher's contextual atlas; not a new excavation report",
+      "dependency": ["Militello findspot identification", "Puglisi notebook reanalysis", "Hallager", "Del Freo 2020", "Montecchi"],
+      "new_source_to_project": "Not found in inherited round9 source notes",
+      "caution": "Approximate distance and room references are not fully consistent with other summaries or throughout the page. Record a vicinity association without exact invented coordinates."
+    },
+    {
+      "id": "R10-HT24-SIGLA",
+      "title": "HT24a",
+      "url": "https://sigla.phis.me/document/HT%2024a/",
+      "access": "Landing page retrieved; web reader yielded minimal page content",
+      "dependency": ["GORILA"],
+      "use": "No new sign assessment"
+    },
+    {
+      "id": "R10-HT24-RG-CONTEXT-FIGURE",
+      "title": "Plan of the southern quarter of Ayia Triada with indications of the findspots of HT24 and of the noduli",
+      "author": "Pietro Militello",
+      "url": "https://www.researchgate.net/figure/Plan-of-the-southern-quarter-of-Ayia-Triada-with-indications-of-the-findspots-of-HT-24_fig3_333112993",
+      "access": "Caption accessed. Image link returned 404; full-text PDF retrieval failed. No visual inference drawn.",
+      "dependency": ["Militello 2012 figure, reproduced in 2014 chapter"]
+    }
+  ],
+  "bounded_search_log": {
+    "queries": [
+      "HT24 wool ME / HT24 noduli",
+      "HT24 2025 OR 2026",
+      "Hallager One Linear A Tablet and 45 Noduli",
+      "Wool Economy in Minoan Crete Militello PDF",
+      "HT24 photograph / HT24 Corridor 9 Room 26 Room 27"
+    ],
+    "outcome": "Retrieved contextual research sources, but no upgraded ME reading, independently calibrated total, or actual HT24 yield. Exact-title searches located references to Hallager 2002; full primary article was not inspected in this branch.",
+    "not_inferred": [
+      "No publication exists beyond retrieved results",
+      "Original tablets or noduli were physically examined",
+      "A screenshot or figure was inspected when retrieval failed",
+      "All repeated bibliography represents independent ancient evidence"
+    ]
+  },
+  "raw_source_retention": "No third-party full texts or source images included in deliverables. URLs and locators retained for reacquisition."
+}

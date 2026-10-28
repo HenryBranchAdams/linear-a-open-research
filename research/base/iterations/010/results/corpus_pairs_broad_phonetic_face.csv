@@ -1,0 +1,11 @@
+left,right,left_form,right_form,shared_non_generic_count,shared_non_generic,sign_edit_distance,warning
+HT 86a,HT 95b,QA-RA2-WA,QE-RA2-U,4,"[""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",2,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95b,A-KA-RU,QE-RA2-U,4,"[""DI-DE-RU"", ""KU-NI-SU"", ""MI-NU-TE"", ""SA-RU""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,DI-DE-RU,DI-DE-RU-QE-RA2-U,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",3,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,A-KA-RU,DA-DU-MA-TA,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,DI-DE-RU,DA-DU-MA-TA,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,KU-NI-SU,DA-DU-MA-TA,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,QA-RA2-WA,DA-DU-MA-TA,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",4,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,A-KA-RU,DI-DE-RU-QE-RA2-U,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",5,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,QA-RA2-WA,DI-DE-RU-QE-RA2-U,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",5,Set-difference candidate only; neither aligned entry nor shared identity established.
+HT 86a,HT 95a,KU-NI-SU,DI-DE-RU-QE-RA2-U,3,"[""DA-ME"", ""MI-NU-TE"", ""SA-RU""]",6,Set-difference candidate only; neither aligned entry nor shared identity established.

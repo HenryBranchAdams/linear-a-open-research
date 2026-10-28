@@ -1,0 +1,19 @@
+{
+  "source": "Montecchi2024 pp184-185, reported values; no fresh measurement",
+  "assumed_high_unit_g": 31200,
+  "ninth_g": 3466.6666666666665,
+  "reported_mass_comparisons": [
+    {
+      "mass_g": 3450,
+      "difference_from_ninth_g": -16.666666666666515,
+      "relative_difference_percent": -0.48076923076922906
+    },
+    {
+      "mass_g": 3511,
+      "difference_from_ninth_g": 44.333333333333485,
+      "relative_difference_percent": 1.2788461538461693
+    }
+  ],
+  "eleven_high_units_g": 343200,
+  "scope": "Fit to a selected ninth is not semantic validation. Eleven literal high units on one stone is a restricted model, not the author's group-of-weights proposal."
+}

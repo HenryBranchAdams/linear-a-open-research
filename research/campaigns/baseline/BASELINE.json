@@ -1,0 +1,79 @@
+{
+  "baseline_id": "B2026-10-18",
+  "consolidated_on": "2026-10-18",
+  "research_through": [
+    36,
+    37
+  ],
+  "kind": "consolidation_and_operational_baseline",
+  "new_research_iteration": false,
+  "mission": "Establish one Linear A construction whose action and relevant participant roles are independently supported and discriminate competing analyses.",
+  "mission_achieved": false,
+  "active_semantic_experiments_in_queue": 0,
+  "recurring_search_created_by_baseline": false,
+  "latest_campaign_decision": {
+    "campaign": [
+      36,
+      37
+    ],
+    "decision": "pause_semantic_fitting_on_investigated_branches",
+    "reason": "Neither bounded investigation produced an independent semantic discriminator or a linguistic prediction for unused evidence.",
+    "outcomes": [
+      {
+        "iteration": 36,
+        "class": "B",
+        "meaning": "source_object_improvement",
+        "status": "parked",
+        "semantic_experiment_admitted": false
+      },
+      {
+        "iteration": 37,
+        "class": "A",
+        "meaning": "access_unresolved",
+        "status": "parked",
+        "semantic_experiment_admitted": false
+      }
+    ],
+    "new_independent_semantic_relationships": 0,
+    "serious_semantic_rivals_falsified": 0,
+    "new_unused_witness_linguistic_predictions": 0,
+    "established_action_participant_constructions": 0,
+    "next_semantic_run_automatically_authorized_by_checkpoint": false,
+    "scope": "Current investigated branches and inspected evidence; not a verdict that Linear A is insoluble.",
+    "reopening_brief": "EVIDENCE_PREREQUISITES.md",
+    "registry_counts_for_continuity_only": {
+      "claims": 80,
+      "experiments": 28,
+      "source_access_records": 92
+    }
+  },
+  "interpretation_of_zero_campaign_results": "Campaign-specific; not a claim that no useful prior structural or material results exist.",
+  "scientific_registry_policy": "Unchanged historical scientific records; current disposition is a separate baseline layer.",
+  "raw_snapshot": {
+    "path": "corpus/discovery_snapshot.json",
+    "sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+    "records": 1721,
+    "scope": "Frozen discovery index, not a complete globally corrected edition."
+  },
+  "continuation": {
+    "conditional_first_target": "Complete Flouda (2024) article, DOI10.19272/202433301008",
+    "access_route_newly_identified": false,
+    "access_clearing_implies_semantic_acceptance": false,
+    "new_candidate_gate": "Independent differentiating observation, exact writing/object packet, serious rivals, actual evidence route and finite scope."
+  },
+  "files": {
+    "report": "baseline/Linear_A_Research_Baseline_2026-10-18.md",
+    "claim_dispositions": "baseline/CLAIM_DISPOSITIONS.json",
+    "history": "baseline/HISTORY_CROSSWALK.json",
+    "exposure": "baseline/EXPOSURE_LEDGER.json",
+    "queue": "baseline/RESEARCH_QUEUE.json",
+    "next_brief": "baseline/NEXT_RESEARCH_BRIEF.md",
+    "coverage": "baseline/REVIEW_COVERAGE.md",
+    "sources": "baseline/SOURCE_INDEX.json",
+    "public_sync": "baseline/PUBLIC_SYNC.md",
+    "verification": "baseline/VERIFICATION.json"
+  },
+  "public_release_changed": false,
+  "external_messages_sent": false,
+  "relative_path_scope": "Paths describe the portable baseline root unless a canonical native artifact path/ID is explicit. Current entry/context and baseline files also exist at matching canonical Research Environment paths; history/audit/corpus copies are packaged, not newly created loose canonical folders."
+}

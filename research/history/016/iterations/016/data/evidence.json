@@ -1,0 +1,131 @@
+{
+  "ht34": {
+    "document": "HT 34",
+    "museum": "HM 22",
+    "findspot": "Haghia Triada, Villa Magazine",
+    "critical_sequence": [
+      {
+        "token": "SA+MU+KU",
+        "quantity": 100,
+        "status": "written"
+      },
+      {
+        "token": "PA3",
+        "quantity": 70,
+        "status": "written"
+      },
+      {
+        "token": "KI-RO",
+        "quantity": 30,
+        "status": "written_current"
+      },
+      {
+        "token": "7",
+        "quantity": 7,
+        "status": "erased",
+        "notation": "[[7]]"
+      }
+    ],
+    "arithmetic": {
+      "current_state": {
+        "equation": "100 - 70 = 30",
+        "valid": true
+      },
+      "before_erasure_if_7_belonged_to_KI_RO_quantity": {
+        "ki_ro_quantity": 37,
+        "equation": "70 + 37 = 107",
+        "matches_reference_100": false
+      }
+    },
+    "source_controls": {
+      "younger_commentary": "Transcribes KI-RO 30 [[7]], i.e. 7 as erased text.",
+      "lineara_reading_spec": "Digital reading layer flattens the numeral tokens as 30 + 7 and therefore risks producing 37.",
+      "aigent_flat_corpus": "Currently renders HT34 as KI-RO 37, demonstrating the consequence of dropping erasure state.",
+      "transcription_convention": "Double square brackets conventionally mark erased text in Aegean-script transcription."
+    },
+    "inference": {
+      "secure_structural": "KI-RO 30 is the exact complementary remainder after the PA3-marked 70 is reconciled against 100.",
+      "favored_functional_gloss": "outstanding / residual / deficit balance",
+      "not_yet_secure": "Exact lexical translation, PA3 lexical meaning, debtor/creditor direction."
+    }
+  },
+  "ht118": {
+    "document": "HT 118",
+    "scribe": "HT Scribe 3",
+    "findspot": "Casa Room 9",
+    "transcription": "AU \u2022 *516 \u2022 MA-DI 15 KI 10 QA-QA-RU 6 KI 4 A-RI-SU 4 KI 1 RI-RU-MA 10 KU-RO 30 KI 15",
+    "ki_subtotal": {
+      "components": [
+        10,
+        4,
+        1
+      ],
+      "sum": 15,
+      "written_total": 15,
+      "matches": true
+    },
+    "main_total": {
+      "components": [
+        15,
+        6,
+        4,
+        10
+      ],
+      "sum": 35,
+      "written_kuro": 30,
+      "matches": false,
+      "note": "Scope/role of one or more main quantities remains unresolved; do not force a simple total model."
+    },
+    "participant_anchor": {
+      "form": "QA-QA-RU",
+      "external_parallel": "Linear B qa-qa-ro",
+      "classification": "masculine personal name",
+      "evidence_level": "independent cross-script onomastic parallel; supports person-category, not transaction direction"
+    },
+    "construction": {
+      "surface": "QA-QA-RU 6 KI 4",
+      "safe_parse": "personal-name/account entry with main quantity 6 and KI-labelled outstanding/deficit quantity 4",
+      "stronger_specialist_parse": "current specialist interpretation treats HT118 commodities as owed to the palace",
+      "project_limit": "Internal evidence does not independently identify the palace as counterparty or force debtor vs creditor direction."
+    }
+  },
+  "adversarial": {
+    "tests": [
+      {
+        "rival": "KI-RO is merely a generic second-section marker with no numerical residual semantics.",
+        "result": "weakened_on_HT34",
+        "reason": "The surviving KI-RO value 30 is exactly 100-70, while the erased 7 would have destroyed closure. Scribal correction is evidence about the intended numerical relation."
+      },
+      {
+        "rival": "KI-RO 37 is the correct quantity.",
+        "result": "rejected_for_critical_transcription",
+        "reason": "The 7 is explicitly marked erased in the critical-style commentary; treating 30[[7]] as 37 loses editorial state."
+      },
+      {
+        "rival": "The HT34 arithmetic is coincidence.",
+        "result": "substantially_weakened",
+        "reason": "The scribe's erasure changes the value from a non-closing 37 to the unique closing complement 30. This is not just post-hoc equality."
+      },
+      {
+        "rival": "KI-RO always has a negative lexical meaning in every context.",
+        "result": "not_proven",
+        "reason": "HT123 and other contexts still allow direction ambiguity. HT34 establishes local residual/outstanding function more securely than universal lexical polarity."
+      },
+      {
+        "rival": "QA-QA-RU is an arbitrary commodity/category label.",
+        "result": "weakened",
+        "reason": "Independent Linear B qa-qa-ro is classified as a masculine personal name and is widely treated as the adapted counterpart of Linear A QA-QA-RU."
+      },
+      {
+        "rival": "HT118 gives a fully translated sentence 'QA-QA-RU owes 4 to the palace'.",
+        "result": "not_yet_proven",
+        "reason": "Person identity and deficit status are independently constrained, but counterparty/direction is supplied by broader administrative interpretation, not forced by the written line alone."
+      }
+    ],
+    "corpus_validation_control": {
+      "source": "Tsirkas 2026 corpus-validation project",
+      "finding": "KU-RO arithmetic strongly exceeds null; KI-RO matches 0/7 running-total cases.",
+      "compatibility": "This supports, rather than contradicts, a contrast/residual interpretation: KI-RO should not behave as a running total."
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "date_window_UTC": [
+    "2026-10-24",
+    "2026-10-25"
+  ],
+  "scope": "Source dependencies and routes; mirrored hosts are not new investigations. Read together with source_archaeology ledger and phase recon records.",
+  "sources": [
+    {
+      "id": "C042-S01",
+      "title": "A wine offering to the Central Palace Sanctuary at Knossos: the evidence from KN Zb 27",
+      "author": "K. S. Christakis",
+      "year": 2010,
+      "url": "https://www.academia.edu/3702318/Christakis_K_S_2010_Wine_offering_to_the_Central_Palace_Sanctuary_at_Knossos_the_evidence_from_KN_Zb_27_in_O_Krzyszkowska_ed_Cretan_Offerings_Essays_in_Honour_of_P_M_Warren_British_School_at_Athens_Studies_18_London_49_55_London",
+      "access": "author full-text web rendering",
+      "inspected": "text pp49–55; figure captions6.1–6.4",
+      "pixels_inspected": false,
+      "dependency": "HM5194 identity, reported about34L capacity, height53cm, prefiring sequence",
+      "unresolved": "Capacity calculation method, fill level/restoration uncertainty; source_archaeology has not independently inspected the figures acquired by challenger.",
+      "failed_routes": [
+        "Academia direct download403",
+        "JSTOR article landing returns short security/script HTML",
+        "Tavily basic extraction failed"
+      ],
+      "files": [
+        "sources/Christakis2010_JSTOR.html"
+      ],
+      "web_refs": [
+        "turn59view1",
+        "turn71search2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Christakis2010_JSTOR.html": {
+          "bytes": 3038,
+          "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea"
+        }
+      },
+      "team_addendum": "Independent challenger subsequently inspected original figure pixels in phase_work/challenge/C042_christakis_fig2.jpg and C042_christakis_fig3.jpg. This agent-specific pixels_inspected:false field remains accurate; team acquisition is resolved.",
+      "iteration": 42,
+      "authored_record": "iterations/042/agents/source_archaeology/C042_SOURCE_REPORT.md",
+      "agent_ledger_id": "SA-CHRISTAKIS2010",
+      "team_inspection_addition": "Challenger inspected Fig6.2,6.3–6.4 pixels; lead inspectedFig6.2. Original agent text/caption record remains distinct."
+    },
+    {
+      "id": "C042-S02",
+      "title": "Rapport sur les textes en hiéroglyphique crétois, en linéaire A et en linéaire B",
+      "author": "J.-P. Olivier",
+      "year": 1992,
+      "url": "https://helios.eie.gr/helios/bitstream/10442/147/1/A03.003.0.pdf",
+      "access": "complete institutional volume PDF",
+      "inspected": "printed446=PDF468 text and pixels; adjacent PDF465–470 selectively text",
+      "pixels_inspected": true,
+      "dependency": "17→117 original correction; anomaly already explicit",
+      "unresolved": "later107 supersedes117",
+      "failed_routes": [
+        "web open exceeded file-size limit; ordinary institutional download succeeded"
+      ],
+      "files": [
+        "sources/Mykenaika1992.pdf",
+        "sources/Mykenaika1992_pdf468.png"
+      ],
+      "web_refs": [
+        "turn44search3"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/Mykenaika1992.pdf": {
+          "bytes": 48848355,
+          "sha256": "e94b2812c5568aafd34863a03fdadd9ae8a7e1499dccc7268910fcbfd2395db0"
+        },
+        "sources/Mykenaika1992_pdf468.png": {
+          "bytes": 276805,
+          "sha256": "a6659fa01c588d00d97798e0bd945f3c63b9d5d754b8101b45117fa225dacde2"
+        }
+      },
+      "iteration": 42,
+      "authored_record": "iterations/042/agents/source_archaeology/C042_SOURCE_REPORT.md",
+      "agent_ledger_id": "SA-OLIVIER1992"
+    },
+    {
+      "id": "C042-S03",
+      "title": "Rapport2011–2015 sur les textes en écriture hiéroglyphique crétoise, en linéaire A et en linéaire B",
+      "author": "M. Del Freo",
+      "year": 2017,
+      "url": "https://www.academia.edu/17580940/Rapport_2011_2015_sur_les_textes_en_%C3%A9criture_hi%C3%A9roglyphique_cr%C3%A9toise_en_lin%C3%A9aire_A_et_en_lin%C3%A9aire_B",
+      "access": "author full-text web rendering; institutional metadata separately acquired",
+      "inspected": "p17 target paragraph and notes76–77; title/frontmatter",
+      "pixels_inspected": false,
+      "dependency": "107 from reported22June2012 autopsy byDelFreo and Zurbach",
+      "unresolved": "new facsimile announced for GORILA supplement, not acquired",
+      "failed_routes": [
+        "CNR institutional record no files attached",
+        "Tavily basic extraction failed"
+      ],
+      "files": [
+        "sources/DelFreo2017_CNR.html",
+        "sources/CNR_AegeanScripts_browse.html"
+      ],
+      "web_refs": [
+        "turn66view0",
+        "turn67view1",
+        "turn67view2"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/DelFreo2017_CNR.html": {
+          "bytes": 44081,
+          "sha256": "b50496e533e340a0ab70736dccf3f0523e7c4c99fea7bc8ccf1d7c19667d0a84"
+        },
+        "sources/CNR_AegeanScripts_browse.html": {
+          "bytes": 35461,
+          "sha256": "4bcb6ae98b3c5ec7bba3a1a9c3dc001c3df4d0d7111ced9df71938370353fecb"
+        }
+      },
+      "iteration": 42,
+      "authored_record": "iterations/042/agents/source_archaeology/C042_SOURCE_REPORT.md",
+      "agent_ledger_id": "SA-DELFREO2017"
+    },
+    {
+      "id": "C042-S04",
+      "iteration": 42,
+      "title": "A Pithos from Epanô Zakro",
+      "author": "J. P. Stronk",
+      "year": 1972,
+      "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Stronk-85-87.pdf",
+      "access": "Official complete journalPDF",
+      "inspected": "pp85–87 actual pixels, includingp87plates",
+      "pixels_inspected": true,
+      "limits": "Geometric556L±11% estimate, not waterfill or statisticalconfidenceinterval; historicalnumeral22",
+      "sha256": "032fa7360530d7c67e9a8a93ebb9ed7692d5380e7b1d8d7f2b599a3c58a5e647",
+      "size_bytes": 707859,
+      "authored_record": "iterations/042/evidence/ZA_SOURCE_CONTROL.md"
+    },
+    {
+      "id": "C042-S05",
+      "iteration": 42,
+      "title": "Linear A Liquid Measure: A Contribution",
+      "author": "J. P. Stronk",
+      "year": "1982–1983",
+      "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Stronk-27.pdf",
+      "access": "Official complete journalPDF",
+      "inspected": "p27 actual pixels",
+      "pixels_inspected": true,
+      "limits": "Dependent on1972capacity; conditional21 fromBest, not revised32 or independentmeasure",
+      "sha256": "50d5ccd7d822f1f931d23bb28e8e75c92e97b09d4bc5e7999207d099c9e9b530",
+      "size_bytes": 57026,
+      "authored_record": "iterations/042/evidence/ZA_SOURCE_CONTROL.md"
+    },
+    {
+      "id": "C042-S06",
+      "iteration": 42,
+      "title": "The Zakro Pithos Inscription, Again",
+      "author": "J. G. P. Best",
+      "year": "1982–1983",
+      "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Best-9-16.pdf",
+      "access": "Official complete journalPDF",
+      "inspected": "Leadpp9–11 actualpixels; challengerp9–10, including photograph/reproducedBrice drawing",
+      "pixels_inspected": true,
+      "limits": "Concrete damage/divider dispute21vs32; pixels insufficient for new adjudication. Translationclaimsnotadopted; pp12–15uninspected",
+      "sha256": "f54e2186a501ef294481e9fb36a55672d0f7b3a36c6f00bea07e5af2077b8b35",
+      "size_bytes": 6356456,
+      "authored_record": "iterations/042/evidence/ZA_SOURCE_CONTROL.md"
+    },
+    {
+      "id": "C042-S07",
+      "title": "Naming, Writing and Measuring “at the Time of Minos”. Some Reflections on Bronze Age Aegean Notations on Clay Vessels and their Representations",
+      "author": "E. Notti",
+      "year": 2025,
+      "url": "https://apeiron.iulm.it/handle/10808/68127",
+      "access": "Institutionalmetadata/abstract and officialp195Torrossasample actualpixels; completearticle unacquired",
+      "inspected": "p195actualpixels only; measurementsection notinspected",
+      "pixels_inspected": true,
+      "dependency": "ZA Zb3 newmeasurement lead; root owns continuedacquisition",
+      "unresolved": "full PDF marked unavailable",
+      "failed_routes": [
+        "one exact-title authorfulltext search found no copy"
+      ],
+      "files": [],
+      "web_refs": [
+        "turn7view2",
+        "turn10search6"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {},
+      "iteration": 42,
+      "doi": "10.19272/202533301012",
+      "limits": "Do not convert12–12.5L/unit abstractproposal to an independentlymeasuredcapacity; no targetmethod inspected",
+      "sample_url": "https://static.torrossa.com/digital/sam/2025/SERRA/6074513_SAM.jpg",
+      "authored_record": "iterations/042/evidence/ZA_SOURCE_CONTROL.md"
+    },
+    {
+      "id": "C042-S08",
+      "title": "The absolute values of the symbols for volume",
+      "author": "Pia de Fidio",
+      "year": 2024,
+      "url": "https://www.scribd.com/document/750994689/Killen-The-New-Documents-in-Mycenaean-Greek-Vol-1-2024",
+      "access": "public third-party rendering of original chapter, source-locating use",
+      "inspected": "target pp179–180 text; no pixels",
+      "pixels_inspected": false,
+      "dependency": "grounded implicit-subunit/local-unit rival, leads to107 originalautopsy",
+      "unresolved": "Publisher/author PDF target pp179–180 remains unacquired. Official Cambridge route offers Get Access and only first-page preview, not target pages. Finite route closed without bypass.",
+      "files": [
+        "sources/DeFidio2024_Cambridge_book.html"
+      ],
+      "web_refs": [
+        "turn64view0",
+        "turn64view1",
+        "turn64view2",
+        "turn91view0",
+        "turn93view0",
+        "turn93view1"
+      ],
+      "retrieval_date": "2026-10-24",
+      "file_checksums": {
+        "sources/DeFidio2024_Cambridge_book.html": {
+          "bytes": 991721,
+          "sha256": "b4c3b1ef532eede90a1dc6970d8e2d346e84cb37a7af8aadfbbeef7337a2c40d"
+        }
+      },
+      "doi": "10.1017/9781139029049.007",
+      "publisher_url": "https://www.cambridge.org/core/books/abs/new-documents-in-mycenaean-greek/absolute-values-of-the-symbols-for-volume/ACE8A291774C4E64D6DC53CD91782EFF",
+      "publication": "In John Killen (ed.), The New Documents in Mycenaean Greek I (2024), 169–204",
+      "iteration": 42,
+      "authored_record": "iterations/042/agents/source_archaeology/C042_SOURCE_REPORT.md"
+    }
+  ],
+  "additional_access_routes": [
+    {
+      "dependency": "GORILA IV definitive ZA plate112–113",
+      "route": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=4&sp=154",
+      "result": "No pixels; official detail route503/inaccessible; actualprintedpage not verified"
+    },
+    {
+      "dependency": "Notti2025 fullmeasurementsection",
+      "routes": [
+        "https://apeiron.iulm.it/handle/10808/68127",
+        "https://www.libraweb.it/articoli.php?chiave=202533301&rivista=333",
+        "https://www.torrossa.com/gs/resourceProxy?an=6074513&publisher=F34885"
+      ],
+      "result": "Repositorynonaccessible file, publishersale, TorrossaresourceproxyHTMLsalespage. Publicsamplep195inspected; fullarticleunacquired."
+    },
+    {
+      "dependency": "Negri2023 I segni aritmetici pp209–219",
+      "routes": [
+        "https://www.openstarts.units.it/bitstreams/c0cba50b-9522-428a-8759-cd436b30d8cd/download",
+        "https://www.openstarts.units.it/server/api/core/bitstreams/c0cba50b-9522-428a-8759-cd436b30d8cd/content"
+      ],
+      "result": "503/timeouts; nofulltext inspected; notcounted completedinvestigation"
+    },
+    {
+      "dependency": "Privitera2023 The Mind of an Octopus",
+      "route": "https://cris.unibo.it/retrieve/a4fe85f3-27da-4272-922b-97fd29e3bf96/Privitera_Mind%20of%20an%20Octopus_Annuario%20Atene%202023.pdf",
+      "result": "Primarywebtext inspected selectively; local403; target is laterLMIIIB HTR0397, notindependentLinearAunitcalibration. Methodcomparandonly."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaign_id": "LA-C038-2026-10-21",
+  "selection_at_utc": "2026-10-21T17:00:45.630926+00:00",
+  "stage": "selection; deep investigation begins",
+  "packets": [
+    {
+      "id": "P1",
+      "target": "Flouda2024 Phaistos full argument",
+      "status": "access_stopped",
+      "reason": "Two new access-record families led to request-only or DOI citation; no full text. Detailed source investigator log controls exact scope.",
+      "decision": "B-D26 unchanged; source access limitation, no argument refutation."
+    },
+    {
+      "id": "P2",
+      "target": "KH Wc2123 / Khania Museum2123, erased incised face and nine impressions",
+      "status": "selected_for_bounded_source_and_sequence_investigation",
+      "reason": "Original object publication has a reported marking/erasure/sealing sequence tied to exact object; later primary epigraphic review is obtainable and may constrain reading.",
+      "not_yet_admitted": "Semantic test not admitted. Missing role-dependent independent observation may remain missing."
+    },
+    {
+      "id": "P3",
+      "target": "SI Zg1 / Heraklion2615 stone with fish motif and AB118 reading",
+      "status": "screened_not_selected",
+      "reason": "Primary Michailidou 2001 pp60–64 makes weighing function conditional and find context uncertain; no independently fixed operation. Later OUP source-index argument is analogy-driven and sign/number alternatives remain. No deep investigation."
+    }
+  ],
+  "selection_rationale": "P2 supplies best accessible exact object-to-physical-sequence route; P1 full-access prerequisite unmet; P3 fails independent operation gate. Three materially distinct packets screened; no further discovery authorized within this campaign.",
+  "next_executable_action": "Compare 2007 text/figures, Del Freo2024/online2025p100 and CIPEMp586; source and challenger inspect independently; test physical ordering and strongest semantic relabelings.",
+  "exposure": "P2 and P3 occur in frozen discovery snapshot; no semantic prospective validation claimed. P2 raw index KHWc2123=*810-PI-KA omits erasure; P3 raw SIZg1 index not an independent witness. Exact prior primary-page exposure unknown; current source outcomes exposed during screening.",
+  "retrospective_amendments": [
+    {
+      "at_utc": "2026-10-21T17:12:01.942052+00:00",
+      "reason": "Archaeological investigator synthesis audit: exposure field includes later exact-index audit details.",
+      "scope": "The selection timestamp dates the packet choice. The field exposure is a retrospective clarification completed during the subsequent exact-index audit, not a prospective freeze of those details. At screening prior primary-page exposure was unknown; index membership and the exact flattened row were subsequently verified. No unused-outcome semantic test is claimed.",
+      "decision_changed": false
+    }
+  ]
+}

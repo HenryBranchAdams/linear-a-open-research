@@ -1,0 +1,539 @@
+{
+  "central_claims": [
+    {
+      "id": "R9-C1",
+      "claim": "A Linear A action and its participants' roles have been established independently",
+      "status": "not achieved",
+      "evidence_files": [
+        "notes/identity.json",
+        "notes/linear_b.json",
+        "notes/roundels.json",
+        "notes/anetaki.json"
+      ],
+      "surviving_alternatives": [
+        "different or related designations",
+        "regional or orthographic variants",
+        "grammatical variants with unassigned meaning",
+        "administrative categories without an overt predicate"
+      ],
+      "novelty": "no decipherment claimed"
+    },
+    {
+      "id": "R9-C2",
+      "claim": "ZA9 confirms predicted A-TA-NA-TI",
+      "status": "not established",
+      "evidence_files": [
+        "notes/za9.json"
+      ],
+      "reason": "Original apparatus proposes possible TE; main reading and SigLA remain unresolved.",
+      "novelty": "new project access to original plates, not new reading"
+    },
+    {
+      "id": "R9-C3",
+      "claim": "TA-NA family has an independent cross-site identity bridge in its co-associates",
+      "status": "not found in audited account faces",
+      "evidence_files": [
+        "notes/identity.json",
+        "notes/identity_results.json"
+      ],
+      "counterargument": "Sparse accounts can lack shared associates even when designation or person is identical.",
+      "novelty": "new selected-context comparison; priority unestablished"
+    },
+    {
+      "id": "R9-C4",
+      "claim": "Linear B ta-na-to occupies a person/flock-responsibility slot",
+      "status": "supported within Linear B",
+      "evidence_files": [
+        "notes/linear_b.json"
+      ],
+      "assumptions": [
+        "standard series interpretation and comparison of multiple Linear B contexts"
+      ],
+      "limit": "Does not prove legal ownership, exact occupation, or identity with any Linear A designation.",
+      "novelty": "published evidence newly checked in critical corpus"
+    },
+    {
+      "id": "R9-C5",
+      "claim": "Jar label *46 means FROM and TE means TO",
+      "status": "not established",
+      "evidence_files": [
+        "notes/jar.json"
+      ],
+      "reason": "Complete label and pre-firing incision are supported; origin remains attributed and recovered fragments do not identify an ancient recipient.",
+      "alternatives": [
+        "maker",
+        "owner",
+        "source designation",
+        "destination",
+        "dedication"
+      ],
+      "novelty": "original sources newly audited; comparison already published"
+    },
+    {
+      "id": "R9-C6",
+      "claim": "The A-KU-MI-NA/A-DU-KU-MI-NA/KU-MI-NA-QE comparison is a new discovery of this project",
+      "status": "rejected",
+      "evidence_files": [
+        "notes/ritual_check.md"
+      ],
+      "reason": "Exact triple already printed by Davis in AURA15 p47, volume imprint2025.",
+      "novelty": "explicit prior equivalent found"
+    },
+    {
+      "id": "R9-C7",
+      "claim": "ZA Wc2 A-TI-KA(-)A-DU(-)KO 2 translates a person's directed transaction",
+      "status": "not established",
+      "evidence_files": [
+        "notes/roundels.json"
+      ],
+      "reason": "Name boundary, A-DU function and KO commodity segmentation are not three independent anchors.",
+      "alternatives": [
+        "one long designation",
+        "two designations",
+        "name plus administrative/place expression and commodity"
+      ]
+    },
+    {
+      "id": "R9-C8",
+      "claim": "HT24 arithmetic excludes a distinct metrological value of ME",
+      "status": "not established without stronger assumptions",
+      "evidence_files": [
+        "notes/anetaki.json",
+        "results/anetaki_textile_test.json"
+      ],
+      "reason": "Doubled-ME lower bound changes with disputed ME; mass-loss allowance can restore compatibility.",
+      "assumptions": [
+        "fraction values",
+        "10:1 conversion",
+        "same batch",
+        "fixed45 lossless equivalence",
+        "nonnegative missing quantities",
+        "specified ME readings"
+      ],
+      "novelty": "new exact sensitivity and yield-bound calculations; underlying accounting hypothesis already published"
+    },
+    {
+      "id": "R9-C9",
+      "claim": "Anetaki AB54+77 independently translates KA as purple or identifies a predicate",
+      "status": "not established",
+      "evidence_files": [
+        "notes/anetaki.json"
+      ],
+      "supported_scope": "published textile-logogram association",
+      "alternatives": [
+        "type",
+        "quality",
+        "processing category",
+        "other textile modifier"
+      ],
+      "novelty": "newer published evidence incorporated"
+    }
+  ],
+  "branch_claims": [
+    {
+      "ledger_id": "za9:ZA9_C1",
+      "provenance_file": "notes/za9.json",
+      "id": "ZA9_C1",
+      "claim": "Original apparatus TE suggestion independently verified as possible",
+      "status": "established source attribution",
+      "support": [
+        "ZA9_GORILA3_167"
+      ],
+      "does_not_establish": "correct TE reading"
+    },
+    {
+      "ledger_id": "za9:ZA9_C2",
+      "provenance_file": "notes/za9.json",
+      "id": "ZA9_C2",
+      "claim": "A-TA-NA-TI attested by ZA9",
+      "status": "not established",
+      "support": [],
+      "counterevidence": [
+        "ZA9_SIGLA_index-17"
+      ],
+      "note": "unknown does not mean false; predicted form remains unfilled"
+    },
+    {
+      "ledger_id": "za9:ZA9_C3",
+      "provenance_file": "notes/za9.json",
+      "id": "ZA9_C3",
+      "claim": "TI absent from Zakros sign inventory",
+      "status": "rejected",
+      "counterevidence": [
+        "ZA9_TI_CONTROL"
+      ],
+      "scope": "does not reject regional spelling of a particular lexical item"
+    },
+    {
+      "ledger_id": "za9:ZA9_C4",
+      "provenance_file": "notes/za9.json",
+      "id": "ZA9_C4",
+      "claim": "Entry supplies independently directed transaction or named historical actor",
+      "status": "not established",
+      "note": "animal association and quantity do not establish role or identity"
+    },
+    {
+      "ledger_id": "linear_b:LBC01",
+      "provenance_file": "notes/linear_b.json",
+      "id": "LBC01",
+      "claim": "ta-na-to is a securely edited complete designation in a person-name/flock-responsibility position, rather than the following place or upper collector position",
+      "status": "supported within Linear B",
+      "basis": [
+        "LB01",
+        "LB02",
+        "LB03",
+        "LB04",
+        "LB_CIVITILLO2025",
+        "LB_GRECO2010"
+      ],
+      "limitations": [
+        "personal name/type does not identify same historical person in Linear A",
+        "flock responsibility does not prove legal ownership or literal shepherd occupation"
+      ]
+    },
+    {
+      "ledger_id": "linear_b:LBC02",
+      "provenance_file": "notes/linear_b.json",
+      "id": "LBC02",
+      "claim": "TA-NA-TI in Linear A is the same lexeme or individual as TA-NA-TE/A-TA-NA-TE",
+      "status": "not established",
+      "basis": [
+        "LB01",
+        "LB05"
+      ],
+      "strongest_counterargument": "The external LB comparanda do not connect the complete LA forms independently; related names, distinct names and regional/grammatical variants survive."
+    },
+    {
+      "ledger_id": "linear_b:LBC03",
+      "provenance_file": "notes/linear_b.json",
+      "id": "LBC03",
+      "claim": "KN Uf311 supplies a complete homographic ta-na-ti personal name",
+      "status": "rejected as stated",
+      "basis": [
+        "LB05"
+      ],
+      "reason": "The left boundary is missing and the original object is lost."
+    },
+    {
+      "ledger_id": "linear_b:LBC04",
+      "provenance_file": "notes/linear_b.json",
+      "id": "LBC04",
+      "claim": "LB ta-na-to / ]ta-na-ti is an ordinary o-stem nominative/dative opposition",
+      "status": "rejected conditionally on ordinary Greek o-stem analysis",
+      "basis": [
+        "LB01",
+        "LB05",
+        "LB_MELENA2014"
+      ],
+      "reason": "The i of final oi is normally omitted; both expected forms would be written with final to. Another stem or formation would require evidence."
+    },
+    {
+      "ledger_id": "linear_b:LBC05",
+      "provenance_file": "notes/linear_b.json",
+      "id": "LBC05",
+      "claim": "Independent correspondence controls uniquely privilege final i→o over e→o",
+      "status": "not supported",
+      "basis": [
+        "LB06",
+        "LB07",
+        "LB08",
+        "LB09",
+        "LB_CIVITILLO2025"
+      ],
+      "reason": "Published adaptation comparisons include e/u/i; e/o and u/o examples have independently checked LB contexts. Candidate pairs are not securely calibrated sound laws."
+    },
+    {
+      "ledger_id": "linear_b:LBC06",
+      "provenance_file": "notes/linear_b.json",
+      "id": "LBC06",
+      "claim": "ta-na-to has securely established non-Greek etymology",
+      "status": "not established",
+      "basis": [
+        "LB_MELENA2014",
+        "LB_DAVIS_VALERIO2020"
+      ],
+      "reason": "Melena p112 gives a doubly questioned /Thnatos/ analysis; this does not establish that reading but prevents treating non-Greek origin as an uncontested independent premise."
+    },
+    {
+      "ledger_id": "jar:JAR_C01",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_C01",
+      "claim": "THE Zb6 is a complete four-sign witness A-TA-NA-*46",
+      "status": "supported_as_published_reading",
+      "evidence": [
+        "JAR_O01",
+        "JAR_O02",
+        "JAR_O09"
+      ],
+      "assumptions": [
+        "Modern sign identifications accepted after original photograph inspection."
+      ],
+      "counterargument": "No autopsy; third sign is a published allographic variant."
+    },
+    {
+      "ledger_id": "jar:JAR_C02",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_C02",
+      "claim": "The inscription was incised before firing",
+      "status": "supported_by_original_excavation_report",
+      "evidence": [
+        "JAR_O04"
+      ],
+      "assumptions": [
+        "Excavator’s manufacturing-stage observation accepted."
+      ],
+      "counterargument": "Not newly tested on ceramic surface."
+    },
+    {
+      "ledger_id": "jar:JAR_C03",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_C03",
+      "claim": "*46 marks provenance/from and TE destination/to",
+      "status": "unestablished",
+      "evidence": [
+        "JAR_O03",
+        "JAR_O05",
+        "JAR_O06",
+        "JAR_O08"
+      ],
+      "assumptions_missing": [
+        "A-TA-NA is same lexical item/referent across objects.",
+        "A-TA-NA is independently identified with source locality.",
+        "*46/TE genuinely express direction."
+      ],
+      "strongest_alternatives": [
+        "Maker/workshop designation written during manufacture.",
+        "Intended owner/destination specified before firing.",
+        "Related but distinct name or compound.",
+        "Dedication or contents/category label."
+      ]
+    },
+    {
+      "ledger_id": "jar:JAR_C04",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_C04",
+      "claim": "House of Ladies findspot independently identifies the label’s recipient or owner",
+      "status": "inference_rejected",
+      "evidence": [
+        "JAR_O05",
+        "JAR_O06"
+      ],
+      "reason": "Recovered as fragments in deposits; no functional receipt/storage placement or named actor identified.",
+      "limitation": "Does not show the jar never belonged to the household."
+    },
+    {
+      "ledger_id": "jar:JAR_C05",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_C05",
+      "claim": "TA-NA-TE/A-TA-NA-TE prefix suggestion is a novel discovery of this project",
+      "status": "rejected",
+      "evidence": [
+        "JAR_O10"
+      ],
+      "reason": "Explicit predecessor Boulotis2008p71n11.",
+      "limitation": "Does not adjudicate priority of the full TE/TI computational grid."
+    },
+    {
+      "ledger_id": "jar:JAR_C06",
+      "provenance_file": "notes/jar.json",
+      "id": "JAR_C06",
+      "claim": "A sentence with independently identified action and participant roles is established from this jar",
+      "status": "not_established",
+      "evidence": [
+        "JAR_O01",
+        "JAR_O03",
+        "JAR_O05",
+        "JAR_O08"
+      ],
+      "reason": "No independently identifiable predicate and no independent naming link to a source/recipient."
+    },
+    {
+      "ledger_id": "anetaki:AN-C1",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C1",
+      "claim": "Anetaki supplies an independently identifiable cloth-associated KA adjunct",
+      "status": "supported as published sign-context association",
+      "evidence": [
+        "AN-01"
+      ],
+      "limit": "No complete word for cloth, purple, give or person translated."
+    },
+    {
+      "ledger_id": "anetaki:AN-C2",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C2",
+      "claim": "Physical pairing makes ring and handle parallel translations",
+      "status": "not supported",
+      "evidence": [
+        "AN-02",
+        "AN-03"
+      ],
+      "counter": "Genre and hand differ; full texts unavailable in overview."
+    },
+    {
+      "ledger_id": "anetaki:AN-C3",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C3",
+      "claim": "KA equals purple",
+      "status": "published speculative hypothesis",
+      "evidence": [
+        "AN-01",
+        "AN-05",
+        "AN-06"
+      ],
+      "counter": "Technical type or A/JA+KA association remains viable; no direct color observation."
+    },
+    {
+      "ledger_id": "anetaki:AN-C4",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C4",
+      "claim": "ME cannot represent a different unit",
+      "status": "not established by arithmetic alone",
+      "evidence": [
+        "AN-07",
+        "AN-08"
+      ],
+      "test": "ANETAKI-TEXTILE-1"
+    },
+    {
+      "ledger_id": "anetaki:AN-C5",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C5",
+      "claim": "HT24 establishes action delivers and identifies suppliers",
+      "status": "not established",
+      "counter": "Group labels could index destinations, stocks or production stages; arithmetic conserves quantities without distinguishing transfer direction."
+    },
+    {
+      "ledger_id": "anetaki:AN-C6",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C6",
+      "claim": "Published comparison of A+KA versus JA+KA establishes shared designation",
+      "status": "category-related hypothesis, not referent identity",
+      "evidence": [
+        "AN-05",
+        "AN-06"
+      ],
+      "counter": "Shared weight unit and textile context constrain semantic domain without selecting synonymy versus different commodity categories."
+    },
+    {
+      "ledger_id": "anetaki:AN-C7",
+      "provenance_file": "notes/anetaki.json",
+      "id": "AN-C7",
+      "claim": "Same batch requires equal input and output mass",
+      "status": "rejected as general inference",
+      "counter": "Processing losses, additions or distinct conversion scales alter balance. Under acceptedME and multiplier2, 47.5surviving input can yield45output at18/19; lost input tightens threshold. No actual yield inferred."
+    },
+    {
+      "ledger_id": "roundels:RC1",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC1",
+      "claim": "ZA Wc2 most probably ends with numeral2 rather than erased MI",
+      "status": "strengthened published reading",
+      "evidence": [
+        "R01",
+        "R02",
+        "R03",
+        "R04",
+        "R06"
+      ],
+      "counterevidence": [
+        "R05"
+      ],
+      "assumptions": [
+        "Published autopsies reliable; physical recount not independently performed"
+      ],
+      "novelty": "Perna1994 proposal, newly corroborated by Anastasiadou2025; not a discovery here"
+    },
+    {
+      "ledger_id": "roundels:RC2",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC2",
+      "claim": "A-TI-KA is a plausible person-related designation in Linear A",
+      "status": "conditional",
+      "evidence": [
+        "R09",
+        "R11"
+      ],
+      "assumptions": [
+        "Boundary after KA on ZA Wc2",
+        "Some lexical/onomastic continuity between scripts"
+      ],
+      "strongest_counterargument": "Entire A-TI-KA-A-DU-KO may be one expression; exact spelling across scripts does not ensure same meaning or referent"
+    },
+    {
+      "ledger_id": "roundels:RC3",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC3",
+      "claim": "A-DU identifies an action on ZA Wc2",
+      "status": "not established",
+      "evidence": [
+        "R01",
+        "R08"
+      ],
+      "assumptions": [
+        "Two unmarked lexical boundaries",
+        "Heading distribution excludes place/account labels"
+      ],
+      "strongest_counterargument": "Toponym, institution, account scope, or part of a longer expression remains compatible"
+    },
+    {
+      "ledger_id": "roundels:RC4",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC4",
+      "claim": "The same seal independently identifies A-TI-KA's participant role",
+      "status": "unsupported",
+      "evidence": [
+        "R04",
+        "R07"
+      ],
+      "strongest_counterargument": "Seal names no verified written actor; inward and outward transfers both fit physical association"
+    },
+    {
+      "ledger_id": "roundels:RC5",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC5",
+      "claim": "Each impression universally equals one written commodity unit on all counted roundels",
+      "status": "fails under reported Malia counts and positive additive fraction interpretation",
+      "evidence": [
+        "R12",
+        "R13",
+        "R14"
+      ],
+      "assumptions": [
+        "Malia had1 or2 impressions",
+        "4+A704 denotes a quantity greater than4"
+      ],
+      "strongest_counterargument": "Malia missing or miscounted impressions; differences of ration/commodity units; not a refutation of local animal-count equality"
+    },
+    {
+      "ledger_id": "roundels:RC6",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC6",
+      "claim": "A-initial labels identify recipients",
+      "status": "not established",
+      "evidence": [
+        "R12",
+        "R13",
+        "R14"
+      ],
+      "assumptions": [
+        "Independently established recipient identity would be required"
+      ],
+      "strongest_counterargument": "No named entity in the selected group has an independently recognizable transfer role; presence of a numeral may mark another document subtype"
+    },
+    {
+      "ledger_id": "roundels:RC7",
+      "provenance_file": "notes/roundels.json",
+      "id": "RC7",
+      "claim": "A participant-action construction is established on ZA Wc2",
+      "status": "goal unmet",
+      "evidence": [
+        "R01",
+        "R07",
+        "R08",
+        "R09"
+      ],
+      "strongest_counterargument": "Segmentation, verbal meaning, commodity status, and directed participant identity remain partly or wholly interdependent"
+    }
+  ]
+}

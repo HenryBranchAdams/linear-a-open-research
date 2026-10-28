@@ -1,0 +1,36 @@
+{
+  "campaign_id": "LA-C038-2026-10-21",
+  "started_at_utc": "2026-10-21T16:54:17+00:00",
+  "research_and_synthesis_complete_at_utc": "2026-10-21T17:21:45.912725+00:00",
+  "foreground_elapsed_minutes_to_synthesis": 27.48,
+  "user_ceiling_hours": 8,
+  "planned_working_cap_hours": 3,
+  "budget_note": "A planning cap within the active session, not a guarantee of unattended duration; finite source routes exhausted early. Saving follows synthesis.",
+  "max_concurrent_agents": 4,
+  "roles": {
+    "lead": "/root",
+    "source_epigraphy": "/root/source_epigraphy",
+    "archaeology_analysis": "/root/archaeology_analysis",
+    "independent_challenger": "/root/independent_challenger"
+  },
+  "packets_screened": 3,
+  "deep_source_investigations": 1,
+  "semantic_experiments_admitted": 0,
+  "second_deep_investigation": false,
+  "new_independent_semantic_anchors": 0,
+  "new_ancient_witnesses": 0,
+  "unused_linguistic_outcomes_tested": 0,
+  "key_times": {
+    "selection": "2026-10-21T17:00:45.630926+00:00",
+    "decisive_source_checkpoint": "2026-10-21T17:06:06.973537+00:00",
+    "independent_overlay_verification": "2026-10-21T17:06:51.909836+00:00",
+    "independent_final_synthesis_check": "2026-10-21T17:15:55.462612+00:00",
+    "lead_preservation_check": "2026-10-21T17:20:58.578845+00:00"
+  },
+  "computation": "Exact row equality, checksums, identifier uniqueness and registry preservation only. Scientific reasoning is qualitative; no stochastic analysis or seed.",
+  "stop_reason": "Finite selected source packet and obtainable decisive dependencies exhausted without a role-dependent independent observation.",
+  "active_research_after_close": false,
+  "background_research_promised": false,
+  "external_correspondence": false,
+  "public_update": false
+}

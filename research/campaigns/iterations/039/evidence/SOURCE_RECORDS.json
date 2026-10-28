@@ -1,0 +1,85 @@
+[
+  {
+    "campaign_iteration": 39,
+    "campaign_archive": "iterations/039/Linear_A_Campaign_039.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C039-S01",
+    "title": "INSCRIBE Stone weight SI Zg1",
+    "urls": [
+      "https://www.inscribercproject.com/Stone_weight_SI_Zg_1.php"
+    ],
+    "locators": [
+      "General information and inscription remarks, retrieved22October2026"
+    ],
+    "access": "Complete page text/HTML",
+    "supports": "InventoryL2615, reported scratch assessment,AB01/11 alternative and LTR conditional",
+    "components_not_read": "3D geometry/autopsy not replicated",
+    "source_dependencies": [
+      "Same research setting asC039-S02; not independent ancient event"
+    ]
+  },
+  {
+    "campaign_iteration": 39,
+    "campaign_archive": "iterations/039/Linear_A_Campaign_039.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C039-S02",
+    "title": "Montecchi2024 Design and Origins of Linear A Picture-Based Signs",
+    "authors": [
+      "Barbara Montecchi"
+    ],
+    "urls": [
+      "https://cris.unibo.it/retrieve/ace556f3-9a7d-4db0-8d30-5b37fdd7ab1e/OUP_writing.pdf"
+    ],
+    "locators": [
+      "Printed182–186, complete AB118 section; figure9.8–11 captions; physicalPDF indices200–204"
+    ],
+    "access": "Complete target-section extracted text read independently by lead/object investigator/challenger",
+    "supports": "Complete published functional/reading argument now evaluated; RTL conditional and group-of-weights alternative retained",
+    "components_not_read": "Actual figure pixels, underlying primary plates/autopsy",
+    "source_dependencies": [
+      "C038-S06",
+      "C039-S01",
+      "Alberti1998 and Egyptian comparanda cited inside chapter"
+    ]
+  },
+  {
+    "campaign_iteration": 39,
+    "campaign_archive": "iterations/039/Linear_A_Campaign_039.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C039-S03",
+    "title": "Alberti1998 A Stone or a Weight? institutional record and scan endpoint",
+    "urls": [
+      "https://flore.unifi.it/handle/2158/1103495",
+      "https://flore.unifi.it/retrieve/e398c37c-8076-179a-e053-3705fe0a4cff/alberti1998%20aiin%20completo2.pdf"
+    ],
+    "locators": [
+      "Repository metadata/abstract;18-page PDF identity"
+    ],
+    "access": "Metadata and PDF identity only; zero substantive article pages inspected",
+    "supports": "Concrete primary dependency located, not evaluated in full",
+    "components_not_read": "All substantive article pages/plates"
+  },
+  {
+    "campaign_iteration": 39,
+    "campaign_archive": "iterations/039/Linear_A_Campaign_039.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C039-S04",
+    "title": "UCLouvain Driessen neighboring-paper false positive for Flouda2024",
+    "urls": [
+      "https://research.dial.uclouvain.be/server/api/core/bitstreams/db45c049-e2e1-43c5-8b4b-c1d1d6e0b350/content"
+    ],
+    "locators": [
+      "Driessen109–115 DOI10.19272/202433301007 plus issue contents"
+    ],
+    "access": "Source investigator full-text identity check via extraction; lead separate fetch failed",
+    "supports": "This exact endpoint is not complete Flouda117–131; zero target article pages read",
+    "components_not_read": "Flouda2024 article",
+    "source_dependencies": [
+      "Access-only; no semantic inference"
+    ]
+  }
+]

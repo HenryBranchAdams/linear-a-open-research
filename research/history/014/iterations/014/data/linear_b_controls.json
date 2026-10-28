@@ -1,0 +1,27 @@
+[
+  {
+    "control": "Explicit deficit/debt",
+    "fact": "Linear B uses o-pe-ro (and abbreviated o) for amounts owed/shortfalls in deciphered accounting contexts.",
+    "diagnostic": "A deficit status can be lexically distinguished; list shape alone is not enough.",
+    "source_ids": [
+      "R14-S09",
+      "R14-S10"
+    ]
+  },
+  {
+    "control": "Explicit absence",
+    "fact": "Ayios Vasileios personnel records use a-pe-o-te, interpreted as absent, with men/personnel context.",
+    "diagnostic": "In a deciphered comparator, absence has an overt modifier; do not infer Linear A absence solely from one-count sublist structure.",
+    "source_ids": [
+      "R14-S14"
+    ]
+  },
+  {
+    "control": "Assessment vs delivery vs exemption",
+    "fact": "Pylos Ma records distinguish expected assessment, actual delivery (a-pu-do-si), exemptions (o-u-di-do-si), and owed amounts (o-pe-ro).",
+    "diagnostic": "Direction/polarity comes from lexical/documentary contrasts, not arithmetic template alone.",
+    "source_ids": [
+      "R14-S09"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "one_count_lists_are_anthroponymic": {
+    "status": "rejected_as_general_diagnostic",
+    "critical_counterexample": "KU-*56-NU",
+    "evidence": "Montecchi explicitly states lists of words followed by 1 and summed are not necessarily personal names, citing KU-*56-NU; corpus recurrences place the same form in quantity-3 and other contexts."
+  },
+  "kiro_fixed_negative_deficit": {
+    "status": "not_identified",
+    "critical_counterexample": "HT100 reading/restoration ambiguity plus HT123 sign ambiguity"
+  },
+  "kiro_one_count_lists_are_personnel_members": {
+    "status": "overstated_in_iteration13",
+    "correction": "The containing tablets have personnel evidence, but the individual syllabic entries are administrative designations of unresolved ontology."
+  }
+}

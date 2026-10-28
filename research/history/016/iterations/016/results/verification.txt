@@ -1,0 +1,22 @@
+Iteration 16 breakthrough verification passed.
+{
+  "derived": {
+    "ht34_reference": 100,
+    "ht34_pa3": 70,
+    "ht34_kiro_current": 30,
+    "ht34_erased": 7,
+    "ht34_residual": 30,
+    "ht34_current_closes": true,
+    "ht34_erased_state_closes": false,
+    "ht118_ki_sum": 15,
+    "ht118_written_ki_total": 15,
+    "ht118_ki_closes": true,
+    "participant_class": "masculine personal name"
+  },
+  "failure_injection_tests": {
+    "kiro37_breaks_ht34_closure": true,
+    "retaining_erased7_breaks_ht34_closure": true,
+    "altering_ht118_ki_component_breaks_subtotal": true
+  },
+  "semantic_scope": "Arithmetic and critical-state relations are machine verified. Lexical glosses and onomastic classification remain source-based inferences."
+}

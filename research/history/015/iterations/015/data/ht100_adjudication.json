@@ -1,0 +1,85 @@
+{
+  "iteration": 15,
+  "target": "HT 100 damaged numeral after *304+PA",
+  "museum_number": "HM 1306",
+  "pre_registered_consequence": {
+    "if_4": {
+      "expression": "58 + 4 + 12 + 2 + 5 + 16",
+      "sum": 97,
+      "interpretation": "KI 2 is included positively in KU-RO 97"
+    },
+    "if_6": {
+      "expression": "58 + 6 + 12 + 5 + 16",
+      "sum": 97,
+      "interpretation": "KI 2 is excluded from KU-RO 97, compatible with subtractive/deficit treatment"
+    }
+  },
+  "source_readings": [
+    {
+      "source": "Was",
+      "reading": "4 restored",
+      "status": "damaged_restoration",
+      "basis": "Bennett reports Was's *304+PA amount as 4, explicitly damaged and restored.",
+      "weight": "low_as_epigraphic_reading"
+    },
+    {
+      "source": "GORILA I",
+      "reading": null,
+      "status": "no_secure_numeral",
+      "basis": "Bennett reports GORILA's reading at the location as '58, ( ]', i.e. no secure 4 or 6. Current GORILA-derived/Younger transcription likewise leaves *304+PA without a numeral.",
+      "weight": "highest_published_critical_edition"
+    },
+    {
+      "source": "CTLA",
+      "reading": 6,
+      "status": "restoration_or_interpretive_reading",
+      "basis": "Bennett reports CTLA as '58, 6' and says conflicting restorations are not persuasive given the damaged appearance.",
+      "weight": "secondary"
+    },
+    {
+      "source": "Uchitel",
+      "reading": 4,
+      "status": "explicit_restoration",
+      "basis": "Uchitel prints *304+PA [4] in the HT100 comparison table.",
+      "weight": "secondary"
+    },
+    {
+      "source": "current lineara.xyz / Younger-derived transcription",
+      "reading": null,
+      "status": "omitted_unknown",
+      "basis": "Reading specification has VIR+KA 58, then *304+PA with no following numeral before TI+A 12.",
+      "weight": "modern_derivative_of_critical_editions"
+    },
+    {
+      "source": "current AIgent structured corpus (Linear A Explorer / GORILA source)",
+      "reading": null,
+      "status": "unknown_marker",
+      "basis": "HT100 is rendered 'VIR+KA 58 *304+PA \ud801\udf6b TI+A 12 ...', preserving an unknown/damaged item rather than 4 or 6.",
+      "weight": "modern_derivative"
+    }
+  ],
+  "adjudication": {
+    "secure_reading": null,
+    "four_secure": false,
+    "six_secure": false,
+    "status": "epigraphically_unresolved",
+    "preferred_transcription": "*304+PA [quantity damaged/unreadable]",
+    "reason": [
+      "The highest-authority critical edition does not securely read a numeral.",
+      "The 4 and 6 are competing restorations/readings in secondary traditions.",
+      "Modern GORILA-derived transcriptions preserve the gap/unknown rather than choose either value.",
+      "Arithmetic cannot be used to choose between 4 and 6 because each candidate was already attractive precisely because it creates a different exact KU-RO 97 relation; using the total to restore the damaged numeral would be circular for the KI polarity question."
+    ]
+  },
+  "polarity_result": {
+    "ki_polarity_from_ht100": "not_identifiable",
+    "negative_deficit_supported": false,
+    "positive_inclusion_supported": false,
+    "explanation": "Both opposite KI treatments produce exact KU-RO 97 under different unsupported numeral restorations."
+  },
+  "next_evidence_required": [
+    "Direct autopsy of HM 1306",
+    "New high-resolution raking-light / RTI / 3D surface imaging of the damaged *304+PA quantity area",
+    "An unpublished/archival photograph demonstrably preserving traces better than GORILA"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "R11-SARU-CATEGORY",
+    "status": "completed",
+    "result": "iterations/011/results/category_compatibility.json",
+    "finding": "Entity/account/designation constraint; grain-specific commodity eliminated.",
+    "limitations": "Person/place/institution and direction unresolved."
+  },
+  {
+    "id": "R11-HT117-HT87-STRUCTURE",
+    "status": "completed",
+    "result": "iterations/011/notes/HT117_HT87.md",
+    "finding": "Heading-vs-entry distinction strengthened.",
+    "limitations": "Heading semantics/action unresolved."
+  }
+]

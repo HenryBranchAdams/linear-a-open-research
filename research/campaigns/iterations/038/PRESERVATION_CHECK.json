@@ -1,0 +1,39 @@
+{
+  "checked_at_utc": "2026-10-21T17:20:58.578845+00:00",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+    "unicodedata": "15.0.0",
+    "dependencies": "Python standard library only"
+  },
+  "checks": {
+    "raw_snapshot_hash_matches": true,
+    "raw_row_equals_snapshot_and_overlay": true,
+    "overlay_matches_reviewed_hash": true,
+    "inherited_claim_prefix_unchanged": true,
+    "inherited_experiment_prefix_unchanged": true,
+    "inherited_source_prefix_unchanged": true,
+    "expected_counts": true,
+    "semantic_fields_null": true,
+    "claim_ids_unique": true,
+    "experiment_ids_unique": true,
+    "source_ids_unique": true,
+    "historical_baseline_files_byte_identical": true,
+    "research_protocol_byte_identical": true,
+    "reviewed_synthesis_documents_unchanged": true,
+    "new_claim_source_dependencies_exist": true
+  },
+  "actual_counts": {
+    "claims": 82,
+    "experiments": 30,
+    "sources": 100,
+    "raw_index_records": 1721
+  },
+  "snapshot_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "reviewed_synthesis_hashes": {
+    "REPORT.md": "e90277dd34173755b640ec9969b288e7dd13b00da2c0e23eff87a606c29ac796",
+    "analysis/RIVAL_COMPARISON.md": "4878d3e58175dbf6c60b81493d467aaa4c20cf9750f60b7f91606878cbfdba5c",
+    "REVIEW_ADJUDICATION.md": "35e77fa973a50194e9cfc623646631b524bbc95e12a5006a6002b84aff83ac5a"
+  },
+  "scope": "Integrity/representation only; no semantic or linguistic hypothesis validated."
+}

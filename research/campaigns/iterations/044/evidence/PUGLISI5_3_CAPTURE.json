@@ -1,0 +1,89 @@
+{
+  "id": "LREC-S05-CAPTURE",
+  "source_id": "LREC-S05",
+  "title": "Puglisi2011 catalogue5.3 and context5: source-field capture",
+  "citation": "Dario Puglisi, La fornace da vasaio TM IB di Haghia Triada. Le ceramiche e il sistema di produzione, distribuzione e consumo, Creta Antica12(2011)",
+  "source_url": "https://www.academia.edu/504733/La_fornace_da_vasaio_TM_IB_di_Haghia_Triada_Le_ceramiche_e_il_sistema_di_produzione_distribuzione_e_consumo",
+  "retrieval": "Search-service indexed full author article HTML/OCR; not the presently downloaded landing-page HTML",
+  "web_refs": [
+    "turn175view1",
+    "turn186view5",
+    "turn199view3"
+  ],
+  "exact_read_locators": [
+    {
+      "printed_page": 213,
+      "web_ref": "turn199view3",
+      "web_lines": "118–122",
+      "content": "General overfired/waster criteria; exact catalogue5.3 assigned to tripod cooking-pot category"
+    },
+    {
+      "printed_page": 215,
+      "web_ref": "turn199view3",
+      "web_lines": "136",
+      "content": "Figure8 caption; subtype c is exact comparator"
+    },
+    {
+      "printed_page": 253,
+      "web_ref": "turn199view3",
+      "web_lines": "423–424",
+      "content": "Context5 described as firing-chamber area; box c.29a around first pillar, c.30c first east channel cleaning"
+    },
+    {
+      "printed_page": 255,
+      "web_ref": "turn186view5",
+      "web_lines": "425–427",
+      "content": "Catalogue5.3/c.29a1 complete entry"
+    },
+    {
+      "printed_page": 256,
+      "web_ref": "turn186view5",
+      "web_lines": "433",
+      "content": "Figure34 caption lists5.3 among contexts4–6 ceramics"
+    }
+  ],
+  "catalogue_identity": {
+    "catalogue": "5.3",
+    "excavation_box_item": "c.29a1",
+    "context": "5",
+    "author_classification": "tripod cooking-pot waster"
+  },
+  "source_fields": {
+    "preservation": "Wall fragment with half of one handle",
+    "dimensions_cm": {
+      "preserved_height": 6.7,
+      "width": 11.8,
+      "preserved_maximum_diameter_approx": 25,
+      "wall_thickness_range": [
+        0.8,
+        0.9
+      ]
+    },
+    "fabric": "Cooking fabric, completely blackened, inclusions predominantly medium size",
+    "handle": "Horizontal cord handle",
+    "body": "Cylindrical",
+    "legs": "No preserved legs specified in catalogue",
+    "reading_relation": "No writing or text identified on this sherd in the entry"
+  },
+  "short_verbatim_excerpts": [
+    "Frammento di parete con metà dell’ansa.",
+    "Ansa a cordone orizzontale. Corpo cilindrico."
+  ],
+  "exact_join": {
+    "catalogue_to_item": "5.3 explicitly parenthesized(c.29a1) in printed255 entry",
+    "item_to_context": "5.3 occurs within context5 catalogue; c.29a is expressly firing-chamber area source",
+    "context_nature": "Area attribution reported secure; not a surviving complete kiln load",
+    "no_silent_equivalence": [
+      "Do not merge5.3/c.29a1 with10.5/Belfiore43",
+      "Do not combine c.29a and c.30c into one specimen",
+      "Do not infer complete leg/profile reconstruction from fragmentary catalogue"
+    ]
+  },
+  "production_basis": "Puglisi's reported physical examination and classification among overfired wasters. General criteria on213 include heat-altered porous/swollen fabric, dark/greenish colour, sharp fractures and distortion; the entry is not a new autopsy by this investigator.",
+  "uninspected": [
+    "Original catalogue255 page pixels",
+    "Fig8c p215 pixels",
+    "Fig34 p256 pixels"
+  ],
+  "limitation": "An independent ceramic production comparator exists at type/category level. Its missing legs and different preserved body/handle features do not supply an exact A410 counterexample."
+}

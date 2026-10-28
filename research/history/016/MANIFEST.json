@@ -1,0 +1,75 @@
+{
+  "iteration": 16,
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 634,
+      "sha256": "92a9c559739c960099e7ea3b35c68ac860e3a865690a1d15273c6f98ea50f9fb"
+    },
+    {
+      "path": "context/CHANGELOG.md",
+      "bytes": 638,
+      "sha256": "c84c773bd58a0ec92b635929a14ddaf78b5f90bbcff43ef236ba032a565592e9"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 1181,
+      "sha256": "2c2d3b0aa798c75222c9f9b4fb2059c450d8e021acfd57469f145b736d26bc54"
+    },
+    {
+      "path": "iterations/016/REPORT.md",
+      "bytes": 5847,
+      "sha256": "8f0e6d68be240e1d7708942e9b0e298b3b501e4785f63877aac2106eb09f7720"
+    },
+    {
+      "path": "iterations/016/code/verify.py",
+      "bytes": 2256,
+      "sha256": "2c5dd926ed7c2d662faf3f08bb1b72bde0bb030272ab4e60a5c40de921d3f00e"
+    },
+    {
+      "path": "iterations/016/data/evidence.json",
+      "bytes": 5274,
+      "sha256": "f14fc336d4a03dc487faea71e9c617fda0336041f62e741c47803257a8f9c796"
+    },
+    {
+      "path": "iterations/016/notes/ADVERSARIAL_REVIEW.md",
+      "bytes": 1460,
+      "sha256": "7e52c8604a3c6f7180b5f2f4dd2ac4e141050e94f1ec4696b942ca6bc060fc3d"
+    },
+    {
+      "path": "iterations/016/notes/HT118_PERSON_DEFICIT.md",
+      "bytes": 873,
+      "sha256": "76c063a14dde0590941c8ac966a85f1ce447ef0f3ec988205a69138a954733db"
+    },
+    {
+      "path": "iterations/016/notes/HT34_SCRIBAL_CORRECTION.md",
+      "bytes": 902,
+      "sha256": "e6c833af2efc35867e05c7c16f1773cbd8e638a5c84f107deb8dd7da3c74cd58"
+    },
+    {
+      "path": "iterations/016/results/verification.json",
+      "bytes": 701,
+      "sha256": "fb324f7cb7dcd2fa5cfdc82128a3f08d0edb44cd26f76b7ae3a1edca0b1e134a"
+    },
+    {
+      "path": "iterations/016/results/verification.txt",
+      "bytes": 748,
+      "sha256": "846dfcf2cc3398b9785e2568a7ec75ad980afd041fc13ab8a270146efd26ba60"
+    },
+    {
+      "path": "registry/claims_delta_016.json",
+      "bytes": 2232,
+      "sha256": "042786ec70d32ac95992101c67a1dbe587612e3cbc07fed0eeeca43b86f2523c"
+    },
+    {
+      "path": "registry/experiments_016.json",
+      "bytes": 715,
+      "sha256": "9a9860b0a44cdfd07d7e0dad17d5c9abd475b6f05ec33077365b293635b4a4a0"
+    },
+    {
+      "path": "registry/sources_016.json",
+      "bytes": 2382,
+      "sha256": "8d30cb3c8586c9f16b43f4f3153ec9bbfba6243e06233695149a989bc1d2f3c3"
+    }
+  ]
+}

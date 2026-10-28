@@ -1,0 +1,37 @@
+[
+  {
+    "id": "LA-041-001",
+    "iteration": 41,
+    "updated_date": "2026-10-23",
+    "claim": "The original2019 Akrotiri catalogue securely maps1121 to9384 and1122 to9730, refines source-specific rim measurements and qualifies mark/use history. The inspected sample concordance does not furnish a direct exact-target analytical join; the pair still does not provide a crossed independent manufacture/content comparison.",
+    "disposition": "catalogue_source_qualification_retained_exact_analytical_binding_unrecovered",
+    "evidence_kind": "original_catalogue_entries_actual_plates_and_bounded_sample_concordance_check",
+    "witnesses": [
+      "Akrotiri9384/catalogue1121",
+      "Akrotiri9730/catalogue1122"
+    ],
+    "evidence_path": "iterations/041/evidence/CATALOGUE_OVERLAY.json",
+    "additional_evidence_paths": [
+      "iterations/041/agents/SOURCE_ROUTE.md",
+      "iterations/041/agents/challenger/REVIEW.md",
+      "iterations/041/analysis/JOIN_DECISION.md"
+    ],
+    "dependencies": [
+      "C041-S01",
+      "C041-S02",
+      "C041-S03",
+      "LA-040-001"
+    ],
+    "basis_and_limits": "2019 outer/inner rim values and later approximate rim accounts remain separate; older tentativeAB9/27 comparison does not refute laterAB81 attribution. No target use diagnosis from fabric label or neighboring soot. No exact join in inspected Table3.23; blank cells, numbering gaps and separate sample namespaces prohibit a never-sampled inference.",
+    "strongest_rival": "Contents/use and production-related marking remain unresolved; technical contrast grounds production rival but identifies no workshop. Recipient remains timing-compatible without independent order evidence.",
+    "evidence_needed_to_reopen_or_advance": "Exact inventory/catalogue-to-specimen register or documented refit/photo join, diagnostic use data at the relevant temporal/resolution scope, and comparison separating manufacture from content/use; consequential surface evidence can separately refine reading.",
+    "evidence_access_level": "Official full2019 PDFs acquired, selected target/plate/concordance actual pixels inspected independently;2013 author-hosted table transcription, no table pixels;2021 residue article zero pages.",
+    "action_meaning": null,
+    "participant_role": null,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "new_to_scholarship": false,
+    "novelty": "New project source access and controlled catalogue/sample-link evaluation; no new ancient carrier or semantic identification.",
+    "campaign_archive": "iterations/041/Linear_A_Campaign_041.zip"
+  }
+]

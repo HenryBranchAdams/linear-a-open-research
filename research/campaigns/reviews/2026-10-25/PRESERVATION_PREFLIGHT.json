@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "mode": "preflight_without_manifest",
+  "checks": {
+    "expectations_sha256": "27b21c423720120087e227f8bfa0a2e6961a74bee5fb5d2c61ae272652543c85",
+    "pinned_through041_archive": {
+      "path": "archive/D2026-10-23/Linear_A_Research_Current_through_041.zip",
+      "sha256": "5d6429073a4735f99710ce73dbdec0487f798a681c1d6d0fc9c617d05fea7fcf",
+      "old_verifier_sha256": "bb966b7ccf950e807a5a56e28019f1287cf7f001f4460e4a9127d3e1312ce0ea"
+    },
+    "scientific_prefix_counts_unchanged": {
+      "claims": 85,
+      "experiments": 36,
+      "sources": 113
+    },
+    "appended_record_ids": {
+      "claims": [
+        "LA-042-001",
+        "LA-042-002"
+      ],
+      "experiments": [
+        "C042-CAPACITY-SCOPE"
+      ],
+      "sources": [
+        "C042-S01",
+        "C042-S02",
+        "C042-S03",
+        "C042-S04",
+        "C042-S05",
+        "C042-S06",
+        "C042-S07",
+        "C042-S08"
+      ]
+    },
+    "immutable_inherited_files_checked": 143,
+    "queue_and_status": {
+      "research_through": 42,
+      "documentation_revision": "D2026-10-25",
+      "queue_records": 22,
+      "active_candidates": 0,
+      "active_semantic_experiments": 0,
+      "evidence_paths": 48,
+      "related_ids": 39,
+      "registry_counts": {
+        "claims": 87,
+        "experiments_and_access_feasibility_records": 37,
+        "source_access_records": 121,
+        "raw_discovery_records": 1721
+      }
+    },
+    "scientific_evidence_navigation": {
+      "files_checked": 68,
+      "dependency_entries_reviewed": 50,
+      "historical_scope": "Older free-form experiment inputs and original archive paths are preserved in their source snapshot. Their archives remain nested inside pinned C041; new C042 input IDs and archive paths are checked in this root."
+    },
+    "analysis_artifact_chains": 1,
+    "analysis_validation_scope": "input/rule hash joins and declared scenario coverage; equations not rerun here",
+    "current_navigation": {
+      "documents": 39,
+      "relative_links": 199,
+      "anchors": "not checked"
+    },
+    "manifest": "skipped_for_preflight_only"
+  },
+  "errors": [],
+  "scope": "Preservation, metadata consistency, current evidence-file joins and navigation only; not source authenticity adjudication, epigraphic reading, autopsy, physical measurement, assay replication, unused-witness validation, or validation of ancient meaning.",
+  "completed_on_UTC": "2026-10-25",
+  "arithmetic_reproduction": {
+    "main_json_identical": true,
+    "independent_review_json_identical": true
+  },
+  "final_package_verification": "Performed separately after manifest and ZIP creation; see external final packaging receipt."
+}

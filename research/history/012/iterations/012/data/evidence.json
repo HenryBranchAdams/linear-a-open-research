@@ -1,0 +1,164 @@
+{
+  "iteration": 12,
+  "mission": "Establish one Linear A construction whose relation/action and participant roles are independently supported and discriminate rivals.",
+  "primary_expression": "*21F-TU-NE / conventionally QI-TU-NE",
+  "reading_note": "Sound-values are conventional Linear-B-derived labels. The critical structural result does not depend on the restored HT94b final NE.",
+  "occurrences": [
+    {
+      "id": "O12-01",
+      "document": "HT 7b",
+      "form": "*21F-TU-NE",
+      "normalized": "QI-TU-NE",
+      "reading_status": "secure_for_structural_test",
+      "position": "counted_entry",
+      "quantity": 1,
+      "local_following": "DA-RU-*329 2",
+      "personnel_context": "strong",
+      "personnel_basis": [
+        "HT7 is classified in Palmer's personnel-only group because AB100/VIR occurs on the same tablet.",
+        "HT7a begins with QE-TI and the human ideogram AB100/VIR, followed by numbered entries."
+      ],
+      "source_ids": [
+        "R12-S03",
+        "R12-S05"
+      ],
+      "used_for_secure_cross_position": true
+    },
+    {
+      "id": "O12-02",
+      "document": "HT 87",
+      "form": "*21F-TU-NE",
+      "normalized": "QI-TU-NE",
+      "reading_status": "secure_for_structural_test",
+      "position": "heading_component",
+      "quantity": null,
+      "heading_with": "MA-KA-RI-TE",
+      "entries_include": [
+        "PI-TA-KE-SI 1",
+        "JA-RE-MI 1",
+        "DI-KI-SE 1",
+        "QE-SU-PU 1",
+        "KU-RU-KU 1",
+        "A-RA-*65-A-TU 1"
+      ],
+      "personnel_context": "moderate_to_strong",
+      "personnel_basis": [
+        "Palmer groups HT87 among W+N tablets best paralleled by Linear B personnel lists.",
+        "Davis & Val\u00e9rio note KU-RU-KU has a possible Linear B male-name parallel ku-ru-ka."
+      ],
+      "source_ids": [
+        "R12-S03",
+        "R12-S04",
+        "R12-S05"
+      ],
+      "used_for_secure_cross_position": true
+    },
+    {
+      "id": "O12-03",
+      "document": "HT 117b",
+      "form": "*21F-TU-NE",
+      "normalized": "QI-TU-NE",
+      "reading_status": "secure_for_structural_test",
+      "position": "subheading",
+      "quantity": null,
+      "entries_include": [
+        "KU-RE-JU 1",
+        "DI-KI-SE 1"
+      ],
+      "personnel_context": "strong",
+      "personnel_basis": [
+        "HT117 consists of 1-lists; Davis & Val\u00e9rio identify multiple entries elsewhere on the tablet with possible Linear B male anthroponym parallels.",
+        "DI-KI-SE recurs beneath QI-TU-NE on both HT87 and HT117."
+      ],
+      "source_ids": [
+        "R12-S04",
+        "R12-S05"
+      ],
+      "used_for_secure_cross_position": true
+    },
+    {
+      "id": "O12-04",
+      "document": "HT 94b",
+      "form": "*21F-TU-[NE]",
+      "normalized": "QI-TU-[NE]",
+      "reading_status": "conditional_restoration",
+      "position": "counted_entry",
+      "quantity": 1,
+      "local_heading": "*86",
+      "restored_elements": [
+        "NE"
+      ],
+      "personnel_context": "published_interpretation_not_independent",
+      "source_ids": [
+        "R12-S01",
+        "R12-S02"
+      ],
+      "used_for_secure_cross_position": false
+    }
+  ],
+  "repeated_relation": {
+    "governor_or_classifier": "QI-TU-NE",
+    "entry": "DI-KI-SE 1",
+    "documents": [
+      "HT 87",
+      "HT 117b"
+    ],
+    "replication_count": 2,
+    "same_scribe": "HT Scribe 9 according to Davis & Val\u00e9rio / inherited corpus",
+    "interpretation": "A stable structural classification/affiliation relation is supported; its lexical semantics are not."
+  },
+  "models": {
+    "pure_action_or_predicate": {
+      "status": "weakened",
+      "reason": "The same secure expression is directly quantified as 1 on HT7b, which is awkward for a purely verbal/predicate-only account. Nominalized event readings remain logically possible."
+    },
+    "commodity_label": {
+      "status": "strongly_weakened",
+      "reason": "HT7 is independently anchored as a personnel tablet; HT87/117 are personnel-like 1-lists. A commodity-only meaning does not naturally fit all secure contexts."
+    },
+    "personnel_category_or_status": {
+      "status": "fits",
+      "reason": "Can head lists of personnel-like entries and can itself be counted as one personnel-designation item."
+    },
+    "person_or_account_designation": {
+      "status": "fits",
+      "reason": "A person, office, account holder, or institutional designation can head an account/list and appear as a counted entity elsewhere."
+    },
+    "place_or_institution": {
+      "status": "fits",
+      "reason": "A place/institution can classify personnel and be independently counted or recorded."
+    },
+    "homography_or_distinct_lexemes": {
+      "status": "survives",
+      "reason": "Repeated spelling does not by itself prove one lexeme; however identical secure spelling at one site and repeated structural associations make total nonidentity less economical, not impossible."
+    }
+  },
+  "role_symmetry": {
+    "tested_roles": [
+      "supplier",
+      "recipient",
+      "responsible_account",
+      "membership_or_classification",
+      "omitted_predicate"
+    ],
+    "result": "supplier_recipient_responsibility_remain_unidentified",
+    "reason": "No independently calibrated counterparty, expected/recorded pair, or overt operation distinguishes those directions.",
+    "positive_relation": "membership/classification is the only relation directly supported by repeated heading-entry structure."
+  },
+  "validation": {
+    "genuinely_unseen_witness_available": false,
+    "reason": "HT7, HT87, HT94 and HT117 are already exposed within the project/literature. No random split is treated as independent validation.",
+    "retrospective_sensitivity": [
+      "Remove HT94 entirely: secure heading/count contrast still holds via HT7 + HT87/117.",
+      "Treat HT94 final NE as unresolved: secure result unchanged.",
+      "Remove HT7 or downgrade its QI-TU-NE reading: secure cross-position result no longer follows.",
+      "Remove one DI-KI-SE occurrence: replicated classification relation drops from two witnesses to one."
+    ]
+  },
+  "mission_result": {
+    "full_action_and_roles": false,
+    "classification": "substantive_intermediate_result",
+    "advance": "QI-TU-NE is now securely shown to have cross-position behavior in personnel-related administration and to classify DI-KI-SE in two records.",
+    "remaining_barrier": "No independent evidence identifies the administrative direction or an overt action/predicate."
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "source_families": [
+    {
+      "id": "CS-M2017",
+      "title": "Barbara Montecchi, Classification, Use, and Function of Hanging Nodules in the Neopalatial Administrative Practices (Minoan Crete), AA 2017/1, 1–18",
+      "url": "https://d-nb.info/1256091359/34",
+      "filename": "Montecchi2017_DNB.pdf",
+      "sha256": "c7bb0824b8402ebe74729cf9569a1e3022c8c7a18b1b24a7ca2a92f56744f536",
+      "prior_exposure": "RA34-S01: complete PDF; pp.5,9,11 pixels inspected. Current reacquisition is maintenance.",
+      "current_inspection": "Text pp.3–7 and13; actual page pixels pp.3,5,6,13, Figure3, Figures4–11, and table.",
+      "scope": "Physical selection and reported mechanisms. No original seal or cast autopsy.",
+      "routes": [
+        {
+          "url": "https://publications.dainst.org/journals/aa/article/download/2025/6624",
+          "result": "webtimeout/direct503"
+        },
+        {
+          "url": "https://d-nb.info/1256091359/34",
+          "result": "completePDF578196B"
+        }
+      ]
+    },
+    {
+      "id": "CS-ARACHNE",
+      "title": "DAI Arachne exact selected carrier records",
+      "source_relation": "Institutional catalogue derived from CMS; original CMS entries not inspected.",
+      "selection": "Inventory-only public search; exact slash suffixes retained.",
+      "entries": [
+        {
+          "inventory": "HMs451/5",
+          "site": "HT",
+          "url": "https://arachne.dainst.org/data/entity/1162956",
+          "file": "arachne_1162956_entity.json",
+          "sha256": "2f443305369feaa5ad0715a1afe1f1fd350dbff1772c982cbeebededf8d329dd",
+          "inspection": "Complete JSON carrier fields read."
+        },
+        {
+          "inventory": "HMs546/1",
+          "site": "HT",
+          "url": "https://arachne.dainst.org/data/entity/1163440",
+          "file": "arachne_1163440_entity.json",
+          "sha256": "a6c9554978000e01925992a49c26ccb14a317f62f7e6d63177c329a671569f79",
+          "inspection": "Complete JSON carrier fields read."
+        },
+        {
+          "inventory": "HMs557",
+          "site": "HT",
+          "url": "https://arachne.dainst.org/data/entity/1163474",
+          "file": "arachne_1163474_entity.json",
+          "sha256": "3c314f5b5b7dcf170fe196e785bb1b659ee3db526445701ddc84f16714e32a79",
+          "inspection": "Complete JSON carrier fields read."
+        },
+        {
+          "inventory": "HMs1657",
+          "site": "HT",
+          "url": "https://arachne.dainst.org/data/entity/1163627",
+          "file": "arachne_1163627_entity.json",
+          "sha256": "7f2ba71f90dbbd1859254a5fb0679f8d613e648bc76f39ade8cca50f0e6f2e31",
+          "inspection": "Complete JSON carrier fields read."
+        },
+        {
+          "inventory": "HMs1143",
+          "site": "ZA",
+          "url": "https://arachne.dainst.org/data/entity/1164664",
+          "file": "arachne_1164664_entity.json",
+          "sha256": "58ce50f39f785afaa2dacbe166f9bcbab67ef367a30907954a3e9b4cdc0745ff",
+          "inspection": "Complete JSON carrier fields read."
+        }
+      ],
+      "supports": "Exact inventory, preservation and inscription fields, including one corpus join. No absent field recast as a negative."
+    },
+    {
+      "id": "CS-SIGLA1018",
+      "title": "SigLA HT Wa1018",
+      "url": "https://sigla.phis.me/document/HT%20Wa%201018/",
+      "components": [
+        "Main HTML sure-reading markup for AB41 andAB77",
+        "Word view gives SI-KA",
+        "Actual scholarly drawing pixels inspected"
+      ],
+      "original_corpus_route": "GORILA II selector68 direct link returned503; direct image request also503.",
+      "independence": "SigLA and frozen corpus follow the edited text tradition; not additional ancient witnesses."
+    },
+    {
+      "id": "CS-CMSII6",
+      "title": "CMS II.6, Die Siegelabdrücke von Aj. Triada und anderen zentral- und ostkretischen Fundorten (1999)",
+      "url": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/156",
+      "access": "Original digitization identified through official CMS Heidelberg profile, DOI10.11588/propylaeum.156.196. Anubis Access Denied; no bypass. Bounded search-index queries did not recover target original entries.",
+      "target_scope": [
+        "HMs451/5",
+        "546/1",
+        "557",
+        "1657"
+      ],
+      "pages_inspected": []
+    },
+    {
+      "id": "CS-MUSINT",
+      "title": "MUSINT II, DBAS-HTC catalogue",
+      "url": "https://www.aegean-museum.it/musint2/en/crete/database.inc.php",
+      "components_read": [
+        "Database explanation",
+        "Catalogue B method",
+        "Query landing page",
+        "Selected bibliography",
+        "Rome and Florence documents pages"
+      ],
+      "limitation": "No target carrier entry extracted. Direct query page fetch returned503; web route timed out. Does not corroborate exact negatives."
+    },
+    {
+      "id": "CS-W1987",
+      "title": "Judith Weingarten, Seal-use at LM IB Ayia Triada: A Minoan Elite in Action, Part I (1987)",
+      "url": "https://www.academia.edu/28061569/SEAL_USE_AT_LM_IB_AYIA_TRIADA_A_MINOAN_ELITE_IN_ACTION_Part_I_ADMINISTRATIVE_CONSIDERATIONS",
+      "access": "Author-posted full text and tables read as indexed text; no figure pixels.",
+      "scope": "Reconnaissance of sign/device alternatives. Already broadly exposed in LA-010-007; not decisive for C043."
+    },
+    {
+      "id": "CS-H1995",
+      "title": "Erik Hallager, Four inscribed hanging nodules in the Heraklion Museum (1995)",
+      "url": "https://tidsskrift.dk/pdia/article/download/15453/14975/39233",
+      "file": "Hallager1995_four_nodules_actual.pdf",
+      "sha256": "dcd2a3b9d63a8b72b72ea3d19a3a0c8b9ff98f8d2938b04f0d4a4ea74e75d46b",
+      "access": "Actual PDF acquired, 2440992 bytes. No new target page inspection this phase.",
+      "scope": "PH Wa52 was inspected in34; current recovery is access maintenance.",
+      "failed_or_misleading_route": "article/view/15453/14975 returned a6361-byte viewer HTML file despite a PDF-like local filename; it was not a full PDF."
+    },
+    {
+      "id": "CS-M2019",
+      "title": "Barbara Montecchi, Contare a Haghia Triada (2019)",
+      "url": "https://eprints.bice.rm.cnr.it/23866/1/IG107_9788880803492_testo.pdf",
+      "access": "503; no additional pages inspected. Earlier complete publication was exposed in34/35.",
+      "scope": "One bounded attempt to obtain additional exact inventory corroboration."
+    }
+  ],
+  "capture_manifests": [
+    "access_initial.json",
+    "access_second.json",
+    "access_join_initial.json",
+    "access_join_searches.json",
+    "access_join_entities.json",
+    "access_reading.json"
+  ],
+  "retention_note": "Keep factual raw catalogue JSON and analysis. Full third-party PDFs and image bytes are inspection working files; follow project policy for portable-package inclusion. Source URLs and hashes preserve acquisition identity."
+}

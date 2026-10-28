@@ -1,0 +1,9 @@
+{
+  "KIRO_reconciliation_operator": 3,
+  "KIRO_fixed_polarity": 2,
+  "KIRO_personnel_absence": 1,
+  "KU56NU_person_identity": 1,
+  "PATANE_cross_media_admin_entity": 3,
+  "full_action_role_construction": 2,
+  "scale": "0 spelling; 1 shared context; 2 independent domain; 3 independent relation; 4 polarity/action; 5 held-out prediction"
+}

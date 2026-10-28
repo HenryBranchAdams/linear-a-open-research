@@ -1,0 +1,5 @@
+form,display,priority_score,leverage,kiro_witnesses,non_kiro_witnesses,result
+KU-*56-NU,KU-PA3-NU,7,very_high,HT 1; HT 88; HT 117a,HT 3; HT 49a; HT 122a; PH 31a,falsifies automatic equation KIRO one-count entry = personal name; designation recurs across list regimes
+PA-JA-RE,PA-JA-RE,7,high,HT 88,HT 29; HT 8b; ZA 10b,same form is not tied to one-count/personnel syntax
+SA-RU,SA-RU,7,high,HT 94b,HT 86a; HT 86b; HT 95a; HT 95b; HT 123a,"supports administrative/referential flexibility, not a fixed personal-name status"
+PA-TA-NE,PA-TA-NE,5,very_high_physical_link,HT 94b,HT Wa 1019; HT 122a (modern reading; frozen SigLA differs),"best tablet-to-nodule bridge; establishes administrative recurrence across media, but not transaction direction"

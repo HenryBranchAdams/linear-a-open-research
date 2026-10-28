@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "mode": "full",
+  "checks": {
+    "manifest_files": 164,
+    "manifest_coverage_exclusion": "MANIFEST.json itself; runtime Python bytecode",
+    "current_status": {
+      "research_through": 41,
+      "mission_achieved": false,
+      "active_semantic_experiments": 0
+    },
+    "queue_status_consistency": {
+      "documentation_revision": "D2026-10-23",
+      "records": 18,
+      "active_candidates": 0,
+      "admitted_semantic_tests": 0,
+      "evidence_paths_checked": 40,
+      "related_and_prior_ids_checked": 41,
+      "actual_registry_counts": {
+        "claims": 85,
+        "experiments_and_access_feasibility_records": 36,
+        "source_access_records": 113,
+        "raw_discovery_records": 1721
+      }
+    },
+    "exact_C041_archive_sha256": "b8e03e1d5476f1702e060aca8be20b995afd5923851649dae92738744d53598e",
+    "registry_totals": {
+      "claims": 85,
+      "experiments": 36,
+      "sources": 113
+    },
+    "registry_record_arrays_unchanged": true,
+    "immutable_baseline_and_recent_iteration_files": 130,
+    "recent_claims_checked": 5,
+    "recent_claim_evidence_paths_checked": 19,
+    "recent_experiment_output_paths_checked": 24,
+    "historical_local_references": "retained in historical scope; not treated as current-root paths",
+    "frozen_corpus_records": 1721,
+    "frozen_corpus_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+    "current_control_documents": 8,
+    "relative_markdown_links_checked": 131,
+    "anchor_validation": "not performed"
+  },
+  "errors": [],
+  "scope": "Preservation, metadata consistency and current-document navigation only; not epigraphic adjudication, autopsy, assay, measurement replication, independent validation of source transcriptions or ancient meaning."
+}

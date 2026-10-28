@@ -1,0 +1,37 @@
+[
+  {
+    "id": "L1",
+    "topic": "Berg2025 radiography",
+    "source": "https://www.exarc.net/issue-2025-1/rev/shaping-minoan-clay-tablets",
+    "access": "complete primary article text; no figures inspected",
+    "finding": "Reported experiments use modern replicas. Not newly imaged ancient inscriptions or a new ancient physical sample. Caloi/Bernardini2024 is pottery forming methodology, not a target Linear A study.",
+    "status": "methods_only_no_candidate"
+  },
+  {
+    "id": "L2",
+    "topic": "Berg/Domoney2025 Chania presentation",
+    "source": "https://flashnews.gr/wp-content/uploads/2025/11/%CE%A0%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-%CF%83%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%AF%CE%BF%CF%85.pdf",
+    "locator": "printed15 / PDF15",
+    "access": "conference abstract text",
+    "finding": "Announces pXRF and radiography of original tablets/sealings in Ashmolean/British Museum, planned April onward; no specimen IDs or outcomes in abstract. May justify finite recording search, not treat as measurement.",
+    "status": "closed_finite_route_no_target_data",
+    "route_outcome": "Exact title/author and recording checks recovered the same conference program/abstract; no target specimen IDs or results. No measurement record inspected."
+  },
+  {
+    "id": "L3",
+    "topic": "Textiles and Seals database",
+    "source": "https://textileseals.uw.edu.pl/database-description/",
+    "access": "complete methods page text",
+    "finding": "Detailed cast/material and textile-tool namespace rules; modern cast not ancient object; iconographic hypotheses qualified; no new target sign/use join at this stage.",
+    "status": "navigation_only"
+  },
+  {
+    "id": "L4",
+    "topic": "Giorgi/Lopez2026 RTI methods",
+    "source": "https://www.academia.edu/168593484/Aegean_Bronze_Age_writing_systems_through_RTI_New_potential_and_perspectives",
+    "doi": "10.1016/j.daach.2026.e00508",
+    "access": "first-page abstract/introduction only",
+    "finding": "Actual cited case studies are Linear B from Knossos/Mycenae; no new target PHWa32, L46 or Linear A relation.",
+    "status": "methods_only_no_deep_candidate"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "campaign": "LA-C040-2026-10-23",
+  "capture_date": "2026-10-23",
+  "complete_external_publications_in_deliverable": false,
+  "captures": [
+    {
+      "source_id": "C040-S01",
+      "acquisition_path": "raw/Michailidou2021.pdf",
+      "url": "https://helios.eie.gr/helios/bitstream/10442/17712/1/Michailidou%2040%20years%202021.pdf",
+      "sha256": "2d53ea6a7aa0c65d46661763d04539f6ef29a8eeefbfd50d0593f6e5e7c356ca",
+      "access": "ordinary public endpoint, complete PDF acquired locally",
+      "inspection": "target284–286 text/actual figures; not full-volume audit",
+      "packaged": false
+    },
+    {
+      "source_id": "C040-S02",
+      "acquisition_path": "raw/Michailidou2025.pdf",
+      "url": "https://edabyt.gr/wp-content/uploads/2025/02/%CE%9C%CE%B9%CF%87%CE%B1%CE%B7%CE%BB%CE%AF%CE%B4%CE%BF%CF%85-%CE%94%CE%B7%CE%BC%CE%BF%CF%83%CE%B9%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF.pdf",
+      "sha256": "684f69b38bc5427bfd421a77abe716d91bc351acf3288c96565f447df4f7004e",
+      "access": "ordinary public conference endpoint, complete20page PDF acquired locally",
+      "inspection": "title/posting/context/decisiveGreekpassages and actual photos/number labels; details in source/review dossiers",
+      "packaged": false
+    },
+    {
+      "source_id": "C040-S03",
+      "acquisition_path": "agents/discovery_b/Mochlos1990_1991.pdf",
+      "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/148208.pdf",
+      "sha256": "977d592747f31299c462ddd6124add82ffae84757575f15d57cf347d67289186",
+      "access": "ordinary public endpoint, complete65pagePDF acquired by object investigator",
+      "inspection": "416–419target,fig14/plate101 pixels for screening only",
+      "packaged": false
+    }
+  ],
+  "unacquired_dependencies": [
+    "Exact9384/9730analyticalsampleorresiduejoin",
+    "OriginalPerna2003/Pelon1995Maliaplates",
+    "Complete2019UvAfabricchapterthroughcheckedroute"
+  ],
+  "note": "Acquisition paths refer to the working session. Reacquire by canonical URL and verify hash; they are not promised archive members. Actual rendered pixels were inspected, unlike prior039placeholder returns."
+}

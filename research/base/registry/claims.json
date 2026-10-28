@@ -1,0 +1,849 @@
+{
+  "schema_version": "1.0",
+  "updated_date": "2026-09-09",
+  "authority": "Current cumulative project register. Historical records retain their original evidence/access qualifiers; consult CURRENT_STATE for latest scope.",
+  "claims": [
+    {
+      "id": "LA-H001",
+      "claim": "A-DU = SA-RA2 + KI-RO, interpreted as assessed = fulfilled + outstanding.",
+      "disposition": "withdrawn_as_established_equation",
+      "evidence_kind": "historical_hypothesis_and_counterevidence",
+      "original_claim_ids": [],
+      "rounds": [
+        "recheck"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "basis_and_limits": "Recheck withdrew the earlier conversation equation. SA-RA2 recurs on both HT 28 faces. Completed/future interpretation of those faces is itself not independently established.",
+      "evidence_needed_to_reopen_or_advance": "An independently identified account relationship, matched commodity/unit/scope, and role-sensitive repetitions; arithmetic resemblance alone is insufficient.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H002",
+      "claim": "KU-RO functions as an accounting total; selected checks are compatible but some totals do not reconcile literally.",
+      "disposition": "retain_published_function_with_local_exceptions",
+      "evidence_kind": "source_claim_plus_historical_computation",
+      "original_claim_ids": [],
+      "rounds": [
+        "recheck"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "basis_and_limits": "Archived matches: HT 85a: 66, HT 88 KI-RO section: 6, HT 94b: 5? and HT 117a: 10. HT 94a: 111 vs 110 and damaged HT 13 131 vs 130.5 remain mismatches. KU-RO total is earlier scholarship.",
+      "evidence_needed_to_reopen_or_advance": "Fresh critical readings and accounting scope can update individual residuals; do not correct a number to force agreement then count agreement as confirmation.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H003",
+      "claim": "HT 122 higher total requires the KU-DA 1 entry after a subtotal.",
+      "disposition": "retain_conditional_scope_check",
+      "evidence_kind": "historical_computation",
+      "original_claim_ids": [],
+      "rounds": [
+        "recheck"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "basis_and_limits": "31+1+65=97, while 31+65=96. Final 7 doubtful and reverse itemization incomplete. This is a known project scope correction, not new in iteration 10.",
+      "evidence_needed_to_reopen_or_advance": "A newly verified reading or scope division differing from the archived transcription.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H004",
+      "claim": "HT 95 faces form a simple paid/owed comparison.",
+      "disposition": "not_established",
+      "evidence_kind": "source_claim_plus_historical_countermodel",
+      "original_claim_ids": [],
+      "rounds": [
+        "recheck"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/evidence.json"
+      ],
+      "basis_and_limits": "Six labels recur; b has 10 each; a has four 10s, SA-RU 20 and QE-RA2-U 7. Mixed signed differences leave assessments, revisions, advances and other relations possible.",
+      "evidence_needed_to_reopen_or_advance": "Independent interval, commodity/unit and transaction-direction evidence. Repeating the six-label overlap or arithmetic is not new.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H005",
+      "claim": "TA-NA\u2026U-TI-NU forms a shared frame around I-*301 and RA-TE.",
+      "disposition": "active_structural_hypothesis",
+      "evidence_kind": "source_comparison_plus_historical_screen",
+      "original_claim_ids": [],
+      "rounds": [
+        "recheck"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "basis_and_limits": "IO Za 6 and IO Za 2 have matching outer sequences; sole match under selected 9-sequence/36-pair screen. Semantic values and morpheme boundaries unresolved; verbal-root proposals are prior scholarship.",
+      "evidence_needed_to_reopen_or_advance": "Independent complete recombinations plus contexts distinguishing lexical, compound and inflectional analyses.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H006",
+      "claim": "RU in the UNA family obligatorily predicts TI, WA-E or A-SASARA.",
+      "disposition": "strict_rules_rejected",
+      "evidence_kind": "historical_counterexample_tests",
+      "original_claim_ids": [],
+      "rounds": [
+        "recheck"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/results.json"
+      ],
+      "basis_and_limits": "PK Za 12 contradicts RU\u2192TI and RU\u2192WA-E; IO Za 16 contradicts RU\u2192A rather than JA. Rejection does not rule out complex grammar or number associated with other elements.",
+      "evidence_needed_to_reopen_or_advance": "A specified revised rule with genuinely independent evidence and new predictions; restored signs cannot supply confirmations.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H007",
+      "claim": "IO Za 16 preserves TA-I-*123 uniquely, or securely supplies a standalone aromatics word.",
+      "disposition": "uniqueness_rejected_both_restorations_unresolved",
+      "evidence_kind": "source_comparison_plus_historical_boundary_match",
+      "original_claim_ids": [
+        "nextstep:C1",
+        "nextstep:C2",
+        "R3-01",
+        "R3-02"
+      ],
+      "rounds": [
+        "nextstep",
+        "r3"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/claim_ledger.csv",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/results.json"
+      ],
+      "basis_and_limits": "Only *123 and a right divider survive in the relevant group. TA-I-*123 was sole longer match in 14 selected strings; TE-*123 on ZA 20 defeats that uniqueness in the expanded 17-string inventory. AROM is a display alias, not an automatic meaning.",
+      "evidence_needed_to_reopen_or_advance": "Diagnostic original boundary, joining fragment or physical capacity excluding a candidate; a final-sign match alone cannot select a lost prefix.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H008",
+      "claim": "AP Za 2 KU-PA3-NA-TU(-NA-TE\u2026) identifies a donor with a deciphered case ending.",
+      "disposition": "core_comparison_retained_roles_and_suffix_unestablished",
+      "evidence_kind": "source_claim_plus_countermodel",
+      "original_claim_ids": [
+        "nextstep:C3",
+        "nextstep:C4",
+        "nextstep:C5"
+      ],
+      "rounds": [
+        "nextstep"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/claim_ledger.csv"
+      ],
+      "basis_and_limits": "Four-sign core matches administrative records; Linear B KA-PA3-NA-TO is a published possible name comparison. Extended word has broken right boundary. Exact identity, suffix boundary and donor role are not established.",
+      "evidence_needed_to_reopen_or_advance": "Complete extended form and independent referent/role linkage, not merely a name-like slot.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H009",
+      "claim": "Three distinct labels confirm a freely started reversible circular order.",
+      "disposition": "rejected_as_discriminating_order_evidence",
+      "evidence_kind": "historical_exact_computation",
+      "original_claim_ids": [
+        "R3-03",
+        "R3-04"
+      ],
+      "rounds": [
+        "r3"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/results.json"
+      ],
+      "basis_and_limits": "All 6 orders of 3 distinct labels are compatible. For k\u22653 the accepted fraction is 2/(k\u22121)! under this model; these are combinatorial fractions, not empirical p-values. Only 3 of 8 additional reduced lists discriminate; HT 9b depends on doubtful signs.",
+      "evidence_needed_to_reopen_or_advance": "Longer independent sequences or restricted starting/direction assumptions justified externally.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H010",
+      "claim": "ZA 4 and ZA 15 are one closed assessment/settlement pair; repeated KA-DI 3 proves payment.",
+      "disposition": "simple_blanket_model_rejected_direction_unresolved",
+      "evidence_kind": "source_claim_plus_historical_computation",
+      "original_claim_ids": [
+        "R3-05",
+        "R3-06"
+      ],
+      "rounds": [
+        "r3"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/results.json"
+      ],
+      "basis_and_limits": "QE-SI-ZU-E4\u219257 blocks ZA 4\u2192ZA 15 closed settlement; Ib-NU-MA-RE13\u21926 blocks reverse. SI-PI-KI uncertain on ZA 15. KA-DI 3 equality survives but proves no action. ZA 15 preserves a half-unit residual.",
+      "evidence_needed_to_reopen_or_advance": "Independent time span, subtype, unit and direction evidence. A specific entry may be connected despite failure of the blanket model.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H011",
+      "claim": "KA-KU-PA identifies exactly one seal design, therefore must denote an institution or action.",
+      "disposition": "strict_seal_identity_rejected_semantic_inference_unestablished",
+      "evidence_kind": "source_comparison",
+      "original_claim_ids": [
+        "R3-07",
+        "R3-08"
+      ],
+      "rounds": [
+        "r3"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/evidence.json"
+      ],
+      "basis_and_limits": "HT Wc 3015 and 3016 repeat KA-KU-PA with CMS II.6 11/AT 125 and CMS II.6 21/AT 112. Different seals can belong to one person or agents; institution/action does not follow.",
+      "evidence_needed_to_reopen_or_advance": "Independent seal ownership or account/participant assignments across multiple contexts.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H012",
+      "claim": "HT Wc 3009/3010 supply a controlled *333-DI-(NA)-SU-KA contrast.",
+      "disposition": "retain_matched_string_contrast",
+      "evidence_kind": "source_comparison_plus_historical_screen",
+      "original_claim_ids": [
+        "R4-01"
+      ],
+      "rounds": [
+        "r4",
+        "r5"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/na_candidate_ledger.csv"
+      ],
+      "basis_and_limits": "Same CMS II.6 142/AT 31 and 4 impressions; tentative hand 109? on both. Reverse listed *188 vs blank, which is not certified absence. Only one one-sign-insertion pair among 28 distinct-label pairs. No extra-NA quantity-only rule; no meaning or common referent established.",
+      "evidence_needed_to_reopen_or_advance": "Primary collation of reverse and hand, independent identity linkage, and a replicated NA contrast tracking a recognizable role.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H013",
+      "claim": "A fixed seal or writer uniquely names one person through the written roundel label.",
+      "disposition": "strict_seal_rule_rejected_writer_rule_sensitive",
+      "evidence_kind": "source_comparison_plus_historical_sensitivity",
+      "original_claim_ids": [
+        "R4-02",
+        "R4-03"
+      ],
+      "rounds": [
+        "r4"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/record_index.csv",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json"
+      ],
+      "basis_and_limits": "CMS II.6 142 accompanies 12 records and 8 labels. Strict 7 records cluster one label per each of 4 assigned hands; admitting 109? on 3009/3010 gives hand 109 three labels. Hand assignments may partly depend on recurrent text, preventing independent confirmation.",
+      "evidence_needed_to_reopen_or_advance": "Blind palaeography, independently owned seals and contextual evidence separating writers, seal users, counterparts and accounts.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H014",
+      "claim": "*301 and *74 mean cloth because they are connected to cloth roundels through seals.",
+      "disposition": "domain_association_retained_lexical_translation_unestablished",
+      "evidence_kind": "published_hypothesis_plus_historical_graph_audit",
+      "original_claim_ids": [
+        "R4-04"
+      ],
+      "rounds": [
+        "r4"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json"
+      ],
+      "basis_and_limits": "Selected cross-medium paths to*164 each depend on CMS V Supp.1A 169. Removing that seal removes each connection. Seal 170 co-occurs with distinct categories*411 and*568, a control against synonymy. Motif labels such as butterfly do not identify seals.",
+      "evidence_needed_to_reopen_or_advance": "Second independently identified seal with required cross-medium connections, followed by evidence separating workshop association from exact word meaning.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H015",
+      "claim": "PYR Wc 4 gives two seal-defined allocations totaling 5 and establishes transfer direction.",
+      "disposition": "allocation_conditional_direction_unresolved",
+      "evidence_kind": "source_claim_plus_historical_countermodel",
+      "original_claim_ids": [
+        "R4-05"
+      ],
+      "rounds": [
+        "r4"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/data/evidence.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/results/results.json"
+      ],
+      "basis_and_limits": "Published 5 impressions split 2+3 with numeral 1 reportedly marked on each. Arithmetic survives swapping catalogue assignments and reversing transfers. Neither a written action nor seal-owner identity is secured.",
+      "evidence_needed_to_reopen_or_advance": "Original plate verification and separately directed transaction/participant evidence.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H016",
+      "claim": "The internal NA operation replicates broadly as a grammatical mechanism.",
+      "disposition": "not_established_by_bounded_screen",
+      "evidence_kind": "historical_computation_plus_selected_source_audit",
+      "original_claim_ids": [],
+      "rounds": [
+        "r5"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/README.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/screen_summary.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/na_candidate_ledger.csv"
+      ],
+      "basis_and_limits": "1019 derived rows\u2192946 eligible strings, 289 distinct one-sign pairs/297 alignments, 12 NA pairs. Only*333 pair is internal NA with shorter length\u22653. Nine NA pairs remain index-only. TA-TI/TA-NA-TI is complete as edited but distinct lexemes remain possible.",
+      "evidence_needed_to_reopen_or_advance": "Critically audit index-only endpoints and locate independent identity/role contrasts; same old index screen is not new coverage.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H017",
+      "claim": "U-NA-KA/U-NA-KA-NA is a complete-form NA suffix contrast.",
+      "disposition": "rejected_as_complete_form_evidence",
+      "evidence_kind": "source_audit",
+      "original_claim_ids": [],
+      "rounds": [
+        "r5"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/data/critical_records.json"
+      ],
+      "basis_and_limits": "PK Za 20 is ]U-NA-KA-[; TL Za 1 is U-NA-KA-NA?-[SI. Missing boundary and doubtful/restored content prevent a presence/absence contrast.",
+      "evidence_needed_to_reopen_or_advance": "Independently preserved complete endpoints. Do not reopen using the same flattened index labels.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H018",
+      "claim": "KU-MI-NA is a candidate common sequence in A-KU-MI-NA, A-DU-KU-MI-NA and KU-MI-NA-QE.",
+      "disposition": "retain_candidate_structure_no_identity_or_meaning",
+      "evidence_kind": "source_comparison",
+      "original_claim_ids": [
+        "r6:C01",
+        "r6:C08",
+        "R9-C6"
+      ],
+      "rounds": [
+        "r5",
+        "r6",
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/kumina_family_audit.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/ritual_check.md"
+      ],
+      "basis_and_limits": "ZA 10 forms both carry 1; modern HT Wc 3014 joins across faces with CAP and 3 impressions. HT 54 is broken at both ends. Older roundel segmentation permits KU-MI-NA plus QE countermark; historical concordance not resolved in r6. Exact triple predates project: Davis, AURA 15, p47, volume imprint 2025.",
+      "evidence_needed_to_reopen_or_advance": "Secure boundaries/concordance and independent referent/role linkage; do not claim discovery of triple.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H019",
+      "claim": "The three KU-MI-NA forms prove independently recombining prefixes and QE suffix.",
+      "disposition": "downgraded_no_complete_crossed_pattern",
+      "evidence_kind": "historical_exact_enumeration",
+      "original_claim_ids": [
+        "r6:C02"
+      ],
+      "rounds": [
+        "r5",
+        "r6"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/kumina_completion_test.json"
+      ],
+      "basis_and_limits": "Under the 3 \u00d7 2 table, no single added cell completes a 2 \u00d7 2 rectangle. Need two: bare+one A/A-DU QE form, or both A/A-DU QE forms. This strict diagnostic is not necessary for all genuine morphology.",
+      "evidence_needed_to_reopen_or_advance": "Two independently complete additional cells in one enumerated set; alternate analyses of one object cannot count twice.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H020",
+      "claim": "KU-MI-NA equals cumin.",
+      "disposition": "published_proposal_not_adopted",
+      "evidence_kind": "historical_source_claim",
+      "original_claim_ids": [],
+      "rounds": [
+        "r5",
+        "r6"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md"
+      ],
+      "basis_and_limits": "Nagy and Raison precede this project; complete expression, countermark interpretation and old/new identifiers need resolution. Lexical resemblance and goat association do not settle meaning.",
+      "evidence_needed_to_reopen_or_advance": "Corroborating orthographic and contextual evidence for the whole expression; identity of older cited objects must be checked.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H021",
+      "claim": "HT 104 total 95 resolves whether TI is a suffix or an independent sign.",
+      "disposition": "rejected_for_compared_parses",
+      "evidence_kind": "historical_countermodel_computation",
+      "original_claim_ids": [],
+      "rounds": [
+        "r5"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/results/ht104_segmentation_models.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html"
+      ],
+      "basis_and_limits": "Both tokenizations preserve identical sign stream and 45J+20J?+29=95 conditional onJ=1/2 and doubtful readings. HT 103 has bare DA-KU-SE-NE; HT 119 has separate TI. Arithmetic selects neither parse.",
+      "evidence_needed_to_reopen_or_advance": "Independent spatial, palaeographic or contextual evidence separating word end from countermark/logogram.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H022",
+      "claim": "SASARA optional-ME rectangles establish a prefix/suffix paradigm.",
+      "disposition": "rejected_for_audited_cells",
+      "evidence_kind": "source_audit_plus_historical_screen",
+      "original_claim_ids": [
+        "r6:C03",
+        "r6:C04"
+      ],
+      "rounds": [
+        "r6"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/rectangle_audit.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/boundary_countermodel.json"
+      ],
+      "basis_and_limits": "Five decompositions represent 3 four-string sets; each relies on a broken or face-segment cell. PK Za 4 A-SA-SA-RA[ is not an ME-less word; IO Za 16 continues -ME on next face; IO Za 12 SA-RA-ME continues JA-SA-. Masking 3 unsupported labels removes all 5.",
+      "evidence_needed_to_reopen_or_advance": "An independent complete shorter witness; absence in this screen is not corpus-wide impossibility.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H023",
+      "claim": "KA-PA/KA-PA-QE and RU-MA-TA/RU-MA-TA-SE are useful complete written contrasts.",
+      "disposition": "retain_comparisons_semantics_unresolved",
+      "evidence_kind": "selected_source_audit",
+      "original_claim_ids": [
+        "r6:C05",
+        "r6:C07"
+      ],
+      "rounds": [
+        "r6",
+        "r7"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/suffix_audit.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round7_bundle.zip!/linear_a_round7/results/ending_context_tests.json"
+      ],
+      "basis_and_limits": "KA-PA and KA-PA-QE occupy heading/entry positions onHT 6. RU-MA-TA isHT 29, extended formZA 20. Same referent and role difference unknown; r7 broader document/face shortcuts do not select meanings. SA-RO-QE[ and uncertain KH 20 DU-RE-ZA are weaker comparanda.",
+      "evidence_needed_to_reopen_or_advance": "Independent same-referent linkage and repeated role-conditioned complete contrasts.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H024",
+      "claim": "ME has replicated unqualified complete base/extension contrasts.",
+      "disposition": "not_supported_in_four_audited_pairs",
+      "evidence_kind": "selected_source_audit",
+      "original_claim_ids": [
+        "r6:C06"
+      ],
+      "rounds": [
+        "r6"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/results/suffix_audit.json"
+      ],
+      "basis_and_limits": "SASARA short forms and I-JA-PA[ fail boundaries; A-RA-TU-ME? remains doubtful. Zero of 4 meets strict complete/unqualified criterion; this is bounded, not global absence.",
+      "evidence_needed_to_reopen_or_advance": "Confirm doubtful ME or find independently complete shorter occurrences.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H025",
+      "claim": "TA-NA-TE/TA-NA-TI/A-TA-NA-TE form a three-corner string pattern with one shared referent.",
+      "disposition": "string_pattern_retained_identity_unestablished",
+      "evidence_kind": "historical_screen_plus_source_comparison",
+      "original_claim_ids": [
+        "r8:C6",
+        "R9-C1",
+        "R9-C3"
+      ],
+      "rounds": [
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round7_bundle.zip!/linear_a_round7/results/tana_family.json",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/inputs/linear_a_round8/results/site_confound.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/identity_results.json"
+      ],
+      "basis_and_limits": "Complete TE forms occurZA 10; TI formsHT 7a, HT 10b, HT 98a. Site and ending coincide in selected strict sample. Round 9 found no qualifying co-associate across target faces; whole-tablet SA-MA is opposite-face overlap. Sparse absence does not refute identity.",
+      "evidence_needed_to_reopen_or_advance": "Distinctive independent account/person identity bridging complete forms and recognizable roles.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H026",
+      "claim": "ZA 9 confirms predicted A-TA-NA-TI.",
+      "disposition": "not_established",
+      "evidence_kind": "source_and_image_audit",
+      "original_claim_ids": [
+        "r8:C4",
+        "R9-C2",
+        "za9:ZA9_C2"
+      ],
+      "rounds": [
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/za9.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/za9.json"
+      ],
+      "basis_and_limits": "GORILA III pp. 166\u2013167 scan inspected in round 9; main final sign unresolved, apparatus possible TE. SigLA unresolved. TI andTE exist as same-tablet controls; no diagnostic target trace selects either. Do not turn prediction into restoration.",
+      "evidence_needed_to_reopen_or_advance": "Diagnostic higher-quality surface evidence; secure TI would address site confounding, still not referent/role identity.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H027",
+      "claim": "The SigLA search proves A-TA-NA-TI is absent from all Linear A.",
+      "disposition": "corpus_wide_absence_rejected",
+      "evidence_kind": "historical_acquisition_scope",
+      "original_claim_ids": [],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/REPORT.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/data/sigla_sequence_inventory.json"
+      ],
+      "basis_and_limits": "Round 9 snapshot enumerated 802 indexed document-face pages and 1401 sequence occurrences with zero recorded errors and count checks. No literal predicted form; many ritual texts andTHEZb 6 outside coverage. Chunks are not necessarily complete words or objects.",
+      "evidence_needed_to_reopen_or_advance": "A broader critically audited corpus; preserve query-specific absence and source coverage.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H028",
+      "claim": "Linear B ta-na-to gives an independently checked person/flock-responsibility category.",
+      "disposition": "retain_within_linear_b_only",
+      "evidence_kind": "critical_corpus_source_audit",
+      "original_claim_ids": [
+        "R9-C4",
+        "linear_b:LBC01",
+        "linear_b:LBC06"
+      ],
+      "rounds": [
+        "r8",
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.json"
+      ],
+      "basis_and_limits": "KN Dc 1618+7171+7174 is an alias of KN De 1618+7171+7174+fr., not two objects. ma-di/e-ko-so controls distinguish person, place and collector positions. Exact occupation, ownership, non-Greek etymology and identity with Linear A remain unresolved.",
+      "evidence_needed_to_reopen_or_advance": "Independent linkage across scripts for the particular LA designation; external category cannot transfer a transaction role automatically.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H029",
+      "claim": "Linear B ta-na-to/ta-na-ti proves a nominative/dative contrast supporting the LA forms.",
+      "disposition": "rejected_under_ordinary_o_stem_model",
+      "evidence_kind": "source_and_conditional_orthographic_audit",
+      "original_claim_ids": [
+        "linear_b:LBC03",
+        "linear_b:LBC04",
+        "linear_b:LBC05"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/linear_b.json"
+      ],
+      "basis_and_limits": "KN Uf 311 has ]ta-na-ti with lost left boundary on missing object. For ordinary Greek o-stem, nominative and dative both expected written -to because i-diphthong second element is omitted. Finali\u2192o is not uniquely privileged overe/u comparisons.",
+      "evidence_needed_to_reopen_or_advance": "Complete new witness and independently justified stem/adaptation model; final-vowel tolerance is not a calibrated sound law.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H030",
+      "claim": "THE Zb 6 A-TA-NA-*46 means FROM, while TE means TO.",
+      "disposition": "not_established",
+      "evidence_kind": "original_publication_and_excavation_audit",
+      "original_claim_ids": [
+        "r8:C5",
+        "R9-C5",
+        "jar:JAR_C03",
+        "jar:JAR_C04"
+      ],
+      "rounds": [
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.json"
+      ],
+      "basis_and_limits": "Complete four-sign label and pre-firing incision supported by publications. Cretan manufacture remains attributed; scientific source locality not retrieved. Fragment deposit does not identify named recipient. Maker, owner, source, destination anddedication remain possible. ModernTHEZb 6 has an older numbering collision.",
+      "evidence_needed_to_reopen_or_advance": "Independent named production/destination linkage plus replicated contrasts. Clay provenance alone would not translate the word.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H031",
+      "claim": "The TA-NA-TE/A-TA-NA-TE prefix comparison is a new discovery of this project.",
+      "disposition": "novelty_claim_rejected",
+      "evidence_kind": "prior_equivalent_identification",
+      "original_claim_ids": [
+        "jar:JAR_C05",
+        "R9-C6"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/jar.md"
+      ],
+      "basis_and_limits": "Boulotis 2008 p.71 n.11 explicitly predates the project comparison; exact KU-MI-NA triple also occurs in Davis, AURA 15 p.47, imprint 2025. No computational publication-priority claim established.",
+      "evidence_needed_to_reopen_or_advance": "No reopening of priority for the already-published comparison; any narrower novel analysis requires its own literature audit.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H032",
+      "claim": "ZA Wc 2 A-TI-KA(-)A-DU(-)KO 2 identifies a person giving a commodity.",
+      "disposition": "not_established",
+      "evidence_kind": "source_autopsy_report_and_segmentation_audit",
+      "original_claim_ids": [
+        "R9-C7",
+        "roundels:RC1",
+        "roundels:RC3",
+        "roundels:RC4",
+        "roundels:RC7"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/roundels.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/roundels.json"
+      ],
+      "basis_and_limits": "Newer autopsy discussion strengthens final 2 vsMI; segmentation remains unmarked and DU uncertain. One long designation, two designations and name+administrative expression+commodity survive. Same seal does not identify actor or direction. Reported 2 vs4 impressions conflict.",
+      "evidence_needed_to_reopen_or_advance": "Independent boundaries, A-DU meaning, KO category and directed participant link; these cannot serve as independent anchors if all depend on same parse.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H033",
+      "claim": "Every roundel impression universally equals one written commodity unit.",
+      "disposition": "universal_scale_rejected_conditionally",
+      "evidence_kind": "historical_exact_constraint_test",
+      "original_claim_ids": [
+        "roundels:RC5"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/results/roundel_count_test.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/roundels.md"
+      ],
+      "basis_and_limits": "GO Wc 1(5/5), HT Wc 3024(6/6) force scale 1; MA Wc 5 4+A704 with 1 or2 impressions cannot fit if fraction positive/additive. Count preservation and units remain alternatives; local animal-count equality is not refuted.",
+      "evidence_needed_to_reopen_or_advance": "Resolve Malia counts, fraction function or heterogeneous unit model; do not infer global scaling from selected equalities.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H034",
+      "claim": "HT 24 arithmetic excludes ME as a doubled unit.",
+      "disposition": "conditional_only",
+      "evidence_kind": "historical_exact_sensitivity_and_yield_bounds",
+      "original_claim_ids": [
+        "R9-C8",
+        "anetaki:AN-C4",
+        "anetaki:AN-C7"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/results/anetaki_textile_test.json",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/anetaki.md"
+      ],
+      "basis_and_limits": "Under total 45, nonnegative missing entries and fixed conversion: secure ME at 10\u2192minimum 41.5; alsoME? at 6\u219247.5; restored ME everywhere\u219263. Multiplier bounds 47/20, 59/32, 10/7. Lossless assumption anddoubtful reading determine rejection. Yield\u226418/19 can reconcile 47.5 input to45 output; no ancient yield measured.",
+      "evidence_needed_to_reopen_or_advance": "Resolve damagedME? and independently constrain total, 10: 1 conversion, same-batch scope andprocessing yield. Rerunning arithmetic unchanged is not new evidence.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H035",
+      "claim": "Anetaki cloth+KA establishes KA=purple or an action/participant.",
+      "disposition": "association_retained_translation_unestablished",
+      "evidence_kind": "published_source_audit",
+      "original_claim_ids": [
+        "R9-C9",
+        "anetaki:AN-C1",
+        "anetaki:AN-C2",
+        "anetaki:AN-C3"
+      ],
+      "rounds": [
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/anetaki.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/notes/anetaki.json"
+      ],
+      "basis_and_limits": "AB54+77 onKNZg 57C is a published cloth-associatedKA adjunct. Type, quality, processing or another modifier survives. Ring/handle differ in carrier and probably hand; overview does not supply a full parallel inscription.",
+      "evidence_needed_to_reopen_or_advance": "Complete critical text and independent material/color/action context; associated carriers are not automatically parallel translations.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-H036",
+      "claim": "One Linear A construction now has independently identified action and relevant participant roles.",
+      "disposition": "goal_unmet_through_round_009",
+      "evidence_kind": "cumulative_research_verdict",
+      "original_claim_ids": [
+        "r8:C8"
+      ],
+      "rounds": [
+        "recheck",
+        "nextstep",
+        "r3",
+        "r4",
+        "r5",
+        "r6",
+        "r7",
+        "r8",
+        "r9"
+      ],
+      "provenance": [
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_recheck_bundle.zip!/linear_a_recheck/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_nextstep_bundle.zip!/linear_a_nextstep/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round3_bundle.zip!/linear_a_round3/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round4_bundle.zip!/linear_a_round4/research/report.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round5_bundle.zip!/linear_a_round5/research/report.html",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round6_bundle.zip!/linear_a_round6/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/history/linear_a_round7_bundle.zip!/linear_a_round7/research/REPORT.md",
+        "archive/linear_a_codex_round9_handoff.zip!/linear_a_codex_round9_handoff/inputs/linear_a_round8/research/REPORT.md",
+        "archive/linear_a_round9.zip!/linear_a_round9/REPORT.md"
+      ],
+      "basis_and_limits": "All recovered rounds explicitly stop short of this result. Category, arithmetic, word-form and object-context constraints are not independent verb/role translations. Historical software test success is implementation validation, not decipherment validation.",
+      "evidence_needed_to_reopen_or_advance": "A construction distinguishing rival actions androle assignments using independent evidence, then successful application outside its discovery examples.",
+      "verification_in_iteration_010": "Archived report/ledger inspected; historical computation not rerun by this consolidation."
+    },
+    {
+      "id": "LA-010-001",
+      "claim": "No supported action-and-participant-role construction established in iteration10",
+      "disposition": "mission_open",
+      "evidence_kind": "All candidate dossiers; no role discriminator recovered",
+      "reopen_if": "A new interpretation must independently identify action and roles, then discriminate a rival",
+      "evidence_path": "iterations/010/ATLAS.md",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-002",
+      "claim": "No qualifying long initial-A/terminal-sign variant with a non-target face associate in retained snapshot",
+      "disposition": "bounded_negative",
+      "evidence_kind": "802 indexed faces;220 strict eligible;250 broad eligible;>=3sign target criterion and separate objects",
+      "reopen_if": "A complete qualifying record or a new broader dataset/independent class of alternation",
+      "evidence_path": "iterations/010/results/corpus_pairs.json",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-003",
+      "claim": "HT95b DA-ZA is not usable as an edition-supported variant of DA-ME",
+      "disposition": "source_discrepancy",
+      "evidence_kind": "GORILA I155 prints ME; preserve frozen SigLA and overlay",
+      "reopen_if": "A documented revised reading or fresh object evidence supporting ZA",
+      "evidence_path": "iterations/010/notes/documentary_links.md",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-004",
+      "claim": "HT86/95 Q-form identity plus universal conversion of equivalent quantities is inconsistent",
+      "disposition": "conditional_rejection",
+      "evidence_kind": "Within section1 three exact20/10 ratios; proposed Q ratio10/10",
+      "reopen_if": "Drop/independently test mapping, common-event or common-scale assumptions; no blanket linguistic rejection",
+      "evidence_path": "iterations/010/results/packet_models.json",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-005",
+      "claim": "TE-KE/TE-KI identity is not uniquely selected by the observed associate packet",
+      "disposition": "underdetermined",
+      "evidence_kind": "HT13 TE-TU shares the same non-target associates; both entries exist in original edition",
+      "reopen_if": "An independent anchor selecting one target and excluding the other",
+      "evidence_path": "iterations/010/notes/documentary_links.md",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-006",
+      "claim": "Better HT24 ME imagery alone cannot identify positive m with free yield and missing input",
+      "disposition": "conditional_nonidentifiability",
+      "evidence_kind": "Exact constructive model plus new contextual source checks",
+      "reopen_if": "Independent input total/denomination, or output total and applicable yield bound",
+      "evidence_path": "iterations/010/notes/ht24_fallback.md",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-007",
+      "claim": "Shared seal AT125 connects media without identifying a named participant or role",
+      "disposition": "published_context_only",
+      "evidence_kind": "Weingarten1987 text; no fresh seal autopsy",
+      "reopen_if": "Full written designation linked to seal and externally established operation",
+      "evidence_path": "iterations/010/notes/documentary_links.md",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    },
+    {
+      "id": "LA-010-008",
+      "claim": "Restored archives close documentary access gaps for rounds3\u20135",
+      "disposition": "archive_recovery",
+      "evidence_kind": "36 historical synthesis records;92 nested evidence references verified",
+      "reopen_if": "Reopen archived analyses for any future claim; recovery is not a full rerun",
+      "evidence_path": "context/HISTORY.md",
+      "rounds": [
+        "r10"
+      ],
+      "updated_date": "2026-09-09",
+      "novelty": "Project execution/synthesis; scholarly priority not claimed"
+    }
+  ]
+}

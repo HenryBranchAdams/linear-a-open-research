@@ -1,0 +1,20 @@
+{
+  "M001": {
+    "status": "defect reproduced",
+    "outputs_unchanged_after_status_mutation": true,
+    "not_completed": "repair left open for contributors"
+  },
+  "M003": {
+    "status": "exploratory calculation executes",
+    "not_completed": "rival-account adjudication remains open"
+  },
+  "M008": {
+    "status": "three numerical outputs reproduced byte-for-byte",
+    "hashes": {
+      "iterations/010/results/corpus_pairs.json": "529c635baa4b027192e4bf4836df9ebfcbf1b908c20c648d4da456e04355bb8d",
+      "iterations/010/results/packet_models.json": "3c01c0777e99c90190cbb1c88654f32b6cffab411d7d03b03698a461e02269bc",
+      "iterations/010/notes/ht24_fallback/identifiability_results.json": "c65214b93f2724b2bc638a9ab2d6ac64e722eed6ccbdcae7de0c625146c0369d"
+    },
+    "boundary": "Original archives, 92-reference checks, and physical plates not included in this public numerical pilot."
+  }
+}

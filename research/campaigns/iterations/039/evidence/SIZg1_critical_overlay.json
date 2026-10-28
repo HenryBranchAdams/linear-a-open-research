@@ -1,0 +1,50 @@
+{
+  "id": "C039-SIZg1-OVERLAY",
+  "target": "SI Zg1 / Heraklion Archaeological Museum L2615",
+  "raw_unchanged": true,
+  "raw_record": {
+    "support": "Stone object",
+    "transliteratedWords": [
+      "A",
+      "𐄁",
+      "DA-*118"
+    ],
+    "words": [
+      "𐘇𐝫",
+      "𐄁",
+      "𐝫𐘀𐙈"
+    ]
+  },
+  "snapshot_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "critical_source_dependencies": [
+    "C039-S01",
+    "C039-S02"
+  ],
+  "source_transnumeration": "08-●-01 118",
+  "normalization_warning": "DA-*118 remains a retained source branch, not a uniquely secure phonetic word. No explicit fraction D exists in the raw row to remove.",
+  "reading_branches": [
+    {
+      "branch": "AB01 / conventional DA",
+      "status": "GORILA rendering as reported by Montecchi; original plate unadjudicated"
+    },
+    {
+      "branch": "two traits as numeral11",
+      "status": "proposed alternative, not a corrected certainty"
+    }
+  ],
+  "direction_sources": {
+    "INSCRIBE": "left_to_right conditional for11",
+    "Montecchi2024_p184": "right_to_left conditional for11",
+    "adjudication": "unresolved source discrepancy; do not silently harmonize"
+  },
+  "adjacent_Z_trace": "Reported autopsy calls it accidental scratch, not secure intentional fractionD. Team independently checked source statement, not the autopsy.",
+  "AB118_use": [
+    "local logogram proposed in published argument",
+    "phonetic component/designation alternative remains"
+  ],
+  "visual_scope": "No image pixels/3D geometry/original GORILA plate independently inspected. Figure captions only.",
+  "semantic_binding": null,
+  "event_link": null,
+  "new_ancient_witnesses": 0,
+  "exposure": "Known existing index object;038 screening exposure. New full argument evaluated as discovery, no unused prediction."
+}

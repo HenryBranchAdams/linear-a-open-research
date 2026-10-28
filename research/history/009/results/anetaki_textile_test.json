@@ -1,0 +1,119 @@
+{
+  "experiment_id": "ANETAKI-TEXTILE-1",
+  "status": "conditional arithmetic constraints, not decipherment",
+  "preserved_recto_numeric_lower_bound": "63/2",
+  "conditional_verso_total": "9/2",
+  "conditional_common_batch_mass": "45",
+  "all_unpreserved_mass_if_ME_multiplier_one": "27/2",
+  "preserved_mean": "63/8",
+  "six_entry_naive_mean_imputation": "189/4",
+  "ME_scenarios": [
+    {
+      "scenario": "secure_ME_only",
+      "ME_bound": "47/20",
+      "condition": "ME multiplier must be <= bound only under lossless common-batch equivalence and nonnegative remaining mass",
+      "candidate_multipliers": [
+        {
+          "m": "1/2",
+          "preserved_lower_bound": "53/2",
+          "remaining_mass": "37/2",
+          "negative_residual_rejects": false
+        },
+        {
+          "m": "1",
+          "preserved_lower_bound": "63/2",
+          "remaining_mass": "27/2",
+          "negative_residual_rejects": false
+        },
+        {
+          "m": "2",
+          "preserved_lower_bound": "83/2",
+          "remaining_mass": "7/2",
+          "negative_residual_rejects": false
+        }
+      ]
+    },
+    {
+      "scenario": "accept_tentative_ME_at_six",
+      "ME_bound": "59/32",
+      "condition": "ME multiplier must be <= bound only under lossless common-batch equivalence and nonnegative remaining mass",
+      "candidate_multipliers": [
+        {
+          "m": "1/2",
+          "preserved_lower_bound": "47/2",
+          "remaining_mass": "43/2",
+          "negative_residual_rejects": false
+        },
+        {
+          "m": "1",
+          "preserved_lower_bound": "63/2",
+          "remaining_mass": "27/2",
+          "negative_residual_rejects": false
+        },
+        {
+          "m": "2",
+          "preserved_lower_bound": "95/2",
+          "remaining_mass": "-5/2",
+          "negative_residual_rejects": true
+        }
+      ]
+    },
+    {
+      "scenario": "restore_ME_to_all_entries",
+      "ME_bound": "10/7",
+      "condition": "ME multiplier must be <= bound only under lossless common-batch equivalence and nonnegative remaining mass",
+      "candidate_multipliers": [
+        {
+          "m": "1/2",
+          "preserved_lower_bound": "63/4",
+          "remaining_mass": "117/4",
+          "negative_residual_rejects": false
+        },
+        {
+          "m": "1",
+          "preserved_lower_bound": "63/2",
+          "remaining_mass": "27/2",
+          "negative_residual_rejects": false
+        },
+        {
+          "m": "2",
+          "preserved_lower_bound": "63",
+          "remaining_mass": "-18",
+          "negative_residual_rejects": true
+        }
+      ]
+    }
+  ],
+  "lossless_balance_required_for_negative_residual_rejection": true,
+  "yield_sensitivity": {
+    "model": "Output = yield * (input lower bound + missing input); no additions or conversion differences",
+    "ME_multiplier": "2",
+    "reading": "accept tentative ME beside6",
+    "input_lower_bound": "95/2",
+    "output_assumed": "45",
+    "maximum_yield_at_lower_bound": "18/19",
+    "minimum_loss_fraction_at_lower_bound": "1/19",
+    "minimum_loss_percent_at_lower_bound": 5.2631578947368425,
+    "qualification": "No observed yield. Positive missing input requires more loss. This alternative relaxes one-standard-input-unit per nodulus if45noduli are retained as an output-related total."
+  },
+  "one_unit_nodulus_allocation": [
+    {
+      "quantity": "19/2",
+      "whole_unit_allocation_possible": false
+    },
+    {
+      "quantity": "35/2",
+      "whole_unit_allocation_possible": false
+    },
+    {
+      "quantity": "35/2",
+      "whole_unit_allocation_possible": false
+    },
+    {
+      "quantity": "10",
+      "whole_unit_allocation_possible": true
+    }
+  ],
+  "doubled_ME_sensitive_to_tentative_sign": true,
+  "interpretation": "An unqualified exclusion of a distinct ME unit does not follow. The doubled-unit rejection changes with tentativeME and depends on lossless equivalence. If input-output processing is allowed, a yield at most18/19 at the surviving lower bound removes that contradiction. No actual yield or translation is inferred. Existing fractional-token objection is reproduced, not new."
+}

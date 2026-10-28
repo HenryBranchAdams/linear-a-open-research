@@ -1,0 +1,335 @@
+{
+  "branch": "Anetaki ritual/administrative crossover and textile qualifier test",
+  "retrieval_date": "2026-09-07",
+  "sources": [
+    {
+      "id": "ANETAKI-2024",
+      "authors": "Athanasia Kanta, Dimitri Nakassis, Thomas G. Palaima, Massimo Perna",
+      "title": "An archaeological and epigraphical overview of some inscriptions found in the Cult Center of the city of Knossos (Anetaki plot)",
+      "bibliography": "KO-RO-NO-WE-SA, Ariadne Supplement 5 (print 2024; online 2025-03-04), 27-43",
+      "url": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841",
+      "pdf_url": "https://ejournals.lib.uoc.gr/Ariadne/article/download/1841/1751/3474",
+      "access": "Full primary publication PDF retrieved; p35 fig7 visually inspected. No full sign-group transcription supplied by this preliminary publication.",
+      "dependency": "Original excavation and epigraphical team; multiple mirrors not independent editions"
+    },
+    {
+      "id": "NOSCH-WEILHARTNER-2025",
+      "authors": "Marie-Louise Nosch and Jorg Weilhartner",
+      "title": "The Common Thread: Textiles and Wool Logograms in Linear A",
+      "bibliography": "The Wor(l)ds of Linear A, AURA Supplement 15, 115-135 (volume imprint 2025; digital landing 2026-01-09)",
+      "url": "https://www.academia.edu/145903263/The_Common_Thread_Textiles_and_Wool_Logograms_in_Linear_A",
+      "official_volume_url": "https://epub.lib.uoa.gr/index.php/aura/article/view/2642",
+      "access": "Full author-uploaded chapter text including pp129-131 read",
+      "dependency": "New interpretation, with Anetaki readings dependent on original editors; HT24 discussion dependent on Del Freo2020"
+    },
+    {
+      "id": "DEL-FREO-2020-WOOL",
+      "authors": "Maurizio Del Freo",
+      "title": "Wool Working at Hagia Triada: the HT 24 Tablet and the 45 noduli from the Quartiere Sudovest",
+      "bibliography": "Neoteros, Aegaeum 44 (2020), 55-63, especially pp55-60 and nn16-18,33",
+      "url": "https://openportal.ispc.cnr.it/data/2020/421681/2020_421681.published.pdf",
+      "access": "Full institutional PDF retrieved; p55 drawing and grey uncertainty coding visually inspected",
+      "dependency": "GORILA-based drawing/readings, Hallager and Palaima wool-ratio interpretation; paper gives own contextual interpretation"
+    },
+    {
+      "id": "YOUNGER-HT24-38",
+      "title": "John Younger's commentary on HT24 and HT38, mirrored in Linear A Explorer",
+      "urls": [
+        "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT24.html",
+        "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT38.html"
+      ],
+      "access": "Both HTML texts downloaded",
+      "dependency": "GORILA derivative; not independent readings"
+    },
+    {
+      "id": "GORILA-I-HT24",
+      "title": "Godart and Olivier, GORILA I (1976), HT24, pp42-43",
+      "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=78&max_image_size=1",
+      "transcription_url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=1&sp=79&max_image_size=1",
+      "access": "Official full-size150dpi photo/drawing and apparatus retrieved and visually inspected; no new secure ME reading obtained.",
+      "dependency": "Critical edition underlying Younger, SigLA and Del Freo; not an independent ancient witness"
+    },
+    {
+      "id": "SIGLA-HT24a",
+      "title": "SigLA HT24a signs6,9,15",
+      "url": "https://sigla.phis.me/document/HT%2024a/",
+      "access": "Full HTML read. A561 composite tagged sure at positions6,9,15.",
+      "dependency": "GORILA derivative; coarse composite encoding does not remove critical-edition uncertainty on ME component."
+    }
+  ],
+  "observations": [
+    {
+      "id": "AN-01",
+      "object": "KN Zg 57",
+      "face": "C",
+      "line": null,
+      "diplomatic": "AB 54+77 (one textile logogram with KA endogram)",
+      "normalized": "*54+KA",
+      "uncertainty": "No new stroke-level reading; published identification",
+      "context": "Ivory ring, Anetaki Room1 Ivory Repository; no numerals reported on ring",
+      "source": "ANETAKI-2024",
+      "locator": "pp39-40; Nosch/Weilhartner p129",
+      "word_boundaries": "Metopes, not evidence for a full phonetic word",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-02",
+      "object": "KN Zg 57",
+      "face": "not specified for ligature",
+      "line": null,
+      "diplomatic": "AB 08 above AB 77 in ligature",
+      "normalized": "A+KA",
+      "uncertainty": "Published components; reading order unestablished",
+      "source": "ANETAKI-2024",
+      "locator": "p41",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-03",
+      "object": "KN Zg 58",
+      "face": "not specified for ligature",
+      "line": null,
+      "diplomatic": "AB 08 below AB 77 in ligature",
+      "normalized": "A+KA",
+      "uncertainty": "Published components; reading order unestablished",
+      "context": "Same repository layer as ring; handle-ring association proposed, actual fit incomplete by about0.7cm. Different incisor inferred. Handle has numerals and fractions.",
+      "source": "ANETAKI-2024",
+      "locator": "pp34,40-41",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-04",
+      "object": "KN Zg 57",
+      "face": "D",
+      "line": null,
+      "diplomatic": "damaged hide logogram with trace of ligature: KA / QE / KO proposed alternatives",
+      "normalized": null,
+      "uncertainty": "Do not count as secure hide+KA",
+      "source": "ANETAKI-2024",
+      "locator": "p40",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-05",
+      "object": "HT 24",
+      "alias": "HM33",
+      "face": "b",
+      "line": "2",
+      "diplomatic": "JA+KA {*539} *118 1",
+      "normalized": "JA+KA",
+      "uncertainty": "AB118 meaning talent is a separate interpretation",
+      "source": "DEL-FREO-2020-WOOL",
+      "locator": "pp55,58 n18; GORILA I42-43",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-06",
+      "object": "HT 38",
+      "alias": "HM32",
+      "face": null,
+      "line": "2-3",
+      "diplomatic": "KA+A {*554} *118 3; TELA+KU {*535} 2; TELA+*312 {*536} 1",
+      "normalized": "A+KA",
+      "uncertainty": "Normalization records components, not a phonetic reading-order decision. *312 remains numeric; whole tablet upper portion lost.",
+      "context": "Mixed inventory also lists a vessel, pig and sheep",
+      "source": "DEL-FREO-2020-WOOL",
+      "locator": "p58 n18; Younger HT38; GORILA I72-73",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-07",
+      "object": "HT 24",
+      "alias": "HM33",
+      "face": "a",
+      "line": "1-5",
+      "diplomatic": "a1-2 KU-*56-RI-JA KI? MA+RU[ ]6; a2 MA+RU ME 10[; a2-3 ]9 J; a3 MA+RU ME? 6; a4 PA-SA-RI-JA MA+RU ME?[; a5 ]RU?-I?-KO MA+RU[",
+      "normalized": null,
+      "uncertainty": "Del Freo p55 greys KI, ME in a3/a4, RU and I in a5. Some numerals are incompletely bounded. Commodity for ]9J missing. No absent ME established in broken entries.",
+      "source": "DEL-FREO-2020-WOOL",
+      "locator": "p55 visual inspection, p56 metrology; GORILA I42-43",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-08",
+      "object": "HT 24",
+      "alias": "HM33",
+      "face": "b",
+      "line": "1-2",
+      "diplomatic": "b1 ]*118 1 J E; b1-2 SI+ME KI *118? 1 J E; b2 JA+KA *118 1",
+      "normalized": null,
+      "uncertainty": "Middle AB118 grey in Del Freo p55; arithmetic accepting it conditional. J=1/2,E=1/4 assumed, not derived here.",
+      "source": "DEL-FREO-2020-WOOL",
+      "locator": "pp55-56",
+      "participant_or_predicate_observed": false
+    },
+    {
+      "id": "AN-09",
+      "object": "HT24",
+      "face": "a",
+      "line": "2-3",
+      "diplomatic": "10[; MA+RU ME? 6",
+      "source": "GORILA-I-HT24",
+      "locator": "p42 photograph/drawing, p43 transcript/apparatus",
+      "access": "Visually inspected originals as scanned at150dpi",
+      "observation": "Photograph shows damage at the adjunct near6. Drawing retains partial strokes, critical transcript marks the ME component doubtful. No upgrade to certain ME obtained. Quantity6 has six depicted strokes;10 reaches a damaged right-hand zone, so unknown additions cannot be ruled out.",
+      "uncertainty": "This inspection is not blind to the hypothesis. No new photogrammetry or original-object examination."
+    }
+  ],
+  "numeric_experiment": {
+    "id": "ANETAKI-TEXTILE-1",
+    "hypothesis": "ME cannot be a metrological multiplier because HT24 represents45 standard wool units",
+    "competitors": [
+      "ME denotes a processing stage",
+      "ME denotes quality/type",
+      "ME changes accounting unit"
+    ],
+    "design": "Conditional necessary lower bounds under explicitly lossless balance, followed by yield sensitivity; no corpus significance or linguistic probability. Negative residual disproves only the lossless numeric model.",
+    "preserved_numeric_lower_bounds": [
+      "6",
+      "10",
+      "19/2",
+      "6"
+    ],
+    "J": "1/2",
+    "E": "1/4",
+    "wool_per_AB118": "10",
+    "verso_entries": [
+      {
+        "integer": "1",
+        "J_count": 1,
+        "E_count": 1
+      },
+      {
+        "integer": "1",
+        "J_count": 1,
+        "E_count": 1
+      },
+      {
+        "integer": "1",
+        "J_count": 0,
+        "E_count": 0
+      }
+    ],
+    "fractional_recto_entry": "19/2",
+    "ME_scenarios": [
+      {
+        "id": "secure_ME_only",
+        "secure_or_accepted_ME_subtotal": "10",
+        "qualification": "Countermodel takes doubtful a3/a4 glyphs as not ME and allows damaged first and third entries not to carry ME; does not assert those absences."
+      },
+      {
+        "id": "accept_tentative_ME_at_six",
+        "secure_or_accepted_ME_subtotal": "16",
+        "qualification": "Includes ME? next to6; missing quantity after ME? in a4 kept nonnegative."
+      },
+      {
+        "id": "restore_ME_to_all_entries",
+        "secure_or_accepted_ME_subtotal": "63/2",
+        "qualification": "Explicit stronger restoration, not observed text."
+      }
+    ],
+    "assumptions": [
+      "Fixed45-input balance requires lossless common-batch equivalence, no additions, no processing loss, no different unit conversion; same batch alone is insufficient.",
+      "AB118 second occurrence accepted despite published uncertainty",
+      "J=1/2,E=1/4",
+      "Unpreserved numeric parts contribute nonnegative quantities",
+      "Reading group ]9J as commodity continuation",
+      "Multiplier uniform within scenario",
+      "Mapping45nearby noduli to45standard input units is itself an assumption; loss-based alternative may require a different token role."
+    ],
+    "independent_evidence": "Numeric marks and nearby nodulus count differ from proposed lexical ME meaning, but their allocation to one batch and units remains interpretive.",
+    "novelty": "Exact multiplier-sensitivity computation is this run's analysis; underlying45-unit and fractional-nodulus arguments already published. Priority not established.",
+    "source_claim_actually_tested": "Del Freo p58 says a distinct measure is difficult and quality/processing more likely, not categorically impossible. The code tests stronger arithmetic-exclusion inference.",
+    "yield_sensitivity": {
+      "input_lower_bound": "95/2",
+      "output_assumed": "45",
+      "model": "output=yield*(input_lower_bound+missing_input)",
+      "maximum_yield": "18/19",
+      "minimum_loss_fraction": "1/19",
+      "not_observed": true,
+      "qualification": "Positive missing quantities need more loss. Mere shared batch does not imply conservation across production.",
+      "source": "DEL-FREO-2020-WOOL",
+      "locator": "p61 discusses raw-wool preparation losses in Mycenaean comparison; p62n49 distinguishes small spun-to-woven scraps and possible return of scraps."
+    }
+  },
+  "claims": [
+    {
+      "id": "AN-C1",
+      "claim": "Anetaki supplies an independently identifiable cloth-associated KA adjunct",
+      "status": "supported as published sign-context association",
+      "evidence": [
+        "AN-01"
+      ],
+      "limit": "No complete word for cloth, purple, give or person translated."
+    },
+    {
+      "id": "AN-C2",
+      "claim": "Physical pairing makes ring and handle parallel translations",
+      "status": "not supported",
+      "evidence": [
+        "AN-02",
+        "AN-03"
+      ],
+      "counter": "Genre and hand differ; full texts unavailable in overview."
+    },
+    {
+      "id": "AN-C3",
+      "claim": "KA equals purple",
+      "status": "published speculative hypothesis",
+      "evidence": [
+        "AN-01",
+        "AN-05",
+        "AN-06"
+      ],
+      "counter": "Technical type or A/JA+KA association remains viable; no direct color observation."
+    },
+    {
+      "id": "AN-C4",
+      "claim": "ME cannot represent a different unit",
+      "status": "not established by arithmetic alone",
+      "evidence": [
+        "AN-07",
+        "AN-08"
+      ],
+      "test": "ANETAKI-TEXTILE-1"
+    },
+    {
+      "id": "AN-C5",
+      "claim": "HT24 establishes action delivers and identifies suppliers",
+      "status": "not established",
+      "counter": "Group labels could index destinations, stocks or production stages; arithmetic conserves quantities without distinguishing transfer direction."
+    },
+    {
+      "id": "AN-C6",
+      "claim": "Published comparison of A+KA versus JA+KA establishes shared designation",
+      "status": "category-related hypothesis, not referent identity",
+      "evidence": [
+        "AN-05",
+        "AN-06"
+      ],
+      "counter": "Shared weight unit and textile context constrain semantic domain without selecting synonymy versus different commodity categories."
+    },
+    {
+      "id": "AN-C7",
+      "claim": "Same batch requires equal input and output mass",
+      "status": "rejected as general inference",
+      "counter": "Processing losses, additions or distinct conversion scales alter balance. Under acceptedME and multiplier2, 47.5surviving input can yield45output at18/19; lost input tightens threshold. No actual yield inferred."
+    }
+  ],
+  "next_tests": [
+    "Recover full Anetaki sign-group edition and plate coverage of all faces, then test actual group recurrences rather than infer counterpart wording from associated objects.",
+    "Inspect HT24a ME? beside6 at higher original photographic quality: under fixed45-total doubled-ME model, this reading changes the arithmetic verdict.",
+    "Find a complete second accounting text that ties ME-marked and unmarked commodity to independently fixed totals, allowing metrological multiplier estimation without a restored total."
+  ],
+  "sentence_goal_met": false,
+  "cache_checksums": {
+    "anetaki_kanta2024.pdf": "87dad27b79ee3ef4539b844d7ed30a0069ac14acdd2ff75eed160f9baadf57d2",
+    "delfreo2020_wool.pdf": "051baef2466837d94f979a7cac123ad944f2d3bd21cc3196854dd5774bc7c559",
+    "HT24.html": "4701ab27e1da96f5623c9157dde77eee4313a4fc54e9522e8166261306b52f78",
+    "HT38.html": "4baf34f449cbb0f121398b23cf8966ca35418bdedcde6f8c3e732833dc177505",
+    "GORILA_I_p42.jpg": "839dada3edfbfcb557078307aaf3a4268ef3e52f04465b1ae7d1817e1e8176d6",
+    "GORILA_I_p43.jpg": "0c08cdd92fd973e2b97c2f58d214279892e0199432f41e934e894a9c165db181",
+    "sigla_HT24a.html": "825760860134b92c88f94b0073902f1d95f55e38d62dda008e4ab05b465dde0c"
+  },
+  "copyright_cache_policy": "Source PDFs, HTML and rendered plates retained outside deliverable; not bundled."
+}

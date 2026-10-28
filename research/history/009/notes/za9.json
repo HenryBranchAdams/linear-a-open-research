@@ -1,0 +1,220 @@
+{
+  "task": "ZA9 sign after A-TA-NA",
+  "retrieved": "2026-09-07",
+  "verdict": "unresolved; no new TE or TI adopted",
+  "sources": [
+    {
+      "source_id": "ZA9_SIGLA_index-17",
+      "url": "https://sigla.phis.me/document/ZA%209/index-17.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 6903,
+      "sha256": "571786c057bd8be60b64045751e2f18af18d5065a4b88cddbb7acdc9c4dad8bd",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    },
+    {
+      "source_id": "ZA9_SIGLA_index-3",
+      "url": "https://sigla.phis.me/document/ZA%209/index-3.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 7246,
+      "sha256": "f2b5802f968e9b7f57c0486843347e7f3bed80f02944a7f7a6b7bfd6f545ea65",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    },
+    {
+      "source_id": "ZA9_SIGLA_index-27",
+      "url": "https://sigla.phis.me/document/ZA%209/index-27.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 7249,
+      "sha256": "bc5e26dd861d985884dcaa5f6ceb922c3d7b4dd347979cba84059a1fef822302",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    },
+    {
+      "source_id": "ZA9_SIGLA_index-word",
+      "url": "https://sigla.phis.me/document/ZA%209/index-word.html",
+      "retrieved": "2026-09-07",
+      "access": "full public HTML",
+      "bytes": 13052,
+      "sha256": "82dd24c965dd718de25fd2c1fb7da93087f216ba5a7e4fc06f5a6219bb091e0e",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    },
+    {
+      "source_id": "ZA9_SIGLA_ZAdrawing",
+      "url": "https://sigla.phis.me/document/ZA%209/ZA%209.png",
+      "retrieved": "2026-09-07",
+      "access": "image inspected",
+      "bytes": 370133,
+      "sha256": "add8fe0f4a9e48961b344121e7d330d078e78583bf7c384984a546c757992d61",
+      "dependency": "GORILA III pp.166-167",
+      "redistributed": false
+    },
+    {
+      "source_id": "ZA9_GORILA3_166",
+      "author": "Louis Godart and Jean-Pierre Olivier",
+      "year": 1976,
+      "title": "Recueil des inscriptions en linéaire A III, p.166",
+      "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=3&sp=190&max_image_size=1",
+      "retrieved": "2026-09-07",
+      "access": "publisher scan at offered 100%, visually inspected",
+      "image_dimensions": [
+        1232,
+        1624
+      ],
+      "bytes": 194543,
+      "sha256": "295a128569a14a709fff4dbe4e08fc65c7635194c67ab553456c9b6c7e445356",
+      "redistributed": false
+    },
+    {
+      "source_id": "ZA9_GORILA3_167",
+      "author": "Louis Godart and Jean-Pierre Olivier",
+      "year": 1976,
+      "title": "Recueil des inscriptions en linéaire A III, p.167",
+      "url": "https://cefael.efa.gr/detail.php?site_id=1&actionID=page&serie_id=EtCret&volume_number=21&issue_number=3&sp=191&max_image_size=1",
+      "retrieved": "2026-09-07",
+      "access": "publisher scan at offered 100%, visually inspected",
+      "image_dimensions": [
+        1232,
+        1624
+      ],
+      "bytes": 74362,
+      "sha256": "2e79e9e4403a03e518b8ed3502a364d5d5e91263cdc5b3f47879f4404e7b2170",
+      "redistributed": false
+    }
+  ],
+  "observations": [
+    {
+      "id": "ZA9_TARGET",
+      "canonical_object_id": "ZA 9",
+      "aliases": [
+        "HM 1620"
+      ],
+      "face": "inscribed face",
+      "line": ".4 (entry .4-5)",
+      "diplomatic_transcription": "A-TA-NA-[•] OVIS+SI 2?",
+      "normalized_search_form": "A-TA-NA-X",
+      "search_placeholder": "X is unresolved sign, not reading",
+      "sign_ids": [
+        "AB08",
+        "AB59",
+        "AB06",
+        null
+      ],
+      "sign_uncertainty": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "sigla_sequence": 6,
+      "sigla_sign": 17,
+      "quantity": 2,
+      "quantity_uncertain": true,
+      "quantity_scope": "OVIS+SI in entry on next physical line",
+      "missing_boundaries": "final word boundary modeled before following logogram; unresolved sign within word",
+      "cross_face_continuation": false,
+      "published_alternative": {
+        "form": "A-TA-NA-TE",
+        "status": "possible, GORILA III p167 apparatus, not main reading"
+      },
+      "context": "Zakros livestock-associated administrative entry",
+      "sources": [
+        "ZA9_GORILA3_166",
+        "ZA9_GORILA3_167",
+        "ZA9_SIGLA_index-17",
+        "ZA9_SIGLA_index-word"
+      ],
+      "same_referent_as_other_forms": null,
+      "participant_role": null,
+      "action": null
+    },
+    {
+      "id": "ZA9_TI_CONTROL",
+      "canonical_object_id": "ZA 9",
+      "line": ".1",
+      "sigla_sign": 3,
+      "reading": "TI",
+      "sign_id": "AB37",
+      "sigla_confidence": "sure-reading",
+      "visual_observation": "arch/two converging long strokes",
+      "source": "ZA9_SIGLA_index-3"
+    },
+    {
+      "id": "ZA9_TE_CONTROL",
+      "canonical_object_id": "ZA 9",
+      "line": ".6",
+      "sigla_sign": 27,
+      "reading": "TE",
+      "sign_id": "AB04",
+      "sigla_confidence": "sure-reading",
+      "context": "WI-RA-RE-MI-TE",
+      "visual_observation": "stem with repeated short oblique side strokes",
+      "source": "ZA9_SIGLA_index-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "ZA9_C1",
+      "claim": "Original apparatus TE suggestion independently verified as possible",
+      "status": "established source attribution",
+      "support": [
+        "ZA9_GORILA3_167"
+      ],
+      "does_not_establish": "correct TE reading"
+    },
+    {
+      "id": "ZA9_C2",
+      "claim": "A-TA-NA-TI attested by ZA9",
+      "status": "not established",
+      "support": [],
+      "counterevidence": [
+        "ZA9_SIGLA_index-17"
+      ],
+      "note": "unknown does not mean false; predicted form remains unfilled"
+    },
+    {
+      "id": "ZA9_C3",
+      "claim": "TI absent from Zakros sign inventory",
+      "status": "rejected",
+      "counterevidence": [
+        "ZA9_TI_CONTROL"
+      ],
+      "scope": "does not reject regional spelling of a particular lexical item"
+    },
+    {
+      "id": "ZA9_C4",
+      "claim": "Entry supplies independently directed transaction or named historical actor",
+      "status": "not established",
+      "note": "animal association and quantity do not establish role or identity"
+    }
+  ],
+  "experiments": [
+    {
+      "id": "ZA9_E1",
+      "hypothesis": "Trace can discriminate TE from TI without predicted spelling",
+      "competitors": [
+        "TE",
+        "TI",
+        "other sign"
+      ],
+      "test": "inspect full original publisher plate plus same-tablet TI #3 and TE #27 and SigLA target #17",
+      "outcome": "target diagnostic features not securely preserved/readable; no selection",
+      "blinding": "not blind; predicted spelling known",
+      "next_decision": "retain unresolved; seek original-object autopsy/RTI only if available, do not fill morphological grid"
+    }
+  ],
+  "prediction_ledger": [
+    {
+      "id": "ZA9_P1",
+      "prediction": "If target independently becomes TI, A-TA-NA-TI occurs at Zakros",
+      "current_status": "unconfirmed",
+      "implication_limit": "new spelling and local occurrence, not same referent or semantic case"
+    }
+  ],
+  "novelty": "new project-level primary-source access/cross-check, no new reading or decipherment",
+  "rights": "No source pages or images redistributed. Small ancient transcriptions and factual metadata only."
+}

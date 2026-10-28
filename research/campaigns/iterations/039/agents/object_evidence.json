@@ -1,0 +1,107 @@
+{
+  "investigator": "/root/object_evidence",
+  "campaign": "LA-C039-2026-10-22",
+  "target": {
+    "corpus": "SI Zg1",
+    "inventory": "Heraklion L2615",
+    "raw_unchanged": true
+  },
+  "sources": [
+    {
+      "id": "OBJ039-S01",
+      "title": "INSCRIBE Stone weight SI Zg1",
+      "url": "https://www.inscribercproject.com/Stone_weight_SI_Zg_1.php",
+      "access": "complete_html_text",
+      "images_inspected": false,
+      "primary_observation_scope": "reported_autopsy_and_digitization_metadata",
+      "geometry_inspected": false
+    },
+    {
+      "id": "OBJ039-S02",
+      "title": "Montecchi2024 Design and Origins of Linear A Picture-Based Signs",
+      "url": "https://cris.unibo.it/retrieve/ace556f3-9a7d-4db0-8d30-5b37fdd7ab1e/OUP_writing.pdf",
+      "access": "complete_target_section_text",
+      "pages_printed": "182–186",
+      "pages_pdf_zero_based": [
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "figures": "9.8–9.11 captions only",
+      "images_inspected": false,
+      "whole_volume_claim": false
+    },
+    {
+      "id": "OBJ039-S03",
+      "title": "Alberti1998 A Stone or a Weight?",
+      "url": "https://flore.unifi.it/handle/2158/1103495",
+      "access": "metadata_abstract_and_pdf_file_recognition_only",
+      "article_pages_inspected": 0,
+      "images_inspected": false,
+      "complete_argument_evaluated": false
+    },
+    {
+      "id": "OBJ039-S04",
+      "title": "GORILA IV p168",
+      "url": "https://cefael.efa.gr/detail.php?actionID=page&ce=l0o81sglomer3ppi78004246v4640e0k&issue_number=4&serie_id=EtCret&site_id=1&sp=210&volume_number=21",
+      "access": "page_wrapper_only_image503",
+      "images_inspected": false,
+      "reading_known_via": "Montecchi2024_and_INSCRIBE"
+    }
+  ],
+  "observations": [
+    {
+      "id": "OBJ039-O01",
+      "kind": "reported_autopsy",
+      "statement": "Z-shaped mark near AB118 is reported accidental, not intentional fraction D",
+      "sources": [
+        "OBJ039-S01",
+        "OBJ039-S02"
+      ],
+      "independently_visually_replicated": false,
+      "raw_index_contains_explicit_D": false
+    },
+    {
+      "id": "OBJ039-O02",
+      "kind": "reading_alternative",
+      "statement": "AB01 syllabogram versus two-stroke numeral11 retained; not adjudicated",
+      "sources": [
+        "OBJ039-S01",
+        "OBJ039-S02"
+      ],
+      "direction_conflict": {
+        "INSCRIBE": "left_to_right",
+        "Montecchi2024": "right_to_left"
+      },
+      "adjudication": "unresolved"
+    },
+    {
+      "id": "OBJ039-O03",
+      "kind": "reported_physical_measurement",
+      "statement": "two electronic-scale results3450g and3511g reported in chapter citing Alberti; not newly measured",
+      "sources": [
+        "OBJ039-S02"
+      ],
+      "independence": "two_results_on_one_object_no_new_ancient_witness"
+    },
+    {
+      "id": "OBJ039-O04",
+      "kind": "functional_argument",
+      "statement": "weight interpretation supported through sign iconography, accounting position, mass compatibility, Egyptian parallels; no exact ancient SI use event or participant relation",
+      "sources": [
+        "OBJ039-S02"
+      ],
+      "verdict": "published_hypothesis_remains_live_semantic_gate_not_met"
+    }
+  ],
+  "inspection_correction": {
+    "initial_screenshot_page_claim": "withdrawn",
+    "reason": "search screenshot returned text placeholders, no actual image payload",
+    "admissible_Alberti_article_pages": 0
+  },
+  "stopping_decision": "finite_source_feasibility_inquiry_complete_no_semantic_test",
+  "exposure": "previous_index_and038_screen_exposed; source_led_discovery_not_unused_test",
+  "external_messages_sent": false
+}

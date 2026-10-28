@@ -1,0 +1,51 @@
+{
+  "purpose": "eligibility and sensitivity only; counts do not establish meaning",
+  "branches": [
+    {
+      "branch": "all selected carriers",
+      "selected_carriers": 5,
+      "readable_carriers": [
+        "HT HMs557"
+      ],
+      "readable_classes": [
+        "label"
+      ],
+      "cross_function_comparison_admitted": false
+    },
+    {
+      "branch": "HT only",
+      "selected_carriers": 4,
+      "readable_carriers": [
+        "HT HMs557"
+      ],
+      "readable_classes": [
+        "label"
+      ],
+      "cross_function_comparison_admitted": false
+    },
+    {
+      "branch": "catalogued complete only",
+      "selected_carriers": 2,
+      "readable_carriers": [
+        "HT HMs557"
+      ],
+      "readable_classes": [
+        "label"
+      ],
+      "cross_function_comparison_admitted": false
+    },
+    {
+      "branch": "all catalogue negatives treated as unknown",
+      "selected_carriers": 5,
+      "readable_carriers": [
+        "HT HMs557"
+      ],
+      "readable_classes": [
+        "label"
+      ],
+      "cross_function_comparison_admitted": false
+    }
+  ],
+  "semantic_test_admitted": false,
+  "reason": "No readable member of the reconstructed two-cord-end securing class."
+}

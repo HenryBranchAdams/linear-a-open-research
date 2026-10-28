@@ -1,0 +1,22 @@
+name: Research contribution
+description: Submit results, an idea, a source, or a correction
+title: "[Research] "
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Contribution type
+      options: [Result, Idea, Source, Correction, Claim request]
+    validations:
+      required: true
+  - type: input
+    id: mission
+    attributes:
+      label: Mission ID or finding
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence, alternatives, and reproduction
+      description: Include sources, exact checks, input version, limitations, and agent assistance. Claim requests are pending until confirmed on the site.
+    validations:
+      required: true

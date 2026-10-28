@@ -1,0 +1,112 @@
+[
+  {
+    "form": "KU-*56-NU",
+    "display": "KU-PA3-NU",
+    "kiro_witnesses": [
+      "HT 1",
+      "HT 88",
+      "HT 117a"
+    ],
+    "non_kiro_witnesses": [
+      "HT 3",
+      "HT 49a",
+      "HT 122a",
+      "PH 31a"
+    ],
+    "observed_context_changes": [
+      "HT1: under/after KI-RO with quantity 109",
+      "HT88/HT117: one-count entries in KI-RO-bearing lists",
+      "HT3: quantity 3 outside KI-RO",
+      "HT49a: quantity 1 outside KI-RO",
+      "HT122a: two one-count entries outside KI-RO"
+    ],
+    "leverage": "very_high",
+    "result": "falsifies automatic equation KIRO one-count entry = personal name; designation recurs across list regimes",
+    "source_ids": [
+      "R14-S02",
+      "R14-S03",
+      "R14-S04",
+      "R14-S08"
+    ],
+    "priority_score": 7,
+    "score_note": "Heuristic research-priority score only; not statistical evidence."
+  },
+  {
+    "form": "PA-JA-RE",
+    "display": "PA-JA-RE",
+    "kiro_witnesses": [
+      "HT 88"
+    ],
+    "non_kiro_witnesses": [
+      "HT 29",
+      "HT 8b",
+      "ZA 10b"
+    ],
+    "observed_context_changes": [
+      "HT88: one-count KI-RO entry",
+      "HT29: quantity 2 outside KI-RO",
+      "HT8b: fractional quantity outside KI-RO",
+      "ZA10b: recurrence outside Haghia Triada"
+    ],
+    "leverage": "high",
+    "result": "same form is not tied to one-count/personnel syntax",
+    "source_ids": [
+      "R14-S04",
+      "R14-S11"
+    ],
+    "priority_score": 7,
+    "score_note": "Heuristic research-priority score only; not statistical evidence."
+  },
+  {
+    "form": "SA-RU",
+    "display": "SA-RU",
+    "kiro_witnesses": [
+      "HT 94b"
+    ],
+    "non_kiro_witnesses": [
+      "HT 86a",
+      "HT 86b",
+      "HT 95a",
+      "HT 95b",
+      "HT 123a"
+    ],
+    "observed_context_changes": [
+      "HT94b: one-count KI-RO entry",
+      "HT86/95: recurring grain-account packet",
+      "HT123a: row-initial account label with explicit commodities and row-level KI-RO"
+    ],
+    "leverage": "high",
+    "result": "supports administrative/referential flexibility, not a fixed personal-name status",
+    "source_ids": [
+      "R14-S04",
+      "R14-S12"
+    ],
+    "priority_score": 7,
+    "score_note": "Heuristic research-priority score only; not statistical evidence."
+  },
+  {
+    "form": "PA-TA-NE",
+    "display": "PA-TA-NE",
+    "kiro_witnesses": [
+      "HT 94b"
+    ],
+    "non_kiro_witnesses": [
+      "HT Wa 1019",
+      "HT 122a (modern reading; frozen SigLA differs)"
+    ],
+    "observed_context_changes": [
+      "HT94b: one-count KI-RO entry",
+      "HT Wa1019: same designation on nodule with SI-TU",
+      "HT122a: modern editions/databases read PA-TA-NE, frozen SigLA snapshot reads PA-RI-NE"
+    ],
+    "leverage": "very_high_physical_link",
+    "result": "best tablet-to-nodule bridge; establishes administrative recurrence across media, but not transaction direction",
+    "source_ids": [
+      "R14-S05",
+      "R14-S06",
+      "R14-S13"
+    ],
+    "priority_score": 5,
+    "score_note": "Heuristic research-priority score only; not statistical evidence."
+  }
+]

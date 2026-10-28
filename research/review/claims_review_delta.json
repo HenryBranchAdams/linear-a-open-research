@@ -1,0 +1,64 @@
+{
+  "status": "Review recommendations; source packages left unchanged",
+  "claims": [
+    {
+      "review_id": "RV16-01",
+      "amends": [
+        "LA-016-001"
+      ],
+      "disposition": "retain_with_access_qualification",
+      "replacement": "Edited current KI-RO quantity is 30 with erased 7 preserved separately; this review verifies the transmitted editorial notation, not the ancient surface."
+    },
+    {
+      "review_id": "RV16-02",
+      "amends": [
+        "LA-016-002",
+        "LA-016-003"
+      ],
+      "disposition": "narrow",
+      "replacement": "HT34 supports a local complementary/remainder relation conditional on reading and common scope. Exact debt/delivery semantics are not uniquely selected by the equation."
+    },
+    {
+      "review_id": "RV16-03",
+      "amends": [
+        "LA-016-004"
+      ],
+      "disposition": "retain_as_probable_category",
+      "replacement": "Published cross-script comparison favors a personal-name reading for QA-QA-RU; no historical identity or transaction role is independently fixed."
+    },
+    {
+      "review_id": "RV16-04",
+      "amends": [
+        "LA-016-005"
+      ],
+      "disposition": "qualify",
+      "replacement": "Preserve QA-QA-RU 6 KI 4 as a local observed relation; disclose main sum 35 versus KU-RO 30, final KI 15[ break, and source-based KI/KI-RO equivalence."
+    },
+    {
+      "review_id": "RV16-05",
+      "amends": [
+        "LA-016-006"
+      ],
+      "disposition": "retain_mission_open",
+      "replacement": "No independently directed action-and-role construction yet. An overt written verb is not itself the decisive issue."
+    },
+    {
+      "review_id": "RV16-06",
+      "target": "iterations/016/code/verify.py",
+      "disposition": "confirmed_code_defect",
+      "replacement": "derive() ignores erasure status; the reported status-mutation test is nondiscriminating. See audit_results.json."
+    },
+    {
+      "review_id": "RV16-07",
+      "target": "HT100 polarity framing in iterations 14\u201315",
+      "disposition": "conceptual_correction",
+      "replacement": "4/6 distinguishes KI inclusion/exclusion under the proposed sums, not subtraction or debt direction by itself."
+    },
+    {
+      "review_id": "RV16-08",
+      "target": "novelty labeling",
+      "disposition": "qualify",
+      "replacement": "The specific HT34 subtraction argument already appears in the used commentary. Project reintegration/erasure emphasis are not independently established scholarly firsts."
+    }
+  ]
+}

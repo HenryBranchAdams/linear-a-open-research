@@ -1,0 +1,105 @@
+{
+  "experiment_id": "R10-PACKET-SCALE",
+  "input_sha256": "9d43a874ff9109a498035964998cf002e9e892bdc974a034553a4f739eae0e92",
+  "shared_exact_labels": [
+    "DA-ME",
+    "DI-DE-RU",
+    "KU-NI-SU",
+    "MI-NU-TE",
+    "SA-RU"
+  ],
+  "exact_ratios_HT86a_over_HT95b": {
+    "DA-ME": "2",
+    "DI-DE-RU": "2",
+    "KU-NI-SU": "2",
+    "MI-NU-TE": "2",
+    "SA-RU": "2"
+  },
+  "common_ratio_on_exact_labels": "2",
+  "retrospective_leave_one_exact_label_out": [
+    {
+      "excluded_label": "DA-ME",
+      "training_ratios": [
+        "2"
+      ],
+      "observed_ratio": "2",
+      "status": "internal consistency only; repeated 20/10 is not independent predictive evidence"
+    },
+    {
+      "excluded_label": "DI-DE-RU",
+      "training_ratios": [
+        "2"
+      ],
+      "observed_ratio": "2",
+      "status": "internal consistency only; repeated 20/10 is not independent predictive evidence"
+    },
+    {
+      "excluded_label": "KU-NI-SU",
+      "training_ratios": [
+        "2"
+      ],
+      "observed_ratio": "2",
+      "status": "internal consistency only; repeated 20/10 is not independent predictive evidence"
+    },
+    {
+      "excluded_label": "MI-NU-TE",
+      "training_ratios": [
+        "2"
+      ],
+      "observed_ratio": "2",
+      "status": "internal consistency only; repeated 20/10 is not independent predictive evidence"
+    },
+    {
+      "excluded_label": "SA-RU",
+      "training_ratios": [
+        "2"
+      ],
+      "observed_ratio": "2",
+      "status": "internal consistency only; repeated 20/10 is not independent predictive evidence"
+    }
+  ],
+  "extend_mapping_to_published_Q_pair": {
+    "left_form": "QA-RA2-WA",
+    "right_form": "QE-RA2-U",
+    "observed_left_quantity": "10",
+    "observed_right_quantity": "10",
+    "observed_ratio": "1",
+    "predicted_left_if_same_mapping_and_common_ratio": "20",
+    "residual_observed_minus_predicted": "-10",
+    "universal_scale_model_fits": false,
+    "interpretation": "Reject only the conjunction of mapped Q identity plus one constant conversion of equivalent quantities; not the linguistic relationship."
+  },
+  "section_1_sensitivity": {
+    "independent_exact_labels": [
+      "KU-NI-SU",
+      "SA-RU",
+      "DI-DE-RU"
+    ],
+    "ratios": {
+      "KU-NI-SU": "2",
+      "SA-RU": "2",
+      "DI-DE-RU": "2"
+    },
+    "Q_pair_ratio": "1",
+    "universal_scale_model_fits": false,
+    "interpretation": "Mismatch survives within HT86a section1 alone, avoiding its section2 grain composite. HT95b units and common event still unestablished."
+  },
+  "inherited_HT95_faces_control": {
+    "differences_a_minus_b": {
+      "DA-ME": "0",
+      "DI-DE-RU": "0",
+      "KU-NI-SU": "0",
+      "MI-NU-TE": "0",
+      "QE-RA2-U": "-3",
+      "SA-RU": "10"
+    },
+    "both_positive_and_negative": true,
+    "new_project_finding": false
+  },
+  "numeral_sums_not_written_or_commensurable_totals": {
+    "HT86a": "110",
+    "HT95a": "67",
+    "HT95b": "60"
+  },
+  "mission": "Neither quantities nor repeated labels identify an action expression or direction of transfer."
+}

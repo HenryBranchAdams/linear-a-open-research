@@ -1,0 +1,73 @@
+[
+  {
+    "registry_id": "root:DAVIS_AURA15",
+    "source_id": "DAVIS_AURA15",
+    "branch": "ritual_prior_art",
+    "metadata": {
+      "author": "Brent Davis",
+      "title": "Recent Linguistics-Based Advances in the Study of Linear A",
+      "publication": "The Wor(l)ds of Linear A, AURA15, 2025, pp43–59; online2026",
+      "url": "https://epub.lib.uoa.gr/index.php/aura/article/download/2642/pdf_73/5535",
+      "access": "Official full PDF downloaded; chapter text read; exact morphology comparison at p47 and ritual interpretation pp53–55 checked",
+      "dependency": "Synthesis and arguments rely on GORILA, Duhoux, Valerio and prior Davis research; not additional ancient witnesses",
+      "retrieved": "2026-09-07",
+      "pdf_sha256": "339a38a0d8d2b8939110b950aa773c2ce8f7ac17207afbed5417c95149efbf2b"
+    }
+  },
+  {
+    "registry_id": "root:SCHOEP_DRIESSEN_HANDLE",
+    "source_id": "SCHOEP_DRIESSEN_HANDLE",
+    "branch": "ritual_countermodel",
+    "metadata": {
+      "authors": "Ilse Schoep and Jan Driessen",
+      "title": "An Inscribed Handle from Palaikastro (PK Zb25)",
+      "publication": "Minos37–38 (2002–2003),77–80; relevant79",
+      "url": "https://www.researchgate.net/profile/Jan-Driessen-2/publication/285902837_An_Inscribed_Handle_at_Palaikastro/links/5664309408ae192bbf907d86/An-Inscribed-Handle-at-Palaikastro.pdf",
+      "access": "Full PDF parsed through web; local download403; no new original-image inspection",
+      "dependency": "Uses ZA Zb3 as an earlier published comparison",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "root:THOMAS_MORPHOLOGY",
+    "source_id": "THOMAS_MORPHOLOGY",
+    "branch": "ritual_boundary",
+    "metadata": {
+      "author": "Rose Thomas",
+      "title": "Some reflections on morphology in the language of the Linear A libation formula",
+      "url": "https://www.finnishsyntax.co.uk/wp-content/uploads/sites/3/2022/01/Reflections_on_Morphology_in_the_Language_of_the_Linear_A_Libation_Formula.pdf",
+      "access": "Author-manuscript full PDF text read through web; SY Za2 RE/OLIV qualification and explicit VSO assumptions checked",
+      "dependency": "Conditional morphology/syntax model relying on published transcriptions; not new SY Za2 reading",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "root:YOUNGER_ZAZb3",
+    "source_id": "YOUNGER_ZAZb3",
+    "branch": "ritual_context",
+    "metadata": {
+      "author": "John G Younger after GORILAIV112–113",
+      "url": "https://github.com/mwenge/lineara.xyz/blob/master/commentary/ZAZb3.html",
+      "access": "Full HTML through GitHub connector; uncertain TA retained",
+      "dependency": "GORILA derivative",
+      "retrieved": "2026-09-07"
+    }
+  },
+  {
+    "registry_id": "identity:SIGLA_BROWSE_SNAPSHOT",
+    "source_id": "SIGLA_BROWSE_SNAPSHOT",
+    "branch": "identity",
+    "metadata": {
+      "authors": "Ester Salgarella and Simon Castellan",
+      "title": "SigLA all indexed document-face sequence pages",
+      "url": "https://sigla.phis.me/",
+      "access": "All 802 document-face sequence pages retrieved; 1401 indexed sequences; zero final fetch errors and metadata count mismatches. Per-page URLs and hashes are in the inventory.",
+      "retrieved": "2026-09-07T20:03:51.147660+00:00",
+      "browse_sha256": "c1d25f91dccf334c3cf24b52c1e4a279970cebd3f5c6f377569de076360170cd",
+      "inventory_sha256": "0512f28f757d9330b4fe13e213da6dd583b3562466b459ee77f9558a095a9f4b",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "dependency": "Independent acquisition of an edited database, not independent readings of 802 objects. Sequence chunks may be damaged or split at faces."
+    }
+  }
+]

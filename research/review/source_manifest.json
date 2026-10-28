@@ -1,0 +1,91 @@
+{
+  "P01": {
+    "title": "Research history recovered through iteration 9",
+    "path": "Iteration 10 workspace/context/HISTORY.md",
+    "access": "Read cumulative recovered history; no full rerun of early iterations"
+  },
+  "P02": {
+    "title": "Iteration 10 Candidate-pair atlas",
+    "path": "Iteration 10 workspace/iterations/010/ATLAS.md",
+    "access": "Read atlas and selected code/evidence; ran verify.py in copy"
+  },
+  "P03": {
+    "title": "Iteration 11 report and subsequent review",
+    "files": [
+      "REPORT.md (iteration 11)",
+      "REVIEW.md (review of iteration 11)"
+    ],
+    "access": "Read reports; inspected and ran verifier"
+  },
+  "P04": {
+    "title": "Iteration 12 report",
+    "path": "Iteration 12 workspace/iterations/012/REPORT.md",
+    "access": "Read report; inspected and ran derive_and_verify.py"
+  },
+  "P05": {
+    "title": "Iteration 13 report",
+    "path": "Iteration 13 workspace/iterations/013/REPORT.md",
+    "access": "Read report; recovered ZIP from iteration 14 archive; ran verifier"
+  },
+  "P06": {
+    "title": "Iteration 14 report",
+    "path": "Iteration 14 workspace/iterations/014/REPORT.md",
+    "access": "Read report and selected data/code; ran verifier"
+  },
+  "P07": {
+    "title": "Iteration 15 report and source audit",
+    "paths": [
+      "iterations/015/REPORT.md",
+      "iterations/015/notes/SOURCE_AUDIT.md"
+    ],
+    "access": "Read; ran verifier; not physical object autopsy"
+  },
+  "P08": {
+    "title": "Iteration 16 report, evidence and code",
+    "paths": [
+      "iterations/016/REPORT.md",
+      "iterations/016/data/evidence.json",
+      "iterations/016/code/verify.py",
+      "registry/claims_delta_016.json"
+    ],
+    "access": "Read; baseline rerun; independent status mutation and arithmetic audit"
+  },
+  "W01": {
+    "title": "John Younger, HT34 commentary, retained mirror",
+    "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT34.html",
+    "access": "Reopened editorial transcription and author commentary; not original GORILA plate inspection",
+    "relevant": "30 [[7]] and prior conditional 100-70=30 argument"
+  },
+  "W02": {
+    "title": "John Younger, HT118 commentary, retained mirror",
+    "url": "https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT118.html",
+    "access": "Reopened editorial transcription and author commentary",
+    "relevant": "35 versus 30, final KI 15[, KI=KI-RO? attribution"
+  },
+  "W03": {
+    "title": "Public primary scholarly sources for HT118 and name comparison",
+    "sources": [
+      {
+        "author": "Ester Salgarella",
+        "title": "Writing images, reading syllables: script creation in Bronze Age Crete",
+        "date": "2021-10-20",
+        "url": "https://www.cambridge.org/core/blog/2021/10/20/writing-images-reading-syllables-script-creation-in-bronze-age-crete/",
+        "access": "Read transcription and caption; drawing image fetch failed"
+      },
+      {
+        "authors": "Joann Gulizio and Dimitri Nakassis",
+        "title": "The Minoan Goddess(es): Textual Evidence for Minoan Religion",
+        "year": 2014,
+        "url": "https://sites.utexas.edu/scripts/wp-content/uploads/sites/3428/2017/05/gulizio_nakassis_2014_kerameja.pdf",
+        "access": "Read relevant text and inspected screenshot of printed page 122 (PDF page 26 zero-indexed)",
+        "relevant": "QA-QA-RU/qa-qa-ro and possible Greek adaptation; not direct KN As 604 autopsy"
+      }
+    ]
+  },
+  "W04": {
+    "title": "Cambridge book preview, Transcription Conventions, printed page xv",
+    "url": "https://api.pageplace.de/preview/DT0400.9781108849357_A45555869/preview-9781108849357_A45555869.pdf",
+    "access": "Read parsed convention text. Screenshot request returned cache-miss; no claim of visual inspection of this page.",
+    "relevant": "Double brackets erased text; right bracket break conventions"
+  }
+}

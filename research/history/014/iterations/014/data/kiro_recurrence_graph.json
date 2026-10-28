@@ -1,0 +1,599 @@
+{
+  "nodes": [
+    {
+      "id": "form:*79-SU",
+      "type": "designation",
+      "form": "*79-SU"
+    },
+    {
+      "id": "doc:HT 1",
+      "type": "document_face",
+      "document_face": "HT 1"
+    },
+    {
+      "id": "form:A-RA-NA-RE",
+      "type": "designation",
+      "form": "A-RA-NA-RE"
+    },
+    {
+      "id": "form:DA-TA-RE",
+      "type": "designation",
+      "form": "DA-TA-RE"
+    },
+    {
+      "id": "doc:HT 88",
+      "type": "document_face",
+      "document_face": "HT 88"
+    },
+    {
+      "id": "form:DE-DI",
+      "type": "designation",
+      "form": "DE-DI"
+    },
+    {
+      "id": "doc:HT 94b",
+      "type": "document_face",
+      "document_face": "HT 94b"
+    },
+    {
+      "id": "form:DI-DI-ZA-KE",
+      "type": "designation",
+      "form": "DI-DI-ZA-KE"
+    },
+    {
+      "id": "form:KA-JU",
+      "type": "designation",
+      "form": "KA-JU"
+    },
+    {
+      "id": "form:KE-KI-RU",
+      "type": "designation",
+      "form": "KE-KI-RU"
+    },
+    {
+      "id": "form:KU-*56-*56",
+      "type": "designation",
+      "form": "KU-*56-*56"
+    },
+    {
+      "id": "form:KU-*56-NU",
+      "type": "designation",
+      "form": "KU-*56-NU"
+    },
+    {
+      "id": "doc:HT 117a",
+      "type": "document_face",
+      "document_face": "HT 117a"
+    },
+    {
+      "id": "doc:HT 122a",
+      "type": "document_face",
+      "document_face": "HT 122a"
+    },
+    {
+      "id": "doc:HT 49a",
+      "type": "document_face",
+      "document_face": "HT 49a"
+    },
+    {
+      "id": "doc:PH 31a",
+      "type": "document_face",
+      "document_face": "PH 31a"
+    },
+    {
+      "id": "form:KU-RA-MU",
+      "type": "designation",
+      "form": "KU-RA-MU"
+    },
+    {
+      "id": "form:MA-RU",
+      "type": "designation",
+      "form": "MA-RU"
+    },
+    {
+      "id": "form:MI-RU-TA-RA-RE",
+      "type": "designation",
+      "form": "MI-RU-TA-RA-RE"
+    },
+    {
+      "id": "form:MI-TU",
+      "type": "designation",
+      "form": "MI-TU"
+    },
+    {
+      "id": "form:NA-DA-RE",
+      "type": "designation",
+      "form": "NA-DA-RE"
+    },
+    {
+      "id": "form:PA-JA-RE",
+      "type": "designation",
+      "form": "PA-JA-RE"
+    },
+    {
+      "id": "doc:HT 29",
+      "type": "document_face",
+      "document_face": "HT 29"
+    },
+    {
+      "id": "doc:HT 8b",
+      "type": "document_face",
+      "document_face": "HT 8b"
+    },
+    {
+      "id": "doc:ZA 10b",
+      "type": "document_face",
+      "document_face": "ZA 10b"
+    },
+    {
+      "id": "form:PA-TA-NE",
+      "type": "designation",
+      "form": "PA-TA-NE"
+    },
+    {
+      "id": "doc:HT Wa 1019\u03b1",
+      "type": "document_face",
+      "document_face": "HT Wa 1019\u03b1"
+    },
+    {
+      "id": "form:SA-MA-RO",
+      "type": "designation",
+      "form": "SA-MA-RO"
+    },
+    {
+      "id": "form:SA-RU",
+      "type": "designation",
+      "form": "SA-RU"
+    },
+    {
+      "id": "doc:HT 123a",
+      "type": "document_face",
+      "document_face": "HT 123a"
+    },
+    {
+      "id": "doc:HT 86a",
+      "type": "document_face",
+      "document_face": "HT 86a"
+    },
+    {
+      "id": "doc:HT 86b",
+      "type": "document_face",
+      "document_face": "HT 86b"
+    },
+    {
+      "id": "doc:HT 95a",
+      "type": "document_face",
+      "document_face": "HT 95a"
+    },
+    {
+      "id": "doc:HT 95b",
+      "type": "document_face",
+      "document_face": "HT 95b"
+    },
+    {
+      "id": "form:TE-*56-RE",
+      "type": "designation",
+      "form": "TE-*56-RE"
+    },
+    {
+      "id": "form:TU-JU-MA",
+      "type": "designation",
+      "form": "TU-JU-MA"
+    },
+    {
+      "id": "form:TU-MA",
+      "type": "designation",
+      "form": "TU-MA"
+    },
+    {
+      "id": "form:U-DI-MI",
+      "type": "designation",
+      "form": "U-DI-MI"
+    },
+    {
+      "id": "form:U-SU",
+      "type": "designation",
+      "form": "U-SU"
+    },
+    {
+      "id": "marker:KI-RO",
+      "type": "marker",
+      "form": "KI-RO"
+    }
+  ],
+  "edges": [
+    {
+      "source": "form:*79-SU",
+      "target": "doc:HT 1",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:A-RA-NA-RE",
+      "target": "doc:HT 1",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:DA-TA-RE",
+      "target": "doc:HT 88",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:DE-DI",
+      "target": "doc:HT 94b",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:DI-DI-ZA-KE",
+      "target": "doc:HT 1",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KA-JU",
+      "target": "doc:HT 88",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KE-KI-RU",
+      "target": "doc:HT 94b",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KU-*56-*56",
+      "target": "doc:HT 88",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "doc:HT 1",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "doc:HT 122a",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "doc:HT 49a",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "doc:HT 88",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "doc:PH 31a",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:KU-RA-MU",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:MA-RU",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:MI-RU-TA-RA-RE",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:MI-TU",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:NA-DA-RE",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:PA-JA-RE",
+      "target": "doc:HT 29",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:PA-JA-RE",
+      "target": "doc:HT 88",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:PA-JA-RE",
+      "target": "doc:HT 8b",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:PA-JA-RE",
+      "target": "doc:ZA 10b",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:PA-TA-NE",
+      "target": "doc:HT 94b",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:PA-TA-NE",
+      "target": "doc:HT Wa 1019\u03b1",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:SA-MA-RO",
+      "target": "doc:HT 88",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "doc:HT 123a",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "doc:HT 86a",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "doc:HT 86b",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "doc:HT 94b",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "doc:HT 95a",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "doc:HT 95b",
+      "relation": "appears_in",
+      "kiro_member_context": false
+    },
+    {
+      "source": "form:TE-*56-RE",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:TU-JU-MA",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:TU-MA",
+      "target": "doc:HT 94b",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:U-DI-MI",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "form:U-SU",
+      "target": "doc:HT 117a",
+      "relation": "appears_in",
+      "kiro_member_context": true
+    },
+    {
+      "source": "marker:KI-RO",
+      "target": "doc:HT 88",
+      "relation": "marks_context"
+    },
+    {
+      "source": "form:KU-*56-*56",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 88"
+    },
+    {
+      "source": "form:KA-JU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 88"
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 88"
+    },
+    {
+      "source": "form:PA-JA-RE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 88"
+    },
+    {
+      "source": "form:SA-MA-RO",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 88"
+    },
+    {
+      "source": "form:DA-TA-RE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 88"
+    },
+    {
+      "source": "marker:KI-RO",
+      "target": "doc:HT 94b",
+      "relation": "marks_context"
+    },
+    {
+      "source": "form:TU-MA",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 94b"
+    },
+    {
+      "source": "form:PA-TA-NE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 94b"
+    },
+    {
+      "source": "form:DE-DI",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 94b"
+    },
+    {
+      "source": "form:KE-KI-RU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 94b"
+    },
+    {
+      "source": "form:SA-RU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 94b"
+    },
+    {
+      "source": "marker:KI-RO",
+      "target": "doc:HT 117a",
+      "relation": "marks_context"
+    },
+    {
+      "source": "form:U-SU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:MI-TU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:KU-RA-MU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:MA-RU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:TU-JU-MA",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:U-DI-MI",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:MI-RU-TA-RA-RE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:TE-*56-RE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "form:NA-DA-RE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 117a"
+    },
+    {
+      "source": "marker:KI-RO",
+      "target": "doc:HT 1",
+      "relation": "marks_context"
+    },
+    {
+      "source": "form:*79-SU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 1"
+    },
+    {
+      "source": "form:DI-DI-ZA-KE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 1"
+    },
+    {
+      "source": "form:KU-*56-NU",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 1"
+    },
+    {
+      "source": "form:A-RA-NA-RE",
+      "target": "marker:KI-RO",
+      "relation": "member_under_KI-RO_in",
+      "document_face": "HT 1"
+    }
+  ],
+  "source_corpus_sha256": "0512f28f757d9330b4fe13e213da6dd583b3562466b459ee77f9558a095a9f4b"
+}

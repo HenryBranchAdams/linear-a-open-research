@@ -1,0 +1,59 @@
+{
+  "id": "C038-KHWc2123-v1",
+  "created_at_utc": "2026-10-21T17:06:06.973284+00:00",
+  "operation": "source_qualification_overlay; original index unchanged",
+  "target": "KH Wc 2123",
+  "inventory": "Khania Museum 2123",
+  "face": "incised obverse; seal impressions on rim",
+  "raw_index_key": "KHWc2123",
+  "raw_index_value": {
+    "support": "Roundel",
+    "transliteratedWords": [
+      "*810-PI-KA"
+    ],
+    "words": [
+      "𐝭𐘢𐘾"
+    ]
+  },
+  "reading_branch": {
+    "edition_transcription": "[[A 373 , AB 39-77 (PI-KA)]]",
+    "erasure_scope": "All three elements are enclosed by edition erasure brackets; physical erasure is partial, not complete obliteration.",
+    "comparatively_secure_residual_component": "AB39-AB77, conventional transcription PI-KA, as read by the original editors.",
+    "first_mark": {
+      "2007_proposal": "A373, a possible new bird-like ideogram; tentative",
+      "2021_discussion_reported_by_Del_Freo": "Possible variant of tripod logogram; not established by this campaign",
+      "committee_disposition": "Deferred because erased surface and apparent photograph/drawing divergence need rechecking.",
+      "campaign_resolution": "Unresolved between proposed new sign, tripod variant, or otherwise uncertain mark."
+    },
+    "separator": "Edition comma marks proposed grouping; no ancient divider is established by this overlay.",
+    "encoding_crosswalk": "Raw *810 and U+1076D correspond positionally to the first element in the index. No independently documented global *810=A373 alias recovered; do not globally remap."
+  },
+  "physical_sequence": {
+    "published_assessment": "Inscription, attempted smoothing/erasure, then the present seal impressions.",
+    "source_locator": "Andreadaki-Vlasaki & Hallager2007 p13; fig5 p14; handling discussion p15.",
+    "direct_campaign_verification": "Figure5 and figure7 inspected. Smoothing and retained marks visible, but no decisive crosscut chronology newly verified from these images. Retain sequence as editors’ assessment.",
+    "exclusion_scope": "Conditional on that assessment and a single relevant writing episode, a history placing first creation of the erased inscription wholly after the surviving stamping is inconsistent. No administrative cancellation or semantic role follows."
+  },
+  "counts": {
+    "carriers": 1,
+    "reported_surviving_impression_placements": 9,
+    "attributed_devices": 1,
+    "reported_fingerprint_pairs": 9,
+    "identified_historical_operators": null,
+    "independently_identified_administrative_events": null,
+    "written_quantity_nine": false
+  },
+  "semantics": {
+    "selected_referent": null,
+    "selected_role": null,
+    "selected_action": null,
+    "text_stamp_event_continuity": "Not independently established; correction/reuse and continued referent remain live.",
+    "PI_KA_word_for_bird": "not established; not disproven"
+  },
+  "source_ids": [
+    "C038-S03",
+    "C038-S04",
+    "C038-S05"
+  ],
+  "exposure": "Target already present in frozen discovery index. Primary-page historical exposure unknown; no unseen semantic test. New overlay is a project source correction, not new ancient evidence."
+}

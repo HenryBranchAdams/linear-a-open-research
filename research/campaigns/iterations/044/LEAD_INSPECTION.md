@@ -1,0 +1,11 @@
+# C044 lead inspection log
+
+Actual pixels inspected: Militello 2011 printed 274 (fig. 1, GORILA-derived tablet drawing) and 278 (argument and convention warning); Vandenabeele 1974 printed 9, 18 (fig. 2, HT31.1 photograph and drawing) and 21 (fig. 21, Malia3068 bronze). This is publication-image inspection, not physical examination. The Vandenabeele page previews are 710 pixels wide. Thin incised strokes are not measured leg cross-sections.
+
+Text inspected: Militello selected pages 274–281 and 284–285; Duhoux 2000–2001 selected pages 31–48, especially 33–35 and 38–44; Puglisi 2011 web-extracted author text at printed 201–205, 213–217, 253–256, with catalogue 5.3 at 255. The Puglisi extraction is the retrieved page `https://www.academia.edu/504733/La_fornace_da_vasaio_TM_IB_di_Haghia_Triada_Le_ceramiche_e_il_sistema_di_produzione_distribuzione_e_consumo`; exact target was found by `c.29a` and `5.3`. Original Puglisi figure pixels have not been inspected.
+
+Direct visual observations relevant to the test: the HT31.1 drawing and photograph support three elongated supports, a curved basin and upright handles; the photograph is less clear than the drawing at small details. The bronze figure visibly has three upright loop handles and three narrow straight supports beneath a rounded basin. It is a morphological comparator, not the same object represented by the tablet. Source text specifies square-section riveted supports; this technical construction is reported, not independently established by the page preview.
+
+Reading limits: Duhoux p. 33 reports that an enlargement resolves two stones once misread as a sign above the basin; the present page preview is not an independent verification of that microscopic observation. PU-KO can belong to the heading or qualify the first vessel. The first vessel's amount is damaged/lost; no numerical result is inferred.
+
+Source-object dependence: Vandenabeele supplies the sign photograph and the Malia comparator; Duhoux and Militello reuse that chain. Puglisi's kiln waster is an independently excavated object and different evidence family, but its original figure remains inaccessible. The Room59 tablet attribution is approximate and does not join HT31 to a kiln batch.

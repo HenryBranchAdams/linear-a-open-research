@@ -1,0 +1,93 @@
+[
+  {
+    "page": 6,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0006_0000",
+    "html_bytes": 3684,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0006_0000_710.jpg",
+        "path": "Vandenabeele1974_p6.jpg",
+        "bytes": 157677,
+        "sha256": "41f5d7cba15f2eccb7ba004dbc5e7fbbbe3126080ce5303ce1bb6e482cb54daf"
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0008_0000",
+    "html_bytes": 2590,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0008_0000_710.jpg",
+        "path": "Vandenabeele1974_p8.jpg",
+        "bytes": 132700,
+        "sha256": "8e611caecf69a62a67a78b1a180781629582235e2db391b4a45d493182914016"
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0009_0000",
+    "html_bytes": 3681,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0009_0000_710.jpg",
+        "path": "Vandenabeele1974_p9.jpg",
+        "bytes": 178051,
+        "sha256": "107a00537c3e710b99785d8c97fcb7d4354cd23c0b7703d64da35b3dfc7f9c31"
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0010_0000",
+    "html_bytes": 3767,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0010_0000_710.jpg",
+        "path": "Vandenabeele1974_p10.jpg",
+        "bytes": 168775,
+        "sha256": "d3b6619ff8a8bd734650ca0e1a1975dc5bf505f31af966e190ca7710ef8eee5e"
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0017_0000",
+    "html_bytes": 1865,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0017_0000_710.jpg",
+        "path": "Vandenabeele1974_p17.jpg",
+        "bytes": 106106,
+        "sha256": "9220bd6ea7b9264013fda3fd5229e3b762ae37340e79e0697fc95ef4681986e9"
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0018_0000",
+    "html_bytes": 7953,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0018_0000_710.jpg",
+        "path": "Vandenabeele1974_p18.jpg",
+        "bytes": 90660,
+        "sha256": "b8b4a96b4ea1c18a3bd031c9d1ef9ba8246adda732cc7720779d76bcc22d390a"
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "url": "https://www.persee.fr/doc/page/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0021_0000",
+    "html_bytes": 8467,
+    "images": [
+      {
+        "url": "https://www.persee.fr/renderPage/bch_0007-4217_1974_num_98_1_2094/bch_0007-4217_1974_num_98_1_T1_0021_0000_710.jpg",
+        "path": "Vandenabeele1974_p21.jpg",
+        "bytes": 79708,
+        "sha256": "7898bbfad92dd1cc4629c2f2d302c6b327f7229f273f5ac39bb0d096d5ab86b7"
+      }
+    ]
+  }
+]

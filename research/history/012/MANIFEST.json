@@ -1,0 +1,80 @@
+{
+  "iteration": 12,
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 901,
+      "sha256": "fcda90629e6a30aefcb4e008fb512e164a6e6e70b59b7406f966ef0805a82828"
+    },
+    {
+      "path": "context/CHANGELOG.md",
+      "bytes": 618,
+      "sha256": "ec937b0446f59de717848315df0a1c6858ad7f82ce83d7a5be9b687f88f23a63"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 2051,
+      "sha256": "f952450efecee6dbb979514aedcb3f2a9212f99892cb6f7e644c899c96c9c580"
+    },
+    {
+      "path": "iterations/012/REPORT.md",
+      "bytes": 2745,
+      "sha256": "62b3330b2fd6f086ee4442f2f5f3fc44283372976446bb8c438f45626898a63a"
+    },
+    {
+      "path": "iterations/012/code/derive_and_verify.py",
+      "bytes": 4128,
+      "sha256": "fa91513be23b8882e8f4a512ad875e9d57592bdd76da7369088143e71771881d"
+    },
+    {
+      "path": "iterations/012/data/evidence.json",
+      "bytes": 6497,
+      "sha256": "efbf26c8cf1301421482efc11d0ae35e27bc667c7805a68c8e0692efc528b863"
+    },
+    {
+      "path": "iterations/012/notes/MODEL_COMPARISON.md",
+      "bytes": 2140,
+      "sha256": "2016c3313c874ed975292e2ab959f5991b8a89d153495d4af480eaa784786507"
+    },
+    {
+      "path": "iterations/012/notes/OPERATION_TEST.md",
+      "bytes": 1041,
+      "sha256": "ddaaa51ab12e4f244076594dd32e26ad123a114b721286d20a39f95cb2ed504a"
+    },
+    {
+      "path": "iterations/012/notes/READING_AND_SCOPE.md",
+      "bytes": 1327,
+      "sha256": "108fc4af0b2d16f6dc36ea8f0fb4e725dcad22649e293feb465b6927c9cba01f"
+    },
+    {
+      "path": "iterations/012/notes/SARU_CONTROL.md",
+      "bytes": 921,
+      "sha256": "ddf2d3832b9aceab390f8d55d1dfdd3dbd81787ea69d9ae13f0b05eb9a02c900"
+    },
+    {
+      "path": "iterations/012/results/derived_findings.json",
+      "bytes": 791,
+      "sha256": "8afab50a49d4071c2388fc664e55811964b6e95dab06779aaa04c85a2833faf8"
+    },
+    {
+      "path": "iterations/012/results/verification.txt",
+      "bytes": 836,
+      "sha256": "2615096cf90ef8d762854480298b232b1579dbb13f20cf61387105065aba36d2"
+    },
+    {
+      "path": "registry/claims_delta_012.json",
+      "bytes": 2098,
+      "sha256": "14525db21ae9c364d9962c7e4be02a0e7e398b27c0180ffc4b92ca55cf0f7f33"
+    },
+    {
+      "path": "registry/experiments_012.json",
+      "bytes": 1302,
+      "sha256": "ff24a6c5d710e627b4328f3d37d1d396b6ad137bb81a6ac9c4eb6da625e8a01f"
+    },
+    {
+      "path": "registry/sources_012.json",
+      "bytes": 4165,
+      "sha256": "39d5423e3e94cf4b9841278ba9a003ec99f327342541d2ba122cb1028157f149"
+    }
+  ]
+}

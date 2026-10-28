@@ -1,0 +1,20 @@
+{
+  "source_id": "C040-B-S01",
+  "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/148208.pdf",
+  "local_path": "/workspace/scratch/ceff5305a098/iteration040/agents/discovery_b/Mochlos1990_1991.pdf",
+  "sha256": "977d592747f31299c462ddd6124add82ffae84757575f15d57cf347d67289186",
+  "bytes": 14703150,
+  "access": "local HTTP200; complete PDF acquired; target printed416\u2013419 text inspected; figures14p418 and plate101b actual local raster pixels inspected",
+  "images": [
+    {
+      "source": "printed418 fig14",
+      "pdf_page_1indexed": 28,
+      "render": "figure14.png"
+    },
+    {
+      "source": "plate101b",
+      "pdf_page_1indexed": 59,
+      "render": "plate101.png"
+    }
+  ]
+}

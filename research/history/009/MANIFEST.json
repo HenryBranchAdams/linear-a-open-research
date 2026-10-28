@@ -1,0 +1,215 @@
+{
+  "schema": "round9-manifest-1",
+  "hash": "SHA-256",
+  "excludes": [
+    "MANIFEST.json itself",
+    "disposable __pycache__ and .pyc"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5780,
+      "sha256": "9e02943948e61fd96ac268df56f3ace8e393bc73b5eecdd88c315daff78df753"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 20846,
+      "sha256": "edb7980ca590160e4e6e322d5e2e009322dc66569996d6ac983408c3800c4a0d"
+    },
+    {
+      "path": "RETURN_TO_CHATGPT.md",
+      "bytes": 4917,
+      "sha256": "caa3b5d1be4063e8bc57c9a9d021607111d45d1e1aba6fc683bdc528f3cdaf8b"
+    },
+    {
+      "path": "analysis/anetaki_textile_test.py",
+      "bytes": 4209,
+      "sha256": "6d900512b0bd18ad698a58d305e09a43b9536cad65fda0f35c3f1ffeaf641bf9"
+    },
+    {
+      "path": "analysis/linear_b_check.py",
+      "bytes": 2525,
+      "sha256": "2237a61978053f44294f09dd29c0bcc1fa1ede6be6e87100b55d508ed5bc67f4"
+    },
+    {
+      "path": "analysis/package.py",
+      "bytes": 4216,
+      "sha256": "3f6ad3ca786a45a8951c06bf7afaf41c257a135bc72b7c7cfa042cbbc1b929e9"
+    },
+    {
+      "path": "analysis/roundel_count_test.py",
+      "bytes": 3199,
+      "sha256": "9d15ed1ad10d8f05217156e9fa9f906e900c645b77a59a3cb8272c03611d0c50"
+    },
+    {
+      "path": "analysis/run.py",
+      "bytes": 7544,
+      "sha256": "e92e7ca6694578b2ae0c6cabac11d01d429cc621e3255fed081ae8e29e4bed80"
+    },
+    {
+      "path": "analysis/verify_bundle.py",
+      "bytes": 1588,
+      "sha256": "dc467aa0fef613bf9bc0874db634efdad5f25afa7ad2fbde13689ad49808e273"
+    },
+    {
+      "path": "data/additional_sources.json",
+      "bytes": 3757,
+      "sha256": "94d5c667fe1c8aa3d53e6174695d176bf82570eddccc3ba3d279a351261557bb"
+    },
+    {
+      "path": "data/central_claims.json",
+      "bytes": 3693,
+      "sha256": "63bb97c2a58c9e60a0aa93919998ca8b349e5534c47857c038acec432319f8af"
+    },
+    {
+      "path": "data/claim_ledger.json",
+      "bytes": 19043,
+      "sha256": "a8d39ad1965e1438a4a407edd8c45a45c5bd2d985410a39aae9a2c7442ccad5e"
+    },
+    {
+      "path": "data/experiment_ledger.json",
+      "bytes": 9036,
+      "sha256": "b93c59271cc2abd5e1646bf7793478699d402cad38a5a03fddcb8d9edaaa8ed9"
+    },
+    {
+      "path": "data/input_provenance.json",
+      "bytes": 1069,
+      "sha256": "a75b82eb0ff9700e431333e643d062bf5577cdac29ac78da64c1c25f716cf0a4"
+    },
+    {
+      "path": "data/observations.json",
+      "bytes": 195101,
+      "sha256": "8b2f1c28f8bf0b08fcaba8139bca5977349aa8d9b668dc0bda614fdab4ac14c4"
+    },
+    {
+      "path": "data/prediction_ledger.json",
+      "bytes": 2282,
+      "sha256": "cceecbcebda692aeafa99760187799b6245f4d7a22393fed3c927a16abe5b38a"
+    },
+    {
+      "path": "data/research_cycles.json",
+      "bytes": 2117,
+      "sha256": "6c6eb282f07877c1c0aa5b8ae232210f44ceb6a4ebdb59b9f76a6a7e94dec1e5"
+    },
+    {
+      "path": "data/sigla_sequence_inventory.json",
+      "bytes": 750151,
+      "sha256": "0512f28f757d9330b4fe13e213da6dd583b3562466b459ee77f9558a095a9f4b"
+    },
+    {
+      "path": "data/sources.json",
+      "bytes": 41925,
+      "sha256": "fe6e514a7199a3fe13376714c9e384322b1f076ec5de01f6b17e1362628d7ea9"
+    },
+    {
+      "path": "notes/acquire_sigla_words.py",
+      "bytes": 2786,
+      "sha256": "c1b4d9260c1b1b1d0c385d90d2efbf9b0a3d182c57b81cfbe8e743f3b0a61347"
+    },
+    {
+      "path": "notes/adversarial.md",
+      "bytes": 10989,
+      "sha256": "d4b07897281e573e3130c0faa1f42de0d421527f72639367ec5f435c97e09cd0"
+    },
+    {
+      "path": "notes/anetaki.json",
+      "bytes": 15682,
+      "sha256": "f70588a8b5254e090162ff2daba65c5cdbdc7b08cd4978c732ed29cc6e75b3ef"
+    },
+    {
+      "path": "notes/anetaki.md",
+      "bytes": 7428,
+      "sha256": "a4712444d67912e13953a28f11e9546e848ef9869a1b0575a7042d5eeb75d1e0"
+    },
+    {
+      "path": "notes/identity.json",
+      "bytes": 33621,
+      "sha256": "d63142eb3e8b01ed1df31effebe43bd1b1e8793acac2d3f041a5a66e66150ef6"
+    },
+    {
+      "path": "notes/identity.md",
+      "bytes": 9039,
+      "sha256": "b31f38c37d8b48b452550d902b6c19f7cafb8c45123d72af0c6a4c0cdf317170"
+    },
+    {
+      "path": "notes/identity_analysis.py",
+      "bytes": 4223,
+      "sha256": "53b5b4858f0cdd7022f76da93891a8bdf2eb7e0b6804103e3dd3edb0e72486d3"
+    },
+    {
+      "path": "notes/identity_results.json",
+      "bytes": 12142,
+      "sha256": "7ccd40d0a4f3f91c025132d3d7a6bd65c0a8e6591fb93c800f5dd6da936f5ded"
+    },
+    {
+      "path": "notes/jar.json",
+      "bytes": 20855,
+      "sha256": "626f7c88f32dce9364810eb82bc56eb25690fed75e0f66180f7ec3de4364ac6b"
+    },
+    {
+      "path": "notes/jar.md",
+      "bytes": 10646,
+      "sha256": "f7143e97c62d0a1455385e87b6ae437c3b40e54598e6794ef6a1ab2123dc5753"
+    },
+    {
+      "path": "notes/linear_b.json",
+      "bytes": 43298,
+      "sha256": "dae475a84599324311fad0b56acd66193c075e1bbe3df1a323c692d7b68bbb0d"
+    },
+    {
+      "path": "notes/linear_b.md",
+      "bytes": 9761,
+      "sha256": "cc321367b9f29c02e2f90b52653c0ddece145f0d3ae5bc1f023dc0dbfea89117"
+    },
+    {
+      "path": "notes/ritual_check.md",
+      "bytes": 3155,
+      "sha256": "bb8527c53faaca504f61cede786f2e948d1f7fcdc100b348dcd99bb83c00eec9"
+    },
+    {
+      "path": "notes/roundels.json",
+      "bytes": 13189,
+      "sha256": "b8a96bda3cfbcbc7b5e54ae9cf5cc3b4393d4ec638781163a6a578c5c2c7bf61"
+    },
+    {
+      "path": "notes/roundels.md",
+      "bytes": 9251,
+      "sha256": "2050df0f1f26e8395674a2924bccb15cd87c5d504106e4c4f3f8ca73b1de66d3"
+    },
+    {
+      "path": "notes/za9.json",
+      "bytes": 7489,
+      "sha256": "a1a13d3f5f1735e8a73c35add26bc88c696c3b2cf2d1bd0fe4f6888bcaa6ccf8"
+    },
+    {
+      "path": "notes/za9.md",
+      "bytes": 8108,
+      "sha256": "2049b48bb5d237d2db8362014d3b1b7c2b473fd017c46ed845f56ac380d2b5c0"
+    },
+    {
+      "path": "results/anetaki_textile_test.json",
+      "bytes": 4155,
+      "sha256": "fe90ae90f78f9d9e638f76125bd4a90f1a4c4e81581b76f88f4e30e0ad72ebba"
+    },
+    {
+      "path": "results/package_verification.json",
+      "bytes": 2871,
+      "sha256": "dad7c2172b50cf733f5552a8c88be198b513cf349d194039255671a08ff12380"
+    },
+    {
+      "path": "results/roundel_count_test.json",
+      "bytes": 2234,
+      "sha256": "6b9a7889145b9f46039bd69eb98a723d9bf49542bacafd74274b1ae40e3f7c19"
+    },
+    {
+      "path": "results/summary.json",
+      "bytes": 1429,
+      "sha256": "8c89d3bcc0737bf6150f40b7cb5a470a541ec08542b6bd11dcc6045018528d82"
+    },
+    {
+      "path": "tests/test_evidence_integrity.py",
+      "bytes": 2980,
+      "sha256": "618c64dc020149056cf71380b28a34aba365183dfb00ea83e9a3ee076a808d03"
+    }
+  ]
+}

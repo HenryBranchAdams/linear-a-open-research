@@ -1,0 +1,41 @@
+{
+  "campaign_id": "LA-C040-2026-10-23",
+  "authority_before": "B2026-10-18 plusC038/C039",
+  "authority_after": "B2026-10-18 plusC038/C039/C040",
+  "status": "completed_stopped",
+  "claim_changes": [
+    {
+      "id": "LA-040-001",
+      "before": "Exact-pair source not adjudicated in current registry",
+      "after": "source_object_and_conditional_production_constraints_retained_semantics_unresolved"
+    }
+  ],
+  "evidence_levels": {
+    "access": "Later exact-pair conference source acquired; exact inventories and data recovered",
+    "reading_object_control": "Inventory/photo concordance;AB81 continuation qualification",
+    "physical_constraint": "Source-reported incision before exterior coating; one-volume measurement and manufacturing contrast",
+    "semantic_discrimination": null,
+    "linguistic_replication": null,
+    "mission_construction": null
+  },
+  "strongest_grounded_rival": "Production/workshop-related label associated with technical differences; not selected. A commissioned recipient is permitted by timing without a recovered order.",
+  "screens": 3,
+  "deep_inquiries": 1,
+  "semantic_experiments_admitted": 0,
+  "new_ancient_objects": 0,
+  "registry_additions": {
+    "claims": 1,
+    "access_feasibility_records": 2,
+    "sources": 5
+  },
+  "expected_totals": {
+    "claims": 84,
+    "access_feasibility_records": 34,
+    "sources": 109
+  },
+  "method_clarification": "Admission need not presuppose a named referent; grounded comparative support required. Does not promote older claims.",
+  "navigation_repair": "Remove stale NEXT sentence thatSI Zg1 was never deeply investigated;039 source inquiry already complete",
+  "stop": "Finite exact-pair route lacks crossed independent manufacture/content observations",
+  "recorded_at_utc": "2026-10-23T16:58:10.532Z",
+  "completed_at_utc": "2026-10-23T17:02:29.808Z"
+}

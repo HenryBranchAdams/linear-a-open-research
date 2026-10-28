@@ -1,0 +1,34 @@
+{
+  "reviewed_at_utc": "2026-10-21T17:06:51.909836+00:00",
+  "reviewer": "independent_challenger",
+  "purpose": "Source-overlay integrity and scope check; not a semantic or linguistic test.",
+  "snapshot_path": "baseline_packet/Linear_A_Baseline_2026-10-18/corpus/discovery_snapshot.json",
+  "snapshot_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "raw_record_path": "campaign_work/Linear_A_Campaign_038/iterations/038/evidence/raw_index_record.json",
+  "raw_record_sha256": "e65601325e2477a1999d362b27f97fd76d81038ee74b661abaf6fb6df5e3ecba",
+  "overlay_path": "campaign_work/Linear_A_Campaign_038/iterations/038/evidence/KHWc2123_critical_overlay.json",
+  "overlay_sha256": "7cdab8ba2cc26ac18cf026a1ebc6cf3d50a8c0478aa790625d9e6b465fc34533",
+  "checks": {
+    "baseline_snapshot_hash_matches_verified_baseline": true,
+    "raw_record_snapshot_hash_correct": true,
+    "raw_record_equals_unchanged_snapshot": true,
+    "overlay_raw_record_equals_unchanged_snapshot": true,
+    "raw_sign_codepoints": [
+      "U+1076D",
+      "U+10622",
+      "U+1063E"
+    ],
+    "raw_first_codepoint_matches_overlay_statement": true,
+    "semantic_referent_role_action_unassigned": true
+  },
+  "manual_source_checks": {
+    "erasure_scope": "Edition brackets cover the three-element group; overlay explicitly says partial erasure rather than obliteration.",
+    "first_mark": "Bird-like new-sign proposal and tripod alternative are preserved as tentative; committee deferral retained.",
+    "separator": "Editorial comma is explicitly not asserted to be an ancient divider.",
+    "alias": "Position-only relationship of raw *810 to first mark; no global A373 equivalence imposed.",
+    "chronology": "Attribution to original editors retained; no new crosscut observation claimed; single relevant writing episode condition explicit.",
+    "events": "One carrier/multiple impressions are not counted as independent named transactions."
+  },
+  "required_changes": [],
+  "verdict": "Pass at stated source-control scope. This verifies faithful preservation and qualification, not a translation."
+}

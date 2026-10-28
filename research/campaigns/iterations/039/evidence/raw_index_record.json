@@ -1,0 +1,19 @@
+{
+  "snapshot_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "source_path": "corpus/discovery_snapshot.json",
+  "record_key": "SIZg1",
+  "raw_record": {
+    "support": "Stone object",
+    "transliteratedWords": [
+      "A",
+      "𐄁",
+      "DA-*118"
+    ],
+    "words": [
+      "𐘇𐝫",
+      "𐄁",
+      "𐝫𐘀𐙈"
+    ]
+  },
+  "row_match_count": 1
+}

@@ -1,0 +1,186 @@
+{
+  "iteration": 14,
+  "generated_utc_note": "2026-09-12 session",
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 730,
+      "sha256": "19816f83b2aad4ef6bdf633ab7b0ffe66acb02a660e57a59d5d2dbc5e50c60f1"
+    },
+    {
+      "path": "archive/Linear_A_Research_Workspace_Iteration_13.zip",
+      "bytes": 14908,
+      "sha256": "a44ab2049cde0c0c05ad6f49996c31b6c9365be64ae3691cfd771605427060e4"
+    },
+    {
+      "path": "context/CHANGELOG.md",
+      "bytes": 692,
+      "sha256": "8277a8493f8da3167fdee0059c19bb9074c4d7cada4035563e5035d8733fce69"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 1712,
+      "sha256": "8277a003f4c9f2a0829cac82e6a05b0044052a8e5946ca6ffae5052c3d2b7908"
+    },
+    {
+      "path": "context/HISTORY_DELTA.md",
+      "bytes": 611,
+      "sha256": "da12c88a720a621528322911d05d337c8ea1fde5cfddecc267d0649461b09903"
+    },
+    {
+      "path": "context/PLAN_COMPLETION.md",
+      "bytes": 1109,
+      "sha256": "084dbd9a04766c06de49ec72e28dd122f8f811d74d8a468ac5e3a12d79ac8653"
+    },
+    {
+      "path": "corpus/sigla_sequences_2026-09-07.json",
+      "bytes": 750151,
+      "sha256": "0512f28f757d9330b4fe13e213da6dd583b3562466b459ee77f9558a095a9f4b"
+    },
+    {
+      "path": "iterations/014/PLAN.md",
+      "bytes": 13762,
+      "sha256": "b6b64a18e9f19d48b050a27e93bb7be9d02dcf3599c3ba94d2988333b2e2f491"
+    },
+    {
+      "path": "iterations/014/REPORT.md",
+      "bytes": 6904,
+      "sha256": "32580d6a753b4d19f686e76387fea0858e66504e7b100f0b7c415273921f140b"
+    },
+    {
+      "path": "iterations/014/code/build_recurrence_graph.py",
+      "bytes": 1261,
+      "sha256": "443a30a6da4ba8a24e76cb9017595cbda464a370fdee0a2f11dda349a43e3f1b"
+    },
+    {
+      "path": "iterations/014/code/derive_and_verify.py",
+      "bytes": 2887,
+      "sha256": "05c5a54e8e0d50abba82a404b8edb02687e9fdb9efd97d61ef625283d6adb86e"
+    },
+    {
+      "path": "iterations/014/data/candidates.json",
+      "bytes": 3076,
+      "sha256": "ab1b34d3309b5b512aca01d61aa30d79cb7a176eef9e643df9b6e6e8ca545ac1"
+    },
+    {
+      "path": "iterations/014/data/evidence_ladder.json",
+      "bytes": 339,
+      "sha256": "a336910c6ee99f4cf781a85cc5e8ae11a12b4c4ed35a0f58cd21762e75cd5028"
+    },
+    {
+      "path": "iterations/014/data/ht100_polarity.json",
+      "bytes": 1183,
+      "sha256": "89650984c16544c159961bc6778e27693a7e07cd12e8a763bbf02b6f513ccb5c"
+    },
+    {
+      "path": "iterations/014/data/kiro_member_recurrences.json",
+      "bytes": 5989,
+      "sha256": "490960addac16c87bec8a35baae153120320782d346593855817519065cbbc93"
+    },
+    {
+      "path": "iterations/014/data/kiro_occurrence_inventory.json",
+      "bytes": 6192,
+      "sha256": "140d1e5ab29d00906deeaae02a600c7c0ecde9fd4dd5b0fb9144ced3cadf22ea"
+    },
+    {
+      "path": "iterations/014/data/kiro_recurrence_graph.json",
+      "bytes": 13553,
+      "sha256": "471965e27b4f76fc5e9dc51e1e1a1b2cc13e23e964c63e9d7f06ba4cfa150bc5"
+    },
+    {
+      "path": "iterations/014/data/linear_b_controls.json",
+      "bytes": 1053,
+      "sha256": "9a0c7a49f8d5332cef82a1e978c382ea7af6998fce5b73b0e3321415ed88f716"
+    },
+    {
+      "path": "iterations/014/data/negative_controls.json",
+      "bytes": 779,
+      "sha256": "bd80bbe5048343b17b3d98bbcd7f6c2a12252f13088226a22d54d7af7aca0d1c"
+    },
+    {
+      "path": "iterations/014/data/operator_models.json",
+      "bytes": 1108,
+      "sha256": "5c06df1cc99f9fe57aa4279c22f905d810233ff6f8d70b73eaa5819cb6c209fd"
+    },
+    {
+      "path": "iterations/014/data/physical_links.json",
+      "bytes": 1643,
+      "sha256": "c4fa3bfef51d8bd6a35c867466e4f6c641ed11141db073ad93a901ca1e9c3ff2"
+    },
+    {
+      "path": "iterations/014/data/prediction_exposure_ledger.json",
+      "bytes": 1879,
+      "sha256": "d180d7eeed9f39fcf6fa23562cdb2574c26017f8965e2aa845490bfd4ab1e284"
+    },
+    {
+      "path": "iterations/014/notes/ADVERSARIAL_REVIEW.md",
+      "bytes": 1588,
+      "sha256": "27a89eceef2a1d90c15497e2949d81b00afb9e733c7e5f358a50867541e627ff"
+    },
+    {
+      "path": "iterations/014/notes/HT100_POLARITY.md",
+      "bytes": 864,
+      "sha256": "67fd290950e1730d7694396a43ecb5c4ffcc59de0cb064d8fa2372a50056c8e3"
+    },
+    {
+      "path": "iterations/014/notes/LINEAR_B_CONTROLS.md",
+      "bytes": 644,
+      "sha256": "33309f4b670c4ab0bcb1c6f2117000209542864862934728d627563ffc71508a"
+    },
+    {
+      "path": "iterations/014/notes/PHYSICAL_LINKAGE.md",
+      "bytes": 751,
+      "sha256": "92bed99f9489332d8b53d4a143e04e5dfcdea2d501ed10b09bca7c6cd2fbeeee"
+    },
+    {
+      "path": "iterations/014/notes/ROSTER_COMPARISON.md",
+      "bytes": 972,
+      "sha256": "67cc8692fedfa0e761290bf03e5a9bd5e250f51692b7f4b483c740c56275922e"
+    },
+    {
+      "path": "iterations/014/notes/SOURCE_AUDIT.md",
+      "bytes": 807,
+      "sha256": "3f6924f91c5b4121eb6af5e9f31854ef3c5f85ca5adb3505e0b4068e2aad6654"
+    },
+    {
+      "path": "iterations/014/notes/TOP_CANDIDATE_DOSSIER.md",
+      "bytes": 1700,
+      "sha256": "47eeedcb439a90568767876a48259032d4d9cb8ee0daabbcab4d3052a2f711e2"
+    },
+    {
+      "path": "iterations/014/results/candidate_ranking.csv",
+      "bytes": 750,
+      "sha256": "ebe8175826c967ee66341c84a448a788841e0f8e740b7eb5deff273e33d4e2a1"
+    },
+    {
+      "path": "iterations/014/results/recurrence_edges.csv",
+      "bytes": 998,
+      "sha256": "24811e8db4a98897d0a4351d4eab425dd999561aea2ba39f34f9975c1659fe34"
+    },
+    {
+      "path": "iterations/014/results/verification.json",
+      "bytes": 696,
+      "sha256": "e68bb783ef7d353566be06c8e3b6d7aff40ba0bc434858e7c3ac13375a8e6cec"
+    },
+    {
+      "path": "iterations/014/results/verification_console.txt",
+      "bytes": 774,
+      "sha256": "645765dc318f6ac1259d35d2a3ec8190876fc8fb6f97b02bdf798f19d07095ce"
+    },
+    {
+      "path": "registry/claims_delta_014.json",
+      "bytes": 2600,
+      "sha256": "60a1534c233fde64b1fa9bdd56fa0159a1546d7cf0c5c37a47a627966fb3be78"
+    },
+    {
+      "path": "registry/experiments_014.json",
+      "bytes": 1909,
+      "sha256": "8768118857d40a485a773e2d668556559b08ac2dd265787107c1c6cc49633776"
+    },
+    {
+      "path": "registry/sources_014.json",
+      "bytes": 5821,
+      "sha256": "9a6f3d6d0d0f8a1250765772754ef5e93d40a329761fe56d27862372596530e5"
+    }
+  ]
+}

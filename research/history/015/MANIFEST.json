@@ -1,0 +1,70 @@
+{
+  "iteration": 15,
+  "files": [
+    {
+      "path": "START_HERE.md",
+      "bytes": 417,
+      "sha256": "35c8f6c229fa5fb732357f39c56f0f481c2a991ba993c2eb5987a18583e83d18"
+    },
+    {
+      "path": "context/CHANGELOG.md",
+      "bytes": 398,
+      "sha256": "d0151066cddd845a1cbadfb462822a632879349484f5c9666b8f1bc5f8a3592b"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 1010,
+      "sha256": "d116cd9758091eaa9c4d07746eafb15e866a57ce5f0fbcddfd5ae9282a71719d"
+    },
+    {
+      "path": "iterations/015/REPORT.md",
+      "bytes": 2201,
+      "sha256": "c963b1daccbabf7ad8447cbdad26b8c90dd312ca678fd6beeefe114ecc4af374"
+    },
+    {
+      "path": "iterations/015/code/verify.py",
+      "bytes": 2365,
+      "sha256": "2f73f7de2852862b6e44e8b01779fd937793497994e3d9341abf966b9f233b74"
+    },
+    {
+      "path": "iterations/015/data/ht100_adjudication.json",
+      "bytes": 3536,
+      "sha256": "8f6e5846a64f9495124f88e4e13c7bf157bc77dcd77465ef858b236124a90d54"
+    },
+    {
+      "path": "iterations/015/notes/EPIGRAPHIC_ADJUDICATION.md",
+      "bytes": 1379,
+      "sha256": "c15e4dddf8808a34a4f626447401054901de7996b3ef83848e7100408a5a0618"
+    },
+    {
+      "path": "iterations/015/notes/SOURCE_AUDIT.md",
+      "bytes": 1761,
+      "sha256": "49934def5079ca10805bef2525741b503687986d3159cbcb27cb2c86be18c3b7"
+    },
+    {
+      "path": "iterations/015/results/verification.json",
+      "bytes": 524,
+      "sha256": "e03c7e98800c52a728bd8a76615bee5bf1f998c046a9e0c44565299ba9a1e6e0"
+    },
+    {
+      "path": "iterations/015/results/verification.txt",
+      "bytes": 564,
+      "sha256": "0f7d4ba987751b54a4bc416461cedcdfa4c010935d500d96411cb77c870e59df"
+    },
+    {
+      "path": "registry/claims_delta_015.json",
+      "bytes": 1428,
+      "sha256": "5695ba0f3087171a43f80653af4f9b2340ec21ec13a60100ac0f6d38286ec04d"
+    },
+    {
+      "path": "registry/experiments_015.json",
+      "bytes": 488,
+      "sha256": "f35ecbcb75bb1eebf0ee6e7a61b49a1cced6111cb111e6f0f0fa8824e7755953"
+    },
+    {
+      "path": "registry/sources_015.json",
+      "bytes": 1784,
+      "sha256": "790d65defe080c038166dd96b06e193c5ec25c9c0ac1260f627c73f3249728ba"
+    }
+  ]
+}

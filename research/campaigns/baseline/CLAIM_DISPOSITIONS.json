@@ -1,0 +1,611 @@
+{
+  "baseline_id": "B2026-10-18",
+  "kind": "curated_adjudication_of_existing_research",
+  "scientific_registry_entries_added": 0,
+  "not_a_list_of_new_discoveries": true,
+  "source_key_register": "baseline/Linear_A_Research_Baseline_2026-10-18.md#source-register",
+  "note": "Current judgments retain all stated reading, scope and model conditions; consult original sources for observations.",
+  "dispositions": [
+    {
+      "id": "B-D01",
+      "topic": "Initial ritual construction and validation",
+      "evidence_level": "structural hypothesis",
+      "status": "semantic_success_and_blindness_retired",
+      "current_statement": "The three September4 finals supply exposed, conditional structural comparisons. No independently supported action-and-participant construction or genuine unused-witness semantic success is established.",
+      "limits": [
+        "SYZa2 and TLZa1 outcomes already appear in the earlier First-Principles final.",
+        "A reported deterministic split can be valid within a run without blindness during research.",
+        "The Controlled report describes conceptual pseudocode; the Reproducible report links a ZIP not recovered or executed in this review."
+      ],
+      "controlling_sources": [
+        "S00a",
+        "S00b",
+        "S00c",
+        "S06",
+        "S07",
+        "audit/historical_audit.md"
+      ],
+      "strongest_remaining_alternative": "Recipient/deity, apposition, separate notation and nonpredicate interpretations remain alongside actor/theme readings.",
+      "reopening_observation": "Independent action/role or local relationship evidence that distinguishes the serious alternatives. A local result may advance before replication; freeze any rule before later unused validation, and retain the full mission standard separately.",
+      "historical_assertion": "Mission achieved at constructional-semantic level; SYZa2 genuine out-of-sample semantic success; TLZa1 blind3/3.",
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D02",
+      "topic": "KU-RO / PO-TO-KU-RO",
+      "evidence_level": "inherited function anchor",
+      "status": "retained_with_source_scope",
+      "current_statement": "Totaling and higher aggregation are useful inherited scholarly anchors; selected sums fit.",
+      "limits": [
+        "Not a project discovery.",
+        "Some totals, entries and scopes are damaged or ambiguous.",
+        "HT122 late KU-DA1 gives31+1+65=97 conditionally."
+      ],
+      "controlling_sources": [
+        "S01"
+      ],
+      "strongest_remaining_alternative": "Individual accounting scope or readings can differ even when the general function is useful.",
+      "reopening_observation": "A new source-constrained account relation, not another familiar sum.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-H002",
+        "LA-H003"
+      ]
+    },
+    {
+      "id": "B-D03",
+      "topic": "A-DU / SA-RA2 / KI-RO equation",
+      "evidence_level": "semantic hypothesis",
+      "status": "withdrawn",
+      "current_statement": "The original assessed=fulfilled+outstanding equation is not established; recurring structures remain.",
+      "limits": [
+        "HT28 sides lack independent direction/temporal roles.",
+        "HT95 mixed changes and ZA4/15 conditions do not select a universal payment reading."
+      ],
+      "controlling_sources": [
+        "S00a",
+        "S01"
+      ],
+      "strongest_remaining_alternative": "Allocation, issue, category and other administrative models.",
+      "reopening_observation": "Independent account scope, event and direction evidence that separates the models.",
+      "historical_assertion": "A-DU assessed; SA-RA2 fulfilled; KI-RO outstanding.",
+      "legacy_claim_ids": [
+        "LA-H001",
+        "LA-H004",
+        "LA-H010"
+      ]
+    },
+    {
+      "id": "B-D04",
+      "topic": "KI-RO counted lists",
+      "evidence_level": "accounting structure",
+      "status": "retained_limited",
+      "current_statement": "HT88 six unit entries close at6; HT117a ten at10. HT94b supplies a damaged parallel.",
+      "limits": [
+        "HT94b closing5[ is not a complete certain5.",
+        "Units are not automatically people; grouping does not select absence, debt or allocation."
+      ],
+      "controlling_sources": [
+        "S04",
+        "S05"
+      ],
+      "strongest_remaining_alternative": "Alternative administrative categories fit the same counted structure.",
+      "reopening_observation": "Independently interpreted member category or operation linked to the written grouping.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D05",
+      "topic": "HT34 complement and correction",
+      "evidence_level": "conditional accounting structure",
+      "status": "strong_semantics_downgraded",
+      "current_statement": "Retain30[[7]] and37 branches. The30 branch permits100=70+30 under common scope.",
+      "limits": [
+        "Review16 found status-insensitive verification.",
+        "Iteration17 repairs sensitivity, not ancient chronology.",
+        "Reading, scope and meaning are separate premises."
+      ],
+      "controlling_sources": [
+        "S02",
+        "S03",
+        "S04"
+      ],
+      "strongest_remaining_alternative": "Paid/unpaid, allocated/unallocated or issued/retained can share the complement.",
+      "reopening_observation": "Reading/scope constraints plus an independently discriminating administrative relationship.",
+      "historical_assertion": "Substantial breakthrough; secure local residual construction;37 only a flattened transcription error.",
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D06",
+      "topic": "HT118 paired quantities and QA-QA-RU",
+      "evidence_level": "conditional accounting pattern",
+      "status": "role_claim_downgraded",
+      "current_statement": "Paired15/10,6/4,4/1 form25,10,5. Main sum35 versus KU-RO30, KI15[, unpaired RI-RU-MA10 and scope/error alternatives remain.",
+      "limits": [
+        "One of six pair permutations produces multiples of5; selected after exposure.",
+        "Repeated publication of the pattern is not replication.",
+        "No-error model requires KI additional at rows but included in final summary and a modeled outflow10."
+      ],
+      "controlling_sources": [
+        "S02",
+        "S03",
+        "S13",
+        "S14"
+      ],
+      "strongest_remaining_alternative": "Different summary scope and one-cell-error models can retain the observed roundness.",
+      "reopening_observation": "An independently linked comparable account with known relevant scope or a new discriminating source constraint.",
+      "historical_assertion": "Named person QA-QA-RU has independently established deficit4.",
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D07",
+      "topic": "HT9 PA3",
+      "evidence_level": "layout and numeric constraint",
+      "status": "fulfilled_gloss_downgraded",
+      "current_statement": "Repeated quantities support conditional nonincrease and local exclusions; PA3 sits in a separated upper reverse block.",
+      "limits": [
+        "Whole-face scope is not independently established.",
+        "1/60 remapping is post-exposure."
+      ],
+      "controlling_sources": [
+        "S03"
+      ],
+      "strongest_remaining_alternative": "Fulfillment, cancellation and allocation remain compatible.",
+      "reopening_observation": "Independent event/scope relation or a new comparable packet that differentiates these operations.",
+      "historical_assertion": "PA3 is independently realized/fulfilled.",
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D08",
+      "topic": "HT103 KI-RA",
+      "evidence_level": "reading-dependent accounting model",
+      "status": "remainder_unestablished",
+      "current_statement": "6.5=1+5.5 is one reading/scope branch; published]8 and restored[1]8 alternatives remove the equality.",
+      "limits": [
+        "Repeated DA-KU-SE-NE does not independently establish one account/event/unit.",
+        "PA3/DA segmentation matters.",
+        "KI-RA and KI-RO must not be silently pooled."
+      ],
+      "controlling_sources": [
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "strongest_remaining_alternative": "Alternative number readings, additive/recipient models and differing account scope.",
+      "reopening_observation": "Reading adequate for the specific comparison, or a result robust across the retained reading branches, plus an independently constrained account relationship that differentiates a serious rival. A local advance may qualify first; later replication of a proposed rule requires a frozen prediction and an unused independent observation.",
+      "historical_assertion": "KI-RA established as remainder.",
+      "legacy_claim_ids": [
+        "LA-021-001",
+        "LA-030-001"
+      ]
+    },
+    {
+      "id": "B-D09",
+      "topic": "HT100 polarity",
+      "evidence_level": "conditional accounting scope",
+      "status": "lexical_polarity_unestablished",
+      "current_statement": "The4/6 choice changes modeled aggregate inclusion/exclusion relative to97.",
+      "limits": [
+        "The source choice and common scope remain conditional.",
+        "Aggregate exclusion is not a translated negative meaning."
+      ],
+      "controlling_sources": [
+        "S02",
+        "S03"
+      ],
+      "strongest_remaining_alternative": "Inclusion and exclusion models under different readings.",
+      "reopening_observation": "Reading evidence and independent operation/role context.",
+      "historical_assertion": "Unsigned reconciliation secure; HT100 determines semantic polarity.",
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D10",
+      "topic": "HT24 textile conversion",
+      "evidence_level": "metrological constraint",
+      "status": "parked_underdetermined",
+      "current_statement": "ME lower bound41.5 is secure;47.5 includes doubtful6;63 uses restoration. Lossless45 is conditional, not measured.",
+      "limits": [
+        "A1/19 processing loss could fit47.5 but is not observed.",
+        "Free yield/missing input permits flexible multiplier fits."
+      ],
+      "controlling_sources": [
+        "S01"
+      ],
+      "strongest_remaining_alternative": "Different conversion, missing input and processing-yield models.",
+      "reopening_observation": "Independent metrology/input/yield bounds; better ME alone may be insufficient.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-H034"
+      ]
+    },
+    {
+      "id": "B-D11",
+      "topic": "HT104 and TI",
+      "evidence_level": "reading/segmentation",
+      "status": "suffix_role_unestablished",
+      "current_statement": "45.5+20.5+29=95 conditionally; suffix and separate-sign parses preserve the same sum.",
+      "limits": [
+        "Second J is damaged.",
+        "PH31b comparator is source-damaged.",
+        "HT20 PA-DASU corrected to PA-ROSU.",
+        "TI106tokens/90records/42types/111standalone signs are different counting units."
+      ],
+      "controlling_sources": [
+        "S04",
+        "S05"
+      ],
+      "strongest_remaining_alternative": "Suffix morphology versus independent sign/ideogram and differing referents.",
+      "reopening_observation": "Complete same-referent and functional contrast independent of the proposed ending.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D12",
+      "topic": "HT30 and HT114a/121",
+      "evidence_level": "numeric model exclusions",
+      "status": "retained_conditional",
+      "current_statement": "HT30 conventional VIN ratio1/17 versus additive D ratio1/2 excludes one common positive rate; HT114a/121 grain10→5 and NI1→2 reject one fixed basket scale and simple nesting.",
+      "limits": [
+        "Declared readings, units and scope control the exclusions.",
+        "Commodity-specific rules remain.",
+        "Fitted value weights are not external exchange rates."
+      ],
+      "controlling_sources": [
+        "S05"
+      ],
+      "strongest_remaining_alternative": "Flexible commodity-specific and differently scoped models.",
+      "reopening_observation": "Independent conversion/event constraints yielding a different prediction.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D13",
+      "topic": "HT89 parser correction",
+      "evidence_level": "data/source control",
+      "status": "corrected",
+      "current_statement": "Original23+22+24+13+5=87; omitted lowercase-sign quantity13 caused extracted74.",
+      "limits": [
+        "Does not imply every ancient account must balance.",
+        "Other parser views still require explicit source overlays."
+      ],
+      "controlling_sources": [
+        "S05",
+        "audit/recent_evidence_audit.md"
+      ],
+      "strongest_remaining_alternative": "No remaining discrepancy for the particular corrected omission.",
+      "reopening_observation": "New evidence of a different reading/scope defect, not rerunning the repaired sum.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D14",
+      "topic": "HT86/95 cohort",
+      "evidence_level": "graphic structure",
+      "status": "retained_no_role_identity",
+      "current_statement": "Five exact labels recur with proposed Q identity withheld; HT86a partitions them3+2 while HT95a has one visible list.",
+      "limits": [
+        "20/10 constant vectors fit all120 permutations.",
+        "Room is not event; HT86 Hand6 versus HT95 unassigned.",
+        "Diagnostic tails are not calibrated historical-person probabilities.",
+        "Broader pools have a four-label tie when MI-NU-TE is omitted.",
+        "HT95b scope remains qualified."
+      ],
+      "controlling_sources": [
+        "S01",
+        "S05",
+        "S07",
+        "S08"
+      ],
+      "strongest_remaining_alternative": "Repeated office, category, place, institutional or account labels and other event structures.",
+      "reopening_observation": "Independent account/event/participant evidence changing a named comparison.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-H004",
+        "LA-025-001",
+        "LA-033-004",
+        "LA-033-005",
+        "LA-034-003"
+      ]
+    },
+    {
+      "id": "B-D15",
+      "topic": "DA-ME / KI-RE-TA-NA contrasts",
+      "evidence_level": "following-sign structure",
+      "status": "retained_narrow",
+      "current_statement": "DA-ME GRA+B versus GRA+K+L rejects invariant exact compound; KI-RE-TA-NA anthropomorphic versus grain family rejects a narrowly invariant following family.",
+      "limits": [
+        "Does not reject every broad grain meaning or prove a personal name.",
+        "Retain VIR+[?] source qualifiers; literal index adjacency is not a physical-line claim."
+      ],
+      "controlling_sources": [
+        "S08"
+      ],
+      "strongest_remaining_alternative": "Broader semantic classes and context-varying associations.",
+      "reopening_observation": "Independent referent/role evidence tied to the exact written component.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-034-001",
+        "LA-034-002"
+      ]
+    },
+    {
+      "id": "B-D16",
+      "topic": "QI-TU-NE / SA-RU and external names",
+      "evidence_level": "graded category hypothesis",
+      "status": "retained_limited",
+      "current_statement": "QI-TU-NE counted/heading/subheading recurrence and DI-KI-SE association survive; SA-RU entity/account preference remains a hypothesis. PA-I-TO has a Linear B place-type anchor and MA-DI an exact personal-name-type parallel.",
+      "limits": [
+        "No unique Linear A historical referent, role or direction follows from an external type comparison.",
+        "SA-RU broader category alternatives reopened in12."
+      ],
+      "controlling_sources": [
+        "S01",
+        "S03",
+        "S05"
+      ],
+      "strongest_remaining_alternative": "Person, office, group, place, institution, category and account alternatives.",
+      "reopening_observation": "Independent binding of the target designation to an exact referent/category and differentiating context.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D17",
+      "topic": "TA-NA / KU-MI-NA / QE / SE",
+      "evidence_level": "graphic morphology candidates",
+      "status": "parked_without_function",
+      "current_statement": "Complete formal contrasts remain; TA-NA lacks shared-referent/role bridge, and KU-MI-NA three-form comparison is prior published work with incomplete crossed paradigm.",
+      "limits": [
+        "ZA9 did not confirm A-TA-NA-TI.",
+        "TE/TI site confounding and broken Linear B comparators remain.",
+        "KU-MI-NA requires two further independently observed cells under the strict grid.",
+        "Complete QE/SE contrasts do not identify morpheme function."
+      ],
+      "controlling_sources": [
+        "S01"
+      ],
+      "strongest_remaining_alternative": "Different designations, whole forms, segmentation choices and noncase variation.",
+      "reopening_observation": "Complete independently linked same-referent contrasts or function-bearing context.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-H018",
+        "LA-H019",
+        "LA-H020",
+        "LA-H023",
+        "LA-H025",
+        "LA-H026",
+        "LA-H027"
+      ]
+    },
+    {
+      "id": "B-D18",
+      "topic": "IOZa16 restoration and optional ME",
+      "evidence_level": "source completeness",
+      "status": "old_strong_claims_retired",
+      "current_statement": "TA-I-*123 is not unique: TE-*123 is a concrete rival. Apparent short SASARA forms can be damaged or continue across faces.",
+      "limits": [
+        "No missing prefix recovered.",
+        "False complete-word grids do not establish optional ME."
+      ],
+      "controlling_sources": [
+        "S01"
+      ],
+      "strongest_remaining_alternative": "Alternate attested prefix or standalone sign; continued full word.",
+      "reopening_observation": "New preserved writing that adjudicates the missing component, with true face joins.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-H007",
+        "LA-H022"
+      ]
+    },
+    {
+      "id": "B-D19",
+      "topic": "SYZa2 numeral and SI–A302 gap",
+      "evidence_level": "reading/layout control",
+      "status": "corrected",
+      "current_statement": "SYZa2 indexed1 is an edition-level divider; a neat SI–A302 gap in a straightened drawing is not an observed divider.",
+      "limits": [
+        "Preserve raw index unchanged and name overlay.",
+        "Original overlap was deliberately removed in the drawing.",
+        "Sign shape is not its lexical meaning."
+      ],
+      "controlling_sources": [
+        "S06",
+        "S07"
+      ],
+      "strongest_remaining_alternative": "A numeric reading would need actual source or physical evidence, not an expected offering amount.",
+      "reopening_observation": "Evidence addressing the exact original classification.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-032-001",
+        "LA-033-001",
+        "LA-033-003"
+      ]
+    },
+    {
+      "id": "B-D20",
+      "topic": "Ritual boundaries and oil substitution",
+      "evidence_level": "structural constraints",
+      "status": "semantics_unresolved",
+      "current_statement": "KO I-DA-A and I-PI-NA-MA cross physical faces; complete SYZa4 lacks the full canonical tail; proposed oil substitution lacks independently matched flanks.",
+      "limits": [
+        "Universal face-end/full-tail rules fail, not every source-specific boundary.",
+        "PKZa27 restored full word is not an undamaged replication.",
+        "Alignment choices and spatial A-JA matter.",
+        "No predicate, donor or recipient is identified."
+      ],
+      "controlling_sources": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "strongest_remaining_alternative": "Substitution with other changes, separate notation, apposition and alternate clause scope.",
+      "reopening_observation": "Stable independent equivalent span or role/function anchor retaining original layout.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-029-001",
+        "LA-029-002",
+        "LA-032-002",
+        "LA-033-002"
+      ]
+    },
+    {
+      "id": "B-D21",
+      "topic": "THEZb13 production phase",
+      "evidence_level": "physical constraint",
+      "status": "retained_limited",
+      "current_statement": "Source descriptions support a prefiring inscription phase and exclude wholly postfiring first creation of the entire text.",
+      "limits": [
+        "Not exhaustive stroke timing.",
+        "Later individual component additions are not ruled out.",
+        "Commissions, recipients and acceptance/delivery remain possible.",
+        "Publication inspection is not object autopsy."
+      ],
+      "controlling_sources": [
+        "S09",
+        "P01",
+        "audit/baseline_challenge.md"
+      ],
+      "strongest_remaining_alternative": "Several marking moments and use histories remain within the restricted phase constraint.",
+      "reopening_observation": "Independent component/event evidence that differentiates a defined material or semantic comparison.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D22",
+      "topic": "A588 / KNZb34 / THEZb13",
+      "evidence_level": "source/object control",
+      "status": "parked_evidence_limited",
+      "current_statement": "A588 component comparison is better controlled; KNZb34/NM1160 original compound entry adds no independently selected role for its modifier.",
+      "limits": [
+        "KA-A-SI-TE not secure complete designation.",
+        "Indexed second120 is not a second observed account.",
+        "100/120/220 alternatives are not a stock event.",
+        "Conventional VIN base does not decode AB04/TE modifier.",
+        "Known no-numeral parallel already cited in2005; no new ancient witness.",
+        "Third West Magazine carries a later source qualification."
+      ],
+      "controlling_sources": [
+        "S09",
+        "S10"
+      ],
+      "strongest_remaining_alternative": "Product/capacity, workshop, commission and intended allocation/recipient models.",
+      "reopening_observation": "An independent product, production or allocation relation bound to this component/marking event, or a controlled differentiating contrast; no known missing source asserted to contain it.",
+      "historical_assertion": null,
+      "legacy_claim_ids": [
+        "LA-036-001"
+      ]
+    },
+    {
+      "id": "B-D23",
+      "topic": "CMS seal device and people",
+      "evidence_level": "object/device relationships",
+      "status": "roles_unestablished",
+      "current_statement": "AB01/AB02 contrast within CMSII.6.68 depends on weak HMs1715 attribution; excluding it removes the counterexample.",
+      "limits": [
+        "A device-use network is not one person or one written role.",
+        "HT/ZA findspot/clay and object-caption qualifications remain.",
+        "Macroscopic clay similarity is not analytical provenance.",
+        "A textile bridge through one seal is not multiple independent routes."
+      ],
+      "controlling_sources": [
+        "S01",
+        "S09"
+      ],
+      "strongest_remaining_alternative": "Mobile user, shared device, office, category and other use networks.",
+      "reopening_observation": "Exact device/object/provenance controls plus independent role/operation evidence.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D24",
+      "topic": "PHWa32 / PHWa52 / HMs789θ",
+      "evidence_level": "source/object control",
+      "status": "parked_packet_incomplete",
+      "current_statement": "PHWa32 AB53/AB60 conflict remains target-stroke unresolved; PHWa52/HMs689 individual box packet incomplete; HMs789θ is separate.",
+      "limits": [
+        "PHWa32 secondary fill does not establish original event.",
+        "Papyrus-like contact differs from attachment to a written document.",
+        "Levi four and Hallager nodule-plus-two do not make a complete common census.",
+        "Same seal/physical closure does not bind inscription to responsibility."
+      ],
+      "controlling_sources": [
+        "S08",
+        "S09",
+        "S10",
+        "S11"
+      ],
+      "strongest_remaining_alternative": "Other contact/use mechanisms, categories and counterparties.",
+      "reopening_observation": "Exact inventory/reverse/attachment/source argument linking stable writing to a differentiating operation or role.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D25",
+      "topic": "Akrotiri analytical nodules",
+      "evidence_level": "sample/object link",
+      "status": "parked_join_missing",
+      "current_statement": "No exact readable inscription/sample/marking-event join was recovered for N69/N70.",
+      "limits": [
+        "N69 incision status unknown, not certainly uninscribed.",
+        "N70 not legible.",
+        "Müller2005 is not automatically the later2005–06 programme."
+      ],
+      "controlling_sources": [
+        "S09",
+        "S11"
+      ],
+      "strongest_remaining_alternative": "Different samples, material provenance and marking histories.",
+      "reopening_observation": "Exact analytical sample tied to legible marked object and relevant event.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D26",
+      "topic": "Flouda2024 full argument",
+      "evidence_level": "source access",
+      "status": "parked_access_limited",
+      "current_statement": "The full source remains uninspected after investigation37; access outcome does not reject responsibility/administrator interpretation.",
+      "limits": [
+        "DOI/abstract/vendor/ORCID is not the article.",
+        "No newly identified complete-copy route at baseline.",
+        "Obtaining a copy clears access only."
+      ],
+      "controlling_sources": [
+        "S10",
+        "S11"
+      ],
+      "strongest_remaining_alternative": "Responsibility versus strongest context-supported counterparty/category interpretation remains unevaluated at full-source level.",
+      "reopening_observation": "A legitimate full copy or one genuinely new route reopens bounded source evaluation. Semantic admission subsequently requires an independently differentiating writing-to-relation link.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    },
+    {
+      "id": "B-D27",
+      "topic": "Code, corpus, reviews and publication",
+      "evidence_level": "research infrastructure",
+      "status": "not_semantic_validation",
+      "current_statement": "Preservation and selected computation checks passed within their declared scope; historical corrections and source access are real support work.",
+      "limits": [
+        "1721records,802faces,1401chunks and other row/token counts differ.",
+        "Original raw index not globally corrected by overlays.",
+        "80claims/28records/92sources are not semantic success metrics.",
+        "Prinz proposed workbench/Schümann audit not established as implemented.",
+        "Public portal remains an older publication snapshot pending content reconciliation."
+      ],
+      "controlling_sources": [
+        "S01",
+        "S04",
+        "S05",
+        "S10",
+        "S12",
+        "S15",
+        "S16",
+        "V01"
+      ],
+      "strongest_remaining_alternative": "A correct computation or publication can preserve an underdetermined interpretation.",
+      "reopening_observation": "Actual source/semantic decision change reported separately from support outputs.",
+      "historical_assertion": null,
+      "legacy_claim_ids": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "R12-QITUNE-CROSS-POSITION",
+    "status": "completed",
+    "inputs": "iterations/012/data/evidence.json",
+    "code": "iterations/012/code/derive_and_verify.py",
+    "result": "iterations/012/results/derived_findings.json",
+    "finding": "Secure counted occurrence on HT7b + secure heading/subheading occurrences on HT87/HT117; HT94 not required.",
+    "limitations": "Does not establish one lexical sense, overt predicate, or transaction direction."
+  },
+  {
+    "id": "R12-REPEATED-CLASSIFICATION",
+    "status": "completed",
+    "finding": "DI-KI-SE 1 occurs beneath QI-TU-NE on both HT87 and HT117.",
+    "limitations": "Structural membership/classification only; meaning unknown."
+  },
+  {
+    "id": "R12-SARU-ASSUMPTION-AUDIT",
+    "status": "completed",
+    "result": "iterations/012/notes/SARU_CONTROL.md",
+    "finding": "Iteration 11 category exclusion softened; one-count evidence requires an independent domain anchor.",
+    "limitations": "No new SA-RU identity evidence."
+  },
+  {
+    "id": "R12-ROLE-SYMMETRY",
+    "status": "completed",
+    "result": "iterations/012/notes/OPERATION_TEST.md",
+    "finding": "Supplier/recipient/responsibility directions remain observationally symmetric.",
+    "limitations": "No expected roster/quantity or counterparty anchor."
+  }
+]

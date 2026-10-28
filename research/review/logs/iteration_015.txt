@@ -1,0 +1,19 @@
+Iteration 15 HT100 verification passed.
+{
+  "arithmetic": {
+    "if4_including_ki": 97,
+    "if4_excluding_ki": 95,
+    "if6_excluding_ki": 97,
+    "if6_including_ki": 99
+  },
+  "source_critical_adjudication": "unresolved",
+  "ki_polarity": "not_identifiable_from_HT100",
+  "failure_injection_tests": {
+    "claiming_4_secure_fails": true,
+    "claiming_6_secure_fails": true,
+    "baseline_unresolved_passes": true
+  },
+  "note": "Arithmetic is deterministic; epigraphic status is encoded from the audited source hierarchy and is not a machine-vision reading."
+}
+
+STDERR:

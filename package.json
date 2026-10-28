@@ -1,0 +1,19 @@
+{
+  "name": "linear-a-open-research",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "displayName": "Kami Editorial Site",
+  "scripts": {
+    "dev": "node scripts/preview.mjs",
+    "build": "node scripts/build.mjs",
+    "generate": "drizzle-kit generate",
+    "test": "node --test --test-isolation=none tests/*.test.mjs"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.5"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.4"
+  }
+}

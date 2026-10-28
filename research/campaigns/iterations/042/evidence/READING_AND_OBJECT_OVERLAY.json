@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-24",
+  "authority": "C042 scoped source overlay; raw corpus unchanged",
+  "corpus_sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+  "objects": [
+    {
+      "canonical_designation": "KN Zb27",
+      "frozen_corpus_key": "KNZb<27>",
+      "inventory": "HM5194",
+      "identity_source": "Christakis2010 Fig6.2 pp51–53",
+      "preferred_numeral": 107,
+      "preferred_source": "DelFreo2017 p17; reported22June2012 autopsy withZurbach",
+      "history": [
+        {
+          "reading": 17,
+          "source": "GORILAIV78 as explicitly discussed byOlivier1992; inheritedfrozencorpus; nooriginalBriceadjudication"
+        },
+        {
+          "reading": 117,
+          "source": "Olivier1992 p446 originalpixels; Christakis2010 inherited"
+        },
+        {
+          "reading": 107,
+          "source": "DelFreo2017 p17 authorfulltext; reportedautopsy"
+        }
+      ],
+      "brice_1961_status": "Not inspected; later accounts conflict on itsoriginalnumeral. Do not retroject17 or117 as independentlyverified Brice reading.",
+      "capacity_litres": 34,
+      "capacity_qualification": "about; no targetmethod/filllevel/error inspected",
+      "height_cm": 53,
+      "word_translation": null,
+      "contents_assay": null
+    },
+    {
+      "canonical_designation": "ZA Zb3",
+      "frozen_corpus_key": "ZAZb3",
+      "inventory_status": "No inventedinventory/specimenjoin",
+      "preferred_numeral": 32,
+      "preferred_source": "GORILAtradition plus Olivier1992 p446 originalcomparison; no fresh definitiveplateadjudication",
+      "historical_alternatives": [
+        {
+          "reading": 22,
+          "source": "Stronk1972 p86"
+        },
+        {
+          "reading": 21,
+          "source": "Best1982–83 p9 damage/divider argument; Stronk1982–83 p27conditionaladoption"
+        }
+      ],
+      "capacity_litres": 556,
+      "author_allowance_percent": 11,
+      "capacity_qualification": "Stronk1972 averageinternalradius/maxliquidheight geometricestimate; notwaterfill or confidenceinterval",
+      "new_measurement_lead": "Notti2025 fullarticleunacquired; p195sample only. No newcapacity entered."
+    }
+  ],
+  "meaning": "No lexicalmeaning, action or participantrole established",
+  "independence": "Two carriers; multiplemodernpublications notadditionalancientwitnesses; commonunitnotindependentlyestablished",
+  "overlay_does_not_rewrite_raw": true
+}

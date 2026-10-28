@@ -1,0 +1,66 @@
+[
+  {
+    "id": "R12-S01",
+    "title": "Alexander Uchitel, HT 94, Minos 37\u201338 (2002\u20132003), 81\u201388",
+    "url": "https://gredos.usal.es/handle/10366/133929",
+    "access": "Full searchable article text surfaced on the web.",
+    "used_for": "HT94 structure, *21F-TU-[NE] 1, note that lists 3\u20134 follow GORILA V p.73 corrigenda.",
+    "independence": "Modern scholarly interpretation; not an independent ancient witness."
+  },
+  {
+    "id": "R12-S02",
+    "title": "Alexander Uchitel, Ships and shipment in Minoan Linear A, Minos 39 (2016), 9\u201316",
+    "url": "https://gredos.usal.es/bitstream/handle/10366/133945/Ships_and_shipment_in_Minoan_Linear_A.pdf?isAllowed=y&sequence=1",
+    "access": "Searchable article text surfaced on the web.",
+    "used_for": "Independent later reproduction of HT94b *86 section with *21F-TU-[NE] 1; *86 personnel/ship discussion.",
+    "independence": "Later article by same scholar; contextual corroboration, not independent epigraphic witness."
+  },
+  {
+    "id": "R12-S03",
+    "title": "Ruth Palmer, Linear A Commodities: A Comparison of Resources, Aegaeum 12 (1995)",
+    "url": "https://electronicsandbooks.com/edt/manual/Magazine/A/Aegaeum%20US/Aegaeum%2012%20%281995%29.%20Politeia.%20Society%20and%20State%20in%20the%20Aegean%20Bronze%20Age/Palmer.pdf",
+    "access": "Searchable PDF text surfaced on the web.",
+    "used_for": "Independent contextual classification: HT7 among personnel-only tablets with AB100; HT87/117 W+N 1-lists best paralleled by Linear B personnel documents.",
+    "independence": "Scholarly contextual analysis independent of the Iteration 12 hypothesis."
+  },
+  {
+    "id": "R12-S04",
+    "title": "Brent Davis & Miguel Val\u00e9rio, Names and designations of people in Linear A: HT 85 and 117",
+    "url": "https://www.researchgate.net/publication/352343395_Names_and_designations_of_people_in_Linear_A_A_contextual_study_of_tablets_HT_85_and_117",
+    "access": "Searchable full-text excerpts surfaced on the web.",
+    "used_for": "HT117/87 heading-entry structure; possible Linear B anthroponym parallels; DI-KI-SE recurrence.",
+    "independence": "Published contextual argument; external parallels are suggestive controls, not proof of Linear A semantics."
+  },
+  {
+    "id": "R12-S05",
+    "title": "Linear A structured corpus / Linear A Explorer derivative",
+    "url": "https://aigents.berta.one/decipherment/corpus",
+    "access": "Searchable structured corpus surfaced on the web; reports source as Linear A Explorer / GORILA.",
+    "used_for": "Exact secure transcriptions of HT7b, HT87, HT117b and sign-normalization cross-check.",
+    "independence": "Derivative corpus, not independent of GORILA; used for transcription consistency only."
+  },
+  {
+    "id": "R12-S06",
+    "title": "PA-I-TO Project sitography linking the EFA GORILA digitization",
+    "url": "https://www.paitoproject.it/sitography/",
+    "access": "Opened; provides direct EFA/Cefael links to GORILA I\u2013V.",
+    "used_for": "Primary-edition access route and provenance.",
+    "independence": "Navigation source only."
+  },
+  {
+    "id": "R12-S07",
+    "title": "Godart & Olivier, GORILA I; GORILA V",
+    "url": "https://cefael.efa.gr/detail.php?actionID=page&issue_number=1&page_number=5&page_type=0&serie_id=EtCret&site_id=1&volume_number=21",
+    "access": "EFA volume landing page opened. Relevant individual page images could not be navigated reliably in the current non-JavaScript web environment.",
+    "used_for": "Primary-edition provenance; no claim upgraded on the basis of an uninspected image.",
+    "independence": "Primary critical edition."
+  },
+  {
+    "id": "R12-S08",
+    "title": "Roland Cash & Evelyne Cash, The HT 123 tablet",
+    "url": "https://www.researchgate.net/publication/291276250_The_HT_123_tablet_Accounting_in_Linear_A_Purpose_of_the_tablet_consequences_on_the_values_of_fractions_and_the_meaning_of_the_term_67-02",
+    "access": "Searchable article excerpts surfaced on the web.",
+    "used_for": "SA-RU re-audit and direction-reversal caution.",
+    "independence": "Published accounting interpretation; direction explicitly remains reversible."
+  }
+]

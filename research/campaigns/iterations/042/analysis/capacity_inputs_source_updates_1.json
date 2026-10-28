@@ -1,0 +1,79 @@
+{
+  "campaign": "C042",
+  "version": "2026-10-24-source-updates-1",
+  "question": "Can the numbers on KN Zb27 and ZA Zb3 both denote full capacities of their respective single carriers in one common volumetric unit?",
+  "analysis_rule": "C042_ANALYSIS_RULE.md",
+  "analysis_rule_sha256": "72ecdf4a19014190562b327dfecb88b93a5449c198fbfa60f37e3db568c167f0",
+  "capacity_source_inputs": {
+    "KNZb27": {
+      "inventory": "HM5194",
+      "litres_nominal": "34",
+      "lower": null,
+      "upper": null,
+      "method": "Christakis reports about 34 litres; no capacity method, instrument or uncertainty identified in the inspected article text.",
+      "completeness_control": "Detailed restoration/completeness must remain tied to source report; no new autopsy by project.",
+      "source_id": "Christakis2010",
+      "locator": "p.51; object join via fig.6.2 and pp.53 figs.6.3-6.4",
+      "inspection": "Source agent read author-posted publication text; source pixels/photographs acquisition separately logged. Comparative analyst receives source-qualified numerical extraction, not independent measurement."
+    },
+    "ZAZb3": {
+      "litres_nominal": "556",
+      "lower": "494.84",
+      "upper": "617.16",
+      "relative_tolerance": "0.11",
+      "method": "Stronk's geometric estimate, approximately pi times average internal radius squared times maximum wine-level height; NOT a performed water/grain fill measurement.",
+      "source_id": "Stronk1972",
+      "locator": "pp.85-87",
+      "inspection": "Lead inspected all three original page pixels; quoted tolerance treated as source tolerance, not statistical confidence interval."
+    }
+  },
+  "reading_branches": {
+    "KNZb27": [
+      {"q": 107, "status": "preferred source reading", "source_id": "DelFreo2017", "locator": "p.17", "basis": "Reports Del Freo and Zurbach's 22 June 2012 Heraklion autopsy: 107 rather than 117."},
+      {"q": 117, "status": "superseded source reading, retained sensitivity branch", "source_id": "Christakis2010", "locator": "pp.51-53", "basis": "Earlier report; subsequent autopsy corrects numeral."},
+      {"q": 17, "status": "inherited frozen corpus derivative, not an equal-weight current reading", "source_id": "frozen_discovery_index", "locator": "key KNZb<27>", "basis": "Exact inherited row; source agent has identified superseding 107 autopsy report."}
+    ],
+    "ZAZb3": [
+      {"q": 32, "status": "inherited current derivative; direct GORILA edition check pending", "source_id": "frozen_discovery_index", "locator": "key ZAZb3", "basis": "Source chain for current reading being inspected by lead."},
+      {"q": 22, "status": "historical source reading, retained sensitivity branch", "source_id": "Stronk1972", "locator": "pp.85-87", "basis": "Original article uses 22."},
+      {"q": 21, "status": "conditional historical proposal, retained sensitivity branch", "source_id": "Stronk1982_83", "locator": "p.27", "basis": "Stronk conditionally accepts Best's reading 21; this note does not propose 32."}
+    ]
+  },
+  "sources": {
+    "Christakis2010": {
+      "title": "A wine offering to the Central Palace Sanctuary at Knossos: the evidence from KN Zb27",
+      "author": "Kostas S. Christakis",
+      "publication": "In O. Krzyszkowska (ed.), Cretan Offerings: Essays in Honour of Peter Warren, British School at Athens Studies 18 (2010), pp.49-55",
+      "url": "https://www.academia.edu/3702318/Christakis_K_S_2010_Wine_offering_to_the_Central_Palace_Sanctuary_at_Knossos_the_evidence_from_KN_Zb_27_in_O_Krzyszkowska_ed_Cretan_Offerings_Essays_in_Honour_of_P_M_Warren_British_School_at_Athens_Studies_18_London_49_55_London"
+    },
+    "DelFreo2017": {
+      "title": "Rapport 2011-2015 sur les textes en écriture hiéroglyphique crétoise, en linéaire A et en linéaire B",
+      "author": "Maurizio Del Freo",
+      "publication": "Aegean Scripts I (2017), pp.3-30",
+      "url": "https://www.academia.edu/17580940/Rapport_2011_2015_sur_les_textes_en_%C3%A9criture_hi%C3%A9roglyphique_cr%C3%A9toise_en_lin%C3%A9aire_A_et_en_lin%C3%A9aire_B"
+    },
+    "Stronk1972": {
+      "title": "A Pithos from Epano Zakro",
+      "author": "J. P. Stronk",
+      "publication": "Talanta IV (1972), pp.85-87",
+      "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Stronk-85-87.pdf"
+    },
+    "Stronk1982_83": {
+      "title": "Linear A Liquid Measure: A Contribution",
+      "author": "J. P. Stronk",
+      "publication": "Talanta XIV-XV (1982-1983), p.27",
+      "url": "https://www.talanta.nl/wp-content/uploads/2014/10/Stronk-27.pdf"
+    },
+    "frozen_discovery_index": {
+      "title": "Inherited project frozen discovery index (B2026-10-18 through C041)",
+      "source_of_exact_rows": "C042_EXPOSURE_CHECK.json",
+      "warning": "Derivative transcriptions are preserved; new source corrections require overlays, not silent replacement of frozen bytes."
+    }
+  },
+  "excluded_inputs": [
+    {"input": "Notti2025 suggested 12-12.5 litres/unit", "reason": "Only sample page and abstract acquired; measurement derivation and exact reading not inspected."},
+    {"input": "Younger more than 1000 litres from height170cm", "reason": "Not independently source-verified; no averaging with Stronk estimate."},
+    {"input": "Linear B 28.8 litres/unit", "reason": "Not independently established for these objects; would add a disputed calibration."}
+  ],
+  "disclosure": "Analytic rule frozen after KN34/117/17 were known, before ZA values and KN107 correction were received. This is source-led discovery, not preregistration over genuinely unused ancient evidence."
+}

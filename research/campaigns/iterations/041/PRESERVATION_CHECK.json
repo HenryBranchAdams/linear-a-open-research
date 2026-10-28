@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "manifest_files": 146,
+  "registry_totals": [
+    85,
+    36,
+    113
+  ],
+  "inherited_prefixes_unchanged": [
+    84,
+    34,
+    109
+  ],
+  "frozen_baseline_corpus_and_protocol_unchanged": true,
+  "history_append_only": true,
+  "exact040archive_preserved": true,
+  "catalogue_measurement_and_no_join_fields_consistent": true,
+  "scope": "preservation/representation only; not epigraphic adjudication, autopsy, assay, ancient meaning or measurement replication"
+}

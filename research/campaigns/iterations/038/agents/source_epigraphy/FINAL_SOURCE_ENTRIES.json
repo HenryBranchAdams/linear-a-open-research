@@ -1,0 +1,438 @@
+[
+  {
+    "campaign_iteration": 38,
+    "accessed_date": "2026-10-21",
+    "branch_source_ledger": "iterations/038/agents/source_epigraphy/FINAL_SOURCE_ENTRIES.json",
+    "path_scope": "All capture paths are relative to the Campaign 038 package root.",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C038-S01",
+    "title": "Flouda, G. 2024. \"Agency and materiality entangled: new insights into Minoan clay sealed documents from Protopalatial Phaistos\" — ResearchGate author record (PDF sent upon request)",
+    "source_type": "Author publication/access record; abstract only",
+    "authors": [
+      "Georgia Flouda"
+    ],
+    "publication_date": "2024-10",
+    "publication_date_precision": "Month displayed by author record; exact publication day not established here",
+    "article_bibliography": {
+      "title": "Agency and materiality entangled: New insights into Minoan clay sealed documents from Protopalatial Phaistos",
+      "journal": "Pasiphae",
+      "volume": 18,
+      "year": 2024,
+      "pages": "117–131",
+      "doi": "10.19272/202433301008"
+    },
+    "urls": [
+      "https://www.researchgate.net/publication/384861118_Flouda_G_2024_Agency_and_materiality_entangled_new_insights_into_Minoan_clay_sealed_documents_from_Protopalatial_Phaistos_in_L_Godart_A_Sacconi_eds_70o_Anniversario_della_decifrazione_della_Linear_B_1"
+    ],
+    "tool_refs": [
+      "turn1search0",
+      "turn4view1"
+    ],
+    "locators": [
+      "Opened author record lines 15–16 and 45–50: explicit request-only/no-full-text state",
+      "Lines 32–35: abstract, including HMs 789θ / CMS II.5 no. 205"
+    ],
+    "access": "Full-text extraction of public author record; no full article access.",
+    "components_acquired": "Tool-produced search and page-extraction JSON only; zero article pages; no original article PDF or figure bytes.",
+    "components_read": "Public author record's abstract, bibliographic identity and access-status statements.",
+    "components_not_read": "Flouda 2024 full article pp. 117–131, figures, exact associated object list and full argument.",
+    "supports": "Newly encountered author page repeats the existing request-only barrier; no legitimate full-copy endpoint was obtained.",
+    "uncertainty": "Bounded route result does not show that no legitimate full copy exists elsewhere or refute the full argument.",
+    "object_ids": [
+      "HM Σ-Τ 789θ"
+    ],
+    "catalogue_ids": [
+      "CMS II.5 no. 205"
+    ],
+    "source_dependencies": [
+      "Same Flouda 2024 abstract/argument already represented in SR-S06 and baseline B-D26; this ResearchGate host is not independent archaeological evidence."
+    ],
+    "new_to_project": "Access record newly inspected in Campaign 038; abstract content already exposed in earlier investigations.",
+    "exposure": "Abstract and access state exposed; full article remains uninspected. No new semantic test outcome.",
+    "capture_files": [
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P1_search_verification.json",
+        "sha256": "6c27b30d3f3dcff180ccf1247808fa9be20c281aba495182c1dabd1508b6f5fc",
+        "bytes": 35158,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P1_routes_retry.json",
+        "sha256": "37c988e2705e764b996218ad3e4958e5273d7bf1be1fc5bce5283d602564c42a",
+        "bytes": 32936,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      }
+    ]
+  },
+  {
+    "campaign_iteration": 38,
+    "accessed_date": "2026-10-21",
+    "branch_source_ledger": "iterations/038/agents/source_epigraphy/FINAL_SOURCE_ENTRIES.json",
+    "path_scope": "All capture paths are relative to the Campaign 038 package root.",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C038-S02",
+    "title": "The Adriadne’s Threads: a Minoan and Mycenaean “brand” — A3TEX, Sapienza Università di Roma",
+    "source_type": "Institutional project page and bibliography; source-acquisition evidence",
+    "publication_date": null,
+    "publication_date_precision": "No publication date established from inspected page.",
+    "urls": [
+      "https://www.a3tex.com/progetti/the-adriadnes-threads-a-minoan-and-mycenaean-brand/"
+    ],
+    "tool_refs": [
+      "turn4view0",
+      "turn5view0"
+    ],
+    "locators": [
+      "Line 220: Flouda 2024 bibliographic entry links only to DOI",
+      "Lines 129–139: incidental PH Wc 37 and PH Wa 32 materiality mentions"
+    ],
+    "access": "Public page text extracted; no source article or target images acquired through this page.",
+    "components_acquired": "Tool-produced page and find extractions; not original HTML bytes.",
+    "components_read": "Full page extraction exposed; deliberate inspection of bibliography and Flouda link route; incidental named-object statements were observed.",
+    "components_not_read": "Flouda 2024 full source; PH Wc 37 or PH Wa 32 image/object dossiers from this page.",
+    "supports": "Institutional page provides a DOI citation, not a surfaced complete article.",
+    "uncertainty": "Project descriptions and proposed analytical work are not completed object-specific semantic tests.",
+    "object_ids": [
+      "PH Wc 37",
+      "PH Wa 32"
+    ],
+    "source_dependencies": [
+      "Flouda 2024 citation points to already known DOI/publisher route family.",
+      "No independent confirmation of Flouda's archaeological observations established."
+    ],
+    "new_to_project": "Page newly inspected in this source-acquisition pass; its full prior project exposure status is not exhaustively reconstructed.",
+    "exposure": "PH Wc 37/PH Wa 32 textual materiality mentions exposed incidentally; no semantic branch reopened.",
+    "capture_files": [
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P1_routes_retry.json",
+        "sha256": "37c988e2705e764b996218ad3e4958e5273d7bf1be1fc5bce5283d602564c42a",
+        "bytes": 32936,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P1_a3tex_find.json",
+        "sha256": "c6485be987144db4494d9e9d1e095beaf3b817c73cd2fa1ef992c89331436277",
+        "bytes": 31461,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      }
+    ]
+  },
+  {
+    "campaign_iteration": 38,
+    "accessed_date": "2026-10-21",
+    "branch_source_ledger": "iterations/038/agents/source_epigraphy/FINAL_SOURCE_ENTRIES.json",
+    "path_scope": "All capture paths are relative to the Campaign 038 package root.",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C038-S03",
+    "title": "New and unpublished Linear A and Linear B inscriptions from Khania",
+    "source_type": "Original archaeological/epigraphic edition; target text plus author-hosted original publication figures",
+    "authors": [
+      "Maria Andreadaki-Vlasaki",
+      "Erik Hallager"
+    ],
+    "author_name_note": "Later citations also spell the first author's surname Andreadaki-Vlazaki; retain as an orthographic citation variant.",
+    "publication": {
+      "journal": "Proceedings of the Danish Institute at Athens",
+      "volume": 5,
+      "year": 2007,
+      "pages": "7–22"
+    },
+    "printed_year": 2007,
+    "online_publication_date": "2007-12-19",
+    "online_date_scope": "Official journal record metadata obtained in search extraction; not inferred date of ancient evidence.",
+    "author_upload_year": 2022,
+    "urls": [
+      "https://tidsskrift.dk/pdia/article/view/19622",
+      "https://tidsskrift.dk/pdia/article/download/19622/17243/44600",
+      "https://scispace.com/pdf/new-and-unpublished-linear-a-and-linear-b-inscriptions-from-190el7rjpt.pdf",
+      "https://www.academia.edu/74397585/New_and_unpublished_Linear_A_and_Linear_B_inscriptions_from_Khania",
+      "https://figures.academia-assets.com/82564874/figure_005.jpg",
+      "https://figures.academia-assets.com/82564874/figure_007.jpg"
+    ],
+    "tool_refs": [
+      "turn22view0",
+      "turn27view1",
+      "turn37search0",
+      "turn39view0",
+      "turn40view0",
+      "turn40view1"
+    ],
+    "locators": [
+      "Printed p. 13: KH Wc 2123/Khania Museum KH 2123, context, physical description, erased transcription, n. 30",
+      "Printed p. 14: fig. 5, corresponding to PDF p. 10 in 18-page mirror",
+      "Printed p. 15: handling/drying reconstruction",
+      "Printed p. 16: fig. 7 sign table; author image crop inspected"
+    ],
+    "access": "Target original-edition text inspected via mirror and author-page extraction; author-linked figure 5 and figure 7 JPEG bytes downloaded and visually inspected. Full original PDF download did not succeed.",
+    "components_acquired": "Two public author-linked JPEGs and tool-produced text/extraction records. Official PDF routes HTTP 503; mirror shell download HTTP 202 empty HTML. Web screenshot calls returned placeholders without image payload and were not visual review.",
+    "components_read": "Target pp. 13–15, fig. 5 and available fig. 7 crop; relevant primary-edition bibliographic/author provenance. Not a complete cover-to-cover reading of the 16-page article.",
+    "components_not_read": "Direct ancient-object autopsy, RTI/high-resolution unpublished surfaces; full original PDF bytes.",
+    "supports": [
+      "Exact object identity.",
+      "All three elements within editorial erasure brackets; no documented replacement inscription.",
+      "Published nine same-seal impressions and fingerprint observations.",
+      "Editors' reported erase-before-impression chronology.",
+      "Proposed A373 remains source reading; visible plate does not independently resolve disputed morphology or microsequence."
+    ],
+    "uncertainty": [
+      "Erasure is attempted smoothing, not complete obliteration.",
+      "No specific chronological crosscut independently identified in acquired plate.",
+      "Comma in prose transcription not established as an ancient divider.",
+      "CMS II.6 no. 13 / XII no. 168 are motif parallels, not same-device records.",
+      "Figure 5 seal reconstruction is composite."
+    ],
+    "object_ids": [
+      "KH Wc 2123",
+      "Khania Museum KH 2123"
+    ],
+    "source_dependencies": [
+      "Official record, mirror, author upload and JPEG figures all reproduce one 2007 edition.",
+      "C038-S04 / C038-S05 review this same object; no additional ancient witness."
+    ],
+    "new_to_project": "Target source/object inspected in Campaign 038; not a newly excavated or newly published ancient witness.",
+    "exposure": "Target identity, full-erasure correction and photo/drawing concern briefed by lead before source inspection; independent execution, not blind.",
+    "capture_files": [
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_delFreo_pdf_and_original_mirror.json",
+        "sha256": "80ebae1c059967377cde317e1c1de32439c27cde4b19189e7d876d602fd8d7ec",
+        "bytes": 23724,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_target_find.json",
+        "sha256": "f4dbce46b459759bcade0ca9bcd6ac772b9c582c9eeb8f6b45845a0f5ba71ba4",
+        "bytes": 23650,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_author_article.json",
+        "sha256": "027f58af23459b727fd9df4ebaf36f4aba62a65bd96508b84f8ad32b933935ba",
+        "bytes": 30825,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_author_figures.json",
+        "sha256": "1ba14ca79483d8f5dfb5d2cafd80cb7104e3b21212b055bde0e9b06e4fde986e",
+        "bytes": 376,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/AndreadakiVlasaki_Hallager2007_author_fig5.jpg",
+        "sha256": "e202219f9ea7a3f67db62d2442946b008ea02a0e33f0afa67875d01ab0200b19",
+        "bytes": 399589,
+        "digest_scope": "Original downloaded publication or figure bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/AndreadakiVlasaki_Hallager2007_author_fig7.jpg",
+        "sha256": "6153d9f3f0cc4b3026fd7ec71ea5865a0f781e3172b4f5aa3ee6e160b6536566",
+        "bytes": 154129,
+        "digest_scope": "Original downloaded publication or figure bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_author_figure_download.json",
+        "sha256": "784d7b364b28c5cb9d1f674a50ff82c9b43f156d5ff005c0b64a169ef39d02e1",
+        "bytes": 873,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_official_retry_routes.json",
+        "sha256": "c367b2145056f9df4795ce6a5f57995ad57542b68b02761ddd86663f85ab54dd",
+        "bytes": 562,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      }
+    ]
+  },
+  {
+    "campaign_iteration": 38,
+    "accessed_date": "2026-10-21",
+    "branch_source_ledger": "iterations/038/agents/source_epigraphy/FINAL_SOURCE_ENTRIES.json",
+    "path_scope": "All capture paths are relative to the Campaign 038 package root.",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C038-S04",
+    "title": "Rapport 2016-2021 sur les textes en écriture hiéroglyphique crétoise, en linéaire A et en linéaire B",
+    "source_type": "Primary scholarly report of reading alternatives; derivative of prior object edition for target archaeological evidence",
+    "authors": [
+      "Maurizio Del Freo"
+    ],
+    "publication": {
+      "volume_title": "KO-RO-NO-WE-SA. Proceedings of the 15th international colloquium on Mycenaean studies, September 2021",
+      "editors": [
+        "John Bennet",
+        "Artemis Karnava",
+        "Torsten Meißner"
+      ],
+      "series": "Ariadne Supplement Series",
+      "volume": 5,
+      "place": "Rethymno",
+      "printed_year": 2024,
+      "pages": "87–124",
+      "doi": "10.26248/ariadne.vi.1843"
+    },
+    "printed_year": 2024,
+    "issue_online_publication_date": "2024-12-13",
+    "article_online_publication_date": "2025-03-04",
+    "dates_note": "Printed imprint and issue-level date are 2024; individual article metadata is 2025. The report's title interval is 2016–2021, not its release date.",
+    "urls": [
+      "https://ejournals.lib.uoc.gr/Ariadne/article/view/1843",
+      "https://ejournals.lib.uoc.gr/Ariadne/article/download/1843/1753/3478",
+      "https://ejournals.lib.uoc.gr/Ariadne/issue/view/178"
+    ],
+    "tool_refs": [
+      "turn19view0",
+      "turn22view1",
+      "turn27view0",
+      "turn17view0"
+    ],
+    "locators": [
+      "Printed p. 100 = PDF p. 14, §2.2.1.4 La Canée, notes 70–71",
+      "PDF p. 1 / printed p. 87 imprint and acknowledgments"
+    ],
+    "access": "Complete 38-page PDF acquired. Target p. 100 rendered and visually inspected; introductory text and publication metadata inspected; term search across PDF.",
+    "components_acquired": "Whole original PDF and rendered target page.",
+    "components_read": "KH Wc 2123 paragraph and footnotes on p. 100; introductory imprint/acknowledgment; metadata; incidental snippets returned by target/provenance term searches. Not a complete reading of the 38-page report.",
+    "components_not_read": "No new ancient-object autopsy or new target image established by this report's target paragraph.",
+    "supports": "Del Freo reports his and Zurbach's alternative that the left element could be a variant of the tripod logogram.",
+    "uncertainty": "The target paragraph does not state fresh autopsy or explain the image basis. Do not infer that no autopsy ever occurred; simply do not count one as documented here.",
+    "object_ids": [
+      "KH Wc 2123"
+    ],
+    "source_dependencies": [
+      "P. 100 n. 70 cites Andreadaki-Vlasaki / Hallager 2007 p. 13 fig. 5 (C038-S03) and earlier Rapport 2006–2010 p. 8.",
+      "P. 100 n. 71 cites same-volume Comité des signes resolutions (C038-S05).",
+      "Reading alternative, not a second ancient object or independently anchored referent."
+    ],
+    "new_to_project": "Exact target reassessment inspected in Campaign 038; published before campaign.",
+    "exposure": "Target reading alternative exposed in source inspection; no unseen-test eligibility for this outcome.",
+    "capture_files": [
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/DelFreo_Rapport2016_2021_published2025.pdf",
+        "sha256": "404862427dd9faa01855ff6520b6c29da175a236a5dce2878ae7be2ca517deba",
+        "bytes": 869596,
+        "digest_scope": "Original downloaded publication or figure bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_delFreo.json",
+        "sha256": "9b3349026d9f4598c91dcc6ce53fa7bfa0c0049b2921badf26f0bcf7ef8d865b",
+        "bytes": 3746,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_issue.json",
+        "sha256": "371a708ae8178f19f6fb6ee9afae37cb17cbdf66ab6e5d23fd2725993d9d49b7",
+        "bytes": 13300,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_target_find.json",
+        "sha256": "f4dbce46b459759bcade0ca9bcd6ac772b9c582c9eeb8f6b45845a0f5ba71ba4",
+        "bytes": 23650,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/rendered/DelFreo_Rapport2016_2021_published2025_pdfp14.png",
+        "sha256": "2bfb0975e5fcba110fcb9a0020bda4ae089a73b7f30463ecb4d9aff95ed64890",
+        "bytes": 212951,
+        "digest_scope": "Locally rendered image from downloaded original PDF"
+      }
+    ]
+  },
+  {
+    "campaign_iteration": 38,
+    "accessed_date": "2026-10-21",
+    "branch_source_ledger": "iterations/038/agents/source_epigraphy/FINAL_SOURCE_ENTRIES.json",
+    "path_scope": "All capture paths are relative to the Campaign 038 package root.",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C038-S05",
+    "title": "Colloquium minutes and resolutions — Resolutions of the Comité des signes",
+    "source_type": "Original committee meeting report; source-control evidence on an earlier epigraphic edition",
+    "authors": [
+      "CIPEM, Comité des signes (collective proceedings record; no individual article author credited by journal)"
+    ],
+    "publication": {
+      "volume_title": "KO-RO-NO-WE-SA. Proceedings of the 15th international colloquium on Mycenaean studies, September 2021",
+      "editors": [
+        "John Bennet",
+        "Artemis Karnava",
+        "Torsten Meißner"
+      ],
+      "series": "Ariadne Supplement Series",
+      "volume": 5,
+      "printed_year": 2024,
+      "whole_record_pages": "581–595",
+      "committee_subset_pages": "585–588",
+      "doi": "10.26248/ariadne.vi.1875"
+    },
+    "meeting_date": "2021-09-22",
+    "meeting_date_scope": "Comité des signes; the general CIPEM meeting on adjacent pages was 2021-09-23.",
+    "printed_year": 2024,
+    "printed_year_scope": "Same-volume imprint corroborated from C038-S04 and issue metadata, not a separate imprint inside this 17-page sectionPDF.",
+    "issue_online_publication_date": "2024-12-13",
+    "article_online_publication_date": "2025-03-04",
+    "urls": [
+      "https://ejournals.lib.uoc.gr/Ariadne/article/view/1875",
+      "https://ejournals.lib.uoc.gr/Ariadne/article/download/1875/1784/3540",
+      "https://ejournals.lib.uoc.gr/Ariadne/issue/view/178"
+    ],
+    "tool_refs": [
+      "turn12view1",
+      "turn16view1",
+      "turn17view0"
+    ],
+    "locators": [
+      "Printed p. 586 = PDF p. 8, Sign A373 paragraph",
+      "Printed p. 585 = PDF p. 7 meeting date"
+    ],
+    "access": "Complete 17-page PDF acquired; target p. 586 rendered and visually inspected; committee date and target paragraph read.",
+    "components_acquired": "Whole original PDF and rendered target page.",
+    "components_read": "Sign A373 resolution on p. 586, meeting date, relevant adjacent paragraphs to prevent transferring their autopsy claims; publication metadata. Full extraction was available but not a complete read of all minutes.",
+    "components_not_read": "No direct ancient-object examination; no fresh target-specific autopsy or photograph recorded in inspected A373 paragraph.",
+    "supports": "Committee records erased surface, divergence between photo/drawings, and postponed decision over A373.",
+    "uncertainty": "Expectation of an ideogram on roundels is a contextual interpretation; it does not resolve sign identity or semantic referent. Adjacent explicit autopsy statements concern A505bis / A506bis, not A373.",
+    "object_ids": [
+      "KH Wc 2123"
+    ],
+    "source_dependencies": [
+      "Explicitly cites Andreadaki-Vlasaki/Hallager 2007 pp. 13–15 (C038-S03).",
+      "C038-S04 refers to this same discussion; do not double-count as independent object evidence."
+    ],
+    "new_to_project": "Exact target resolution inspected in Campaign 038; underlying meeting held 2021.",
+    "exposure": "Resolution and image-disagreement outcome exposed; no unseen-test eligibility.",
+    "capture_files": [
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/CIPEM2021_minutes_published2025.pdf",
+        "sha256": "19f8979bfd092c57a9f5347baf9dec6c08b4fe5c659eef93ee0f72ae80eff6e8",
+        "bytes": 596966,
+        "digest_scope": "Original downloaded publication or figure bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_initial_1.json",
+        "sha256": "c789dbcf64d5081d1fa5c95d5dbca3246fd4fa6728ef183585a2417ea50571d9",
+        "bytes": 26537,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_index_lookup.json",
+        "sha256": "eac1433cc9632127043a1c44b68abae5425468c8249a4777da365c677bb528ac",
+        "bytes": 15785,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/raw/P2_issue.json",
+        "sha256": "371a708ae8178f19f6fb6ee9afae37cb17cbdf66ab6e5d23fd2725993d9d49b7",
+        "bytes": 13300,
+        "digest_scope": "Saved tool-produced extraction response or acquisition metadata, not original HTML / publication bytes"
+      },
+      {
+        "path": "iterations/038/agents/source_epigraphy/rendered/CIPEM2021_minutes_published2025_pdfp8.png",
+        "sha256": "8d0ba2a85f7704d2436d44cd51324317d00336477f05939d2c6baaec4d6ffb30",
+        "bytes": 191812,
+        "digest_scope": "Locally rendered image from downloaded original PDF"
+      }
+    ]
+  }
+]

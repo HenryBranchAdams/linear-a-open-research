@@ -1,0 +1,200 @@
+{
+  "campaign_id": "LA-C038-2026-10-21",
+  "created_at_utc": "2026-10-21T17:21:45.912725+00:00",
+  "scope": "Source acquisition cache in working tree. Exact source URLs/access scope in registry and agent ledgers. Hashes of tool captures identify retrieval-response bytes, not article bytes.",
+  "portable_policy": "New full external publications/images, rendered pages and full retrieval captures excluded. Authored observations, acquisition logs, source comparisons, exact raw project row and prior user-project baseline are included. Existing historical packets unchanged.",
+  "omitted_acquisition_files": [
+    {
+      "path": "iterations/038/agents/independent_challenger/sources/cipem_p586.png",
+      "sha256": "5536024ad3bff12176e2878ebcd77446308f10e1060b93acf4f7c6d703bab7f6",
+      "bytes": 200790,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/independent_challenger/sources/delfreo_p100.png",
+      "sha256": "71976b0e5322c539116eb85091b734a58a53684ffe0fd04457d0aed8cadd00ca",
+      "bytes": 221120,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/AndreadakiVlasaki_Hallager2007_author_fig5.jpg",
+      "sha256": "e202219f9ea7a3f67db62d2442946b008ea02a0e33f0afa67875d01ab0200b19",
+      "bytes": 399589,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/AndreadakiVlasaki_Hallager2007_author_fig7.jpg",
+      "sha256": "6153d9f3f0cc4b3026fd7ec71ea5865a0f781e3172b4f5aa3ee6e160b6536566",
+      "bytes": 154129,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/CIPEM2021_minutes_published2025.pdf",
+      "sha256": "19f8979bfd092c57a9f5347baf9dec6c08b4fe5c659eef93ee0f72ae80eff6e8",
+      "bytes": 596966,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/DelFreo_Rapport2016_2021_published2025.pdf",
+      "sha256": "404862427dd9faa01855ff6520b6c29da175a236a5dce2878ae7be2ca517deba",
+      "bytes": 869596,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P1_a3tex_find.json",
+      "sha256": "c6485be987144db4494d9e9d1e095beaf3b817c73cd2fa1ef992c89331436277",
+      "bytes": 31461,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P1_routes_opened.json",
+      "sha256": "74008338c0d63c55ca6d189e4a76fc6366cd4beddf1b06b5cff81559e837d196",
+      "bytes": 220,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P1_routes_retry.json",
+      "sha256": "37c988e2705e764b996218ad3e4958e5273d7bf1be1fc5bce5283d602564c42a",
+      "bytes": 32936,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P1_search_new_routes.json",
+      "sha256": "5067d64068a0926fbfd29db7a7e55cda548573ae4999f29a3130114d3cc39027",
+      "bytes": 31148,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P1_search_verification.json",
+      "sha256": "6c27b30d3f3dcff180ccf1247808fa9be20c281aba495182c1dabd1508b6f5fc",
+      "bytes": 35158,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_author_article.json",
+      "sha256": "027f58af23459b727fd9df4ebaf36f4aba62a65bd96508b84f8ad32b933935ba",
+      "bytes": 30825,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_author_figure_download.json",
+      "sha256": "784d7b364b28c5cb9d1f674a50ff82c9b43f156d5ff005c0b64a169ef39d02e1",
+      "bytes": 873,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_author_figures.json",
+      "sha256": "1ba14ca79483d8f5dfb5d2cafd80cb7104e3b21212b055bde0e9b06e4fde986e",
+      "bytes": 376,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_author_route.json",
+      "sha256": "531fb1a2ba836a68cef57260c58d49e6ad321f7c53a282a35afeb009ead7b95b",
+      "bytes": 14889,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_delFreo.json",
+      "sha256": "9b3349026d9f4598c91dcc6ce53fa7bfa0c0049b2921badf26f0bcf7ef8d865b",
+      "bytes": 3746,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_delFreo_pdf_and_original_mirror.json",
+      "sha256": "80ebae1c059967377cde317e1c1de32439c27cde4b19189e7d876d602fd8d7ec",
+      "bytes": 23724,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_fig5_route_search.json",
+      "sha256": "7ca07027a3ad494edc0f0f7ea3c51ca06f0859650ceae5691b3aba1b8ebd7833",
+      "bytes": 29155,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_index_lookup.json",
+      "sha256": "eac1433cc9632127043a1c44b68abae5425468c8249a4777da365c677bb528ac",
+      "bytes": 15785,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_initial_1.json",
+      "sha256": "c789dbcf64d5081d1fa5c95d5dbca3246fd4fa6728ef183585a2417ea50571d9",
+      "bytes": 26537,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_issue.json",
+      "sha256": "371a708ae8178f19f6fb6ee9afae37cb17cbdf66ab6e5d23fd2725993d9d49b7",
+      "bytes": 13300,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_mirror_and_dependency_download.json",
+      "sha256": "87fc9f177a6e9e30e43e80ac995d1f09b4a9f4be1674ce14881b8be4db0558e6",
+      "bytes": 848,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_official_retry_routes.json",
+      "sha256": "c367b2145056f9df4795ce6a5f57995ad57542b68b02761ddd86663f85ab54dd",
+      "bytes": 562,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_original_download.json",
+      "sha256": "e89aeec4ffb3d549f4cd4e4aba9edfb827f14caaa17f58b2e01dff2679138e86",
+      "bytes": 195,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_original_download_approved.json",
+      "sha256": "822fa0d71e16126739bff0927b0dd59cdbc073c123fb09d014e7f05de58a781d",
+      "bytes": 667,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_retry_and_ci.json",
+      "sha256": "ab67c58f84a6fed7a73a20b51981120f4d139fa6a20f7150f7d02c2ef40f023e",
+      "bytes": 556,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_screenshots.json",
+      "sha256": "0da68a938f227dd851542cabd3fde287b6d431526aa29865ef6e5b1fefde1507",
+      "bytes": 871,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/raw/P2_target_find.json",
+      "sha256": "f4dbce46b459759bcade0ca9bcd6ac772b9c582c9eeb8f6b45845a0f5ba71ba4",
+      "bytes": 23650,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/rendered/CIPEM2021_minutes_published2025_pdfp8.png",
+      "sha256": "8d0ba2a85f7704d2436d44cd51324317d00336477f05939d2c6baaec4d6ffb30",
+      "bytes": 191812,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/agents/source_epigraphy/rendered/DelFreo_Rapport2016_2021_published2025_pdfp14.png",
+      "sha256": "2bfb0975e5fcba110fcb9a0020bda4ae089a73b7f30463ecb4d9aff95ed64890",
+      "bytes": 212951,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/raw/lead_discovery_1.json",
+      "sha256": "6eb257d9c946957c75e07c9a6fcccf224aa574918ccb5a41e287fade74143800",
+      "bytes": 28665,
+      "include_in_portable_payload": false
+    },
+    {
+      "path": "iterations/038/raw/lead_screening_2.json",
+      "sha256": "e285c5673909b0d36b219c9e3f989cdc3e3419f3dd787c07a1b84b75e2733597",
+      "bytes": 26705,
+      "include_in_portable_payload": false
+    }
+  ]
+}

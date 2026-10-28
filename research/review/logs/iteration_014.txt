@@ -1,0 +1,31 @@
+Iteration 14 verification passed.
+{
+  "corpus_documents": 802,
+  "exact_KIRO_faces": 11,
+  "key_external_recurrence_counts": {
+    "KU-*56-NU": 3,
+    "PA-JA-RE": 3,
+    "SA-RU": 5,
+    "PA-TA-NE": 1
+  },
+  "ht100_polarity_state": {
+    "inclusive_possible": true,
+    "exclusive_possible": true,
+    "identified": false
+  },
+  "ht100_if_4": {
+    "inclusive_possible": true,
+    "exclusive_possible": false,
+    "identified": true
+  },
+  "ht100_if_6": {
+    "inclusive_possible": false,
+    "exclusive_possible": true,
+    "identified": true
+  },
+  "ht122_frozen_reading": "PA-RI-NE",
+  "full_level4_breakthrough": false,
+  "verification_scope": "Computation/source-state checks only; semantic synthesis remains interpretive."
+}
+
+STDERR:

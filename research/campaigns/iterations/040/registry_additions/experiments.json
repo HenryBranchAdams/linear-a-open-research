@@ -1,0 +1,46 @@
+[
+  {
+    "id": "C040-THREE-PACKET-SCREEN",
+    "iteration": 40,
+    "status": "completed",
+    "kind": "bounded discovery and feasibility screen",
+    "title": "MochlosP511, Akrotiri pair and Malia fractional mark",
+    "protocol": "iterations/040/checkpoints/01_CANDIDATE_AND_QUESTION.md",
+    "outputs": [
+      "iterations/040/DECISION_LOG.md",
+      "iterations/040/agents/discovery_a.md",
+      "iterations/040/agents/discovery_b.md",
+      "iterations/040/agents/discovery_c.md"
+    ],
+    "finding": "Three packets screened, only Akrotiri deep inquiry selected. P511 lacks exact content/capacity binding; Malia exact original/carrier/calibration unresolved.",
+    "limitations": "Targeted search, not census. Source-led exposure, no blind/unseen prediction.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "archive": "iterations/040/Linear_A_Campaign_040.zip"
+  },
+  {
+    "id": "C040-AKROTIRI-9384-9730",
+    "iteration": 40,
+    "status": "completed",
+    "kind": "qualitative primary-source, physical-control and semantic-feasibility comparison",
+    "title": "Different marks within shared G10 vessel class, with manufacturing confound",
+    "input": [
+      "C040-S01",
+      "C040-S02"
+    ],
+    "outputs": [
+      "iterations/040/evidence/EVIDENCE_RECORD.json",
+      "iterations/040/analysis/RIVAL_COMPARISON.md",
+      "iterations/040/agents/challenger/REVIEW_ADDENDUM.md"
+    ],
+    "method": "Exact visible inventory/photo concordance; primary Greek/English text, actual images; compare measured vs inferred capacity, technical groups and phase; independent challenge.",
+    "finding": "One measured volume, technical contrast, source-reported incision-before-coating and revised operator inference recovered. Restricted fixed-coarse-type code model contradicted conditional on classifications; no denotation selected.",
+    "limitations": "Same two objects/research context across sources; no laboratory/workshop/residue join, no fresh autopsy; no complete singleton guarantee for9384.",
+    "semantic_experiment_admitted": false,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "serious_semantic_rivals_selected": 0,
+    "structural_model_exclusion": "fixed broadG10 class alone determines one preserved prominent mark",
+    "archive": "iterations/040/Linear_A_Campaign_040.zip"
+  }
+]

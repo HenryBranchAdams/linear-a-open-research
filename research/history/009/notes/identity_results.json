@@ -1,0 +1,442 @@
+{
+  "method": "Retrospective exact shared non-target multi-sign label comparison. No fuzzy matching, p-value, or identity inference. Facts derived from selected complete contextual transcriptions. Damage-sensitive normalization separate.",
+  "main_face_comparisons": [
+    {
+      "ti_face": "HT7a",
+      "te_face": "ZA10a",
+      "exact_shared_non_target_labels": []
+    },
+    {
+      "ti_face": "HT10b",
+      "te_face": "ZA10a",
+      "exact_shared_non_target_labels": []
+    },
+    {
+      "ti_face": "HT98a",
+      "te_face": "ZA10a",
+      "exact_shared_non_target_labels": []
+    }
+  ],
+  "whole_tablet_sensitivity": [
+    {
+      "ti_tablet": "HT7",
+      "te_tablet": "ZA10",
+      "exact_shared_non_target_labels": []
+    },
+    {
+      "ti_tablet": "HT10",
+      "te_tablet": "ZA10",
+      "exact_shared_non_target_labels": [
+        "SA-MA"
+      ]
+    },
+    {
+      "ti_tablet": "HT98",
+      "te_tablet": "ZA10",
+      "exact_shared_non_target_labels": []
+    }
+  ],
+  "damaged_HT49_sensitivity": {
+    "strict": [],
+    "allow_doubtful_and_fragmentary": []
+  },
+  "shared_non_target_labels_HT7a_HT10b": [
+    "DA-RE"
+  ],
+  "target_rows": [
+    {
+      "object_id": "HT7",
+      "site": "HT",
+      "row_id": "HT7_3",
+      "line": "a.4",
+      "diplomatic_label": "TA-NA-TI",
+      "normalized_search": "TA-NA-TI",
+      "number_signs": "1",
+      "fraction_signs": null,
+      "explicit_associated_logogram": null,
+      "document_function": "entry",
+      "role_assignment": null,
+      "sign_or_boundary_uncertain": false
+    },
+    {
+      "object_id": "HT10",
+      "site": "HT",
+      "row_id": "HT10_13",
+      "line": "b.4",
+      "diplomatic_label": "TA-NA-TI",
+      "normalized_search": "TA-NA-TI",
+      "number_signs": "9",
+      "fraction_signs": "E",
+      "explicit_associated_logogram": null,
+      "document_function": "entry",
+      "role_assignment": null,
+      "sign_or_boundary_uncertain": false
+    },
+    {
+      "object_id": "HT98",
+      "site": "HT",
+      "row_id": "HT98_2",
+      "line": "a.2",
+      "diplomatic_label": "TA-NA-TI",
+      "normalized_search": "TA-NA-TI",
+      "number_signs": "",
+      "fraction_signs": "J E",
+      "explicit_associated_logogram": null,
+      "document_function": "entry",
+      "role_assignment": null,
+      "sign_or_boundary_uncertain": false
+    },
+    {
+      "object_id": "HT49",
+      "site": "HT",
+      "row_id": "HT49_1",
+      "line": "a.2",
+      "diplomatic_label": "]TA?-NA-TI",
+      "normalized_search": "TA-NA-TI",
+      "number_signs": "1[",
+      "fraction_signs": null,
+      "explicit_associated_logogram": null,
+      "document_function": "entry",
+      "role_assignment": null,
+      "sign_or_boundary_uncertain": true,
+      "alternative_source_reading": {
+        "source": "SigLA HT49a sequence2 (zero-based1)",
+        "diplomatic_form": "]TA-NA-TI",
+        "sign_reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "retained_uncertainty": "Left boundary is broken in both; Younger marks TA doubtful whereas SigLA encodes it as sure. No original-image adjudication by this subtask.",
+        "url": "https://sigla.phis.me/document/HT%2049a/index-word.html"
+      }
+    },
+    {
+      "object_id": "ZA10",
+      "site": "ZA",
+      "row_id": "ZA10_0",
+      "line": "a.1",
+      "diplomatic_label": "TA-NA-TE",
+      "normalized_search": "TA-NA-TE",
+      "number_signs": "2",
+      "fraction_signs": null,
+      "explicit_associated_logogram": null,
+      "document_function": "entry at beginning of face",
+      "role_assignment": null,
+      "sign_or_boundary_uncertain": false
+    },
+    {
+      "object_id": "ZA10",
+      "site": "ZA",
+      "row_id": "ZA10_3",
+      "line": "a.2",
+      "diplomatic_label": "A-TA-NA-TE",
+      "normalized_search": "A-TA-NA-TE",
+      "number_signs": "1",
+      "fraction_signs": null,
+      "explicit_associated_logogram": null,
+      "document_function": "entry",
+      "role_assignment": null,
+      "sign_or_boundary_uncertain": false
+    }
+  ],
+  "conclusion": "In these audited witnesses, no exact co-label bridges the TA-NA-TI faces to ZA10a. SA-MA bridges HT10 and ZA10 only when opposite faces are aggregated. DA-RE bridges HT7a and HT10b, but has no identity certificate and no independently translated role.",
+  "limits": [
+    "Co-occurrence identifies neither the same historical individual nor a role.",
+    "Zero overlap in sparse accounts is not a refutation of related forms.",
+    "Unknown commodities cannot be treated as identical.",
+    "The repeated spellings and contextual types do not establish an action.",
+    "HT98 fraction-only amount and HT10 fractional amount defeat a universal literal head-count interpretation, not a personal-account interpretation."
+  ],
+  "sigla_discovery": {
+    "document_faces_total": 802,
+    "fetch_errors": 0,
+    "indexed_sequence_occurrences": 1401,
+    "metadata_word_count_checks": 802,
+    "metadata_word_count_mismatches": [],
+    "ta_na_substring_hits": [
+      {
+        "document_face": "ARKH 5",
+        "source": "https://sigla.phis.me/document/ARKH%205/index-word.html",
+        "sequence_index_zero_based": 0,
+        "form": "A-DU-NI-TA-NA",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "A",
+          "DU",
+          "NI",
+          "TA",
+          "NA"
+        ]
+      },
+      {
+        "document_face": "HT 108",
+        "source": "https://sigla.phis.me/document/HT%20108/index-word.html",
+        "sequence_index_zero_based": 0,
+        "form": "KI-RE-TA-NA",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "KI",
+          "RE",
+          "TA",
+          "NA"
+        ]
+      },
+      {
+        "document_face": "HT 10b",
+        "source": "https://sigla.phis.me/document/HT%2010b/index-word.html",
+        "sequence_index_zero_based": 5,
+        "form": "TA-NA-TI",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "TI"
+        ]
+      },
+      {
+        "document_face": "HT 120",
+        "source": "https://sigla.phis.me/document/HT%20120/index-word.html",
+        "sequence_index_zero_based": 3,
+        "form": "KI-RE-TA-NA",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "KI",
+          "RE",
+          "TA",
+          "NA"
+        ]
+      },
+      {
+        "document_face": "HT 2",
+        "source": "https://sigla.phis.me/document/HT%202/index-word.html",
+        "sequence_index_zero_based": 1,
+        "form": "]KI-RE-TA-NA",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "KI",
+          "RE",
+          "TA",
+          "NA"
+        ]
+      },
+      {
+        "document_face": "HT 49a",
+        "source": "https://sigla.phis.me/document/HT%2049a/index-word.html",
+        "sequence_index_zero_based": 1,
+        "form": "]TA-NA-TI",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "TI"
+        ]
+      },
+      {
+        "document_face": "HT 7a",
+        "source": "https://sigla.phis.me/document/HT%207a/index-word.html",
+        "sequence_index_zero_based": 3,
+        "form": "TA-NA-TI",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "TI"
+        ]
+      },
+      {
+        "document_face": "HT 8a",
+        "source": "https://sigla.phis.me/document/HT%208a/index-word.html",
+        "sequence_index_zero_based": 5,
+        "form": "KI-RE-TA-NA",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "KI",
+          "RE",
+          "TA",
+          "NA"
+        ]
+      },
+      {
+        "document_face": "HT 98a",
+        "source": "https://sigla.phis.me/document/HT%2098a/index-word.html",
+        "sequence_index_zero_based": 3,
+        "form": "TA-NA-TI",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "TI"
+        ]
+      },
+      {
+        "document_face": "HT Wa 1020γ",
+        "source": "https://sigla.phis.me/document/HT%20Wa%201020%CE%B3/index-word.html",
+        "sequence_index_zero_based": 0,
+        "form": "JE-TA-NA",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "JE",
+          "TA",
+          "NA"
+        ]
+      },
+      {
+        "document_face": "KH 60",
+        "source": "https://sigla.phis.me/document/KH%2060/index-word.html",
+        "sequence_index_zero_based": 0,
+        "form": "]RA-KI-TA-NA-SI",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "RA",
+          "KI",
+          "TA",
+          "NA",
+          "SI"
+        ]
+      },
+      {
+        "document_face": "PE 6",
+        "source": "https://sigla.phis.me/document/PE%206/index-word.html",
+        "sequence_index_zero_based": 1,
+        "form": "TA-NA-MA-JE",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "MA",
+          "JE"
+        ]
+      },
+      {
+        "document_face": "PS Za 2",
+        "source": "https://sigla.phis.me/document/PS%20Za%202/index-word.html",
+        "sequence_index_zero_based": 0,
+        "form": "TA-NA-I-A301-TI",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "I",
+          "A301",
+          "TI"
+        ]
+      },
+      {
+        "document_face": "ZA 10a",
+        "source": "https://sigla.phis.me/document/ZA%2010a/index-word.html",
+        "sequence_index_zero_based": 0,
+        "form": "TA-NA-TE",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "TA",
+          "NA",
+          "TE"
+        ]
+      },
+      {
+        "document_face": "ZA 10a",
+        "source": "https://sigla.phis.me/document/ZA%2010a/index-word.html",
+        "sequence_index_zero_based": 2,
+        "form": "A-TA-NA-TE",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "A",
+          "TA",
+          "NA",
+          "TE"
+        ]
+      },
+      {
+        "document_face": "ZA 9",
+        "source": "https://sigla.phis.me/document/ZA%209/index-word.html",
+        "sequence_index_zero_based": 5,
+        "form": "A-TA-NA-[?]",
+        "reading_classes": [
+          "sure-reading",
+          "sure-reading",
+          "sure-reading"
+        ],
+        "signs": [
+          "A",
+          "TA",
+          "NA"
+        ]
+      }
+    ],
+    "literal_A_TA_NA_TI_hits": [],
+    "warning": "SigLA sequence chunks can be damaged or face segments. Absence is limited to this snapshot. This browse has no modern THE Zb6 pithos (Boulotis2008); its only THE IDs are THE7a/7b/8/9/10/11/12. Most ritual texts and some later editions are not covered."
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "stage": "completed_finite_source_join",
+  "timestamp_utc": "2026-10-25T23:57:54.600114+00:00",
+  "rows": [
+    {
+      "inventory": "HMs451/5",
+      "site": "HT",
+      "entity_id": 1162956,
+      "url": "https://arachne.dainst.org/data/entity/1162956",
+      "source_fields": {
+        "Identifikation": [
+          "Inventarnummer: HMs  451/  5<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+        ],
+        "Herkunft": [
+          "Fundland: Griechenland<hr>Fundort: Aj. Triada, Pirjiotissis<hr>Flur / Grabungsstätte: nein<hr>Fundstelle: nein<hr>Platztypus: nein<hr>Kontextdatierung: SM IB<hr>Bereich: Kreta"
+        ],
+        "Form / Typus": [
+          "Plombenform: Schnurendplombe mit pyramidenförmiger Rückseite"
+        ],
+        "Erhaltung": [
+          "Fragment"
+        ],
+        "Beschriftung": [
+          "Schriftzeichennein"
+        ],
+        "Verknüpfter Siegelabdruck Nummer": [
+          "CMS - Nummer: II,6 011"
+        ]
+      },
+      "physical_function_author_report": "label",
+      "inscription_status": "explicit_catalogue_no_signs",
+      "text_id": null,
+      "sign_value": null,
+      "qualification": "Preserved-fragment no-signs field does not show carrier was originally never inscribed.",
+      "raw_catalogue_path": "arachne_1162956_entity.json",
+      "raw_catalogue_sha256": "2f443305369feaa5ad0715a1afe1f1fd350dbff1772c982cbeebededf8d329dd",
+      "original_catalogue_entry_inspected": false
+    },
+    {
+      "inventory": "HMs546/1",
+      "site": "HT",
+      "entity_id": 1163440,
+      "url": "https://arachne.dainst.org/data/entity/1163440",
+      "source_fields": {
+        "Identifikation": [
+          "Inventarnummer: HMs  546/  1<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+        ],
+        "Herkunft": [
+          "Fundland: Griechenland<hr>Fundort: Aj. Triada, Pirjiotissis<hr>Flur / Grabungsstätte: nein<hr>Fundstelle: nein<hr>Platztypus: nein<hr>Kontextdatierung: SM IB<hr>Bereich: Kreta"
+        ],
+        "Form / Typus": [
+          "Plombenform: Schnurplombe?"
+        ],
+        "Erhaltung": [
+          "komplett"
+        ],
+        "Beschriftung": [
+          "Schriftzeichennein"
+        ],
+        "Verknüpfter Siegelabdruck Nummer": [
+          "CMS - Nummer: II,6 065"
+        ]
+      },
+      "physical_function_author_report": "label_and_secures_two_cord_ends",
+      "inscription_status": "explicit_catalogue_no_signs",
+      "text_id": null,
+      "sign_value": null,
+      "qualification": "Catalogue reported; original edition corroboration pending.",
+      "raw_catalogue_path": "arachne_1163440_entity.json",
+      "raw_catalogue_sha256": "a6c9554978000e01925992a49c26ccb14a317f62f7e6d63177c329a671569f79",
+      "original_catalogue_entry_inspected": false
+    },
+    {
+      "inventory": "HMs557",
+      "site": "HT",
+      "entity_id": 1163474,
+      "url": "https://arachne.dainst.org/data/entity/1163474",
+      "source_fields": {
+        "Identifikation": [
+          "Inventarnummer: HMs  557<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+        ],
+        "Herkunft": [
+          "Fundland: Griechenland<hr>Fundort: Aj. Triada, Pirjiotissis<hr>Flur / Grabungsstätte: nein<hr>Fundstelle: nein<hr>Platztypus: nein<hr>Kontextdatierung: SM IB<hr>Bereich: Kreta"
+        ],
+        "Form / Typus": [
+          "Plombenform: Schnurendplombe mit pyramidenförmiger Rückseite, Ende offen"
+        ],
+        "Erhaltung": [
+          "komplett"
+        ],
+        "Beschriftung": [
+          "SchriftzeichenHT Wa 1018"
+        ],
+        "Verknüpfter Siegelabdruck Nummer": [
+          "CMS - Nummer: II,6 011"
+        ]
+      },
+      "physical_function_author_report": "label",
+      "inscription_status": "readable_corpus_join",
+      "text_id": "HTWa1018",
+      "sign_value": {
+        "graphemes": [
+          "AB41",
+          "AB77"
+        ],
+        "conventional_transliteration": "SI-KA",
+        "segmentation": "one two-sign sequence in SigLA; conventional readings do not establish sound or meaning",
+        "certainty": "both sure-reading markup in SigLA; originalGORILA page not recovered"
+      },
+      "qualification": "Catalogue reported; original edition corroboration pending.",
+      "raw_catalogue_path": "arachne_1163474_entity.json",
+      "raw_catalogue_sha256": "3c314f5b5b7dcf170fe196e785bb1b659ee3db526445701ddc84f16714e32a79",
+      "original_catalogue_entry_inspected": false,
+      "reading_sources": [
+        "https://sigla.phis.me/document/HT%20Wa%201018/",
+        "https://sigla.phis.me/document/HT%20Wa%201018/index-word.html",
+        "frozen discovery_snapshot.json HTWa1018"
+      ],
+      "drawing_path": "HTWa1018_SigLA.png",
+      "drawing_pixels_inspected": true,
+      "drawing_inspection_note": "Original PNG has black strokes over transparency; composited on white for inspection, unaltered original retained. Two signs visible with dotted central surface/damage notation. No target photograph or autopsy.",
+      "physical_qualification": "Knotted string-length and labeling are interpretations in Montecchi p13 table. Figure3 shows two exterior apertures and the painted557 inventory, but does not itself show internal strand topology."
+    },
+    {
+      "inventory": "HMs1657",
+      "site": "HT",
+      "entity_id": 1163627,
+      "url": "https://arachne.dainst.org/data/entity/1163627",
+      "source_fields": {
+        "Identifikation": [
+          "Inventarnummer: HMs 1657<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+        ],
+        "Herkunft": [
+          "Fundland: Griechenland<hr>Fundort: Aj. Triada, Pirjiotissis<hr>Flur / Grabungsstätte: nein<hr>Fundstelle: nein<hr>Platztypus: nein<hr>Kontextdatierung: SM IB<hr>Bereich: Kreta"
+        ],
+        "Form / Typus": [
+          "Plombenform: Schnurplombe mit offener Rückseite"
+        ],
+        "Erhaltung": [
+          "Fragment"
+        ],
+        "Beschriftung": [
+          "Schriftzeichennein"
+        ],
+        "Verknüpfter Siegelabdruck Nummer": [
+          "CMS - Nummer: II,6 095"
+        ]
+      },
+      "physical_function_author_report": "label_and_secures_two_cord_ends",
+      "inscription_status": "explicit_catalogue_no_signs",
+      "text_id": null,
+      "sign_value": null,
+      "qualification": "Preserved-fragment no-signs field does not show carrier was originally never inscribed.",
+      "raw_catalogue_path": "arachne_1163627_entity.json",
+      "raw_catalogue_sha256": "7f2ba71f90dbbd1859254a5fb0679f8d613e648bc76f39ade8cca50f0e6f2e31",
+      "original_catalogue_entry_inspected": false
+    },
+    {
+      "inventory": "HMs1143",
+      "site": "ZA",
+      "entity_id": 1164664,
+      "url": "https://arachne.dainst.org/data/entity/1164664",
+      "source_fields": {
+        "Identifikation": [
+          "Inventarnummer: HMs 1143<hr>Museum / Sammlung: GR-Iraklion, Archäologisches Museum"
+        ],
+        "Herkunft": [
+          "Fundland: Griechenland<hr>Fundort: Kato Zakros, Sitias<hr>Flur / Grabungsstätte: Haus A<hr>Fundstelle: Raum VII<hr>Platztypus: Haus<hr>Kontextdatierung: SM IB<hr>Bereich: Kreta"
+        ],
+        "Form / Typus": [
+          "Plombenform: Schnurplombe, Prisma"
+        ],
+        "Verknüpfter Siegelabdruck Nummer": [
+          "CMS - Nummer: II,7 190"
+        ]
+      },
+      "physical_function_author_report": "label",
+      "inscription_status": "unknown_field_absent",
+      "text_id": null,
+      "sign_value": null,
+      "qualification": "Arachne supplies neither an inscription nor preservation field in the returned carrier section; unknown. Montecchi’s general statement about Zakros two-hole nodules is not treated as an exact negative here.",
+      "raw_catalogue_path": "arachne_1164664_entity.json",
+      "raw_catalogue_sha256": "58ce50f39f785afaa2dacbe166f9bcbab67ef367a30907954a3e9b4cdc0745ff",
+      "original_catalogue_entry_inspected": false
+    }
+  ],
+  "completed_utc": "2026-10-26T00:00:00.723799+00:00",
+  "decision": {
+    "readable_HT_objects": 1,
+    "readable_HT_functions": [
+      "label"
+    ],
+    "readable_security_class_objects": 0,
+    "dependency_test": "not_informative_no_readable_cross_function_comparison",
+    "model_rejected": false,
+    "semantic_result": null,
+    "level": "source_object_control",
+    "stop_reason": "Finite physically selected packet yields only one readable inscription and no readable member of the local cord-securing class. No deterministic-code comparison can be admitted."
+  }
+}

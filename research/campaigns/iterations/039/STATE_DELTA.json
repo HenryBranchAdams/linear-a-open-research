@@ -1,0 +1,44 @@
+{
+  "campaign_id": "LA-C039-2026-10-22",
+  "authority_before": "B2026-10-18 plus C038",
+  "authority_after": "B2026-10-18 plus C038 and C039 addenda",
+  "status": "completed_stopped",
+  "claim_changes": [
+    {
+      "id": "LA-039-001",
+      "before": "SI Zg1 screened only; no named current critical overlay",
+      "after": "source_qualification_overlay_required",
+      "semantic_advance": false
+    }
+  ],
+  "levels": {
+    "access": "Complete Montecchi AB118 section text evaluated; direct INSCRIBE record; no full Flouda article",
+    "reading_object_control": "Explicit reported scratch,AB01/11 branches,direction discrepancy; raw unchanged",
+    "physical_structural_constraint": "Conditional arithmetic sanity check only; no newly observed use event",
+    "semantic_discrimination": null,
+    "linguistic_replication": null,
+    "mission_level_construction": null
+  },
+  "strongest_surviving_alternative": "Genuine fish-associated weight carrying a phonetic/entity/account designation",
+  "semantic_experiments_admitted": 0,
+  "serious_semantic_role_rivals_rejected": 0,
+  "new_ancient_witnesses": 0,
+  "prior_exposure": "Frozen index and038 screen; earlier primary access unknown. No unused-outcome claim.",
+  "independence": {
+    "source": "INSCRIBE/chapter largely shared autopsy context",
+    "object_event": "One ancient carrier; exact use events unknown",
+    "inferential": "Physical function does not force local text denotation"
+  },
+  "new_registry_entries": {
+    "claims": 1,
+    "access_feasibility_records": 2,
+    "sources": 4
+  },
+  "expected_registry_totals": {
+    "claims": 83,
+    "access_feasibility_records": 32,
+    "sources": 104
+  },
+  "stop_reason": "Finite source packet exhausted without independent local binding",
+  "checkpoint_utc": "2026-10-22T10:25:46.785286+00:00"
+}

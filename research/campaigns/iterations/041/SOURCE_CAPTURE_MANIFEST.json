@@ -1,0 +1,33 @@
+{
+  "campaign": "LA-C041-2026-10-23",
+  "sources": [
+    {
+      "id": "C041-S01",
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_318.pdf",
+      "sha256": "0ccd138b1b2fd2885f22516573e08ab373cf338c5bdc28d7256ffe64ccc50b52",
+      "size_bytes": 73120857,
+      "pdf_pages": 561,
+      "access": "Official full PDF acquired; selected target/mark/fabric passages, sample concordance and recorded macroscopic tables inspected; not a claim to have read every page"
+    },
+    {
+      "id": "C041-S02",
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_319.pdf",
+      "sha256": "3a9a22ab23de0e939a6e3153907300948c45effcee20942af973a3981b34ee73",
+      "size_bytes": 36676561,
+      "pdf_pages": 633,
+      "access": "Official full PDF acquired; exact entries/plate121/plateLVII/concordance inspected as actual pixels"
+    },
+    {
+      "id": "C041-S03",
+      "url": "https://www.academia.edu/4944783/An_interdisciplinary_approach_to_the_study_of_cooking_vessels_from_Bronze_Age_Akrotiri_Thera",
+      "access": "Substantive author-hosted searchable body and Table1 transcription inspected; actual table pixels not inspected; local HTML download returned403"
+    },
+    {
+      "id": "C041-S04",
+      "url": "https://www.santorini.net/wp-content/uploads/akrotiri-40years-contents-1.pdf",
+      "access": "Contents/bibliographic navigation only; bounded exact-title/author/institution/author-profile routes did not acquire article; zero article pages inspected"
+    }
+  ],
+  "redistribution": "Full third-party publications and temporary source page renders excluded; authored records and factual source locators retained",
+  "pdf_page_mapping": "For target2019 pages, printed page+1=one-basedPDF page. Page labels in UI or zero-based scripts must be distinguished."
+}

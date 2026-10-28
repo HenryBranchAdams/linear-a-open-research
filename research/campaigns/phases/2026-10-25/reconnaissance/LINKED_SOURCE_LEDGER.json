@@ -1,0 +1,312 @@
+{
+  "schema_version": "linked-records-source-ledger-1",
+  "investigator": "/root/linked_records",
+  "phase_date": "2026-10-25/26 UTC",
+  "classification": "Reconnaissance plus source investigation for lead-selected C044; no validation held out",
+  "sources": [
+    {
+      "id": "LREC-S01",
+      "source": "Santo Privitera2025, Phaestia Tellus. Immagazzinamento, economia e società nella pianura della Messarà a Creta nell’Età del Bronzo, Incunabula Graeca109",
+      "urls": [
+        "https://cris.unibo.it/handle/11585/991238",
+        "https://cris.unibo.it/retrieve/d035cccf-b1bb-41ea-869e-f6ba1ff9db3c/IG_109_COLORI_Privitera.pdf"
+      ],
+      "access": "Institutional metadata and indexed text excerpt only; complete PDF not acquired",
+      "inspected": [
+        "Metadata establishes exact title and openaccess file listing",
+        "Indexed excerpt on HT24 threshold location versus 45 noduli windowsill location"
+      ],
+      "not_inspected": [
+        "Original page or figure containing the location statement",
+        "Entire book"
+      ],
+      "route_failures": [
+        "Direct PDF webopen403",
+        "urllib download403 in earlier attempt"
+      ],
+      "dependency": "Original exact-location page, then original Militello2011 argument; no new HT24 arithmetic",
+      "interpretation_limit": "Two reported positions do not prove one ancient transaction or a tablet-to-nodulus reconciliation.",
+      "web_refs": [
+        "turn111search36",
+        "turn158search1",
+        "turn161search0",
+        "turn163view0"
+      ],
+      "disposition": "Source-investigation opportunity parked pending readable page; prior HT24 arithmetic not reopened"
+    },
+    {
+      "id": "LREC-S02",
+      "source": "Judith Weingarten, Silvia Ferrara and Gerald Cadogan2024, Multimedia at Minoan Myrtos–Pyrgos, Crete, AnnualBSA, DOI10.1017/S0068245423000114",
+      "urls": [
+        "https://cris.unibo.it/retrieve/handle/11585/955608/38fdede2-e62b-49ea-a098-4c9365bc624a/Weingarten_Ferrara_Cadogan_AQ2_SF.pdf"
+      ],
+      "access": "Complete author-manuscript webPDF text available; selected text inspected; no local PDF or actual figure pixels acquired",
+      "inspected": [
+        "Author manuscript catalogue21–24, especially manuscript19–23",
+        "PYR1/MP70/78, PYR2/MP70/210, PYR6/MP70/P74 exact object and find references",
+        "PYR6 proposed A367 and reported inconclusive autopsy"
+      ],
+      "route_failures": [
+        "Direct urllib403",
+        "Publisher fullarticle route timeout"
+      ],
+      "dependency": "Stable PYR6 reading and exact target use/contents, or actual joined counterpart for PYR1/2",
+      "interpretation_limit": "PYR6 software-estimated capacity and nearby stored foods do not identify its marking; PYR1 and PYR2 are not physically joined in this source.",
+      "web_refs": [
+        "turn135view2",
+        "turn138view0",
+        "turn138view1",
+        "turn138view2",
+        "turn139view0"
+      ],
+      "disposition": "Closed for semantic test under inspected packet"
+    },
+    {
+      "id": "LREC-S03",
+      "source": "Metaxia Tsipopoulou and Erik Hallager1996a, Inscriptions with Hieroglyphs and Linear A from Petras, Siteia, SMEA37,7–46",
+      "urls": [
+        "https://www.academia.edu/20285509/Tsipopoulou_M_and_E_Hallager_1996a_Inscriptions_with_Hieroglyphs_and_Linear_A_from_Petras_Siteia_%CF%83%CF%84%CE%BF_Studi_Micenei_Ed_Egeo_Anatolici_Fascicolo_XXXVII_Roma_7_46",
+        "https://smea.ispc.cnr.it/?page_id=1357"
+      ],
+      "access": "Author-upload listing and limited OCR; target original pp38–39 uninspected",
+      "inspected": [
+        "Exact article identity and page range",
+        "Locator lead PEZg5/SitiaMus8606"
+      ],
+      "not_inspected": [
+        "PEZg5 complete critical text, material description, photograph or drawing"
+      ],
+      "route_failures": [
+        "Direct author HTML403 in earlier route",
+        "SMEA website timeout; Tavily extract timeout",
+        "Former petras-excavations.gr PDF route redirects to unrelated commercial site; not treated as source"
+      ],
+      "dependency": "Original pp38–39 including image/caption and exact carrier description",
+      "interpretation_limit": "Do not merge contradictory stone/clay carrier descriptions from secondary pages; do not use Academia generated summaries.",
+      "web_refs": [
+        "turn145view0",
+        "turn145view1",
+        "turn148search48"
+      ],
+      "disposition": "Parked at source-access gate"
+    },
+    {
+      "id": "LREC-S04",
+      "source": "Pietro Militello2011, La fornace da vasaio TM IB di Haghia Triada. Una riconsiderazione della tavoletta HT31, Creta Antica12,273–288",
+      "urls": [
+        "https://www.iris.unict.it/retrieve/dfe4d227-4871-bb0a-e053-d805fe0a78d9/Creta%20Antica%2012,2011%2009%20MILITELLO.pdf",
+        "https://www.iris.unict.it/handle/20.500.11769/60019"
+      ],
+      "access": "Full16page institutionalPDF acquired",
+      "raw_files": [
+        {
+          "path": "sources/Militello2011_HT31.pdf",
+          "bytes": 73593,
+          "sha256": "edb54e11d6ec97c26d8503f38f2972af863e76451ce2a4ffd4dae87928c42051"
+        }
+      ],
+      "inspected": [
+        "Selected text273–285",
+        "Actual pixels274fig1,275–276,278,280,284"
+      ],
+      "observation_type": "Published source text and reproduced GORILA drawing; no new physical examination",
+      "relationships": [
+        "Follows Duhoux2000–2001 and Vandenabeele1974 for sign morphology/material",
+        "Companion to Puglisi2011 kiln study"
+      ],
+      "route_failures": [
+        "Initial percent-encoded comma URL web403",
+        "Default sandbox network blocked; approved network download succeeded"
+      ],
+      "dependency": "Feature-specific original comparator, ceramic rival, and exact tablet-to-kiln event link",
+      "web_refs": [
+        "turn176view0",
+        "turn177view0",
+        "turn177view1",
+        "turn179view0",
+        "turn179view1",
+        "turn186view4"
+      ],
+      "disposition": "Selected C044 source"
+    },
+    {
+      "id": "LREC-S05",
+      "source": "Dario Puglisi2011, La fornace da vasaio TM IB di Haghia Triada. Le ceramiche e il sistema di produzione, distribuzione e consumo, Creta Antica12,199–271/272",
+      "urls": [
+        "https://www.academia.edu/504733/La_fornace_da_vasaio_TM_IB_di_Haghia_Triada_Le_ceramiche_e_il_sistema_di_produzione_distribuzione_e_consumo",
+        "https://www.iris.unict.it/handle/20.500.11769/560369"
+      ],
+      "access": "Indexed author fulltextHTML/OCR; actual object figures not acquired",
+      "raw_files": [
+        {
+          "path": "sources/Puglisi2011_Academia.html",
+          "bytes": 209936,
+          "note": "Current downloaded public landing page; not a local copy of complete indexed fulltext",
+          "sha256": "ea5d1586a90a671c535d7a04dc0271144e70e26b9fc64c6575188569c2567d39"
+        }
+      ],
+      "inspected": [
+        "Text200–205 depositional controls",
+        "213–215 waster criteria and fig8 caption",
+        "222–225 contextual interpretation",
+        "253 context5",
+        "255 catalogue5.3/c.29a1",
+        "256 fig34caption",
+        "269 Englishsummary"
+      ],
+      "not_inspected": [
+        "Original fig8c p215 and fig34p256 pixels",
+        "Original catalogue255 page image"
+      ],
+      "route_failures": [
+        "Institutional attached PDF marked private/archive-managers only; no retrieval attempted",
+        "Current author preview unavailable/login for reading/download",
+        "Author teaching compilation on Studium restricted; not entered",
+        "One targeted image search found no relevant figure"
+      ],
+      "exact_identity": {
+        "catalogue": "5.3",
+        "excavation": "c.29a1",
+        "context": "5, firing-chamber area",
+        "figure_targets": [
+          "8c/p215",
+          "34/p256"
+        ]
+      },
+      "observation_type": "Author's reported physical examination/classification of waster; not independently reclassified from image",
+      "interpretation_limit": "The fragment preserves wall and halfhandle, not complete legs/profile. Production evidence is not a matched ancient order.",
+      "web_refs": [
+        "turn175view1",
+        "turn186view5",
+        "turn199view3",
+        "turn188search0"
+      ],
+      "disposition": "Selected C044 ceramic production comparator; figure-access limit retained"
+    },
+    {
+      "id": "LREC-S06",
+      "source": "Frieda Vandenabeele1974, Les idéogrammes de vases sur les tablettes en linéaire A de Haghia Triada et Phaistos, BCH98.1,5–21, DOI10.3406/bch.1974.2094",
+      "urls": [
+        "https://www.persee.fr/doc/bch_0007-4217_1974_num_98_1_2094"
+      ],
+      "access": "Seven explicitly linked public page images and pageHTML acquired; fullPDF403",
+      "raw_files": [
+        {
+          "path": "sources/Vandenabeele1974_acquisition.json",
+          "note": "Page-specific URL, bytes and hashes for6,8,9,10,17,18,21",
+          "bytes": 3445,
+          "sha256": "ca3e57d725010128b8f46eedfecea02f59b773f9c7d944f39830db0bc2d50a01"
+        }
+      ],
+      "inspected": [
+        "Actual pixels6,8–10,17–18,21",
+        "HT31.1 fig2 photo/drawing on18",
+        "MaliaQuartierMu inventory3068 fig21 on21",
+        "Bronze find/context and riveted-support description on9"
+      ],
+      "source_independence": "Bronze3068 is an ancient object independent of HT31; Duhoux/Militello reuse this source chain, not three independent ancient replications.",
+      "interpretation_limit": "710px public page previews; no new autopsy; exact clay counterpart remains unacquired",
+      "route_failures": [
+        "Direct public PDF403; used public pageviewer links declared in articleHTML instead"
+      ],
+      "web_refs": [
+        "turn191search0",
+        "turn191search1",
+        "turn191search2",
+        "turn192view0"
+      ],
+      "disposition": "Decisive C044 type/material comparator"
+    },
+    {
+      "id": "LREC-S07",
+      "source": "Yves Duhoux2000–2001, Un inventaire linéaire A de vases: la tablette HT31, Minos35–36,31–62",
+      "urls": [
+        "https://revistas.usal.es/dos/index.php/0544-3733/article/download/16424/17038/56788"
+      ],
+      "access": "Complete32page publisherPDF acquired",
+      "raw_files": [
+        {
+          "path": "sources/Duhoux2000_2001_HT31.pdf",
+          "bytes": 2646348,
+          "sha256": "954c22a977887741139c0feae50e1fabbe7c537514db0ff5bd3ab4b6bff9f256"
+        }
+      ],
+      "inspected": [
+        "Selected text31–43 for identity, readings, scope and morphology",
+        "39–40 for bronze match and explicit ceramic rival",
+        "59–60 for exact cited source resolution"
+      ],
+      "decisive_locator": "Printed40/PDF10: ceramic tripods acknowledged, length+thinness of supports proposed as exclusion; printed39/PDF9: two bronze comparators",
+      "source_relationship": "Uses Vandenabeele1974 photographs; reports Olivier's enlargement observation33; not independent ancient evidence",
+      "interpretation_limit": "PU-KO scope and bronze gloss conditional; related Duhoux2000 in-press article later resolves to2003, assigned other agent",
+      "web_refs": [
+        "turn192view1",
+        "turn191search12",
+        "turn191search13"
+      ],
+      "disposition": "Decisive C044 source-chain correction"
+    },
+    {
+      "id": "LREC-S08",
+      "source": "Pietro Militello2011, Ayia Triada tablets, findspots and scribes. A reappraisal, Pasiphae5,59–70",
+      "urls": [
+        "https://www.iris.unict.it/handle/20.500.11769/31902"
+      ],
+      "access": "Prior R33-A6/ARC34-S04 already record restricted fulltext and author entries without uploaded paper. No new fulltext acquired.",
+      "prior_exposure": [
+        "C033/C034 primary abstract and author-route checks",
+        "C042 reconnaissance metadata-only route"
+      ],
+      "disposition": "No new access route; did not repeat restricted acquisition; distinct from LREC-S04 kiln paper"
+    },
+    {
+      "id": "LREC-S09",
+      "source": "Jean-Pierre Olivier, Olivier Pelon and Frieda Vandenabeele1979, Un nouveau document en Linéaire A au palais de Malia, BCH103.1,3–27, DOI10.3406/bch.1979.1975",
+      "urls": [
+        "https://www.persee.fr/doc/bch_0007-4217_1979_num_103_1_1975"
+      ],
+      "access": "Primary article pageHTML; selected page text4–7,25–27 inspected; actual figures not inspected",
+      "raw_files": [
+        {
+          "path": "sources/OPV1979_MA10.html",
+          "bytes": 107779,
+          "sha256": "373841ea9cfe2e392632d9a80996f8e6a94be53d47e8177e628d0ea116df1ffb"
+        },
+        {
+          "path": "sources/OPV1979_MA10_acquisition.json",
+          "note": "Page-level URLs and hashes",
+          "bytes": 1720,
+          "sha256": "ece8dcdb4af666cc584045b652ac564fe02eab45596952423c73f3fc9eea704a"
+        }
+      ],
+      "inspected": [
+        "4–7 findcontext, deposition, dating and preservation",
+        "25 figure42 caption only",
+        "26–27 conclusion and context qualifications"
+      ],
+      "not_inspected": [
+        "Full typological middle section",
+        "Actual figure pixels"
+      ],
+      "interpretation_limit": "Selected primary context/conclusion give accidental postfire deposition and typological analogies; no exact ancient transaction or stock join observed. No whole-article absence claim.",
+      "prior_exposure": "C042 Pelon1995/89P33 comparison toMA10 was already source-screened; this brief source supplement does not rerun metrology.",
+      "web_refs": [
+        "turn203search0",
+        "turn204view0"
+      ],
+      "disposition": "Lead-requested finite source supplement only; no new deepcandidate"
+    }
+  ],
+  "corpus_controls": {
+    "source_project_relative_path": "corpus/discovery_snapshot.json",
+    "sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+    "records": 1721,
+    "exact_target_token": "*410-VS",
+    "matching_records": [
+      "HT31"
+    ],
+    "overlay": "HT31_RAW_ROW_OVERLAY.json",
+    "reproducible_check": "audit_ht31_snapshot.py",
+    "limit": "Exact frozen encoding only; raw row copied with damage and source notations retained separately; no normalization or ancient semantic inference."
+  }
+}

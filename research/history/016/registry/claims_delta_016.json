@@ -1,0 +1,41 @@
+[
+  {
+    "id": "LA-016-001",
+    "claim": "The current effective KI-RO quantity on HT34 is 30, not 37.",
+    "disposition": "supported_epigraphic_correction",
+    "basis": "Younger-style transcription has KI-RO 30 [[7]]; double brackets mark erased text."
+  },
+  {
+    "id": "LA-016-002",
+    "claim": "On HT34, KI-RO marks the residual/outstanding complement of a reference amount after a PA3-marked amount.",
+    "disposition": "supported_local_function",
+    "basis": "100 - 70 = 30; erased 7 would yield non-closing 37, so scribal correction independently reinforces intended closure.",
+    "qualification": "PA3 exact lexical meaning remains unknown; 'accounted/transaction-marked portion' is safer than 'paid/delivered'."
+  },
+  {
+    "id": "LA-016-003",
+    "claim": "KI-RO can now be functionally glossed as deficit/outstanding balance in the HT34 construction.",
+    "disposition": "supported_local_semantic_function",
+    "basis": "Direct arithmetic complement plus correction; converges with 2025 specialist synthesis.",
+    "qualification": "Do not universalize fixed polarity to every KI-RO context without further controls."
+  },
+  {
+    "id": "LA-016-004",
+    "claim": "QA-QA-RU on HT118 is independently classifiable as a personal name.",
+    "disposition": "supported_onomastic_category",
+    "basis": "Linear B qa-qa-ro (As 604) is a masculine personal name and is treated in scholarship as the adapted counterpart."
+  },
+  {
+    "id": "LA-016-005",
+    "claim": "HT118 contains a named-person + KI outstanding-balance construction.",
+    "disposition": "supported_clause_level_accounting_relation",
+    "basis": "QA-QA-RU 6 KI 4; KI subcolumn totals 10+4+1=15 matching final KI15; current specialist synthesis identifies KI as abbreviation of KI-RO.",
+    "qualification": "Internal evidence does not independently prove 'owes to palace' direction."
+  },
+  {
+    "id": "LA-016-006",
+    "claim": "The full project mission of an overt action plus independently fixed participant direction is complete.",
+    "disposition": "not_fully_achieved",
+    "basis": "We have a named participant and deficit/status relation, but no independently fixed counterparty/direction and the construction may be non-verbal."
+  }
+]

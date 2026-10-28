@@ -1,0 +1,49 @@
+{
+  "campaign": "LA-C041-2026-10-23",
+  "scope": "Append-only qualification of LA-040-001; original040 evidence and frozen corpus retained unchanged",
+  "objects": [
+    {
+      "inventory": "9384",
+      "catalogue_number_2019": "1121",
+      "type_2019": "G10",
+      "ceramic_groups_2019": "67N039–044",
+      "phase": "C",
+      "measurements_cm_2019": {"height":29.5,"rim_outer":15.6,"rim_inner":15.1,"handle_thickness":1.9,"base_restored":11},
+      "measurements_source": "C041-S02, printed258; concordance609",
+      "mark_attribution_2021_2025": "AB81",
+      "reading_history_2019": "Partly preserved trident; comparison to AB9 or AB27 treated as insecure by author, not asserted as two secure readings",
+      "reading_history_source": "C041-S01, printed220",
+      "capacity_litres_2025":7.95,
+      "capacity_status": "Approximate source-reported measurement from040; not repeated in041",
+      "complete_singleton_guaranteed":false,
+      "independent_residue_sample_join_recovered":false
+    },
+    {
+      "inventory": "9730",
+      "catalogue_number_2019": "1122",
+      "type_2019": "G10",
+      "ceramic_groups_2019": "67N044",
+      "phase": "C",
+      "measurements_cm_2019": {"preserved_height":15,"rim":14.5,"rim_thickness":0.9,"handle_thickness":1.7},
+      "rim_measurement_convention": "2019 does not specify inner versus outer for this entry",
+      "measurements_source": "C041-S02, printed258; concordance609",
+      "mark_attribution_2021_2025": "AB164a",
+      "reading_history_2019": "Rectangle with opposing arcs; author associates with AB164 at broader sign level",
+      "capacity_litres":null,
+      "capacity_status":"Not independently measured in inspected sources; later equality is inferred",
+      "independent_residue_sample_join_recovered":false
+    }
+  ],
+  "source_adjudications": [
+    {"field":"rim equality","decision":"Retain2019 exact values and2025 approximate comparison as source-specific. No averaging or inferred identity; conventions/precision differ."},
+    {"field":"inscription completeness","decision":"2019 regards pictorial signs as isolated rather than a text sequence;2025 allows lost following mark after9384. Retain historical judgments separately; complete singleton is unestablished."},
+    {"field":"cooking use","decision":"G10 ceramic fabric classification is not a target-specific contents assay. I203's possible cooking function concerns laterLCI comparanda. II258 soot annotation is for1123/G11, not1121/1122."},
+    {"field":"sample identity","decision":"No exact target join recovered in four image-only Table3.23 pagesI458–461. Blank fields,119→128 gap and repeated185 prevent unsampled/global absence inference. Do not equate Hilditch sample integers with ACV or AKR codes."}
+  ],
+  "source_independence":"2019/2021/2025 are modern records of the same two carriers, partly overlapping research context",
+  "new_ancient_objects":0,
+  "new_semantic_relationship":false,
+  "action_meaning":null,
+  "participant_role":null,
+  "raw_corpus_modified":false
+}

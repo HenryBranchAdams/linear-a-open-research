@@ -1,0 +1,180 @@
+{
+  "experiment_id": "R10-HT24-IDENTIFIABILITY",
+  "kind": "exact conditional identifiability analysis",
+  "new_ancient_reading": false,
+  "formula": "c*R = y*(B + (m-1)*S + x)",
+  "symbols": {
+    "B": "63/2 inherited visible quantity lower bound",
+    "R": "9/2 reverse total, conditional on fraction values and AB118?",
+    "c": "standard wool units per reverse accounting unit",
+    "m": "hypothetical ME multiplier",
+    "S": "accepted ME-marked visible subtotal",
+    "x": "unpreserved weighted input, nonnegative",
+    "y": "yield, 0<y<=1 under no additions"
+  },
+  "constructive_nonidentifiability": {
+    "secure_ME_only": [
+      {
+        "m": "1/2",
+        "weighted_missing": "39/2",
+        "yield": "45/46",
+        "physical_input": "46",
+        "output": "45"
+      },
+      {
+        "m": "1",
+        "weighted_missing": "29/2",
+        "yield": "45/46",
+        "physical_input": "46",
+        "output": "45"
+      },
+      {
+        "m": "2",
+        "weighted_missing": "9/2",
+        "yield": "45/46",
+        "physical_input": "46",
+        "output": "45"
+      },
+      {
+        "m": "3",
+        "weighted_missing": "1",
+        "yield": "6/7",
+        "physical_input": "105/2",
+        "output": "45"
+      },
+      {
+        "m": "10",
+        "weighted_missing": "1",
+        "yield": "18/49",
+        "physical_input": "245/2",
+        "output": "45"
+      }
+    ],
+    "accept_ME_by_six": [
+      {
+        "m": "1/2",
+        "weighted_missing": "45/2",
+        "yield": "45/46",
+        "physical_input": "46",
+        "output": "45"
+      },
+      {
+        "m": "1",
+        "weighted_missing": "29/2",
+        "yield": "45/46",
+        "physical_input": "46",
+        "output": "45"
+      },
+      {
+        "m": "2",
+        "weighted_missing": "1",
+        "yield": "90/97",
+        "physical_input": "97/2",
+        "output": "45"
+      },
+      {
+        "m": "3",
+        "weighted_missing": "1",
+        "yield": "30/43",
+        "physical_input": "129/2",
+        "output": "45"
+      },
+      {
+        "m": "10",
+        "weighted_missing": "1",
+        "yield": "90/353",
+        "physical_input": "353/2",
+        "output": "45"
+      }
+    ]
+  },
+  "bounded_yield_multiplier_ceilings": {
+    "secure_ME_only": [
+      {
+        "yield_minimum": "1",
+        "m_ceiling": "47/20",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "99/100",
+        "m_ceiling": "527/220",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "19/20",
+        "m_ceiling": "983/380",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "18/19",
+        "m_ceiling": "13/5",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "9/10",
+        "m_ceiling": "57/20",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "1/2",
+        "m_ceiling": "137/20",
+        "doubled_m_rejected_by_lower_bound": false
+      }
+    ],
+    "accept_ME_by_six": [
+      {
+        "yield_minimum": "1",
+        "m_ceiling": "59/32",
+        "doubled_m_rejected_by_lower_bound": true
+      },
+      {
+        "yield_minimum": "99/100",
+        "m_ceiling": "659/352",
+        "doubled_m_rejected_by_lower_bound": true
+      },
+      {
+        "yield_minimum": "19/20",
+        "m_ceiling": "1211/608",
+        "doubled_m_rejected_by_lower_bound": true
+      },
+      {
+        "yield_minimum": "18/19",
+        "m_ceiling": "2",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "9/10",
+        "m_ceiling": "69/32",
+        "doubled_m_rejected_by_lower_bound": false
+      },
+      {
+        "yield_minimum": "1/2",
+        "m_ceiling": "149/32",
+        "doubled_m_rejected_by_lower_bound": false
+      }
+    ]
+  },
+  "input_token_link": {
+    "secure_ME_only": {
+      "assumptions": "45 tokens independently tied to the recto input batch, each representing one standard wool unit, and count complete",
+      "m_ceiling": "47/20",
+      "yield_required": false,
+      "doubled_m_rejected_by_lower_bound": false,
+      "unknown_token_denomination_removes_this_bound": true
+    },
+    "accept_ME_by_six": {
+      "assumptions": "45 tokens independently tied to the recto input batch, each representing one standard wool unit, and count complete",
+      "m_ceiling": "59/32",
+      "yield_required": false,
+      "doubled_m_rejected_by_lower_bound": true,
+      "unknown_token_denomination_removes_this_bound": true
+    }
+  },
+  "interpretation": [
+    "Even a secure ME-by-six reading cannot bound m if yield can approach zero and missing input has no upper bound.",
+    "Fixing yield alone is also insufficient if c can vary freely.",
+    "An independently established same-batch input token count with known denomination bounds m without downstream yield.",
+    "The report supplies the proof for all m>0; example countermodels below are illustrative, not ancient reconstructions.",
+    "Numerical feasibility is a necessary screen, not sufficient evidence for a reading, restoration, or role assignment."
+  ]
+}

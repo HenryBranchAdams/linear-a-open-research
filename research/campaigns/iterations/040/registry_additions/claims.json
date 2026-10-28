@@ -1,0 +1,35 @@
+[
+  {
+    "id": "LA-040-001",
+    "iteration": 40,
+    "updated_date": "2026-10-23",
+    "claim": "Akrotiri9384/AB81 and9730/AB164a require a qualified production/measurement packet: the later exact-pair source reports technical differences, only9384 measured~7.95L, incision before coating, possible lost AB81 continuation, and withdrawal of necessary maker/scribe separation. This pair does not independently hold manufacture and capacity constant when testing contents versus production labels.",
+    "disposition": "source_object_and_conditional_production_constraints_retained_semantics_unresolved",
+    "evidence_kind": "exact_inventory_photo_concordance_and_later_primary_source_comparison",
+    "witnesses": [
+      "Akrotiri9384",
+      "Akrotiri9730"
+    ],
+    "evidence_path": "iterations/040/evidence/EVIDENCE_RECORD.json",
+    "additional_evidence_paths": [
+      "iterations/040/agents/SOURCE_DOSSIER.md",
+      "iterations/040/agents/challenger/REVIEW_ADDENDUM.md",
+      "iterations/040/analysis/RIVAL_COMPARISON.md"
+    ],
+    "dependencies": [
+      "C040-S01",
+      "C040-S02"
+    ],
+    "basis_and_limits": "Actual photos and Greek text checked; source-reported surface sequence, modern fill not repeated. Same broadG10 class does not supply measured equal volumes or common manufacturing group. Technical contrast grounds a production-related rival but identifies no workshop or role. A fixed coarse-type-to-one-preserved-mark rule fails only under that restricted deterministic model.",
+    "strongest_rival": "Production/workshop-related designation, positively grounded by manufacturing contrast. A commissioned recipient is permitted by the timing but no order is independently recovered; contents/use remains live and can covary with production.",
+    "evidence_needed_to_reopen_or_advance": "Manufacture-controlled content/use comparison or content-controlled production series linked independently of the marks; exact samples/contexts required.",
+    "evidence_access_level": "2021target284–286 and2024conference/2025posted targetGreek passages plus actual local photographs/inventory cards; no object autopsy/analytical sample notebooks/fill replication.",
+    "action_meaning": null,
+    "participant_role": null,
+    "new_semantic_relationship": false,
+    "new_testable_linguistic_prediction": false,
+    "new_to_scholarship": false,
+    "novelty": "New project source/object/physical control and comparative confound; published evidence, no new ancient witness.",
+    "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip"
+  }
+]

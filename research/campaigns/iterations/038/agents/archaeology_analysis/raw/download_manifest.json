@@ -1,0 +1,12 @@
+[
+  {
+    "file": "Andreadaki_Vlasaki_Hallager_2007.pdf",
+    "source_url": "https://tidsskrift.dk/pdia/article/download/19622/17243/44600",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  },
+  {
+    "file": "CIPEM_2021_minutes_published_2025.pdf",
+    "source_url": "https://ejournals.lib.uoc.gr/Ariadne/article/download/1875/1784/3540",
+    "error": "<urlopen error [Errno 1] Operation not permitted>"
+  }
+]

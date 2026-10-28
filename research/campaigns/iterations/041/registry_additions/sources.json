@@ -1,0 +1,61 @@
+[
+  {
+    "id": "C041-S01",
+    "title": "Nikolakopoulou2019, Akrotiri, Thera. Middle Bronze Age Pottery and Stratigraphy, volumeI (including Hilditch, PhasesB-C)",
+    "url": "https://www.archetai.gr/images/pdfs/bae/BAE_318.pdf",
+    "access": "Official full PDF acquired; selected target/mark/fabric passages, sample concordance and recorded macroscopic tables inspected; not a claim to have read every page",
+    "sha256": "0ccd138b1b2fd2885f22516573e08ab373cf338c5bdc28d7256ffe64ccc50b52",
+    "size_bytes": 73120857,
+    "pdf_pages": 561,
+    "decisive_locators": [
+      "printed203",
+      "printed220",
+      "Hilditch377–470, especially378/402 and Table3.23 at458–461"
+    ],
+    "access_history": "040 UvA metadata-only access is superseded for availability by041 official publisher full PDF, found via actual publisher catalogue hyperlink",
+    "limits": "Same exposed carriers; no target specimen-register join or new assay. Integer sample IDs are not AKR/ACV aliases.",
+    "authored_record": "iterations/041/agents/SOURCE_ROUTE.md"
+  },
+  {
+    "id": "C041-S02",
+    "title": "Nikolakopoulou2019, Akrotiri, Thera. Middle Bronze Age Pottery and Stratigraphy, volumeII catalogue and plates",
+    "url": "https://www.archetai.gr/images/pdfs/bae/BAE_319.pdf",
+    "access": "Official full PDF acquired; exact entries/plate121/plateLVII/concordance inspected as actual pixels",
+    "sha256": "3a9a22ab23de0e939a6e3153907300948c45effcee20942af973a3981b34ee73",
+    "size_bytes": 36676561,
+    "pdf_pages": 633,
+    "decisive_locators": [
+      "printed258–259, entries1121/1122",
+      "printed543, plateLVII",
+      "printed609, inventory/context concordance"
+    ],
+    "limits": "Inventory identification and source measurements; no target residue result or second measured volume",
+    "authored_record": "iterations/041/evidence/CATALOGUE_OVERLAY.json"
+  },
+  {
+    "id": "C041-S03",
+    "aliases": [
+      "C041-OBJ-S02"
+    ],
+    "title": "Roumpou et al.2013, An interdisciplinary approach to the study of cooking vessels from Bronze Age Akrotiri, Thera",
+    "url": "https://www.academia.edu/4944783/An_interdisciplinary_approach_to_the_study_of_cooking_vessels_from_Bronze_Age_Akrotiri_Thera",
+    "access": "Substantive author-hosted searchable body and Table1 transcription inspected; actual table pixels not inspected; local HTML download returned403",
+    "decisive_locators": [
+      "methods35–36",
+      "Table1 at39–40",
+      "interpretation41–44"
+    ],
+    "finding": "Positive-result subset provides17 ACV-to-AKR code pairings; no target inventory join recovered in inspected records",
+    "limits": "Selected positives, not full38-sherd inventory or marked-vessel census. No transfer to9384/9730. Plain Hilditch sample integers belong to a separate namespace.",
+    "authored_record": "iterations/041/agents/OBJECT_EVIDENCE.md"
+  },
+  {
+    "id": "C041-S04",
+    "title": "Roumpou, Kylikoglou and Kalogeropoulos2021, Organic residues in pottery and cooking areas at Akrotiri",
+    "url": "https://www.santorini.net/wp-content/uploads/akrotiri-40years-contents-1.pdf",
+    "access": "Contents/bibliographic navigation only; bounded exact-title/author/institution/author-profile routes did not acquire article; zero article pages inspected",
+    "locator_status": "Contents starts375; Nestor bibliography reports374–381 versus target375–382. Original pagination not adjudicated.",
+    "limits": "Not global unavailability, not rejection of unseen scientific argument",
+    "authored_record": "iterations/041/agents/OBJECT_EVIDENCE.md"
+  }
+]

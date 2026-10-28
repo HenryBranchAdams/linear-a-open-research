@@ -1,0 +1,111 @@
+[
+  {
+    "campaign_iteration": 40,
+    "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C040-S01",
+    "title": "Values and measurements in the economic life at Akrotiri, Thera",
+    "authors": [
+      "Anna Michailidou"
+    ],
+    "year": 2021,
+    "urls": [
+      "https://helios.eie.gr/helios/bitstream/10442/17712/1/Michailidou%2040%20years%202021.pdf"
+    ],
+    "locators": [
+      "Printed277–286; decisive284–286,figs12–16;PDF one-based17–19"
+    ],
+    "access": "Complete target text and actual local figure pixels inspected",
+    "supports": "Initial pair of preserved marks, same broad form/size and reported prefiring sequence; historical distinct-maker/inscriber claim later qualified",
+    "components_not_read": "Full volume and original GORILA sign chart not independently audited",
+    "sha256": "2d53ea6a7aa0c65d46661763d04539f6ef29a8eeefbfd50d0593f6e5e7c356ca",
+    "source_dependencies": [
+      "Same ancient pair/researcher asC040-S02; not independent ancient replication"
+    ]
+  },
+  {
+    "campaign_iteration": 40,
+    "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C040-S02",
+    "title": "Η αναζήτηση της σχέσης γραφής και κεραμικής τεχνολογίας στο Ακρωτήρι Θήρας. Η περίπτωση των δύο αγγείων με εγχάρακτο σημείο Γραμμικής Α γραφής",
+    "authors": [
+      "Anna Michailidou"
+    ],
+    "bibliographic_date": "2024 conference / posted2025",
+    "urls": [
+      "https://edabyt.gr/wp-content/uploads/2025/02/%CE%9C%CE%B9%CF%87%CE%B1%CE%B7%CE%BB%CE%AF%CE%B4%CE%BF%CF%85-%CE%94%CE%B7%CE%BC%CE%BF%CF%83%CE%B9%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF.pdf"
+    ],
+    "locators": [
+      "Printed2–7context;7/10measurements;10manufacture/coating;11fig14;13reading-completeness/operator correction;printedpage+2=one-basedPDF"
+    ],
+    "access": "Complete source available locally; decisive Greek passages, title/posting notice and actual photos/cards read by lead/investigators",
+    "supports": "Exact9384/9730 concordance; one measured~7.95L; technical differences; reported incision-before-coating; revised maker/scribe inference; possibleAB81 continuation",
+    "components_not_read": "Original notebooks, exact laboratory/residue samples, repeated fill/autopsy not performed",
+    "sha256": "684f69b38bc5427bfd421a77abe716d91bc351acf3288c96565f447df4f7004e",
+    "source_dependencies": [
+      "C040-S01 same pair; Nikolakopoulou2019 and Tsoulakou2021 context dependencies not all directly audited"
+    ]
+  },
+  {
+    "campaign_iteration": 40,
+    "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C040-S03",
+    "title": "Excavations at Mochlos,1990–1991",
+    "authors": [
+      "Jeffrey S. Soles",
+      "Costis Davaras"
+    ],
+    "urls": [
+      "https://www.ascsa.edu.gr/uploads/media/hesperia/148208.pdf"
+    ],
+    "locators": [
+      "416–419,fig14p418,plate101b;targetP511"
+    ],
+    "access": "Complete65pagePDF acquired; target text and actual figure14/plate101 pixels screened",
+    "supports": "P511 prefiring shoulder mark and room context, no independent contents/capacity relation;plate101aP461distinct",
+    "sha256": "977d592747f31299c462ddd6124add82ffae84757575f15d57cf347d67289186"
+  },
+  {
+    "campaign_iteration": 40,
+    "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C040-S04",
+    "title": "Perna2003 Ideograms of vases and fractions in Linear A script: bibliographic/source-chain resolution only",
+    "urls": [
+      "https://helios.eie.gr/helios/bitstream/10442/17712/1/Michailidou%2040%20years%202021.pdf",
+      "https://www.academia.edu/9816042/An_updating_note_on_Minoan_fractions_measures_and_weights"
+    ],
+    "locators": [
+      "Perna343–350,target346/plateLXVIIIg;Pelon1995fig7p587,through inspected source chain"
+    ],
+    "access": "Bibliographic and cited discussion only; original Perna/Pelon plates not acquired",
+    "supports": "Finite Malia screening target and missing calibration/access boundary",
+    "components_not_read": "Original Perna/Pelon text and plates; no exact museum/corpus ID or measured capacity"
+  },
+  {
+    "campaign_iteration": 40,
+    "campaign_archive": "iterations/040/Linear_A_Campaign_040.zip",
+    "new_to_scholarship": false,
+    "semantic_evidence": false,
+    "id": "C040-S05",
+    "title": "2019 fabric chapter: The Middle Bronze Age Pottery. Fabrics and Technologies. Phases B-C",
+    "authors": [
+      "J. Hilditch"
+    ],
+    "urls": [
+      "https://dare.uva.nl/id/1739b110-7d3e-4505-ba37-6c3ef8254bb4"
+    ],
+    "locators": [
+      "Institutional record for chapter3.3.2,volumeI377–470"
+    ],
+    "access": "Metadata and abstract only; no full-text download link recovered",
+    "supports": "Bounded dependency access record; no exact9384/9730 laboratory join",
+    "components_not_read": "Complete chapter/sample tables"
+  }
+]

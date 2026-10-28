@@ -1,0 +1,21 @@
+{
+  "campaign": "C043",
+  "status": "completed_closed_admission_failure",
+  "level": "source_object_control",
+  "claim_ids": [
+    "LA-043-001"
+  ],
+  "experiment_access_ids": [
+    "C043-CORD-JOIN"
+  ],
+  "new_source_ids": [
+    "C043-S01",
+    "C043-S02"
+  ],
+  "inherited_source": "RA34-S01",
+  "semantic_test_admitted": false,
+  "new_semantic_relationship": false,
+  "new_archaeological_discovery": false,
+  "change": "Exact five-carrier join yields one readable labeling-class carrier and no readable securing-class carrier.",
+  "next_action": "C044 morphology/material comparison; C043 reopens only with a missing readable physical counterpart."
+}

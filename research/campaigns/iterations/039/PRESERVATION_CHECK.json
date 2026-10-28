@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-22T10:27:07.552742+00:00",
+  "actual_registry_totals": [
+    83,
+    32,
+    104
+  ],
+  "all_inherited_registry_entries_unchanged": true,
+  "frozen_baseline_and_snapshot_unchanged": true,
+  "independent_arithmetic_rerun_matched": true,
+  "semantic_validation": false,
+  "autopsy_replication": false,
+  "scope": "Actual checks run by verify039.py and independent reviewer; manifest refreshed to include this record then verified again."
+}

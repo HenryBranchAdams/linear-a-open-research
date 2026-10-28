@@ -1,0 +1,12 @@
+[
+  {
+    "file": "GORILA_II_selector156.html",
+    "url": "https://cefael.efa.gr/detail.php?actionID=page&serie_id=EtCret&volume_number=21&issue_number=2&sp=156&site_id=1&max_image_size=1",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "file": "GORILA_II_selector156.jpg",
+    "url": "https://cefael.efa.gr/apps/library/services/images/?f=EtCret_21-2_1979_156.jpg&p=jpg%2F150%2FEtCret%2FEtCret_21-2_1979%2FEtCret_21-2_1979_VolumeBroche",
+    "error": "HTTP Error 503: Service Unavailable"
+  }
+]

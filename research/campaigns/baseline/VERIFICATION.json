@@ -1,0 +1,165 @@
+{
+  "baseline_id": "B2026-10-18",
+  "checked_on": "2026-10-18",
+  "status": "passed",
+  "scope": "Preservation, source/claim cross-references, outcome-exposure fields and current navigation. Not linguistic validation.",
+  "semantic_claim_or_ancient_reading_validated_by_these_checks": false,
+  "latest_checkpoint_verifier": {
+    "ran_earlier_in_this_review": true,
+    "status": "passed",
+    "scope": "Preservation and internal consistency only",
+    "prior35_sha256": "a39a89c9a0bde1302fa77c3e3c1a15a64a6475e311eb3ab12353f6e497a094eb",
+    "inherited_registry_prefixes": [
+      79,
+      26,
+      85
+    ],
+    "current_registry_counts": [
+      80,
+      28,
+      92
+    ],
+    "manifest_files_verified": 38,
+    "protocol_freeze_matched": true
+  },
+  "unchanged_inputs": {
+    "registry/claims.json": {
+      "sha256": "340e5d22c060d4894e57bc12dd27aa4ef0d266cd12de41ad0d62b01495240fee",
+      "unchanged_from_canonical_and_latest_checkpoint": true
+    },
+    "registry/experiments.json": {
+      "sha256": "16a5410ac7468e4b5aedc0f20fc8e47f261a54ec1e27eb4e8f8ce1eddf908680",
+      "unchanged_from_canonical_and_latest_checkpoint": true
+    },
+    "registry/sources.json": {
+      "sha256": "b825ac3a0272d3a22cc56bc3f48f72f495a9a5df6e332c17eeb6e49bb85ff262",
+      "unchanged_from_canonical_and_latest_checkpoint": true
+    },
+    "corpus/discovery_snapshot.json": {
+      "sha256": "9b293509ab0ff928564c924e41f2c7da97e024ff28ac9b196e25cec638a2629b",
+      "records": 1721,
+      "unchanged": true
+    }
+  },
+  "inherited_prerequisites_unchanged": true,
+  "canonical_source_governance_matched_checkpoint_before_replacement": [
+    "START_HERE.md",
+    "NEXT.md",
+    "context/CURRENT_STATE.md",
+    "context/RESEARCH_PROTOCOL.md",
+    "context/DO_NOT_REUSE.md",
+    "context/HISTORY.md"
+  ],
+  "context_files_with_unchanged_inherited_prefixes": [
+    "context/RESEARCH_PROTOCOL.md",
+    "context/DO_NOT_REUSE.md",
+    "context/HISTORY.md",
+    "context/CHANGELOG.md"
+  ],
+  "historical_archives_preserved": 12,
+  "explicit_archive_report_locators_resolved": 19,
+  "json_files_parsed_before_receipt": 10,
+  "disposition_legacy_ids_resolved": true,
+  "queue_claim_links_resolved": true,
+  "no_active_semantic_experiment_or_automatic_iteration38": true,
+  "known_exposure_entries": 21,
+  "no_invented_first_seen_dates_or_unused_certification": true,
+  "current_markdown_links_resolved": [
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/Linear_A_Research_Baseline_2026-10-18.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "context/CURRENT_STATE.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "NEXT.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "context/RESEARCH_PROTOCOL.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "context/DO_NOT_REUSE.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/NEXT_RESEARCH_BRIEF.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/CLAIM_DISPOSITIONS.json"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/HISTORY_CROSSWALK.json"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/EXPOSURE_LEDGER.json"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "iterations/036-037/Linear_A_Iterations_36_37_Report.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/EVIDENCE_PREREQUISITES_36_37.md"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/SOURCE_INDEX.json"
+    },
+    {
+      "from": "START_HERE.md",
+      "target": "baseline/REVIEW_COVERAGE.md"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/NEXT_RESEARCH_BRIEF.md"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/RESEARCH_QUEUE.json"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/Linear_A_Research_Baseline_2026-10-18.md"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/CLAIM_DISPOSITIONS.json"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "context/DO_NOT_REUSE.md"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/EXPOSURE_LEDGER.json"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/EVIDENCE_PREREQUISITES_36_37.md"
+    },
+    {
+      "from": "NEXT.md",
+      "target": "baseline/PUBLIC_SYNC.md"
+    }
+  ],
+  "historical_markdown_links_not_globally_validated": true,
+  "independent_review_refinements_incorporated": [
+    "Original sources control observations; baseline controls navigation/disposition.",
+    "Prefiring phase does not rule out later individual-component additions.",
+    "Source access, semantic admission and later replication are separate gates.",
+    "Reading adequate for a comparison or robustness across retained branches may qualify.",
+    "Action and relevant participant roles remain the mission."
+  ],
+  "public_metadata_scope": "Read-only Sites metadata; no live UI or GitHub status validation.",
+  "source_exposure_scope": "Core known outcomes only; absence from ledger is not evidence of no exposure.",
+  "archive_manifest_policy": "MANIFEST.json records every portable file except itself; historic checkpoints retain their original manifests.",
+  "package_only_copy_paths_explicitly_distinguished_from_canonical_files": true
+}

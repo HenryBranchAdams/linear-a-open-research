@@ -1,0 +1,82 @@
+{
+  "created_utc": "2026-10-25T23:51:35.419678+00:00",
+  "stage": "physical_selection_before_inventory_to_sign_join",
+  "source": "Barbara Montecchi, Classification, Use, and Function of Hanging Nodules in the Neopalatial Administrative Practices (Minoan Crete), AA2017/1,1-18; digital offprint2019",
+  "source_url": "https://d-nb.info/1256091359/34",
+  "selection_rule": "All four HT inventories explicitly listed in the physical-function table on printed p13, plus the one ZA comparator explicitly photographed among the four silicone casts on p5. No selection by written signs or seal devices.",
+  "objects": [
+    {
+      "inventory": "HMs451/5",
+      "site": "HT",
+      "reported_string_mechanism": "single knotted string-end",
+      "reported_function": "labelling",
+      "locators": [
+        "printedp5 Fig4",
+        "printedp13 table"
+      ],
+      "reading_at_selection": null
+    },
+    {
+      "inventory": "HMs546/1",
+      "site": "HT",
+      "reported_string_mechanism": "two loose string-ends",
+      "reported_function": "labelling and securing",
+      "locators": [
+        "printedp5 Fig6",
+        "printedp13 table"
+      ],
+      "reading_at_selection": null,
+      "qualification": "p4 noteii CMS II6 p478 labels complete carrier Schnurplombe?; Montecchi interprets silicone cast."
+    },
+    {
+      "inventory": "HMs557",
+      "site": "HT",
+      "reported_string_mechanism": "knotted string-length",
+      "reported_function": "labelling",
+      "locators": [
+        "printedp3 Fig3",
+        "printedp13 table"
+      ],
+      "reading_at_selection": null,
+      "qualification": "CMS II6no011 cited; second external hole does not imply securing two ends."
+    },
+    {
+      "inventory": "HMs1657",
+      "site": "HT",
+      "reported_string_mechanism": "two twisted string-ends",
+      "reported_function": "labelling and securing",
+      "locators": [
+        "printedp5 Fig7",
+        "printedp13 table"
+      ],
+      "reading_at_selection": null,
+      "qualification": "fragment per p4 noteii."
+    },
+    {
+      "inventory": "HMs1143",
+      "site": "ZA",
+      "reported_string_mechanism": "length of single knotted string",
+      "reported_function": "labelling",
+      "locators": [
+        "printedp5 Fig5",
+        "printedpp5-6 text"
+      ],
+      "reading_at_selection": null,
+      "role": "cross-site physical comparator; not pooled without site control"
+    }
+  ],
+  "exposure": {
+    "earlier_registry_source": "RA34-S01",
+    "prior_source_exposure": "wholePDF acquired and relevanttextread; pp5,9,11pixelsinspected in iteration34. Ledger explicitly names451/5,1143,546/1,1657. Therefore no unused ancient witness claim.",
+    "current_exposure": "Search and extracted primarytext p3-7,13 read; no current figure pixels yet; exact inventories searched for access/crosswalk leads but searches returned only samephysicalpaper, not target sign outcomes. Currentreader knows CMSII6no011 mappingHMs557 from sourcecaption. Broad Weingarten1987 signdiversitytables exposed during reconnaissance, not individual selected-inventory values.",
+    "not_known": "Whether full older investigator analysis used these exact sign-function joins; current sourceledger does not record one."
+  },
+  "proposed_admission_gate": "Establish exact inventory-to-inscription join and inspect original target sign evidence after lead freezes a comparison. A physically selected object may be uninscribed, fragmentary, or incapable of target reading; missing is not negative.",
+  "constraints": [
+    "Reported physical mechanism is specialist observation of cast; not our physical autopsy.",
+    "Exterior one/two-hole classification alone is not the functional predictor.",
+    "Same-seal and same-sign associations cannot identify historical people or operations by themselves.",
+    "Complete sign crosswalk and secure local-function code are prerequisites for semantic comparison.",
+    "If no readable contrasting pair survives, close source packet without claiming semantics."
+  ]
+}

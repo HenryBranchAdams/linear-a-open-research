@@ -1,0 +1,547 @@
+{
+  "scope": "Text scan of unique indexed historical reports via the documented verifying reader; no full historical-source reinspection. Current prose/registries separately rg scanned. Does not include every raw acquisition or protected original initial report. Absence is no guarantee of no prior exposure.",
+  "pattern": "KN\\s*Zb\\s*<?27>?|HM\\s*5194|Z[AA]?\\s*Zb\\s*3\\b|(?<!\\d)5194(?!\\d)|Christakis|\\b34\\s*(?:litres|liters|[lL]\\b)",
+  "unique_reports_scanned": 50,
+  "reports_with_hits": [
+    {
+      "index": 43,
+      "archive_id": "archive-18",
+      "member": "linear_a_recheck/REPORT.md",
+      "sha256": "cc7fb40c7b37a1508d71597cfc1255e5f0af7668371e2f0d489b23206d9a3500",
+      "matches": [
+        {
+          "reader_output_line": 84,
+          "context": "TA-NA| I-*301 | U-TI-NU\nA-TA | I-*301 | DE-KA     [TA doubtful in ZA Zb 3]\n```"
+        },
+        {
+          "reader_output_line": 89,
+          "context": "\nThe ZA Zb3 form is on a wine-storage jar, alongside VINa 32. A candidate gloss restricted to one named god or one sanctuary must explain this additional context. A general act such as providing, dedicating, or transferring is a possible semantic family, not a demonstrated meaning.\n"
+        },
+        {
+          "reader_output_line": 91,
+          "context": "\nSources: [IO Za6](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/IOZa6.html), [IO Za2](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/IOZa2.html), [PS Za2](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/PSZa2.html), [ZA Zb3](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html), [Monti](https://doi.org/10.1515/kadmos-2022-0005), [Thomas](https://doi.org/10.1515/kadmos-2020-0001).\n"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "archive_id": "archive-23",
+      "member": "linear_a_round7/research/REPORT.md",
+      "sha256": "cd719a2f9cfb3116b53dd5551fad93bf3148eeeff8d1d23a338f3046b747fa03",
+      "matches": [
+        {
+          "reader_output_line": 21,
+          "context": "\nThere is prior scholarship for investigating an `-e` ending. Rose Thomas discusses that possibility in relation to the wine-jar text ZA Zb 3. This is credited as a conceptual precedent, not borrowed as a verified grammatical fact. The program ultimately tests the principal candidate using whole sign identities as well, so that its combinatorial prediction does not require exact Minoan pronunciations. [THOMAS](#src-thomas)\n"
+        },
+        {
+          "reader_output_line": 253,
+          "context": "\n<a id=\"src-zazb3\"></a>\n"
+        },
+        {
+          "reader_output_line": 255,
+          "context": "\n**ZAZb3. John G. Younger, ZAZb3: transcription and commentary (digital mirror).** [Source](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html). Text inspected; no new inspection of original object or facsimile.  \n"
+        },
+        {
+          "reader_output_line": 259,
+          "context": "\n**THOMAS. Rose Thomas, Some reflections on morphology in the language of the Linear A libation formula.** [Source](https://www.finnishsyntax.co.uk/wp-content/uploads/sites/3/2022/01/Reflections_on_Morphology_in_the_Language_of_the_Linear_A_Libation_Formula.pdf). Parsed manuscript text inspected. Web screenshot requests failed; no new visual epigraphy. Discussion of ZA Zb 3, agreement and proposed -e ending, manuscript pp. 7-9. Hosted manuscript has placeholder issue/page metadata. Do not use it as a newly verified final edition.\n"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "archive_id": "archive-23",
+      "member": "linear_a_round7/research/report.html",
+      "sha256": "4949a67ba0784175c33200b77dfcc67f6c55fb2cd56e264a6462bddb8666e7f5",
+      "matches": [
+        {
+          "reader_output_line": 22,
+          "context": "<p>This distinction matters. A whole sign need not equal a whole morpheme. Hypothetically, an apparent added <code>SE</code> could contain a stem-final consonant plus a vowel ending. That hypothetical model requires spelling conventions and morphological evidence; it is <strong>not</strong> an established analysis of <code>RU-MA-TA-SE</code>. Likewise, the suggestion that <code>QE</code> and <code>SE</code> contain the same vowel ending is not a result of this run.</p>\n<p>There is prior scholarship for investigating an <code>-e</code> ending. Rose Thomas discusses that possibility in relation to the wine-jar text ZA Zb 3. This is credited as a conceptual precedent, not borrowed as a verified grammatical fact. The program ultimately tests the principal candidate using whole sign identities as well, so that its combinatorial prediction does not require exact Minoan pronunciations. <a href=\"#src-thomas\">THOMAS</a></p>\n<p>The inherited discovery index contains <strong>1,019 rows and 946 eligible distinct sign strings</strong>. Its source is a manually materialized derivative of the Linear A Explorer index, with normalization and uncertainty-loss limitations preserved in the provenance file. It is not a reliable list of 946 completely preserved ancient words. Quantitative searches use that frozen index; selected hits are checked against source transcriptions. <a href=\"#src-index\">INDEX</a></p>"
+        },
+        {
+          "reader_output_line": 342,
+          "context": "<p><strong>HT17. John G. Younger, HT17: transcription and commentary (digital mirror).</strong> <a href=\"https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT17.html\">Source</a>. Text inspected; no new inspection of original object or facsimile.</p>\n<p><a id=\"src-zazb3\"></a></p>\n<p><strong>ZAZb3. John G. Younger, ZAZb3: transcription and commentary (digital mirror).</strong> <a href=\"https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html\">Source</a>. Text inspected; no new inspection of original object or facsimile.</p>"
+        },
+        {
+          "reader_output_line": 343,
+          "context": "<p><a id=\"src-zazb3\"></a></p>\n<p><strong>ZAZb3. John G. Younger, ZAZb3: transcription and commentary (digital mirror).</strong> <a href=\"https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html\">Source</a>. Text inspected; no new inspection of original object or facsimile.</p>\n<p><a id=\"src-thomas\"></a></p>"
+        },
+        {
+          "reader_output_line": 345,
+          "context": "<p><a id=\"src-thomas\"></a></p>\n<p><strong>THOMAS. Rose Thomas, Some reflections on morphology in the language of the Linear A libation formula.</strong> <a href=\"https://www.finnishsyntax.co.uk/wp-content/uploads/sites/3/2022/01/Reflections_on_Morphology_in_the_Language_of_the_Linear_A_Libation_Formula.pdf\">Source</a>. Parsed manuscript text inspected. Web screenshot requests failed; no new visual epigraphy. Discussion of ZA Zb 3, agreement and proposed -e ending, manuscript pp. 7-9. Hosted manuscript has placeholder issue/page metadata. Do not use it as a newly verified final edition.</p>\n<p><a id=\"src-karnava2016\"></a></p>"
+        },
+        {
+          "reader_output_line": 352,
+          "context": "<p><strong>INDEX. Inherited round-6 screening index derived from Linear A Explorer relations/nodes.js.</strong> <a href=\"https://github.com/mwenge/lineara.xyz/blob/master/relations/nodes.js\">Source</a>. Packaged CSV read locally. Source blob and manual-normalization caveats are retained in data/index_provenance.json.</p>\n<section id=\"evidence\"><h2>Observation register</h2><p class=\"small\">All 35 rows are visible here. Face segments and complete joined readings of one inscription are not independent witnesses. Printed sign positions are 1-based; JSON uncertainty positions are 0-based.</p><div class=\"table-wrap\"><table><thead><tr><th>Record ID</th><th>Document</th><th>Portion</th><th>Edited signs</th><th>Status</th><th>Quantity</th><th>Type of quantity</th><th>Source</th></tr></thead><tbody><tr><td>za10_tanate</td><td>ZA10</td><td>a.1</td><td>TA-NA-TE</td><td>Complete as edited</td><td>2</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>za10_atanate</td><td>ZA10</td><td>a.2</td><td>A-TA-NA-TE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>ht7_tanati</td><td>HT7</td><td>a.4</td><td>TA-NA-TI</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-ht7\">HT7</a></td></tr><tr><td>ht10_tanati</td><td>HT10</td><td>b.4</td><td>TA-NA-TI</td><td>Complete as edited</td><td>9 E</td><td>numeral and fraction sign</td><td><a href=\"#src-ht10\">HT10</a></td></tr><tr><td>ht98_tanati</td><td>HT98</td><td>a.2</td><td>TA-NA-TI</td><td>Complete as edited</td><td>J E</td><td>fraction signs</td><td><a href=\"#src-ht98\">HT98</a></td></tr><tr><td>za9_atana_gap</td><td>ZA9</td><td>.4-5</td><td>A-TA-NA-[one unresolved sign]</td><td>Complete as edited; doubtful/unresolved sign(s) 4</td><td>2 (uncertain)</td><td>written</td><td><a href=\"#src-za9\">ZA9</a></td></tr><tr><td>akrotiri_atana46</td><td>Akrotiri_pithos_Karnava2016</td><td>pre-firing inscription</td><td>A-TA-NA-*46</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-karnava2016\">KARNAVA2016</a></td></tr><tr><td>ht6_kapa</td><td>HT6</td><td>a.1</td><td>KA-PA</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>ht6_kapaqe</td><td>HT6</td><td>a.4-5</td><td>KA-PA-QE</td><td>Complete as edited</td><td>5 J E</td><td>numeral and fraction signs</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>ht6_datara</td><td>HT6</td><td>a.1-2</td><td>DA-TA-RA</td><td>Complete as edited</td><td>15</td><td>written</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>ht88_datare</td><td>HT88</td><td>.6</td><td>DA-TA-RE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-ht88\">HT88</a></td></tr><tr><td>ht88_pajare</td><td>HT88</td><td>.5</td><td>PA-JA-RE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-ht88\">HT88</a></td></tr><tr><td>za10_pajare</td><td>ZA10</td><td>b.5-6</td><td>PA-JA-RE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>ht6_sama</td><td>HT6</td><td>b.5-6</td><td>SA-MA</td><td>Complete as edited</td><td>35</td><td>written</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>za10_sama</td><td>ZA10</td><td>b.3-4</td><td>SA-MA</td><td>Complete as edited</td><td>5</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>ht29_rumata</td><td>HT29</td><td>.1</td><td>RU-MA-TA</td><td>Complete as edited</td><td>2[ (uncertain)</td><td>written</td><td><a href=\"#src-ht29\">HT29</a></td></tr><tr><td>za20_rumatase</td><td>ZA20</td><td>.3</td><td>RU-MA-TA-SE</td><td>Complete as edited</td><td>3</td><td>written</td><td><a href=\"#src-za20\">ZA20</a></td></tr><tr><td>kh20_dureza</td><td>KH20</td><td>.4</td><td>]DU?-RE-ZA •</td><td>broken / closed_as_edited; doubtful/unresolved sign(s) 1</td><td>J</td><td>fraction sign</td><td><a href=\"#src-kh20\">KH20</a></td></tr><tr><td>za10_durezase_a</td><td>ZA10</td><td>a.5</td><td>DU-RE-ZA-SE</td><td>Complete as edited</td><td>2 (uncertain)</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>za10_durezase_b</td><td>ZA10</td><td>b.1-2</td><td>DU-RE-ZA-SE</td><td>Complete as edited</td><td>5</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>kh7_utaise</td><td>KH7</td><td>b.2</td><td>U-TA-I-SE</td><td>Complete as edited</td><td>J[ (uncertain)</td><td>fraction sign, damaged continuation</td><td><a href=\"#src-kh7\">KH7</a></td></tr><tr><td>kh16_utaisi</td><td>KH16</td><td>.2</td><td>]U-TA-I-SI</td><td>broken / closed_as_edited</td><td>—</td><td>—</td><td><a href=\"#src-kh16\">KH16</a></td></tr><tr><td>kn10_face_a</td><td>KNZa10</td><td>face a, segment only</td><td>JA-SA-SA-RA-MA-</td><td>closed_as_edited / continues_on_next_face</td><td>—</td><td>—</td><td><a href=\"#src-knza10\">KNZa10</a></td></tr><tr><td>kn10_joined</td><td>KNZa10</td><td>faces a-b, one group</td><td>JA-SA-SA-RA-MA-NA</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-knza10\">KNZa10</a></td></tr><tr><td>io6_jasasara</td><td>IOZa6</td><td>third expression</td><td>JA-SA-SA-RA-ME</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-ioza6\">IOZa6</a></td></tr><tr><td>za14_panuqe</td><td>ZA14</td><td>.4</td><td>PA-NU-QE</td><td>Complete as edited</td><td>2</td><td>written</td><td><a href=\"#src-za14\">ZA14</a></td></tr><tr><td>za14_jawi</td><td>ZA14</td><td>.4</td><td>JA-WI[</td><td>closed_as_edited / broken</td><td>—</td><td>—</td><td><a href=\"#src-za14\">ZA14</a></td></tr><tr><td>ht31_pataqe</td><td>HT31</td><td>.6</td><td>PA-TA-QE</td><td>Complete as edited</td><td>3000</td><td>written</td><td><a href=\"#src-ht31\">HT31</a></td></tr><tr><td>ht73_saroqe</td><td>HT62[+]73</td><td>small fragment HT73 .3</td><td>SA-RO-QE[</td><td>closed_as_edited / broken</td><td>—</td><td>—</td><td><a href=\"#src-ht62-73\">HT62[+]73</a></td></tr><tr><td>kn17_jaqe</td><td>KNZa17</td><td>preserved fragment</td><td>]-JA-QE •</td><td>broken / closed_as_edited</td><td>—</td><td>—</td><td><a href=\"#src-knza17\">KNZa17</a></td></tr><tr><td>wc3014_kuminaqe</td><td>HTWc3014</td><td>a-b</td><td>KU-MI-NA-QE</td><td>Complete as edited; segmentation disputed</td><td>3</td><td>seal impressions, NOT written numeral</td><td><a href=\"#src-htwc3014\">HTWc3014</a></td></tr><tr><td>ht17_sidare</td><td>HT17</td><td>.3</td><td>SI-DA-RE</td><td>Complete as edited</td><td>5</td><td>written</td><td><a href=\"#src-ht17\">HT17</a></td></tr><tr><td>zazb3_didikase</td><td>ZAZb3</td><td>.1</td><td>DI-DI-KA-SE</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-zazb3\">ZAZb3</a></td></tr><tr><td>zazb3_asamune</td><td>ZAZb3</td><td>.1</td><td>A-SA-MU-NE</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-zazb3\">ZAZb3</a></td></tr><tr><td>zazb3_ase</td><td>ZAZb3</td><td>.1</td><td>A-SE</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-zazb3\">ZAZb3</a></td></tr></tbody></table></div></section><footer>Only source-linked transcription excerpts and original analysis are embedded. No source photographs, full-text PDFs, or font files are distributed.</footer></main></body></html>"
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "archive_id": "archive-24",
+      "member": "linear_a_round9/REPORT.md",
+      "sha256": "edb7980ca590160e4e6e322d5e2e009322dc66569996d6ac983408c3800c4a0d",
+      "matches": [
+        {
+          "reader_output_line": 97,
+          "context": "\nThe newer AURA 15 volume was searched beyond the inherited word index. Davis explicitly prints the **A-KU-MI-NA / A-DU-KU-MI-NA / KU-MI-NA-QE** triple on p.47. The project must not claim discovery of that comparison. ZA Zb 3's coexistence of a wine notation and a ritual-formula-like sequence still permits a batch or ritual-event interpretation; it does not independently distinguish “give” from “dedicate” or identify recipients. Proposed ritual word order remains partly dependent on assumed sentence structure and sign interpretation. [AURA 15](https://epub.lib.uoa.gr/index.php/aura/article/view/2642), [targeted checks and competing source interpretations](notes/ritual_check.md).\n"
+        }
+      ]
+    }
+  ],
+  "all_reports_audited": [
+    {
+      "index": 0,
+      "archive_id": "archive-00",
+      "member": "Linear_A_Campaign_041/baseline/Linear_A_Research_Baseline_2026-10-18.md",
+      "sha256": "3dc61ec338f12e4d8874e9479d0d525dd3daa2331b651eeeabd70b68a6955f9f",
+      "matches": []
+    },
+    {
+      "index": 1,
+      "archive_id": "archive-00",
+      "member": "Linear_A_Campaign_041/iterations/038/REPORT.md",
+      "sha256": "e90277dd34173755b640ec9969b288e7dd13b00da2c0e23eff87a606c29ac796",
+      "matches": []
+    },
+    {
+      "index": 2,
+      "archive_id": "archive-00",
+      "member": "Linear_A_Campaign_041/iterations/039/REPORT.md",
+      "sha256": "eac4bc3f91502f041b23d2c7d2a62a9ef19cc2421abd6622ab0b5bb3ae22cf11",
+      "matches": []
+    },
+    {
+      "index": 3,
+      "archive_id": "archive-00",
+      "member": "Linear_A_Campaign_041/iterations/040/REPORT.md",
+      "sha256": "9353497036b474ea860aae34fa51a7a1119469b5ab4bbc986b444481ef2570be",
+      "matches": []
+    },
+    {
+      "index": 4,
+      "archive_id": "archive-00",
+      "member": "Linear_A_Campaign_041/iterations/041/REPORT.md",
+      "sha256": "8457913b55af1a48b3b8edd87c4650572735c4671000891940c94af4d92c0036",
+      "matches": []
+    },
+    {
+      "index": 15,
+      "archive_id": "archive-05",
+      "member": "Linear_A_Iterations_36_37/REPORT.md",
+      "sha256": "1a994cfa93ab5733abef4b699bd8c8ec59939f5dbd2d158774c6eecd06e883ab",
+      "matches": []
+    },
+    {
+      "index": 16,
+      "archive_id": "archive-05",
+      "member": "Linear_A_Iterations_36_37/iterations/036/REPORT.md",
+      "sha256": "535ce0dcd0c807f0afb97c9c2a83985d7591c3d63f3c7bb6d2f70c44fcdf2c85",
+      "matches": []
+    },
+    {
+      "index": 17,
+      "archive_id": "archive-05",
+      "member": "Linear_A_Iterations_36_37/iterations/037/REPORT.md",
+      "sha256": "8ac5534b584c078cb6a0df589b6465d5794cd83e6c04d77ff289f5c1e3acaad0",
+      "matches": []
+    },
+    {
+      "index": 18,
+      "archive_id": "archive-06",
+      "member": "Linear_A_Iteration_35/REPORT.md",
+      "sha256": "a2b17b798bd18820e33fb8020134b794c54644b1244f537dae341660a8d5c8bc",
+      "matches": []
+    },
+    {
+      "index": 19,
+      "archive_id": "archive-07",
+      "member": "Linear_A_Iteration_34/REPORT.md",
+      "sha256": "f44984bb9bc30bb245079f82f11d8693d199393f11a955ef25d1e2b8f9aed0e7",
+      "matches": []
+    },
+    {
+      "index": 20,
+      "archive_id": "archive-08",
+      "member": "Linear_A_Iteration_33/REPORT.md",
+      "sha256": "d50197a7e9f08ef963257ec0d71066743f48fc55309c943b398f048e0c268fbb",
+      "matches": []
+    },
+    {
+      "index": 21,
+      "archive_id": "archive-09",
+      "member": "Linear_A_Iteration_32/REPORT.md",
+      "sha256": "0f0c9732c13b61153cdbc38d75a44b5548ceedce281198e79e7ce425de5770a6",
+      "matches": []
+    },
+    {
+      "index": 22,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/REPORT.md",
+      "sha256": "5c41c32b4881235dd55cc0cce2d295d33dc803c25c965c68f26644de7754f2ec",
+      "matches": []
+    },
+    {
+      "index": 23,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/history/Linear_A_Iteration_21/REPORT.md",
+      "sha256": "f2f23bb861545a884af8f1efac8899c6cbe6f3bf5e20c569137ebd1c0f54575f",
+      "matches": []
+    },
+    {
+      "index": 24,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/022/REPORT.md",
+      "sha256": "900f283b59f7e6d553da24bdc77e22e0127338b3569d5a8bac6e1c19b71f8946",
+      "matches": []
+    },
+    {
+      "index": 25,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/023/REPORT.md",
+      "sha256": "a823b2c0354ca863e501089503620bf2f57e2500bf3fb67263432a84a7f98864",
+      "matches": []
+    },
+    {
+      "index": 26,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/024/REPORT.md",
+      "sha256": "a6a573c8cf933ce5866363805a4c98a4aafaed2f0376a952d7a4d36e2b2f9bf9",
+      "matches": []
+    },
+    {
+      "index": 27,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/025/REPORT.md",
+      "sha256": "6c759bb60911237eae13cdd7617356c0204d2fabf0b4084d6b2b89cc84c874ed",
+      "matches": []
+    },
+    {
+      "index": 28,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/026/REPORT.md",
+      "sha256": "271279ec06206bc515c8c18ed4f415af98805121ae1726734e51d0532234bc35",
+      "matches": []
+    },
+    {
+      "index": 29,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/027/REPORT.md",
+      "sha256": "8ccac96083d21104a332db11b956998909fd07627be29d9f349aecbae212eccd",
+      "matches": []
+    },
+    {
+      "index": 30,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/028/REPORT.md",
+      "sha256": "e61763e8cc1061285385fb564d32ba56c9bc37860235afd7e175a7c68e8f0448",
+      "matches": []
+    },
+    {
+      "index": 31,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/029/REPORT.md",
+      "sha256": "796b49fbab6a31abdd2ee4c85a594abac019d83984871ebc60753b8daaba2c51",
+      "matches": []
+    },
+    {
+      "index": 32,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/030/REPORT.md",
+      "sha256": "467232c5690442b8847cfb257618ec48cce8dd301903f3e7c249e6c2c55b7a75",
+      "matches": []
+    },
+    {
+      "index": 33,
+      "archive_id": "archive-10",
+      "member": "Linear_A_Iterations_22_31/iterations/031/REPORT.md",
+      "sha256": "672d4224ec19ebec32b449ab1d0c12b0c72193a8decc3713498a435afbd752b0",
+      "matches": []
+    },
+    {
+      "index": 34,
+      "archive_id": "archive-11",
+      "member": "Linear_A_Iteration_17/REPORT.md",
+      "sha256": "2d6b4f21da72615247a2df570b95388b0ce5f23606f111fdabffcddd85cb65c8",
+      "matches": []
+    },
+    {
+      "index": 35,
+      "archive_id": "archive-12",
+      "member": "Linear_A_Iteration_18/REPORT.md",
+      "sha256": "fd94a64ec0beb50c8422712ab585f9898971e502fd0fa3079b57bd459acb18c5",
+      "matches": []
+    },
+    {
+      "index": 36,
+      "archive_id": "archive-13",
+      "member": "Linear_A_Iteration_19/REPORT.md",
+      "sha256": "9f0e1dccabb0e63344d36bc6809112090e2c087351a8bace04eccdd37548b45e",
+      "matches": []
+    },
+    {
+      "index": 37,
+      "archive_id": "archive-14",
+      "member": "Linear_A_Iteration_20/REPORT.md",
+      "sha256": "24e3e9fd0b6f4711d177a17ec70feea4c4ed3cd9a85c41d7f81ac45a137efaee",
+      "matches": []
+    },
+    {
+      "index": 38,
+      "archive_id": "archive-15",
+      "member": "linear_a_research/iterations/010/ATLAS.md",
+      "sha256": "6c235a38e47299f8076569da2b5904de5790f373c425e0f5940a5fa339d304ee",
+      "matches": []
+    },
+    {
+      "index": 39,
+      "archive_id": "archive-16",
+      "member": "linear_a_codex_round9_handoff/inputs/linear_a_round8/research/REPORT.md",
+      "sha256": "f4248ff125068149e822647022282e7c04a7d952817b1157e9b9f8a4256f455d",
+      "matches": []
+    },
+    {
+      "index": 40,
+      "archive_id": "archive-16",
+      "member": "linear_a_codex_round9_handoff/inputs/linear_a_round8/research/report.html",
+      "sha256": "6f18ad1d322b1c3e05f37e15c8fc3de28189408143d23f0ba6c4ce98538c6388",
+      "matches": []
+    },
+    {
+      "index": 41,
+      "archive_id": "archive-17",
+      "member": "linear_a_nextstep/REPORT.md",
+      "sha256": "c876d685040fbed708949b24009be09d3427b9bfdd9f32b544da4a81abda87f4",
+      "matches": []
+    },
+    {
+      "index": 42,
+      "archive_id": "archive-17",
+      "member": "linear_a_nextstep/report.html",
+      "sha256": "4c3197ae7294de4d7f670891c1368df3aefa7148698ac2ec97295005eccb0894",
+      "matches": []
+    },
+    {
+      "index": 43,
+      "archive_id": "archive-18",
+      "member": "linear_a_recheck/REPORT.md",
+      "sha256": "cc7fb40c7b37a1508d71597cfc1255e5f0af7668371e2f0d489b23206d9a3500",
+      "matches": [
+        {
+          "reader_output_line": 84,
+          "context": "TA-NA| I-*301 | U-TI-NU\nA-TA | I-*301 | DE-KA     [TA doubtful in ZA Zb 3]\n```"
+        },
+        {
+          "reader_output_line": 89,
+          "context": "\nThe ZA Zb3 form is on a wine-storage jar, alongside VINa 32. A candidate gloss restricted to one named god or one sanctuary must explain this additional context. A general act such as providing, dedicating, or transferring is a possible semantic family, not a demonstrated meaning.\n"
+        },
+        {
+          "reader_output_line": 91,
+          "context": "\nSources: [IO Za6](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/IOZa6.html), [IO Za2](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/IOZa2.html), [PS Za2](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/PSZa2.html), [ZA Zb3](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html), [Monti](https://doi.org/10.1515/kadmos-2022-0005), [Thomas](https://doi.org/10.1515/kadmos-2020-0001).\n"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "archive_id": "archive-19",
+      "member": "linear_a_round3/REPORT.md",
+      "sha256": "013fb3151987e6c3c459dd93c355395ec86307bddb47c3521729aa0f736a382e",
+      "matches": []
+    },
+    {
+      "index": 45,
+      "archive_id": "archive-19",
+      "member": "linear_a_round3/report.html",
+      "sha256": "39efce221cc3f32c62df83e77c4f18883bcb63b148d6a8854aec3c50bbb33f27",
+      "matches": []
+    },
+    {
+      "index": 46,
+      "archive_id": "archive-20",
+      "member": "linear_a_round4/research/report.html",
+      "sha256": "a83075139513acd52e10a1d95c147a3719eb245a3071fe4b008d5f9ada7e41fe",
+      "matches": []
+    },
+    {
+      "index": 47,
+      "archive_id": "archive-20",
+      "member": "linear_a_round4/research/report.md",
+      "sha256": "ec7065caf9ec2f96eae71728dd17ace8501cbe791d54c6cc5c35dd9a0857bd45",
+      "matches": []
+    },
+    {
+      "index": 48,
+      "archive_id": "archive-21",
+      "member": "linear_a_round5/research/report.html",
+      "sha256": "5a3cf4e2833aebefdc6765f6381893dd9d0a93c49eb954413395cd563997e113",
+      "matches": []
+    },
+    {
+      "index": 49,
+      "archive_id": "archive-22",
+      "member": "linear_a_round6/research/REPORT.md",
+      "sha256": "12d8c1483727074cb30675b9b4891db143644e2f1396bafa05ce6522c8abc83c",
+      "matches": []
+    },
+    {
+      "index": 50,
+      "archive_id": "archive-22",
+      "member": "linear_a_round6/research/report.html",
+      "sha256": "dfd7a26f565b27105a2be325b6fb90826d3421c3126be8fb82f61dcdc24dfa96",
+      "matches": []
+    },
+    {
+      "index": 51,
+      "archive_id": "archive-23",
+      "member": "linear_a_round7/research/REPORT.md",
+      "sha256": "cd719a2f9cfb3116b53dd5551fad93bf3148eeeff8d1d23a338f3046b747fa03",
+      "matches": [
+        {
+          "reader_output_line": 21,
+          "context": "\nThere is prior scholarship for investigating an `-e` ending. Rose Thomas discusses that possibility in relation to the wine-jar text ZA Zb 3. This is credited as a conceptual precedent, not borrowed as a verified grammatical fact. The program ultimately tests the principal candidate using whole sign identities as well, so that its combinatorial prediction does not require exact Minoan pronunciations. [THOMAS](#src-thomas)\n"
+        },
+        {
+          "reader_output_line": 253,
+          "context": "\n<a id=\"src-zazb3\"></a>\n"
+        },
+        {
+          "reader_output_line": 255,
+          "context": "\n**ZAZb3. John G. Younger, ZAZb3: transcription and commentary (digital mirror).** [Source](https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html). Text inspected; no new inspection of original object or facsimile.  \n"
+        },
+        {
+          "reader_output_line": 259,
+          "context": "\n**THOMAS. Rose Thomas, Some reflections on morphology in the language of the Linear A libation formula.** [Source](https://www.finnishsyntax.co.uk/wp-content/uploads/sites/3/2022/01/Reflections_on_Morphology_in_the_Language_of_the_Linear_A_Libation_Formula.pdf). Parsed manuscript text inspected. Web screenshot requests failed; no new visual epigraphy. Discussion of ZA Zb 3, agreement and proposed -e ending, manuscript pp. 7-9. Hosted manuscript has placeholder issue/page metadata. Do not use it as a newly verified final edition.\n"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "archive_id": "archive-23",
+      "member": "linear_a_round7/research/report.html",
+      "sha256": "4949a67ba0784175c33200b77dfcc67f6c55fb2cd56e264a6462bddb8666e7f5",
+      "matches": [
+        {
+          "reader_output_line": 22,
+          "context": "<p>This distinction matters. A whole sign need not equal a whole morpheme. Hypothetically, an apparent added <code>SE</code> could contain a stem-final consonant plus a vowel ending. That hypothetical model requires spelling conventions and morphological evidence; it is <strong>not</strong> an established analysis of <code>RU-MA-TA-SE</code>. Likewise, the suggestion that <code>QE</code> and <code>SE</code> contain the same vowel ending is not a result of this run.</p>\n<p>There is prior scholarship for investigating an <code>-e</code> ending. Rose Thomas discusses that possibility in relation to the wine-jar text ZA Zb 3. This is credited as a conceptual precedent, not borrowed as a verified grammatical fact. The program ultimately tests the principal candidate using whole sign identities as well, so that its combinatorial prediction does not require exact Minoan pronunciations. <a href=\"#src-thomas\">THOMAS</a></p>\n<p>The inherited discovery index contains <strong>1,019 rows and 946 eligible distinct sign strings</strong>. Its source is a manually materialized derivative of the Linear A Explorer index, with normalization and uncertainty-loss limitations preserved in the provenance file. It is not a reliable list of 946 completely preserved ancient words. Quantitative searches use that frozen index; selected hits are checked against source transcriptions. <a href=\"#src-index\">INDEX</a></p>"
+        },
+        {
+          "reader_output_line": 342,
+          "context": "<p><strong>HT17. John G. Younger, HT17: transcription and commentary (digital mirror).</strong> <a href=\"https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/HT17.html\">Source</a>. Text inspected; no new inspection of original object or facsimile.</p>\n<p><a id=\"src-zazb3\"></a></p>\n<p><strong>ZAZb3. John G. Younger, ZAZb3: transcription and commentary (digital mirror).</strong> <a href=\"https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html\">Source</a>. Text inspected; no new inspection of original object or facsimile.</p>"
+        },
+        {
+          "reader_output_line": 343,
+          "context": "<p><a id=\"src-zazb3\"></a></p>\n<p><strong>ZAZb3. John G. Younger, ZAZb3: transcription and commentary (digital mirror).</strong> <a href=\"https://raw.githubusercontent.com/mwenge/lineara.xyz/master/commentary/ZAZb3.html\">Source</a>. Text inspected; no new inspection of original object or facsimile.</p>\n<p><a id=\"src-thomas\"></a></p>"
+        },
+        {
+          "reader_output_line": 345,
+          "context": "<p><a id=\"src-thomas\"></a></p>\n<p><strong>THOMAS. Rose Thomas, Some reflections on morphology in the language of the Linear A libation formula.</strong> <a href=\"https://www.finnishsyntax.co.uk/wp-content/uploads/sites/3/2022/01/Reflections_on_Morphology_in_the_Language_of_the_Linear_A_Libation_Formula.pdf\">Source</a>. Parsed manuscript text inspected. Web screenshot requests failed; no new visual epigraphy. Discussion of ZA Zb 3, agreement and proposed -e ending, manuscript pp. 7-9. Hosted manuscript has placeholder issue/page metadata. Do not use it as a newly verified final edition.</p>\n<p><a id=\"src-karnava2016\"></a></p>"
+        },
+        {
+          "reader_output_line": 352,
+          "context": "<p><strong>INDEX. Inherited round-6 screening index derived from Linear A Explorer relations/nodes.js.</strong> <a href=\"https://github.com/mwenge/lineara.xyz/blob/master/relations/nodes.js\">Source</a>. Packaged CSV read locally. Source blob and manual-normalization caveats are retained in data/index_provenance.json.</p>\n<section id=\"evidence\"><h2>Observation register</h2><p class=\"small\">All 35 rows are visible here. Face segments and complete joined readings of one inscription are not independent witnesses. Printed sign positions are 1-based; JSON uncertainty positions are 0-based.</p><div class=\"table-wrap\"><table><thead><tr><th>Record ID</th><th>Document</th><th>Portion</th><th>Edited signs</th><th>Status</th><th>Quantity</th><th>Type of quantity</th><th>Source</th></tr></thead><tbody><tr><td>za10_tanate</td><td>ZA10</td><td>a.1</td><td>TA-NA-TE</td><td>Complete as edited</td><td>2</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>za10_atanate</td><td>ZA10</td><td>a.2</td><td>A-TA-NA-TE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>ht7_tanati</td><td>HT7</td><td>a.4</td><td>TA-NA-TI</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-ht7\">HT7</a></td></tr><tr><td>ht10_tanati</td><td>HT10</td><td>b.4</td><td>TA-NA-TI</td><td>Complete as edited</td><td>9 E</td><td>numeral and fraction sign</td><td><a href=\"#src-ht10\">HT10</a></td></tr><tr><td>ht98_tanati</td><td>HT98</td><td>a.2</td><td>TA-NA-TI</td><td>Complete as edited</td><td>J E</td><td>fraction signs</td><td><a href=\"#src-ht98\">HT98</a></td></tr><tr><td>za9_atana_gap</td><td>ZA9</td><td>.4-5</td><td>A-TA-NA-[one unresolved sign]</td><td>Complete as edited; doubtful/unresolved sign(s) 4</td><td>2 (uncertain)</td><td>written</td><td><a href=\"#src-za9\">ZA9</a></td></tr><tr><td>akrotiri_atana46</td><td>Akrotiri_pithos_Karnava2016</td><td>pre-firing inscription</td><td>A-TA-NA-*46</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-karnava2016\">KARNAVA2016</a></td></tr><tr><td>ht6_kapa</td><td>HT6</td><td>a.1</td><td>KA-PA</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>ht6_kapaqe</td><td>HT6</td><td>a.4-5</td><td>KA-PA-QE</td><td>Complete as edited</td><td>5 J E</td><td>numeral and fraction signs</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>ht6_datara</td><td>HT6</td><td>a.1-2</td><td>DA-TA-RA</td><td>Complete as edited</td><td>15</td><td>written</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>ht88_datare</td><td>HT88</td><td>.6</td><td>DA-TA-RE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-ht88\">HT88</a></td></tr><tr><td>ht88_pajare</td><td>HT88</td><td>.5</td><td>PA-JA-RE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-ht88\">HT88</a></td></tr><tr><td>za10_pajare</td><td>ZA10</td><td>b.5-6</td><td>PA-JA-RE</td><td>Complete as edited</td><td>1</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>ht6_sama</td><td>HT6</td><td>b.5-6</td><td>SA-MA</td><td>Complete as edited</td><td>35</td><td>written</td><td><a href=\"#src-ht6\">HT6</a></td></tr><tr><td>za10_sama</td><td>ZA10</td><td>b.3-4</td><td>SA-MA</td><td>Complete as edited</td><td>5</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>ht29_rumata</td><td>HT29</td><td>.1</td><td>RU-MA-TA</td><td>Complete as edited</td><td>2[ (uncertain)</td><td>written</td><td><a href=\"#src-ht29\">HT29</a></td></tr><tr><td>za20_rumatase</td><td>ZA20</td><td>.3</td><td>RU-MA-TA-SE</td><td>Complete as edited</td><td>3</td><td>written</td><td><a href=\"#src-za20\">ZA20</a></td></tr><tr><td>kh20_dureza</td><td>KH20</td><td>.4</td><td>]DU?-RE-ZA •</td><td>broken / closed_as_edited; doubtful/unresolved sign(s) 1</td><td>J</td><td>fraction sign</td><td><a href=\"#src-kh20\">KH20</a></td></tr><tr><td>za10_durezase_a</td><td>ZA10</td><td>a.5</td><td>DU-RE-ZA-SE</td><td>Complete as edited</td><td>2 (uncertain)</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>za10_durezase_b</td><td>ZA10</td><td>b.1-2</td><td>DU-RE-ZA-SE</td><td>Complete as edited</td><td>5</td><td>written</td><td><a href=\"#src-za10\">ZA10</a></td></tr><tr><td>kh7_utaise</td><td>KH7</td><td>b.2</td><td>U-TA-I-SE</td><td>Complete as edited</td><td>J[ (uncertain)</td><td>fraction sign, damaged continuation</td><td><a href=\"#src-kh7\">KH7</a></td></tr><tr><td>kh16_utaisi</td><td>KH16</td><td>.2</td><td>]U-TA-I-SI</td><td>broken / closed_as_edited</td><td>—</td><td>—</td><td><a href=\"#src-kh16\">KH16</a></td></tr><tr><td>kn10_face_a</td><td>KNZa10</td><td>face a, segment only</td><td>JA-SA-SA-RA-MA-</td><td>closed_as_edited / continues_on_next_face</td><td>—</td><td>—</td><td><a href=\"#src-knza10\">KNZa10</a></td></tr><tr><td>kn10_joined</td><td>KNZa10</td><td>faces a-b, one group</td><td>JA-SA-SA-RA-MA-NA</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-knza10\">KNZa10</a></td></tr><tr><td>io6_jasasara</td><td>IOZa6</td><td>third expression</td><td>JA-SA-SA-RA-ME</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-ioza6\">IOZa6</a></td></tr><tr><td>za14_panuqe</td><td>ZA14</td><td>.4</td><td>PA-NU-QE</td><td>Complete as edited</td><td>2</td><td>written</td><td><a href=\"#src-za14\">ZA14</a></td></tr><tr><td>za14_jawi</td><td>ZA14</td><td>.4</td><td>JA-WI[</td><td>closed_as_edited / broken</td><td>—</td><td>—</td><td><a href=\"#src-za14\">ZA14</a></td></tr><tr><td>ht31_pataqe</td><td>HT31</td><td>.6</td><td>PA-TA-QE</td><td>Complete as edited</td><td>3000</td><td>written</td><td><a href=\"#src-ht31\">HT31</a></td></tr><tr><td>ht73_saroqe</td><td>HT62[+]73</td><td>small fragment HT73 .3</td><td>SA-RO-QE[</td><td>closed_as_edited / broken</td><td>—</td><td>—</td><td><a href=\"#src-ht62-73\">HT62[+]73</a></td></tr><tr><td>kn17_jaqe</td><td>KNZa17</td><td>preserved fragment</td><td>]-JA-QE •</td><td>broken / closed_as_edited</td><td>—</td><td>—</td><td><a href=\"#src-knza17\">KNZa17</a></td></tr><tr><td>wc3014_kuminaqe</td><td>HTWc3014</td><td>a-b</td><td>KU-MI-NA-QE</td><td>Complete as edited; segmentation disputed</td><td>3</td><td>seal impressions, NOT written numeral</td><td><a href=\"#src-htwc3014\">HTWc3014</a></td></tr><tr><td>ht17_sidare</td><td>HT17</td><td>.3</td><td>SI-DA-RE</td><td>Complete as edited</td><td>5</td><td>written</td><td><a href=\"#src-ht17\">HT17</a></td></tr><tr><td>zazb3_didikase</td><td>ZAZb3</td><td>.1</td><td>DI-DI-KA-SE</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-zazb3\">ZAZb3</a></td></tr><tr><td>zazb3_asamune</td><td>ZAZb3</td><td>.1</td><td>A-SA-MU-NE</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-zazb3\">ZAZb3</a></td></tr><tr><td>zazb3_ase</td><td>ZAZb3</td><td>.1</td><td>A-SE</td><td>Complete as edited</td><td>—</td><td>—</td><td><a href=\"#src-zazb3\">ZAZb3</a></td></tr></tbody></table></div></section><footer>Only source-linked transcription excerpts and original analysis are embedded. No source photographs, full-text PDFs, or font files are distributed.</footer></main></body></html>"
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "archive_id": "archive-24",
+      "member": "linear_a_round9/REPORT.md",
+      "sha256": "edb7980ca590160e4e6e322d5e2e009322dc66569996d6ac983408c3800c4a0d",
+      "matches": [
+        {
+          "reader_output_line": 97,
+          "context": "\nThe newer AURA 15 volume was searched beyond the inherited word index. Davis explicitly prints the **A-KU-MI-NA / A-DU-KU-MI-NA / KU-MI-NA-QE** triple on p.47. The project must not claim discovery of that comparison. ZA Zb 3's coexistence of a wine notation and a ritual-formula-like sequence still permits a batch or ritual-event interpretation; it does not independently distinguish “give” from “dedicate” or identify recipients. Proposed ritual word order remains partly dependent on assumed sentence structure and sign interpretation. [AURA 15](https://epub.lib.uoa.gr/index.php/aura/article/view/2642), [targeted checks and competing source interpretations](notes/ritual_check.md).\n"
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "archive_id": "archive-25",
+      "member": "Linear_A_Research_Workspace_Iteration_11/iterations/011/REPORT.md",
+      "sha256": "eb465bfab5a03ea633ff539932fa1e6e9eee89ed6f7c2ed9f67aedcf7ccb8e05",
+      "matches": []
+    },
+    {
+      "index": 55,
+      "archive_id": "archive-26",
+      "member": "Linear_A_Research_Workspace_Iteration_12/iterations/012/REPORT.md",
+      "sha256": "62b3330b2fd6f086ee4442f2f5f3fc44283372976446bb8c438f45626898a63a",
+      "matches": []
+    },
+    {
+      "index": 56,
+      "archive_id": "archive-27",
+      "member": "Linear_A_Research_Workspace_Iteration_13/iterations/013/REPORT.md",
+      "sha256": "06c395945a5660e17cbc802cd33ff6ae30e5a508e36b9b1ce3bc668a178eb5e2",
+      "matches": []
+    },
+    {
+      "index": 57,
+      "archive_id": "archive-28",
+      "member": "Linear_A_Research_Workspace_Iteration_14/iterations/014/REPORT.md",
+      "sha256": "32580d6a753b4d19f686e76387fea0858e66504e7b100f0b7c415273921f140b",
+      "matches": []
+    },
+    {
+      "index": 58,
+      "archive_id": "archive-29",
+      "member": "Linear_A_Research_Workspace_Iteration_15_HT100/iterations/015/REPORT.md",
+      "sha256": "c963b1daccbabf7ad8447cbdad26b8c90dd312ca678fd6beeefe114ecc4af374",
+      "matches": []
+    },
+    {
+      "index": 59,
+      "archive_id": "archive-30",
+      "member": "Linear_A_Research_Workspace_Iteration_16_Breakthrough/iterations/016/REPORT.md",
+      "sha256": "8f0e6d68be240e1d7708942e9b0e298b3b501e4785f63877aac2106eb09f7720",
+      "matches": []
+    }
+  ],
+  "frozen_corpus_target_rows": {
+    "KNZb<27>": {
+      "support": "Clay vessel",
+      "transliteratedWords": [
+        "DI-NA-U",
+        "𐄁",
+        "VIN",
+        "17"
+      ],
+      "words": [
+        "𐘆𐘅𐘉",
+        "𐄁",
+        "𐙍",
+        "𐄐𐄍"
+      ]
+    },
+    "ZAZb3": {
+      "support": "Clay vessel",
+      "transliteratedWords": [
+        "VIN",
+        "32",
+        "\n",
+        "DI-DI-KA-SE",
+        "A-SA-MU-NE",
+        "A-SE",
+        "\n",
+        "A-TA-I-*301-DE-KA",
+        "𐄁",
+        "A-RE-PI-RE-NA",
+        "𐄁",
+        "TI-TI-KU"
+      ],
+      "words": [
+        "𐙍",
+        "𐄒𐄈",
+        "\n",
+        "𐘆𐘆𐘾𐘈",
+        "𐘇𐘞𐘕𐘗",
+        "𐘇𐘈",
+        "\n",
+        "𐘇𐘳𐘚𐙕𐘦𐘾",
+        "𐄁",
+        "𐘇𐘙𐘢𐘙𐘅",
+        "𐄁",
+        "𐘠𐘠𐙂"
+      ]
+    }
+  }
+}

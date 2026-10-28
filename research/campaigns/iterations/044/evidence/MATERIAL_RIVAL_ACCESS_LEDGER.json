@@ -1,0 +1,127 @@
+{
+  "campaign": "C044",
+  "agent": "closure_sources",
+  "scope": "Three ceramic-rival packets; inherited campaign controls reused without new downloads.",
+  "new_packets": [
+    {
+      "id": "C044-CS-P1",
+      "source": "Puglisi2011, Le ceramiche e il sistema di produzione, distribuzione e consumo, Creta Antica12",
+      "target": "Catalogue5.3 = excavation c.29a1; context5 firing chamber",
+      "route": "Web extraction of the exact author-posted article URL; lead references turn212view0 and turn213view0",
+      "access": "Primary catalogue text inspected via web extraction; figure pixels unavailable. Local Puglisi2011_Academia.html is landing/login HTML only and does not preserve indexed full article text.",
+      "inspected": "Context5 paragraph; catalogue5.3 body/half-handle description",
+      "source_url": "https://www.academia.edu/504733/La_fornace_da_vasaio_TM_IB_di_Haghia_Triada_Le_ceramiche_e_il_sistema_di_produzione_distribuzione_e_consumo",
+      "outcome": "Waster supports local ceramic tripod production, but fragment does not preserve exact target supports or upright handles; no exact match.",
+      "refs": [
+        "turn212view0",
+        "turn213view0"
+      ],
+      "local_file_role": "Access/landing record only; not preserved catalogue evidence"
+    },
+    {
+      "id": "C044-CS-P2",
+      "source": "Duhoux2003, Un nom du bronze en linéaire A?, Briciaka / Cretan Studies9,17–26",
+      "target": "Article cited as DUHOUX2000 §4.1.2 in Duhoux2000–2001 p40",
+      "source_url": "https://www.researchgate.net/publication/327727807_Un_nom_du_bronze_en_lineaire_A_dans_Y_DUHOUX_ed_Briciaka_A_Tribute_to_WC_Brice_Amsterdam_Adolph_M_Hakkert_2003_pp_17-26",
+      "access": "Author record and author bibliography only; article full text unacquired",
+      "routes": [
+        {
+          "route": "Public author record via web",
+          "result": "Read record advertises public full text, author-uploaded20 September2018",
+          "ref": "turn208view0"
+        },
+        {
+          "route": "Advertised PDF click",
+          "result": "Malformed relative path through /publication/profile/...;404",
+          "ref": "turn209view0"
+        },
+        {
+          "route": "Corrected public PDF link",
+          "result": "DisabledError; no bytes",
+          "ref": "turn210view0"
+        },
+        {
+          "route": "Direct article page request",
+          "result": "403; stopped",
+          "log": "C044_ACCESS_INITIAL.json"
+        },
+        {
+          "route": "Exact-title and exact-section alternate public source search",
+          "result": "Bibliographies and inherited Minos paper only; no new full-text route",
+          "ref": "turn211search0"
+        }
+      ],
+      "bibliographic_control": "Author bibliography entry335, year2003; https://sites.utexas.edu/scripts/wp-content/uploads/sites/3428/2022/12/Bibliography-Yves-Duhoux-W.pdf",
+      "outcome": "Direct ceramic comparison dependency remains uninspected; not an absence finding."
+    },
+    {
+      "id": "C044-CS-P3",
+      "source": "Puglisi2010, Dal vassoio tripodato al kernos, Creta Antica11,45–129",
+      "target": "Same-site tripod tray; main text HTR1036; extracted caption/English summary HTR1060 conflict",
+      "source_url": "https://www.academia.edu/569604/Dal_vassoio_tripodato_al_kernos_un_set_di_ceramiche_TM_IA_da_Haghia_Triada_e_il_suo_contributo_alla_conoscenza_del_rituale_minoico",
+      "access": "Public indexed primary article text, not figure pixels; direct local request403",
+      "inspected": "Text pp50,52,55–57, §II.1; Fig8 caption text; English summary; disc sectionII.5 used for identity control",
+      "refs": [
+        "turn207view0",
+        "turn206view0"
+      ],
+      "institutional_route": "https://www.iris.unict.it/handle/20.500.11769/560366; listed file private/restricted, not requested",
+      "outcome": "Explicit body description of flat perforated platform and triangular flattened feet fails close rounded-basin/upright-loop analogue; closed."
+    }
+  ],
+  "reused_source_files": [
+    {
+      "file": "continuation_work/linked_records/sources/Duhoux2000_2001_HT31.pdf",
+      "bytes": 2646348,
+      "sha256": "954c22a977887741139c0feae50e1fabbe7c537514db0ff5bd3ab4b6bff9f256",
+      "inspection": "39–40 actual pixels; 60 bibliography text",
+      "actual_pixels_inspected": true
+    },
+    {
+      "file": "continuation_work/linked_records/sources/Vandenabeele1974_p8.jpg",
+      "bytes": 132700,
+      "sha256": "8e611caecf69a62a67a78b1a180781629582235e2db391b4a45d493182914016",
+      "inspection": "8",
+      "actual_pixels_inspected": true
+    },
+    {
+      "file": "continuation_work/linked_records/sources/Vandenabeele1974_p9.jpg",
+      "bytes": 178051,
+      "sha256": "107a00537c3e710b99785d8c97fcb7d4354cd23c0b7703d64da35b3dfc7f9c31",
+      "inspection": "9",
+      "actual_pixels_inspected": true
+    },
+    {
+      "file": "continuation_work/linked_records/sources/Vandenabeele1974_p10.jpg",
+      "bytes": 168775,
+      "sha256": "d3b6619ff8a8bd734650ca0e1a1975dc5bf505f31af966e190ca7710ef8eee5e",
+      "inspection": "10",
+      "actual_pixels_inspected": true
+    },
+    {
+      "file": "continuation_work/linked_records/sources/Vandenabeele1974_p18.jpg",
+      "bytes": 90660,
+      "sha256": "b8b4a96b4ea1c18a3bd031c9d1ef9ba8246adda732cc7720779d76bcc22d390a",
+      "inspection": "18, Fig2",
+      "actual_pixels_inspected": true
+    },
+    {
+      "file": "continuation_work/linked_records/sources/Vandenabeele1974_p21.jpg",
+      "bytes": 79708,
+      "sha256": "7898bbfad92dd1cc4629c2f2d302c6b327f7229f273f5ac39bb0d096d5ab86b7",
+      "inspection": "21, Fig21",
+      "actual_pixels_inspected": true
+    },
+    {
+      "file": "continuation_work/linked_records/sources/Puglisi2011_Academia.html",
+      "bytes": 209936,
+      "sha256": "ea5d1586a90a671c535d7a04dc0271144e70e26b9fc64c6575188569c2567d39",
+      "inspection": "Landing/login HTML access record only; catalogue context5 and catalogue5.3 inspected through web extraction, not preserved in this local file",
+      "actual_pixels_inspected": false,
+      "content_role": "Access record, not full article OCR"
+    }
+  ],
+  "report": "C044_MATERIAL_RIVAL.md",
+  "open_dependency": "Duhoux2003 §4.1.2 exact ceramic comparanda, if a legitimate accessible copy is supplied or found.",
+  "provenance_correction": "Before final integration: the prior description of local Puglisi2011_Academia.html as retaining the inspected catalogue text was incorrect. Source evidence is the web extraction from the exact author URL (lead turn212view0/turn213view0). Actual catalogue inspection remains; no local full-text preservation is claimed."
+}

@@ -1,0 +1,26 @@
+{
+  "supplied_archive": "linear_a_codex_round9_handoff.zip",
+  "supplied_archive_sha256": "f933412467bbfff198ef3806dac7eca3a6a2c1beef9eb77261bd766f073ff491",
+  "prompt_path_in_archive": "linear_a_codex_round9_handoff/PROMPT.md",
+  "round8_reproduced": true,
+  "round8_summary": {
+    "iteration": 8,
+    "index_rows": 1019,
+    "eligible_distinct_index_strings": 946,
+    "index_sha256": "9722d073a30d134f333c1f3771e140bc3412f666f6d285545e838feb74bf34f6",
+    "observation_records": 11,
+    "independent_action_identified": false,
+    "independent_source_or_recipient_identified": false,
+    "original_sentence_goal_achieved": false,
+    "TI_not_uniquely_selected_by_relaxed_name_matching": true,
+    "current_research_priority": "Test person-related designation hypothesis before assigning TE/TI case roles."
+  },
+  "round8_tests": "9 passed; verifies implementation only",
+  "history_consulted": [
+    "linear_a_recheck_bundle.zip",
+    "linear_a_nextstep_bundle.zip"
+  ],
+  "python_runtime": "3.12.13",
+  "research_iteration": 9,
+  "input_archive_modified": false
+}

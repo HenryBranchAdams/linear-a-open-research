@@ -1,0 +1,31 @@
+{
+  "campaign_id": "LA-C038-2026-10-21",
+  "iteration": 38,
+  "started_at_utc": "2026-10-21T16:54:17Z",
+  "starting_baseline": "B2026-10-18",
+  "newer_verified_baseline_found": false,
+  "verification_scope": "Canonical Research Environment recursive listing (128 items, no cursor); latest current governance versions dated 2026-10-18; title search for Linear_A/Linear A found prompt dated October 21 but no newer research baseline.",
+  "user_ceiling_hours": 8,
+  "working_elapsed_cap_hours": 3,
+  "working_cap_reason": "Bounded active-session plan with four synchronous live agents; no promised unattended/background execution. Stop earlier when finite evidence routes end. Can revise down on environment limit; no guaranteed eight-hour runtime is claimed.",
+  "orientation_screening_target_minutes": 36,
+  "max_packets_screened": 3,
+  "max_deep_investigations": 2,
+  "max_active_semantic_candidates": 1,
+  "agents": [
+    "lead",
+    "source_epigraphy",
+    "archaeology_analysis",
+    "independent_challenger"
+  ],
+  "screening_scope": "First assess one genuinely new legitimate Flouda complete-copy route after reading 35/37 logs. Fallback discovery limited to exact administrative writing-object-event packets in original catalogues/publications: known inventories with attachment, marking sequence, physical join, analytical sample, or controlled operation contrast. No broad lexical/morphological/ritual/accounting rotation.",
+  "inclusion_rules": [
+    "Stable writing or secure component; exact identified carrier; independently documented operation or a finite source packet plausibly capable of exposing the missing join.",
+    "Source-only exploration is allowed with unknown discriminator explicitly recorded; semantic admission requires rival-dependent predictions.",
+    "An older target requires a documented changed access condition, source correction, or new consequential observation.",
+    "Count a materially distinct object/evidence route as a separate screened packet, not each publication. Dependencies of one packet do not create extra candidates."
+  ],
+  "prior_stop": "36\u201337 stop retained for unchanged inputs; this explicit user assignment authorizes one new bounded campaign.",
+  "checkpoint_policy": "After candidate selection, decisive acquisition, each completed test, and final disposition.",
+  "external_actions": "Private research only; any correspondence/public update draft only."
+}

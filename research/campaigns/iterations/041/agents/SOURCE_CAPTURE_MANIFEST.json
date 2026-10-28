@@ -1,0 +1,118 @@
+{
+  "campaign": "C041",
+  "investigator": "/root/source_route",
+  "date": "2026-10-23",
+  "files": [
+    {
+      "source_id": "C041-S01",
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_318.pdf",
+      "local_file": "/workspace/scratch/ceff5305a098/iteration041/raw/source_route/BAE_318.pdf",
+      "size_bytes": 73120857,
+      "sha256": "0ccd138b1b2fd2885f22516573e08ab373cf338c5bdc28d7256ffe64ccc50b52",
+      "pdf_pages": 561,
+      "access": "normal publisher-linked HTTPS download; no credentials",
+      "inspection_scope": {
+        "text_target_search": "complete extraction; not an exhaustive reading",
+        "printed_pages_visually_inspected": [
+          203,
+          220,
+          379,
+          380,
+          383,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          458,
+          459,
+          460,
+          461
+        ],
+        "printed_to_one_based_pdf_offset": 1,
+        "consequential_figures_tables": [
+          "G10 description p203",
+          "reading qualification p220",
+          "Table3.13 p380",
+          "Table3.14 p400",
+          "Table3.23 pp458-461"
+        ]
+      }
+    },
+    {
+      "source_id": "C041-S02",
+      "url": "https://www.archetai.gr/images/pdfs/bae/BAE_319.pdf",
+      "local_file": "/workspace/scratch/ceff5305a098/iteration041/raw/source_route/BAE_319.pdf",
+      "size_bytes": 36676561,
+      "sha256": "3a9a22ab23de0e939a6e3153907300948c45effcee20942af973a3981b34ee73",
+      "pdf_pages": 633,
+      "access": "normal publisher-linked HTTPS download; no credentials",
+      "inspection_scope": {
+        "printed_pages_visually_inspected": [
+          258,
+          259,
+          543,
+          609
+        ],
+        "printed_to_one_based_pdf_offset": 1,
+        "consequential_figures_tables": [
+          "catalogue1121/1122 p258",
+          "plate121 p259",
+          "plateLVII p543",
+          "catalogue-inventory-group concordance p609"
+        ]
+      }
+    }
+  ],
+  "publisher_link_evidence": {
+    "url": "https://www.archetai.gr/index.php?id=19&lang=&p=content&section=1",
+    "local_file": "/workspace/scratch/ceff5305a098/iteration041/raw/source_route/publisher_catalogue.html",
+    "size_bytes": 103608,
+    "sha256": "643ec4d2adcb29e4a79dd35a48c38f97ce82658ad280f99e4b57a1ca502d00b7",
+    "observed_href_values": [
+      "../../../../images/pdfs/bae/BAE_318.pdf",
+      "../../../../images/pdfs/bae/BAE_319.pdf"
+    ]
+  },
+  "target_crosswalk": [
+    {
+      "catalogue": 1121,
+      "inventory": "AIN9384",
+      "volume_II_page": 258,
+      "concordance_page": 609,
+      "ceramic_groups": "67N039-044",
+      "phase": "C"
+    },
+    {
+      "catalogue": 1122,
+      "inventory": "AIN9730",
+      "volume_II_page": 258,
+      "concordance_page": 609,
+      "ceramic_groups": "67N044",
+      "phase": "C"
+    }
+  ],
+  "sample_join_result": {
+    "scope": "actual printed Table3.23 pp458-461 and specified macroscopic sections",
+    "direct_target_join_recovered": false,
+    "not_a_global_absence_claim": true,
+    "printed_table_gaps": [
+      "sample119 to128 across pp459-460",
+      "sample185 repeated at pp460-461 boundary"
+    ],
+    "rejected_near_match": {
+      "sample": 105,
+      "context": "67NStr12",
+      "catalogue": 1196,
+      "reason": "explicit catalogue key differs from1121/1122"
+    }
+  },
+  "operations": [
+    "pdftotext -layout full PDFs for locating target references",
+    "pdftoppm target pages to PNG, actual pixel inspection",
+    "tesseract Table3.23 at200dpi as secondary locator; text absence alone not used"
+  ],
+  "artifact_policy": "Raw third-party PDFs are private research inputs; authored report/manifest contain locators and observations. Do not count duplicate downloads or plates as independent ancient witnesses."
+}

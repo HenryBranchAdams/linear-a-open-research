@@ -1,0 +1,52 @@
+[
+  {
+    "link": "HT94b \u2194 HT Wa1019 via PA-TA-NE",
+    "strength": "strong_cross_media_recurrence",
+    "facts": [
+      "HT94b KI-RO list contains PA-TA-NE 1",
+      "HT Wa1019 nodule bears PA-TA-NE SI-TU",
+      "Montecchi notes noduli may serve receipts/counting for incoming or outgoing goods/human resources"
+    ],
+    "semantic_limit": "nodule function/direction is not fixed; recurrence does not tell whether PA-TA-NE is person, place, institution or account",
+    "source_ids": [
+      "R14-S05",
+      "R14-S06"
+    ]
+  },
+  {
+    "link": "HT94 \u2194 HT117 via HT Scribe 9",
+    "strength": "same_hand_administrative_network",
+    "facts": [
+      "Both attributed to HT Scribe 9 in modern corpus/scholarship",
+      "different rooms: HT94 Casa Room7; HT117 Casa Room9"
+    ],
+    "semantic_limit": "same hand does not establish same event",
+    "source_ids": [
+      "R14-S04",
+      "R14-S07"
+    ]
+  },
+  {
+    "link": "HT88 \u2194 HT94 via Casa Room7",
+    "strength": "same_room_different_hands",
+    "facts": [
+      "HT88 HT Scribe7; HT94 HT Scribe9; both Casa Room7 in current corpus metadata"
+    ],
+    "semantic_limit": "same room does not establish same roster or episode",
+    "source_ids": [
+      "R14-S07"
+    ]
+  },
+  {
+    "link": "KU-*56-NU network",
+    "strength": "broad_recurring_designation",
+    "facts": [
+      "HT1/3 from Portico/trench megaron family; HT88/117/122 in Village/Casa family; also HT49a/PH31"
+    ],
+    "semantic_limit": "wide recurrence may be a name, place, category or account; itself weakens one-person identity",
+    "source_ids": [
+      "R14-S03",
+      "R14-S04"
+    ]
+  }
+]
