@@ -5,3 +5,16 @@ export const claims=sqliteTable('claim_events',{id:text('id').primaryKey(),missi
 export const posts=sqliteTable('posts',{id:text('id').primaryKey(),scope:text('scope').notNull(),parent:text('parent'),user:text('user').notNull(),handle:text('handle').notNull(),title:text('title').notNull(),body:text('body').notNull(),created:integer('created').notNull(),hidden:integer('hidden').notNull().default(0),closed:integer('closed').notNull().default(0)},t=>[index('posts_scope_created').on(t.scope,t.created),index('posts_user_created').on(t.user,t.created)]);
 export const submissions=sqliteTable('submissions',{id:text('id').primaryKey(),mission:text('mission').notNull(),user:text('user').notNull(),handle:text('handle').notNull(),body:text('body').notNull(),created:integer('created').notNull(),status:text('status').notNull().default('submitted'),note:text('note').notNull().default(''),commit:text('commit')},t=>[index('submissions_user_created').on(t.user,t.created)]);
 export const moderation=sqliteTable('moderation',{id:text('id').primaryKey(),target:text('target').notNull(),actor:text('actor').notNull(),action:text('action').notNull(),note:text('note').notNull(),created:integer('created').notNull()});
+export const contributionRecords=sqliteTable('contribution_records',{
+  id:text('id').primaryKey().references(()=>submissions.id),
+  postId:text('post_id').notNull().unique().references(()=>posts.id),
+  title:text('title').notNull(),
+  target:text('target').notNull().default(''),
+  sources:text('sources').notNull().default(''),
+  method:text('method').notNull().default(''),
+  uncertainty:text('uncertainty').notNull().default('Not stated'),
+  exposure:text('exposure').notNull().default('Not declared'),
+  credit:text('credit').notNull().default(''),
+  license:text('license').notNull().default('UNSPECIFIED'),
+  relatedId:text('related_id'),
+},t=>[index('contribution_records_related').on(t.relatedId)]);

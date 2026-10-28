@@ -1,0 +1,188 @@
+[
+  {
+    "id": "c044",
+    "campaign": "C044",
+    "date": "2026-10-26",
+    "dateLabel": "Research documented 26 October 2026",
+    "title": "What kind of vessel is drawn on HT31?",
+    "dek": "A close bronze parallel survived a challenge from a pottery-kiln fragment. The comparison gives the vessel picture a better-supported interpretation, while the tablet’s action remains open.",
+    "takeaway": "A bronze-cauldron class is favored locally. Whether the sign could also count vessels made from other materials remains unresolved.",
+    "sections": [
+      {
+        "heading": "A useful objection",
+        "body": [
+          "The first vessel sign on tablet HT31 has a rounded basin, upright loop-like handles and three long supports. Earlier scholarship connected it with bronze cauldrons. The project had a concrete reason to challenge that connection: a ceramic tripod cooking-pot fragment had been documented at the local Haghia Triada kiln.",
+          "If three legs alone carried the argument, a ceramic tripod would be a serious objection. Campaign 044 returned to the source photographs, drawings and descriptions to ask which features actually matched. It recovered and tested an existing scholarly argument; it did not discover a new vessel or decipher a new sentence."
+        ]
+      },
+      {
+        "heading": "Compare the whole shape",
+        "body": [
+          "An excavated bronze vessel from Malia, inventory 3068, supplies the closest inspected comparison: a rounded basin, upright handles and long straight supports. It comes from a different site and earlier context. It is a comparison object, not one of the vessels counted by HT31. Its three handles also differ from the sign’s two.",
+          "The exact ceramic rival, catalogue 5.3 / c.29a1, preserves a cylindrical wall and part of a horizontal handle. Its legs are not preserved in the accessible description. That fragment supports local ceramic production, but it cannot demonstrate the combination shown by the sign. Its original figures remain uninspected; missing parts cannot be filled in to help either interpretation."
+        ]
+      },
+      {
+        "heading": "Keep the next inference separate",
+        "body": [
+          "Independent project review accepted a graded bronze-cauldron preference. A conventional vessel sign could still retain a metal-derived shape while being used for a broader material category. No inspected example shows this exact sign counting independently identified ceramic vessels, so that alternative is a qualified rival, not an equally demonstrated result.",
+          "If the entry is restricted to bronze, a list consisting exclusively of ceramic kiln output becomes difficult to sustain. That consequence is conditional. A mixed-material inventory, order, receipt or issue remains possible. Neither the picture nor the kiln’s proximity identifies the action, a maker, a supplier or a recipient; PU-KO’s meaning is still unresolved."
+        ]
+      },
+      {
+        "heading": "What could change the result?",
+        "body": [
+          "The most useful next source is Duhoux’s 2003 ceramic comparison, particularly the discussion cited as §4.1.2. The complete chapter and the target Puglisi figures remain uninspected. A documented ceramic vessel with the same combined features could weaken the material preference; exact use of the sign for ceramic objects would test its extension more directly.",
+          "The bounded comparison is complete. The evidence requests are prepared and unsent, and no new semantic experiment is active."
+        ]
+      }
+    ],
+    "question": "What exact ceramic specimen or documented use of this sign would provide the strongest test of the bronze-cauldron preference?",
+    "discussionScope": "finding:ht31",
+    "findingPath": "/findings/ht31",
+    "sources": [
+      {
+        "path": "research/campaigns/iterations/044/REPORT.md",
+        "label": "C044 report: comparison, source inspection and limits"
+      },
+      {
+        "path": "research/campaigns/iterations/044/review/FINAL_REVIEW.md",
+        "label": "Independent project review and strongest surviving rival"
+      },
+      {
+        "path": "research/campaigns/iterations/044/CONTINUATION_EVIDENCE_REQUEST.md",
+        "label": "Exact source requests, prepared and unsent"
+      },
+      {
+        "path": "research/campaigns/context/CHANGELOG.md",
+        "label": "Documentation record through C044, 26 October 2026"
+      }
+    ]
+  },
+  {
+    "id": "c043",
+    "campaign": "C043",
+    "date": "2026-10-26",
+    "dateLabel": "Research documented 26 October 2026",
+    "title": "Five clay nodules, one readable inscription",
+    "dek": "A planned comparison between cord arrangements and written marks stopped at an evidence gap. Keeping that result in the record prevents one example from becoming an unsupported meaning.",
+    "takeaway": "The five-object packet produced one readable inscription and no readable counterpart in the other intended comparison group. The semantic test could not begin.",
+    "sections": [
+      {
+        "heading": "Let the cord evidence lead",
+        "body": [
+          "Could a written mark track what a clay nodule did? Cord impressions inside these objects offer physical evidence that can be assessed separately from their writing. Campaign 043 selected a fixed group of five carriers, then joined their museum inventories to the available inscription records.",
+          "The intended contrast was narrow: labeling a string-length versus securing two cord ends at the nodule. A reviewer caught a tempting overreach before the exact writing results arrived. Securing two ends does not identify a container, shipment or transaction, and a label could have hung from something secured elsewhere."
+        ]
+      },
+      {
+        "heading": "One exact join survived",
+        "body": [
+          "HMs557 could be joined to the inscription HT Wa1018, conventionally read SI-KA. It belongs to the labeling group. The two selected carriers classified as securing cord ends have explicit no-signs fields in the inspected catalogue; one is fragmentary. A third carrier also has a no-signs field, while the Zakros member has no inscription field at all.",
+          "Those distinctions matter. A fragment’s surviving surface cannot establish that the original whole object was never inscribed. A missing catalogue field is unknown, not a negative. The exact inventory and site identifiers also matter: Zakros HMs1143 is not the Haghia Triada text HT Wa1143."
+        ]
+      },
+      {
+        "heading": "Why stopping is progress",
+        "body": [
+          "There was no readable member of the securing group to compare with SI-KA. Rechecking only Haghia Triada objects, only catalogued complete carriers, or treating all no-signs fields as unknown did not repair that gap. One readable row cannot show that different functions receive different marks.",
+          "The useful result is an exact, reproducible object-to-text table and an explanation of why this packet cannot answer the question. It neither supports nor refutes a function-code meaning for SI-KA. Person, institution, account or other category interpretations were not tested away.",
+          "The work inspected catalogue records and a modern SigLA drawing, alongside published cord evidence. It did not recover the original target CMS or GORILA page images or perform a fresh object examination. The objects had prior project exposure; this was not an unused validation set."
+        ]
+      },
+      {
+        "heading": "The missing comparison",
+        "body": [
+          "A useful extension would connect a readable inscription, exact museum inventory, preserved surfaces and documented internal cord arrangement on one carrier. Selection should begin with the physical evidence, before choosing a desired sign. An exterior photograph with two holes or another copy of the same catalogue record cannot supply the missing interior relationship.",
+          "The finite packet is closed. Independent project review agreed with that decision, and the subsequent investigation moved to the different vessel comparison recorded in C044."
+        ]
+      }
+    ],
+    "question": "Is there a catalogue or cast dossier that joins an exact readable inscription to a documented two-end cord arrangement?",
+    "discussionScope": "finding:cord-function",
+    "findingPath": "/findings/cord-function",
+    "sources": [
+      {
+        "path": "research/campaigns/iterations/043/REPORT.md",
+        "label": "C043 report: five carriers and the missing comparison"
+      },
+      {
+        "path": "research/campaigns/iterations/043/evidence/JOIN_FINAL.json",
+        "label": "Exact five-object join with source and preservation fields"
+      },
+      {
+        "path": "research/campaigns/iterations/043/review/FINAL_REVIEW.md",
+        "label": "Independent reconstruction and review"
+      },
+      {
+        "path": "research/campaigns/iterations/043/CONTINUATION.md",
+        "label": "The specific evidence needed to reopen this question"
+      },
+      {
+        "path": "research/campaigns/context/CHANGELOG.md",
+        "label": "Documentation record through C044, 26 October 2026"
+      }
+    ]
+  },
+  {
+    "id": "c042",
+    "campaign": "C042",
+    "date": "2026-10-25",
+    "dateLabel": "Report completed 25 October 2026 (UTC)",
+    "title": "When the numbers outgrow the jars",
+    "dek": "Two inscribed vessels let us test a simple capacity claim. The comparison excludes one combination of assumptions while leaving several explanations of the numbers alive.",
+    "takeaway": "At the inspected published capacities, the two numerals cannot both describe their own jars’ full capacity in one shared volume unit.",
+    "sections": [
+      {
+        "heading": "A question we can calculate",
+        "body": [
+          "The vessel known as KN Zb27 / HM5194 has a published approximate capacity of 34 litres. The much larger ZA Zb3 has an estimate of 556 litres. Their preferred source numerals run the other way: 107 on the smaller vessel and 32 on the larger one.",
+          "Suppose both numbers state their individual jars’ full capacity in the same unit. Dividing capacity by numeral should then give the same unit size. Instead, it gives about 0.318 litres at Knossos and 17.375 litres at Zakros—a difference of roughly 55 times. The comparison needs no imported Linear B unit."
+        ]
+      },
+      {
+        "heading": "Check the reading before the story",
+        "body": [
+          "The project’s inherited corpus had 17 for the Knossos numeral; earlier publications also used 117. Source checking recovered Del Freo’s 2017 report of a 2012 physical examination favoring 107. The project retained the old data and added an explicit correction overlay. It did not claim to have examined the jar itself.",
+          "The calculation tested all nine combinations of the recorded Knossos and Zakros numeral alternatives. None fits the shared-unit, full-capacity model at the published capacities. The measurements remain approximate: the Zakros estimate has an author’s geometric allowance, and the inspected Knossos account lacks a target-specific method or error interval. These are not inputs for an invented statistical confidence claim."
+        ]
+      },
+      {
+        "heading": "Several explanations still fit",
+        "body": [
+          "The result excludes a conjunction of assumptions. Different local denominations could make each inscription fit its own carrier. Different partial filling levels could fit both vessels in a common smaller unit. The quantities could also cover several containers, repeated fillings or some category other than volume.",
+          "A wider scope is therefore possible, but the arithmetic does not select a shipment, offering or collective consignment. Nor does it identify who supplied, received or owned anything. Independent project review reconstructed the calculation and pressed those alternatives; the final result retained the physical constraint and rejected a unique administrative reading.",
+          "Earlier scholarship deserves the credit for the underlying size-and-number anomaly: Olivier discussed it in 1992. The project’s contribution was a controlled source history, a reproducible comparison and a clearer statement of what the comparison can establish."
+        ]
+      },
+      {
+        "heading": "The next evidence is about scope",
+        "body": [
+          "A securely linked account, unit equation or actual-use record could tell us what the numeral counts. Better measurements could refine the physical comparison, but dividing a capacity by its inscription cannot independently prove an ancient denomination.",
+          "The bounded calculation is complete. The full Notti 2025 measurement article, the Knossos capacity dossier and better original numeral documentation remain concrete source dependencies. Repeating the same arithmetic would not resolve the surviving interpretations."
+        ]
+      }
+    ],
+    "question": "What independent unit equation or container-to-account link could distinguish a local denomination from a quantity spanning several vessels?",
+    "discussionScope": "finding:capacity",
+    "findingPath": "/findings/capacity",
+    "sources": [
+      {
+        "path": "research/campaigns/iterations/042/REPORT.md",
+        "label": "C042 report: capacities, reading history and the conditional result"
+      },
+      {
+        "path": "research/campaigns/iterations/042/ADJUDICATION.md",
+        "label": "Review decisions and the surviving alternatives"
+      },
+      {
+        "path": "research/campaigns/iterations/042/REPRODUCE.md",
+        "label": "Reproduce the calculation and sensitivity checks"
+      },
+      {
+        "path": "research/campaigns/iterations/042/CONTINUATION.md",
+        "label": "Exact evidence that could change the interpretation"
+      }
+    ]
+  }
+]

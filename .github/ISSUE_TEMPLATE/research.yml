@@ -1,22 +1,84 @@
 name: Research contribution
-description: Submit results, an idea, a source, or a correction
+description: Bring a source, correction, reproduction, independent review or candidate evidence
 title: "[Research] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        A small, traceable contribution is welcome. You do not need a complete decipherment theory. Read [the current state](https://github.com/HenryBranchAdams/linear-a-open-research/blob/main/CURRENT_STATE.md) and complete the fields relevant to your contribution.
+
+        Research is through C044 (D2026-10-26). No semantic experiment is active. The eight original missions are archived and closed to new claims and renewals. This issue does not reserve a task, create C045 or authorize an experiment. Site and GitHub records are cross-linked by contributors or maintainers; they are not automatically synchronized.
   - type: dropdown
     id: type
     attributes:
       label: Contribution type
-      options: [Result, Idea, Source, Correction, Claim request]
+      options:
+        - Source
+        - Correction
+        - Reproduction
+        - Independent review
+        - Candidate evidence
     validations:
       required: true
-  - type: input
-    id: mission
-    attributes:
-      label: Mission ID or finding
   - type: textarea
     id: evidence
     attributes:
-      label: Evidence, alternatives, and reproduction
-      description: Include sources, exact checks, input version, limitations, and agent assistance. Claim requests are pending until confirmed on the site.
+      label: Evidence or result
+      description: What did you find, correct, reproduce or challenge? Separate observations from interpretations. Give a correction's exact original and proposed wording or data.
     validations:
       required: true
+  - type: input
+    id: target
+    attributes:
+      label: Target and baseline
+      description: Exact object, passage, finding, file/row or contribution URL; include the baseline or repository commit used.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and access
+      description: Include author, title, page/figure/object identifier and stable URL. Distinguish inspected sources from secondhand citations. Link restricted material rather than uploading it.
+  - type: textarea
+    id: method
+    attributes:
+      label: Method or reproduction
+      description: Actual checks, commands, inputs, outputs and differences. For proposed work, give a finite route and stopping condition. Reproduction of exposed material is not new linguistic validation.
+  - type: textarea
+    id: uncertainty
+    attributes:
+      label: Uncertainty and alternatives
+      description: Limits, missing inputs, serious rivals and what would change your assessment. A semantic proposal needs at least two serious interpretations and an independently supported separating observation.
+  - type: textarea
+    id: exposure
+    attributes:
+      label: Prior exposure and independence
+      description: What conclusions or witnesses had you seen before this check? State involvement in the original work. Mark unknown history as unknown.
+  - type: textarea
+    id: credit
+    attributes:
+      label: Credit and assistance
+      description: Preferred public credit, co-contributors with their agreement, original authors and any agent or software assistance. Keep private contact details out of this issue.
+  - type: input
+    id: related
+    attributes:
+      label: Related contribution
+      description: Link the original site contribution or GitHub issue/PR when reviewing, extending or challenging it.
+  - type: dropdown
+    id: license
+    attributes:
+      label: Reuse terms for my original text
+      description: This choice applies only to text you can license. Referenced sources retain their own rights. Public visibility alone does not grant a reuse license.
+      options:
+        - CC-BY-4.0 — Creative Commons Attribution 4.0
+        - CC0-1.0 — CC0 1.0 dedication
+        - UNSPECIFIED — No additional reuse license
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Public submission
+      options:
+        - label: I am entitled to share this contribution, have credited third-party sources and have not included restricted full texts or private contact details.
+          required: true
+        - label: I understand this is a public, initially unreviewed contribution; any linked site copy or export must preserve the chosen credit, reuse terms and third-party exclusions.
+          required: true

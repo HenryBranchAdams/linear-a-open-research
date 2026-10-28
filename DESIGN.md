@@ -39,3 +39,12 @@ The first desktop render showed a clear manuscript hierarchy. Three refinements 
 ## Completed validation
 
 The browser review covered1440px desktop,768px tablet and390px phone layouts. Content width matched viewport width at each size, with no horizontal page overflow. The homepage title occupied one line; the tested HT31 finding title occupied two lines on the phone. The mobile menu reached the current research register. The contents disclosure reached the findings table, whose rows stack with retained-result and limit labels on phones. The HT34 disclosure displayed both reading branches and updated the interpretation feedback; the source archive narrowed495 files to the single C044 report match. The no-script reading and original contributor/server behavior remain covered by the existing architecture and workflow checks. Source lint passed with the documented manuscript/control exceptions. No archaeological result or historical input byte was changed.
+
+
+## Journal and open contribution update
+
+The existing research-document palette, type and hierarchy continue across the journal, forum and contribution register. The journal presents three readable notes from C042–C044 with source links and shared finding discussions. Campaign documentation dates remain explicitly labeled; the journal does not imply new research or fresh publication dates for old reports. Readers can follow an RSS feed without an account.
+
+The contribution page leads with five concrete ways to help. An account-free draft form supports local autosave, portable Markdown/JSON and an explicit GitHub route. Structured public records show evidence, contributor-selected reuse terms, related work and project review. The empty register is labeled honestly. No activity metrics, invented contributors or vote-based truth signals are used.
+
+Validation covers the additive migration, rights/authentication checks, public-field allowlists, review propagation, hidden-parent/reply visibility and anonymous access. Browser review checks the journal and form at desktop and phone widths; generated downloads are initiated from the browser draft. The original 279 published research-file hashes and reproducible outputs remain unchanged. The managed CUA browser is used for layout inspection; the separate browser-driving taste inspector is not run.

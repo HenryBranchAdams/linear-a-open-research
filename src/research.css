@@ -116,3 +116,102 @@ tbody th{font-weight:600}
 
 .mobile-contents{display:none}
 @media(max-width:850px){.document-sidebar{display:none}.mobile-contents{display:block;margin:10px 0 0;padding:0 0 6px}.mobile-contents summary{font-size:14px}.mobile-contents nav{display:grid;grid-template-columns:1fr 1fr;gap:4px 16px;padding:2px 0 14px}.mobile-contents nav a{font-size:14px;padding:6px 0;min-height:36px}}
+
+/* Participation and journal pages retain the existing research-document typography. */
+.contribution-opening>p+p{margin-top:22px}
+.contribution-opening .text-link{display:inline-block;margin-left:20px}
+.contribution-nav{display:flex;flex-wrap:wrap;gap:10px 26px;margin:24px 0 32px;font-size:15px}
+.contribution-nav a{padding:7px 0}
+.contribution-section,.contribution-workbench{margin-top:48px;scroll-margin-top:24px}
+.contribution-section>h2,.contribution-workbench h2{margin-bottom:14px}
+.contribution-routes{padding:0;margin:22px 0;list-style:none}
+.contribution-routes>li{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:30px;padding:17px 20px;margin:0}
+.contribution-routes>li:nth-child(odd){background:var(--surface)}
+.contribution-routes h3{font:700 20px/1.35 var(--font-display);margin-bottom:7px}
+.contribution-routes p{font-size:16px;line-height:1.65}
+.contribution-routes .route-output{color:var(--muted);align-self:center}
+.contribution-baseline{background:var(--surface);padding:22px 24px;margin:30px 0}
+.contribution-baseline h2{font-size:21px;margin-bottom:10px}
+.contribution-baseline p{font-size:16px}
+.draft-grid{display:grid;grid-template-columns:minmax(0,.7fr) minmax(0,1.3fr);gap:24px;align-items:end}
+#contribution-draft{max-width:none}
+#contribution-draft label{display:block;font-size:16px;font-weight:600;margin-bottom:7px}
+#contribution-draft input,#contribution-draft textarea,#contribution-draft select{width:100%;font-size:16px}
+#contribution-draft textarea{line-height:1.65;resize:vertical;min-height:100px}
+.field-required{font-weight:400;color:var(--muted);font-size:14px}
+.field-hint{font-size:14px;color:var(--muted);margin:4px 0 9px;max-width:85ch}
+.draft-field{margin-top:24px}
+.draft-guidance{padding:15px 18px;background:var(--surface);margin-top:22px;font-size:15px}
+.draft-details{margin:26px 0}
+.draft-details summary{font-size:16px;font-weight:600}
+#contribution-draft .draft-consent{display:flex;gap:12px;align-items:flex-start;font-weight:400;margin:24px 0;font-size:15px;line-height:1.6}
+#contribution-draft .draft-consent input{width:19px;min-width:19px;height:19px;margin:3px 0 0}
+.draft-actions{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}
+.draft-actions .btn-ghost{font-size:15px}
+.draft-submit{background:var(--surface);padding:22px;display:grid;grid-template-columns:auto minmax(0,1fr);gap:22px;align-items:center;margin:24px 0 16px}
+.draft-submit p{font-size:15px;line-height:1.65}
+.draft-status{font-size:14px;color:var(--muted);margin:14px 0 8px}
+.text-button{background:none;border:0;padding:8px 0;color:var(--accent);font:inherit;font-size:14px;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.contribution-filters{display:grid;grid-template-columns:1.3fr 1fr 1fr auto;gap:16px;align-items:end;max-width:none;margin:26px 0}
+.contribution-filters label{font-size:14px;margin-bottom:7px}
+.contribution-filters input,.contribution-filters select{font-size:16px;min-width:0}
+.contribution-register{list-style:none;padding:0;margin:24px 0}
+.contribution-register>li{display:grid;grid-template-columns:minmax(0,1fr) 180px;gap:24px;background:var(--surface);padding:22px;margin:12px 0;overflow-wrap:anywhere}
+.contribution-register h2{font-size:22px;margin:7px 0 10px}
+.contribution-register p{font-size:15px}
+.contribution-register .meta{font-size:13px}
+.review-state{font-weight:600;color:var(--accent)}
+.review-state span{display:block;font-weight:400;font-size:13px;color:var(--muted);margin-top:5px}
+.contribution-empty{background:var(--surface);padding:22px;margin:22px 0;font-size:16px}
+.register-note{font-size:14px;color:var(--muted);margin-top:26px}
+.contribution-links{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin:24px 0}
+.current-brief-disclosure>summary{font:700 23px/1.3 var(--font-display);color:var(--accent);padding:16px 0}
+.current-brief-disclosure .brief-context{margin:16px 0 24px}
+.contribution-back{margin-top:28px;font-size:14px}
+.contribution-back+.section-head{padding-top:18px;padding-bottom:14px}
+.contribution-byline,.journal-byline{font-size:14px;color:var(--muted);margin:0 0 24px}
+.contribution-review{background:var(--surface);padding:24px;margin:26px 0}
+.contribution-review h2{margin-bottom:10px}
+.contribution-review p{font-size:15px}
+.contribution-evidence{max-width:84ch;margin:36px 0}
+.contribution-evidence>section{margin:26px 0}
+.contribution-evidence h3{margin-bottom:8px}
+.related-record{margin:24px 0}
+.contribution-citation,.review-history{margin:24px 0}
+.contribution-citation textarea{width:100%;font-size:15px}
+.contribution-report,.reply-report{margin-top:22px}
+.forum-note{margin-top:18px;font-size:15px;color:var(--muted)}
+.journal-welcome{max-width:80ch}
+.journal-layout{display:grid;grid-template-columns:minmax(0,1fr) 250px;gap:56px;margin:36px 0}
+.journal-section-title{font-size:24px;margin-bottom:10px}
+.journal-section-intro{font-size:15px;color:var(--muted);margin-bottom:28px}
+.journal-entry{padding:28px 0 34px}
+.journal-entry+.journal-entry{margin-top:16px}
+.journal-latest{background:var(--surface);padding:26px;margin-bottom:20px}
+.journal-entry h2{font-size:28px;margin:12px 0 16px;line-height:1.25}
+.journal-entry h2 a{text-decoration:none}
+.journal-entry h2 a:hover{text-decoration:underline}
+.journal-dek{font-size:17px;line-height:1.7}
+.journal-takeaway{font-size:16px;line-height:1.7;margin-top:18px}
+.journal-entry-links{display:flex;flex-wrap:wrap;gap:12px 22px;font-size:14px;margin-top:20px}
+.journal-sidebar{padding-top:6px}
+.journal-sidebar section{margin-bottom:32px}
+.journal-sidebar h2{font-size:20px;margin-bottom:12px}
+.journal-sidebar p,.journal-sidebar a{font-size:15px;line-height:1.7}
+.journal-sidebar p+a{display:inline-block;margin-top:12px}
+.journal-community{margin-top:42px}
+.journal-community>h2{margin-bottom:12px}
+.journal-community .contribution-register>li{display:block}
+.journal-community .review-state{margin-top:12px}
+.journal-article{max-width:76ch}
+.journal-article>.journal-takeaway{background:var(--surface);padding:22px;margin:12px 0 30px}
+.journal-article>section{margin:30px 0}
+.journal-article h2{margin-bottom:14px}
+.journal-article p{font-size:17px;line-height:1.8}
+.journal-article .source-note{font-size:14px}
+.journal-discussion{margin-top:42px}
+.journal-discussion>h2{margin-bottom:14px}
+.journal-question{font-size:18px;font-weight:600;max-width:68ch;margin:16px 0}
+@media(max-width:1000px){.desktop-nav{gap:17px}.journal-layout{grid-template-columns:minmax(0,1fr) 220px;gap:32px}.contribution-filters{grid-template-columns:1fr 1fr}.contribution-filters>button{align-self:end}}
+@media(max-width:700px){.journal-layout{display:block}.journal-sidebar{background:var(--surface);padding:22px;margin-top:36px}.journal-sidebar section:last-child{margin-bottom:0}.draft-grid{grid-template-columns:1fr;gap:18px}.draft-submit{grid-template-columns:1fr;gap:16px}.contribution-routes>li{grid-template-columns:1fr;gap:12px}.contribution-register>li{grid-template-columns:1fr;gap:14px}.contribution-opening .text-link{display:block;margin:16px 0 0}.contribution-section,.contribution-workbench{margin-top:36px}.journal-latest{padding:21px}.journal-entry h2{font-size:25px}.journal-entry{padding-block:22px}.journal-article p{font-size:16px;line-height:1.8}}
+@media(max-width:450px){.contribution-nav{gap:4px 20px;margin:20px 0}.contribution-filters{grid-template-columns:1fr}.contribution-baseline{padding:18px}.draft-actions{display:grid;grid-template-columns:1fr 1fr}.draft-actions .btn-ghost{width:100%;padding-inline:10px}.draft-actions a{grid-column:1/-1}.draft-submit{padding:18px}.contribution-routes>li{padding:17px}.journal-entry h2{font-size:24px}.journal-latest{padding:18px}.journal-dek{font-size:16px}}

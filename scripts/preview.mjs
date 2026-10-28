@@ -22,7 +22,7 @@ http.createServer(async (request, response) => {
       const name = previewUrl.pathname.split('/')[2];
       if (!sizes[name]) {response.writeHead(404); response.end(); return;}
       const [width, height, scale] = sizes[name];
-      const allowed = ['/', '/research', '/methods', '/contribute', '/questions', '/questions/LA-M001', '/findings/ht34', '/findings/ht31', '/findings/capacity', '/findings/akrotiri', '/findings/cord-function', '/release', '/privacy', '/discussion'];
+      const allowed = ['/', '/research', '/methods', '/contribute', '/questions', '/questions/LA-M001', '/findings/ht34', '/findings/ht31', '/findings/capacity', '/findings/akrotiri', '/findings/cord-function', '/release', '/privacy', '/discussion', '/journal', '/journal/c044', '/journal/c043', '/journal/c042', '/contributions'];
       const page = allowed.includes(previewUrl.searchParams.get('page')) ? previewUrl.searchParams.get('page') : '/';
       const noScript = previewUrl.searchParams.has('nojs');
       response.writeHead(200, {'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store'});

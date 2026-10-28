@@ -16,9 +16,19 @@ Start with [CURRENT_STATE.md](CURRENT_STATE.md), [the full public baseline](rese
 
 The site uses a compact research-document layout with a contents index, current assessment, evidence/result/limitation table, source references and an optional HT34 reading-and-scope comparison. Typography, navigation, findings, methods and contribution pages follow the same restrained system. The research page, methods/glossary, contribution brief and source release provide progressively deeper reading.
 
-The original eight tasks are archived. Original prompt and input bytes are preserved. Historical discussions, submissions and release of existing claims remain available. New claims and renewals are closed; current ideas, sources and corrections use the existing reviewed contribution flow.
+The original eight tasks are archived. Original prompt and input bytes are preserved. Historical discussions, submissions and release of existing claims remain available. New claims and renewals are closed; source notes, corrections, reproductions, independent reviews and evidence proposals use the open contribution hub. Everyone can prepare a portable draft before choosing on-site submission or GitHub.
 
-The site uses the existing Cloudflare Worker, managed ChatGPT sign-in and managed D1 database. No database migration is introduced by this revision. Private identity fields remain out of public responses and exports.
+The site uses the existing Cloudflare Worker, managed ChatGPT sign-in and managed D1 database. An additive `contribution_records` table explicitly links new submissions with their discussion, provenance, reuse permission and related work. Existing research, submissions and discussions are preserved; old links are not guessed. Private identity fields remain out of public responses and exports. Public visibility inherits moderation of linked records and ancestors.
+
+## Journal and collaboration
+
+`/journal` offers readable notes from the reviewed C042–C044 record, each connected to its existing finding discussion. `/journal/feed.xml` is a public RSS feed of the editorial notes. Campaign documentation dates are labeled separately from publication dates. `/discussion` remains the open forum.
+
+`/contribute` is an account-free draft workspace with local browser autosave, Markdown/JSON downloads and a prefilled GitHub issue route. Posting here requires sign-in and a public handle. `/contributions` lists new, explicitly linked public records with review status, evidence, replies and independent reviews. The site and GitHub are separate channels with explicit cross-links, not automatic synchronization.
+
+Public reads use `/api/contributions`, `/api/contributions/export` and `/api/contributions/:id`; `/api/contributions/schema` describes the version 1 export envelope. List/export responses accept `type`, `status`, `q`, `related`, `limit` and `cursor`. Follow `nextCursor` until null to retrieve all pages. Public JSON allows cross-origin reads. It excludes hidden material and private authentication identities, respects each contribution’s reuse permission and does not relicense cited third-party sources. The existing `/api/export` remains steward-only.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [CONTRIBUTION_TEMPLATE.md](CONTRIBUTION_TEMPLATE.md).
 
 ## Build and verification
 
