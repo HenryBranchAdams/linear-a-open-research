@@ -14,7 +14,7 @@ Start with [CURRENT_STATE.md](CURRENT_STATE.md), [the full public baseline](rese
 
 ## Site
 
-The opening page introduces the script and mission, shows the latest HT31 and capacity results, preserves the HT34 reading-and-meaning demonstration, and explains the current limits and corrections. The research page, methods/glossary, contribution brief and source release provide progressively deeper reading.
+The site uses a compact research-document layout with a contents index, current assessment, evidence/result/limitation table, source references and an optional HT34 reading-and-scope comparison. Typography, navigation, findings, methods and contribution pages follow the same restrained system. The research page, methods/glossary, contribution brief and source release provide progressively deeper reading.
 
 The original eight tasks are archived. Original prompt and input bytes are preserved. Historical discussions, submissions and release of existing claims remain available. New claims and renewals are closed; current ideas, sources and corrections use the existing reviewed contribution flow.
 
@@ -26,7 +26,7 @@ Requires Node.js 24 and Python 3. Run `python3 scripts/verify-public-research.py
 
 `scripts/build.mjs` packages the Worker, self-hosted image/font assets, public source release and eight archival input packets. The packets retain original prompts and inputs but are repackaged with the current-state notice; they are not byte-identical to original packets.
 
-`src/editorial.js` contains the public narrative. `content/findings.json` stores current finding dispositions. `research/current/` contains the full public reference packet. `DESIGN.md` records the tasteskill v2 direction and validation approach.
+`src/editorial.js` contains the public narrative. `content/findings.json` stores current finding dispositions. `research/current/` contains the full public reference packet. `DESIGN.md` records the current research-archive design and validation approach.
 
 Research prose is CC BY 4.0. Original datasets, publications, photos and fonts retain their stated licenses. See [LICENSES.md](LICENSES.md). The first site's root documents remain under research/publication-history/2026-10-02/ as historical records.
 

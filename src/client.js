@@ -66,47 +66,6 @@ if (mobileMenu) {
   mobileMenu.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {mobileMenu.open = false;}));
 }
 
-// Motion enhances an already readable page. No content waits for this code.
-// Entrances start only when observed, and never run again on re-entry.
-const motionPreference = window.matchMedia('(prefers-reduced-motion: reduce)');
-if (!motionPreference.matches && 'IntersectionObserver' in window) {
-  const hero = document.querySelector('.hero');
-  if (hero) hero.classList.add('has-entrance');
-  const arrivals = [...document.querySelectorAll('[data-arrive]')];
-  const observer = new IntersectionObserver(entries => {
-    let order = 0;
-    for (const entry of entries) {
-      if (!entry.isIntersecting) continue;
-      const item = entry.target;
-      observer.unobserve(item);
-      if (motionPreference.matches) continue;
-      item.classList.add('arrived', `arrival-delay-${order++ % 4}`);
-      item.addEventListener('animationend', () => item.classList.add('arrival-complete'), {once: true});
-    }
-  }, {threshold: 0.12, rootMargin: '0px 0px -28px 0px'});
-  arrivals.forEach(item => observer.observe(item));
-
-  const photograph = document.querySelector('.masthead-photo');
-  let photographVisible = false;
-  const updateDrift = () => photograph?.classList.toggle('photo-running', photographVisible && document.visibilityState === 'visible' && !motionPreference.matches);
-  const photographObserver = new IntersectionObserver(entries => {
-    photographVisible = entries.some(entry => entry.isIntersecting);
-    updateDrift();
-  }, {threshold: 0.05});
-  if (photograph) {
-    photograph.classList.add('photo-drift');
-    photographObserver.observe(photograph);
-    document.addEventListener('visibilitychange', updateDrift);
-  }
-  motionPreference.addEventListener('change', event => {
-    if (!event.matches) return;
-    hero?.classList.remove('has-entrance');
-    arrivals.forEach(item => item.classList.add('arrival-complete'));
-    observer.disconnect();
-    photographObserver.disconnect();
-    photograph?.classList.remove('photo-drift', 'photo-running');
-    document.removeEventListener('visibilitychange', updateDrift);
-  });
-}
+// The research record is static. Controls provide direct feedback without scroll or entrance animation.
 
 if(document.modelContext?.registerTool){const lifecycle=new AbortController();window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});for(const tool of [{name:'get_research_prompt',description:'Read the unchanged historical prompt on an archived research-task page. It predates the current baseline and does not authorize new work or create a claim.',inputSchema:{type:'object',properties:{},additionalProperties:false},annotations:{readOnlyHint:true,untrustedContentHint:false},execute(input){if(!input||typeof input!=='object'||Object.keys(input).length)throw new Error('No arguments accepted.');let prompt=document.querySelector('#prompt');if(!prompt)throw new Error('Open a research-question page first.');return {prompt:prompt.value,archived:true,currentBrief:'/contribute',claimed:false};}},{name:'filter_research_questions',description:'Filter the historical research-task archive by type, original effort, and archival status.',inputSchema:{type:'object',properties:{kind:{type:'string'},effort:{type:'string'},availability:{type:'string'}},additionalProperties:false},annotations:{readOnlyHint:true,untrustedContentHint:false},execute(input){if(!input||Object.keys(input).some(x=>!['kind','effort','availability'].includes(x)))throw new Error('Invalid filters.');for(const [key,value]of Object.entries(input)){const el=document.querySelector('#'+key);if(!el||![...el.options].some(o=>o.value===value))throw new Error('Unknown filter value.');}for(const [key,value]of Object.entries(input))document.querySelector('#'+key).value=value;filters();return {visible:[...document.querySelectorAll('[data-question]')].filter(el=>!el.hidden).map(el=>el.dataset.id)};}}])try{Promise.resolve(document.modelContext.registerTool(tool,{signal:lifecycle.signal})).catch(()=>{});}catch{}}
